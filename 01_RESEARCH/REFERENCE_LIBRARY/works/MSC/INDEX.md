@@ -17,3 +17,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX04 — economía y agencia
 [Análisis](ECONOMY_AND_AGENCY_EXCERPT_ANALYSIS.md): cuarta muestra parcial, recompensa, encargo comercial, plazos, restricción de nivel, mapa funcional, conflicto de valores y propuesta de cooperación. Ocho patrones y tres bloques originales; cero capítulos completos certificados. La muerte del jefe se informa, pero no se muestra su ejecución.
+
+## MSC-EX05 — subasta y valoración
+[Análisis](AUCTION_EXCERPT_ANALYSIS.md): quinta muestra parcial, mercado de alquileres y cartas, predicción de Qi, comparación de atributos, valor estético y aspiración comercial. Ocho entradas y tres bloques originales. Solo se observan dos adjudicaciones de cartas; cero capítulos completos certificados.

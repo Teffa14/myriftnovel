@@ -12,3 +12,6 @@
 
 ## Extensión MSC-EX04
 [MSC_EX04_PATTERNS.md](MSC_EX04_PATTERNS.md): 8 patrones y 3 bloques de economía, plazos, progresión, worldbuilding y fricción interpersonal. Total acumulado: 68 entradas de patrones y 26 bloques (incluyen mecanismos emparentados, no técnicas independientes certificadas). Cuatro muestras parciales MSC, sin validación estadística.
+
+## Extensión MSC-EX05
+[MSC_EX05_PATTERNS.md](MSC_EX05_PATTERNS.md): 8 entradas y 3 bloques originales de mercado, escala, valoración, experiencia demostrada y progreso sin adquisición. Total acumulado: 76 entradas de patrones y 29 bloques; incluyen mecanismos relacionados. Cinco muestras parciales MSC.

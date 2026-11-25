@@ -18,3 +18,6 @@ Tres muestras parciales distintas analizadas cualitativamente; cero capítulos c
 
 ## MSC-EX04
 Cuatro muestras parciales distintas analizadas cualitativamente; cero capítulos completos certificados. Cuarta: resultado informado de jefe, economía, pedido de cliente, restricciones de acceso, ecosistema y agencia interpersonal. Ocho patrones candidatos y tres bloques originales nuevos; total acumulado 68 entradas y 26 bloques, con mecanismos relacionados. No se ejecutó Python sobre MSC ni se verificó edición. No se observó ejecución del jefe, deckbuilding competitivo ni torneo de cartas en esta muestra.
+
+## MSC-EX05
+Cinco muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Quinta: subasta, valoración, escasez, aspiración y mentoría mediante predicción. Ocho entradas y tres bloques originales nuevos; total acumulado 76 entradas y 29 bloques. No se ejecutó Python sobre MSC, edición sin confirmar. La muestra no incluye torneo PvP ni deckbuilding competitivo.
