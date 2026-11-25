@@ -31,3 +31,6 @@ Bajó la carta que tenía entre los dedos y anunció el final de su turno.
 Julián dejó de sonreír.
 
 Nota: el fragmento es un ejercicio literario, no una partida validada ni una decisión sobre nombres definitivos.
+
+## Calibración experimental TKA
+Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/TRANSFER_RULES.md. Rango inicial 1500–2100 palabras como propuesta; composición según función social/competitiva; foco por escena, exposición ligada a decisiones, cierres variados y consecuencias humanas. Pendiente corroboración con otras obras y lectores.

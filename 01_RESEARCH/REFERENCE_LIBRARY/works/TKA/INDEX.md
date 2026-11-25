@@ -5,3 +5,6 @@ Objetivo de investigación (hipótesis): competencia, organizaciones, progresió
 Capítulos analizados directamente: 1; ver CH001.md.
 Próxima unidad: capítulo inicial o primera unidad narrativa de una edición autorizada; registrar identificador exacto antes de iniciar. Después seleccionar apertura, primera derrota, punto medio, crisis y cierre de arco. No inventar números de capítulos ni contenido.
 Preguntas: ¿qué desea el personaje?, ¿cómo se transmite información?, ¿qué cambia?, ¿cómo se prepara y resuelve el conflicto?, ¿qué mecanismo es transferible sin copiar trama, voz, personajes ni frases?
+
+## EPUB aportado
+1728 archivos narrativos procesados cuantitativamente; 27 archivos narrativos con fragmentos examinados y nota final (véase lista exacta en DISTILLATION.md). Cero fichas integrales certificadas. Ver DISTILLATION.md, TRANSFER_RULES.md, METHOD.md y chapter_metrics.csv. Integridad de numeración pendiente.
