@@ -42,3 +42,6 @@
 
 ## CFA-V01
 [CFA_V01_PATTERNS.md](CFA_V01_PATTERNS.md): eight entries C01–C08 and four blocks CB01–CB04. Totals 186 entries and 73 blocks, four works. Full narrative metrics, CH01 direct full reading and sampled remainder. No independent certification.
+
+## CFA-V01 deep pass
+[CFA_V01_DEEP_PATTERNS.md](CFA_V01_DEEP_PATTERNS.md): C09–C12, CB05–CB06. Four candidate refinements and two original blocks. Total 190 entries, 75 blocks, four works. See CFA deep analysis for coverage and audit.

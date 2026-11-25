@@ -1,0 +1,17 @@
+unit	paragraph	automatic_flags	observed_function	assessment
+prologue	98	temporal	sudden reversal/action consequence	partial: misses conflict
+prologue	14	unclassified	setting and scale of conflict	missed
+chapter1	7	causal;question	self-questioning; discourse transition	partial: causal marker misleading
+chapter1	78	unclassified	pause and atmosphere	missed
+chapter2	82	cognition;decision	selection of restaurant	compatible
+chapter2	30	unclassified	recollection and inquiry	missed
+chapter3	69	uncertainty;contrast;conflict	classification of cast and tentative judgment	partial: conflict mention not active combat
+chapter3	51	unclassified	emotional belief update	missed
+chapter4	887	conflict	intention to defend another's honor	partial: social/decision context missing
+chapter4	215	unclassified	fantasy action and consequence	missed
+chapter5	224	causal;conflict;resources;quoted_speech_proxy	enthusiastic technical praise	partial: literal markers not causal analysis
+chapter5	38	unclassified	preparation to confront danger	missed
+chapter6	698	quoted_speech_proxy	brief direct address	compatible
+chapter6	351	unclassified	discourse transition	missed
+chapter7	21	quoted_speech_proxy	interrupted speech and movement	partial: action not captured
+chapter7	6	unclassified	new character observation	missed

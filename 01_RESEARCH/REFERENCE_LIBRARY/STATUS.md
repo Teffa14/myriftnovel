@@ -48,3 +48,6 @@ Third work; first supplied unit labeled Chapter 1. Python executed on mounted fi
 
 ## CFA-V01
 Fourth work, 17 narrative XHTML files grouped into prologue and seven chapters. 79,988 tokens and 2,968 paragraphs processed quantitatively. CH01 fully read, remaining seven units sampled; zero chapter-certified because formal independent review gates not completed. Eight candidate entries, four original blocks; total 186 entries and 73 blocks across four works, not independent mechanisms. No POS or reader tests; no original text stored.
+
+## CFA-V01 deep contextual pass
+Complete automatic coverage of 2,968 paragraphs, 79,988 tokens, 61 explicit separator blocks, 18 exploratory clusters; 2,525 paragraphs flagged, 443 unclassified. Sampled qualitative function review across all 61 blocks; eight flagged and eight unclassified paragraphs audited. No complete human semantic review; no chapter certification. 4 candidate entries and 2 blocks added, total 190 entries and 75 blocks across four works. Archive has exact blob verification, no original prose.

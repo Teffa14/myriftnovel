@@ -57,3 +57,5 @@ EX16–EX18: use MSC_EX16_18_PATTERNS.md. Preserve gross/net and reserve distinc
 GED-CH01: consult GED_CH01_PATTERNS.md. Give speakers independent goals and registers; humor may emerge from formal critique, literal interpretation, precise consequence and reaction. Preserve dignity and POV; convert social friction to actions and state changes. Technical hypotheses need testing. Do not reproduce distinctive jokes or fantasy premise.
 
 CFA-V01: use C01–C08 to distinguish past dominance from current matchup, perception from intent, competence from stereotypes and feasible action from collateral costs. Preserve POV; avoid artificial misunderstanding, coercion and unsupported superiority. Validate actual games with legal replay.
+
+CFA deep pass: use C09–C12 for anchored retrospective explanations, evidence-driven allocation, parallel response ordering and backstory at pressure points. Record chronology, communication, resource costs and POV; automatic corpus markers are not editorial instructions.
