@@ -65,5 +65,78 @@
     "The_Last_Draw_visual_accuracy_audit.json",
     "visual_audit.py"
   ],
-  "rules": "Retrieve exact originals before creating new art; preserve visual identity. Narrative canon prevails over promotional additions. No new story facts are approved merely by saving art. Rights clearance pending; no public image distribution implied."
+  "rules": "Retrieve exact originals before creating new art; preserve visual identity. Narrative canon prevails over promotional additions. No new story facts are approved merely by saving art. Rights clearance pending; no public image distribution implied.",
+  "alternate_collections": {
+    "thirst_traps_v1": {
+      "version": 1,
+      "collection": "Thirst Traps v1",
+      "status": "author_authorized_saved_alternate_visual_references",
+      "date": "2026-11-25",
+      "folder": "/The Last Draw - Private Archive/Thirst Traps v1",
+      "archive": "/The Last Draw - Private Archive/Thirst Traps v1/The_Last_Draw_Thirst_Traps_v1.zip",
+      "assets": [
+        {
+          "id": "P01",
+          "name": "Nicolas Vega",
+          "filename": "Nicolas Vega_ Neon Arcane Charmer-1.png",
+          "sha256": "4e4bf1caa483e9351aa93286b010589fd82f9af49c955ec941142c0da766a841",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3789891,
+          "role": "alternate promotional fan-service artwork"
+        },
+        {
+          "id": "P05",
+          "name": "Marcus Bell",
+          "filename": "Neon Throne_ Marcus Bell-6.png",
+          "sha256": "46ab71928428cd045b24b0fe48e9ec8e551ab654b663817bd1ad2deed3208cc8",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3884102,
+          "role": "alternate promotional fan-service artwork"
+        },
+        {
+          "id": "P08",
+          "name": "Lucia Vega",
+          "filename": "Lucia Vega_ Neon Arcana నగరscape-5.png",
+          "sha256": "418a7698a370de4fb5037f30ae5945136238ff039e563d2471bcda29332de40a",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3881398,
+          "role": "alternate promotional fan-service artwork"
+        },
+        {
+          "id": "P02",
+          "name": "June Park",
+          "filename": "June Park_ Neon City Muse-4.png",
+          "sha256": "cae823b45e47bf23480c76c32e529c191b7035d42b5a784d2990537f9feb4d1f",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3828347,
+          "role": "alternate promotional fan-service artwork"
+        },
+        {
+          "id": "P03",
+          "name": "Maya Serrano",
+          "filename": "Maya Serrano_ Neon Throne Reveal-3.png",
+          "sha256": "f6b1a88ecdb65dfaa3737fe6c7e9f24319ee568d1c7c9e949f0ef8419cc4be4f",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3906986,
+          "role": "alternate promotional fan-service artwork"
+        },
+        {
+          "id": "P04",
+          "name": "Elias Brooks",
+          "filename": "Neon Elias Brooks Character Poster-2.png",
+          "sha256": "84dde73be760a5f0b8ecf8bbcafeb592fcf3858ce5352d758e2040041f03f08a",
+          "width": 1055,
+          "height": 1491,
+          "bytes": 3868076,
+          "role": "alternate promotional fan-service artwork"
+        }
+      ],
+      "policy": "Preserve primary references. Promotional poses, wardrobe, accessories, transient conditions and stylized effects do not add narrative canon. Rights clearance pending."
+    }
+  }
 }
