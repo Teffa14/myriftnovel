@@ -8,3 +8,6 @@ Preguntas: ¿qué desea el personaje?, ¿cómo se transmite información?, ¿qu�
 
 ## MSC-EX01 — muestra aportada
 Se analizó directamente un fragmento inicial en inglés (capítulo, edición y traductor sin confirmar). Ver [OPENING_EXCERPT_ANALYSIS.md](OPENING_EXCERPT_ANALYSIS.md). Una muestra parcial, cero capítulos completos certificados. Ocho patrones y tres bloques de transferencia originales en la gramática narrativa. No hay partidas ni deckbuilding en el fragmento; esa línea sigue pendiente.
+
+## MSC-EX02 — muestra de tutorial y cartas
+[Análisis](TUTORIAL_EXCERPT_ANALYSIS.md): segunda muestra parcial, ingreso al juego, progresión, fichas de cartas, recursos e inicio de combate. No incluye resolución, deckbuilding competitivo ni metagame. Diez patrones y cuatro bloques originales adicionales. Capítulos completos certificados: 0.

@@ -9,3 +9,6 @@ Procesamiento de los 1728 archivos narrativos: léxico, POS, voz, comillas, tran
 
 ## Actualizaciones
 TKA: análisis contextual 1728 archivos, 14069 candidatos, 28 auditados manualmente; cero revisiones críticas integrales certificadas. MSC: 1 muestra inicial parcial leída cualitativamente, cero capítulos completos certificados, 8 mecanismos y 3 bloques originales; sin análisis de partidas. Gramática acumulada: 40 patrones y 15 bloques. No se ha analizado toda MSC ni se ha identificado edición exacta.
+
+## MSC-EX02
+Dos muestras parciales distintas leídas cualitativamente; ninguna unidad completa certificada. Segunda muestra: tutorial, roles de cartas, economía de progresión, restricción de recursos, acción inicial sin resultado. 10 patrones y 4 bloques añadidos; total gramática: 50 patrones y 19 bloques. No se ha ejecutado Python sobre MSC ni confirmado la edición o capítulos exactos.

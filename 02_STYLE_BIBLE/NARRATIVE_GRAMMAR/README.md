@@ -3,3 +3,6 @@
 
 ## Extensión MSC-EX01
 [MSC_EX01_PATTERNS.md](MSC_EX01_PATTERNS.md): 8 mecanismos candidatos y 3 bloques originales adicionales. Total acumulado: 40 patrones y 15 bloques. Fuente: muestra parcial, sin validación estadística ni lectores. No contiene jugadas validadas.
+
+## Extensión MSC-EX02
+[MSC_EX02_PATTERNS.md](MSC_EX02_PATTERNS.md): 10 patrones y 4 bloques de explicación técnica, roles, analogía, restricciones, testing y aplicación. Total acumulado: 50 patrones y 19 bloques. Dos muestras parciales MSC, sin validación estadística.

@@ -31,3 +31,5 @@ A: la decisión tiene causa previa. B: cada participante tiene información y ag
 La gramática se ampliará con corpus independientes y feedback de lectores. No sustituye la revisión semántica de 1728 capítulos de TKA, que sigue en 0 certificados.
 
 Extensión MSC: consultar MSC_EX01_PATTERNS.md para aperturas con anomalía, hipótesis refutables, humor por contraste, exposición por preguntas, deducción y revelación. Verificar evidencias y distinguir inferencia de conocimiento; no imponer viaje temporal ni replicar la trama fuente.
+
+Extensión MSC-EX02: consultar MSC_EX02_PATTERNS.md. Seleccionar información según decisión, separar dato, interpretación e hipótesis, comprobar coste y estado legal; validar resultados mediante pruebas. No trasladar progresión de videojuego ni fichas extensas por defecto.
