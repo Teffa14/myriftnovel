@@ -1,5 +1,5 @@
-# ONE POINT SHORT — RIFT NOVEL
-Fecha: 25 de noviembre de 2026. Estado: planificación preliminar, no canon aprobado. Título de trabajo: One Point Short (A un punto de ganar).
+# THE FINAL DRAW — RIFT NOVEL
+Fecha: 25 de noviembre de 2026. Estado: planificación preliminar. Título de trabajo elegido por el autor: The Final Draw. Subtítulo de posicionamiento propuesto: A Competitive TCG Novel. Los Ángeles es la recomendación editorial de ambientación, aún no aprobada. Rosario deja de ser la opción prioritaria.
 
 Objetivo: desarrollar una novela serial profesional sobre jugadores competitivos de TCG, inicialmente concebida alrededor de Riftbound, con profundidad estratégica, psicología, relaciones, progresión deportiva y potencial comercial. Antes de producir capítulos, construir un corpus de técnicas narrativas, una biblia de estilo, una arquitectura de tramas, un sistema de continuidad y un proceso editorial verificable. Crear una voz original; no reproducir prosa ni tramas de las referencias.
 
