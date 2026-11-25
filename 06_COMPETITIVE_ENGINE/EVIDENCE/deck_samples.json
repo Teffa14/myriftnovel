@@ -1,0 +1,46 @@
+[
+  {
+    "id": "BOLOGNA-20261121-AZIR-01",
+    "legend": "Azir, Emperor of the Sands",
+    "chosen": "Azir, Sovereign",
+    "event": "Demacia League Bologna",
+    "date": "2026-11-21",
+    "field_reported": 406,
+    "placement": 1,
+    "record": "9-1-0",
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+    "totals": {
+      "legend": 1,
+      "chosen": 1,
+      "runes": 12,
+      "battlefields": 3,
+      "main_excluding_chosen": 39,
+      "sideboard": 10
+    },
+    "identity_unresolved": [],
+    "standard_ban_name_matches": [],
+    "validation": "section counts and snapshot identity lookup; name-based ban screen only, no legality certification; event predates formal ban effective Nov 23; exact event rules and all interactions pending"
+  },
+  {
+    "id": "BOLOGNA-20261121-REKSAI-04",
+    "legend": "Rek'Sai, Void Burrower",
+    "chosen": "Rek'Sai, Breacher",
+    "event": "Demacia League Bologna",
+    "date": "2026-11-21",
+    "field_reported": 406,
+    "placement": 4,
+    "record": "8-0-2",
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+    "totals": {
+      "legend": 1,
+      "chosen": 1,
+      "runes": 12,
+      "battlefields": 3,
+      "main_excluding_chosen": 39,
+      "sideboard": 10
+    },
+    "identity_unresolved": [],
+    "standard_ban_name_matches": [],
+    "validation": "section counts and snapshot identity lookup; name-based ban screen only, no legality certification; event predates formal ban effective Nov 23; exact event rules and all interactions pending"
+  }
+]

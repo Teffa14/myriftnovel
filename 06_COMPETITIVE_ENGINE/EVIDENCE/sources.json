@@ -1,0 +1,98 @@
+[
+  {
+    "id": "official_rules",
+    "url": "https://playriftbound.com/en-us/rules-hub/",
+    "scope": "Rules, errata, tournament rules",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "official_faq",
+    "url": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "scope": "Radiance interactions",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "official_bans",
+    "url": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
+    "scope": "Ban history and strategic rationale",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "deck_results",
+    "url": "https://riftbound.org/meta/decks",
+    "scope": "Tournament lists and deck price histories",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "tournaments",
+    "url": "https://tcgcontender.com/riftbound/tournaments",
+    "scope": "Independent event discovery",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "vod_index",
+    "url": "https://www.riftvods.com/browse",
+    "scope": "1,064 indexed VODs at access; not downloaded",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "commentary",
+    "url": "https://anzid.gg/videos/",
+    "scope": "Matchup, sideboarding and list-building videos",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "loops",
+    "url": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "scope": "17 described loops; seven marked legal by publisher on Nov 13, not independently recertified",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "prices",
+    "url": "https://runeweave.com/prices",
+    "scope": "1,370 priced printings reported Nov 25, not all extracted",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "price_history",
+    "url": "https://riftbench.com/",
+    "scope": "TCGplayer benchmark discovery",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "price_analysis",
+    "url": "https://tcgmeta.io/news/riftbound-bans-one-week-on-baited-hook-zhonyas-hourglass-showstopper-prices",
+    "scope": "Historical ban-related price movements",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "bulk_api",
+    "url": "https://rifthunt.com/api/",
+    "scope": "Documented bulk exports, card rulings and price history; not ingested",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "catalog_api",
+    "url": "https://openrift.app/developers",
+    "scope": "Catalog, rules and price API documentation; not ingested",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "history_api",
+    "url": "https://riftstorm.gg/riftbound-api/docs",
+    "scope": "Price histories; not ingested",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "learn",
+    "url": "https://riftbound.org/learn",
+    "scope": "Rules and deck strategy reference",
+    "checked": "2026-11-25"
+  },
+  {
+    "id": "policy",
+    "url": "https://developer.riotgames.com/docs/riftbound",
+    "scope": "Review restrictions on retaining/publishing meta-defining data before automated ingestion",
+    "checked": "2026-11-25"
+  }
+]

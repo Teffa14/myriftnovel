@@ -1,0 +1,1027 @@
+[
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "legend",
+    "code": "SFD-197",
+    "quantity": 1,
+    "card_id": "sfd-197-221",
+    "name": "Emperor of the Sands",
+    "card_type": "Legend",
+    "domains": [
+      "Calm",
+      "Order"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "chosen",
+    "code": "SFD-177",
+    "quantity": 1,
+    "card_id": "sfd-177-221",
+    "name": "Azir, Sovereign",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": null,
+    "might": 4,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "runes",
+    "code": "OGN-042",
+    "quantity": 7,
+    "card_id": "ogn-042-298",
+    "name": "Calm Rune",
+    "card_type": "Rune",
+    "domains": [
+      "Calm"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "runes",
+    "code": "OGN-214",
+    "quantity": 5,
+    "card_id": "ogn-214-298",
+    "name": "Order Rune",
+    "card_type": "Rune",
+    "domains": [
+      "Order"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "battlefields",
+    "code": "SFD-208",
+    "quantity": 1,
+    "card_id": "sfd-208-221",
+    "name": "Forge of the Fluft",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "battlefields",
+    "code": "SFD-210",
+    "quantity": 1,
+    "card_id": "sfd-210-221",
+    "name": "Hall of Legends",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "battlefields",
+    "code": "OGN-294",
+    "quantity": 1,
+    "card_id": "ogn-294-298",
+    "name": "Trifarian War Camp",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-033",
+    "quantity": 3,
+    "card_id": "sfd-033-221",
+    "name": "Doran's Shield",
+    "card_type": "Gear",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 1,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-153",
+    "quantity": 3,
+    "card_id": "sfd-153-221",
+    "name": "Eye of the Herald",
+    "card_type": "Gear",
+    "domains": [
+      "Order"
+    ],
+    "energy": 1,
+    "power": null,
+    "might": 0,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "UNL-039",
+    "quantity": 3,
+    "card_id": "unl-039-219",
+    "name": "Soul Sword",
+    "card_type": "Gear",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 1,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-045",
+    "quantity": 3,
+    "card_id": "ogn-045-298",
+    "name": "Defy",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 1,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-042",
+    "quantity": 3,
+    "card_id": "sfd-042-221",
+    "name": "Brutalizer",
+    "card_type": "Gear",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "VEN-027",
+    "quantity": 1,
+    "card_id": "ven-027-166",
+    "name": "Hand Hammer",
+    "card_type": "Gear",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-032",
+    "quantity": 2,
+    "card_id": "rad-032-167",
+    "name": "Battle Preparations",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-163",
+    "quantity": 2,
+    "card_id": "sfd-163-221",
+    "name": "Deathgrip",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-058",
+    "quantity": 3,
+    "card_id": "ogn-058-298",
+    "name": "Discipline",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-213",
+    "quantity": 2,
+    "card_id": "ogn-213-298",
+    "name": "Hidden Blade",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-224",
+    "quantity": 1,
+    "card_id": "ogn-224-298",
+    "name": "Salvage",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "UNL-042",
+    "quantity": 2,
+    "card_id": "unl-042-219",
+    "name": "Back Off",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-154",
+    "quantity": 3,
+    "card_id": "sfd-154-221",
+    "name": "Guards!",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "VEN-135",
+    "quantity": 1,
+    "card_id": "ven-135-166",
+    "name": "Kennen, Keeper of Balance",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 2,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-161",
+    "quantity": 3,
+    "card_id": "sfd-161-221",
+    "name": "B.F. Sword",
+    "card_type": "Gear",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "UNL-176",
+    "quantity": 1,
+    "card_id": "unl-176-219",
+    "name": "Vi, Peacekeeper",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 1,
+    "might": 5,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-198",
+    "quantity": 3,
+    "card_id": "sfd-198-221",
+    "name": "Arise!",
+    "card_type": "Spell",
+    "domains": [
+      "Calm",
+      "Order"
+    ],
+    "energy": 6,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "SFD-032",
+    "quantity": 1,
+    "card_id": "sfd-032-221",
+    "name": "Disarming Rake",
+    "card_type": "Unit",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 1,
+    "might": 2,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "UNL-176",
+    "quantity": 1,
+    "card_id": "unl-176-219",
+    "name": "Vi, Peacekeeper",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 1,
+    "might": 5,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "OGN-043",
+    "quantity": 2,
+    "card_id": "ogn-043-298",
+    "name": "Charm",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 1,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "VEN-040",
+    "quantity": 2,
+    "card_id": "ven-040-166",
+    "name": "Decree of Focus",
+    "card_type": "Spell",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 1,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "RAD-041",
+    "quantity": 1,
+    "card_id": "rad-041-167",
+    "name": "Hush",
+    "card_type": null,
+    "domains": [],
+    "energy": 1,
+    "power": 2,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "VEN-131",
+    "quantity": 2,
+    "card_id": "ven-131-166",
+    "name": "Decree of Unity",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-AZIR-01",
+    "zone": "sideboard",
+    "code": "OGN-224",
+    "quantity": 1,
+    "card_id": "ogn-224-298",
+    "name": "Salvage",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "legend",
+    "code": "SFD-187",
+    "quantity": 1,
+    "card_id": "sfd-187-221",
+    "name": "Void Burrower",
+    "card_type": "Legend",
+    "domains": [
+      "Fury",
+      "Order"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "chosen",
+    "code": "SFD-029",
+    "quantity": 1,
+    "card_id": "sfd-029-221",
+    "name": "Rek'Sai, Breacher",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "runes",
+    "code": "OGN-007",
+    "quantity": 7,
+    "card_id": "ogn-007-298",
+    "name": "Fury Rune",
+    "card_type": "Rune",
+    "domains": [
+      "Fury"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "runes",
+    "code": "OGN-214",
+    "quantity": 5,
+    "card_id": "ogn-214-298",
+    "name": "Order Rune",
+    "card_type": "Rune",
+    "domains": [
+      "Order"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "battlefields",
+    "code": "UNL-210",
+    "quantity": 1,
+    "card_id": "unl-210-219",
+    "name": "Forbidding Waste",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "battlefields",
+    "code": "RAD-163",
+    "quantity": 1,
+    "card_id": "rad-163-167",
+    "name": "Hunters' Circle",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "battlefields",
+    "code": "OGN-291",
+    "quantity": 1,
+    "card_id": "ogn-291-298",
+    "name": "The Candlelit Sanctum",
+    "card_type": "Battlefield",
+    "domains": [
+      "Colorless"
+    ],
+    "energy": null,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-116",
+    "quantity": 3,
+    "card_id": "rad-116-167",
+    "name": "Concert Poster",
+    "card_type": "Gear",
+    "domains": [
+      "Order"
+    ],
+    "energy": 1,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-022",
+    "quantity": 1,
+    "card_id": "sfd-022-221",
+    "name": "Long Sword",
+    "card_type": "Gear",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": 2,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-209",
+    "quantity": 3,
+    "card_id": "ogn-209-298",
+    "name": "Cull the Weak",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-029",
+    "quantity": 3,
+    "card_id": "ogn-029-298",
+    "name": "Falling Star",
+    "card_type": "Spell",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 2,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "UNL-153",
+    "quantity": 3,
+    "card_id": "unl-153-219",
+    "name": "Carrion Dredger",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "UNL-002",
+    "quantity": 3,
+    "card_id": "unl-002-219",
+    "name": "Inferna",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-129",
+    "quantity": 3,
+    "card_id": "rad-129-167",
+    "name": "Trifarian Captain",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": 1,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-003",
+    "quantity": 3,
+    "card_id": "rad-003-167",
+    "name": "Bilgewater Tracker",
+    "card_type": "Unit",
+    "domains": [
+      "Body"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-211",
+    "quantity": 3,
+    "card_id": "ogn-211-298",
+    "name": "Faithful Manufactor",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 2,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-119",
+    "quantity": 1,
+    "card_id": "rad-119-167",
+    "name": "Hunting Dog",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-025",
+    "quantity": 2,
+    "card_id": "sfd-025-221",
+    "name": "Rengar, Pouncing",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 1,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "RAD-014",
+    "quantity": 3,
+    "card_id": "rad-014-167",
+    "name": "Shimmering Swimmer",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-012",
+    "quantity": 3,
+    "card_id": "ogn-012-298",
+    "name": "Noxus Hopeful",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": null,
+    "might": 4,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "OGN-221",
+    "quantity": 1,
+    "card_id": "ogn-221-298",
+    "name": "Imperial Decree",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 2,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-021",
+    "quantity": 1,
+    "card_id": "sfd-021-221",
+    "name": "Ferrous Forerunner",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 6,
+    "power": 1,
+    "might": 6,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "main_excluding_chosen",
+    "code": "SFD-175",
+    "quantity": 3,
+    "card_id": "sfd-175-221",
+    "name": "Undertitan",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 1,
+    "might": 5,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "UNL-021",
+    "quantity": 1,
+    "card_id": "unl-021-219",
+    "name": "Grim Apothecary",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "RAD-119",
+    "quantity": 1,
+    "card_id": "rad-119-167",
+    "name": "Hunting Dog",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "SFD-025",
+    "quantity": 1,
+    "card_id": "sfd-025-221",
+    "name": "Rengar, Pouncing",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 1,
+    "might": 3,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "SFD-021",
+    "quantity": 1,
+    "card_id": "sfd-021-221",
+    "name": "Ferrous Forerunner",
+    "card_type": "Unit",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 6,
+    "power": 1,
+    "might": 6,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "RAD-137",
+    "quantity": 1,
+    "card_id": "rad-137-167",
+    "name": "Mordekaiser, Dominating",
+    "card_type": "Unit",
+    "domains": [
+      "Order"
+    ],
+    "energy": 9,
+    "power": 2,
+    "might": 8,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "SFD-001",
+    "quantity": 1,
+    "card_id": "sfd-001-221",
+    "name": "Against the Odds",
+    "card_type": "Spell",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 2,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "OGN-224",
+    "quantity": 1,
+    "card_id": "ogn-224-298",
+    "name": "Salvage",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 2,
+    "power": 1,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "VEN-116",
+    "quantity": 1,
+    "card_id": "ven-116-166",
+    "name": "Dragon Form",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": null,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "OGN-221",
+    "quantity": 1,
+    "card_id": "ogn-221-298",
+    "name": "Imperial Decree",
+    "card_type": "Spell",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 2,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  },
+  {
+    "deck_id": "BOLOGNA-20261121-REKSAI-04",
+    "zone": "sideboard",
+    "code": "OGN-022",
+    "quantity": 1,
+    "card_id": "ogn-022-298",
+    "name": "Thermo Beam",
+    "card_type": "Spell",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 2,
+    "might": null,
+    "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "RADFAQ-1",
+    "interaction": "Kharox / Neeko, Blending In",
+    "result": "Borrowed Neeko does not inherit opponent's deckbuilding choices.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-2",
+    "interaction": "Mobilize / Seraphic Wyvern",
+    "result": "Extra channel event cannot satisfy the original spell's draw condition.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-3",
+    "interaction": "Catalyst of Aeons / Seraphic Wyvern",
+    "result": "Additional channel failure does not negate completed original channel.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-4",
+    "interaction": "Meticulous Restorationist / Mordekaiser",
+    "result": "Alternate unit cost can use applicable Mordekaiser power.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-5",
+    "interaction": "Atakhan / Mordekaiser",
+    "result": "A sacrifice paid later cannot supply power paid earlier.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-6",
+    "interaction": "Runeblade Anvil",
+    "result": "Permission expires at the relevant Ending Phase boundary.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-7",
+    "interaction": "Hunters' Circle / Baron Nashor",
+    "result": "Location-based discount determined before entry replacement.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-8",
+    "interaction": "Riven, the Exile / Baron Nashor",
+    "result": "Ready-entry effect can coexist with Baron Pit replacement.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-9",
+    "interaction": "Riven, Broken Blade",
+    "result": "Buff spending occurs on resolution; banned Nov 23.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-10",
+    "interaction": "Riven / Stellacorn Herder",
+    "result": "Exhaust trigger precedes move trigger; historical banned cards.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-11",
+    "interaction": "Gravity Field / Standard Move",
+    "result": "Unpayable movement cancels rather than leaving unit exhausted.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-12",
+    "interaction": "Charm / Gravity Field",
+    "result": "Payment depends on who performs movement.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-13",
+    "interaction": "Angler Wyrm / Gravity Field",
+    "result": "Opponent-directed movement requires the applicable payment.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-14",
+    "interaction": "Angler Wyrm / Hunker Down",
+    "result": "Choose a movable unit if one is available.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  },
+  {
+    "id": "RADFAQ-15",
+    "interaction": "Possession / Ekko, Revolutionary",
+    "result": "Activated return can retain controller in stated case.",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "date": "2026-10-26",
+    "status": "official FAQ paraphrase; consult exact premises before use"
+  }
+]

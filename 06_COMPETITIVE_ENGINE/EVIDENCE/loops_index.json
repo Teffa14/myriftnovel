@@ -1,0 +1,155 @@
+[
+  {
+    "id": "LOOP-01",
+    "domain": "Mind/Order",
+    "output": "Energy and Recruit tokens",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Ekko Recurrent family, historical only where required"
+  },
+  {
+    "id": "LOOP-02",
+    "domain": "Mind/Order",
+    "output": "Sprite tokens",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Ekko Recurrent family, historical only where required"
+  },
+  {
+    "id": "LOOP-03",
+    "domain": "Mind/Order",
+    "output": "Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Ekko Recurrent family, historical only where required"
+  },
+  {
+    "id": "LOOP-04",
+    "domain": "Mind/Order",
+    "output": "Points",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Ekko Recurrent family, historical only where required"
+  },
+  {
+    "id": "LOOP-05",
+    "domain": "Mind/Order",
+    "output": "Burnout points",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Ekko Recurrent family, historical only where required"
+  },
+  {
+    "id": "LOOP-06",
+    "domain": "Fury/Order",
+    "output": "Energy and Recruit tokens",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-07",
+    "domain": "Fury/Body",
+    "output": "Energy and Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-08",
+    "domain": "Calm/Mind",
+    "output": "Energy and Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-09",
+    "domain": "Fury/Mind",
+    "output": "Energy and Power (first variant)",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-10",
+    "domain": "Fury/Mind",
+    "output": "Energy and Power (second variant)",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-11",
+    "domain": "Fury/Calm",
+    "output": "Energy and Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-12",
+    "domain": "Fury/Calm",
+    "output": "Draws and Sand Soldier tokens",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-13",
+    "domain": "Mind/Body",
+    "output": "Energy and Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-14",
+    "domain": "Mind/Body",
+    "output": "Dragon Energy",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Dragon engine; inspect full prerequisites and resource closure"
+  },
+  {
+    "id": "LOOP-15",
+    "domain": "Mind/Body",
+    "output": "Dragon Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Dragon engine; inspect full prerequisites and resource closure"
+  },
+  {
+    "id": "LOOP-16",
+    "domain": "Mind/Chaos",
+    "output": "Energy and Power",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": null
+  },
+  {
+    "id": "LOOP-17",
+    "domain": "Order",
+    "output": "Mech tokens",
+    "source": "https://ruinrunner.com/articles/heading-to-the-known-loop/",
+    "published": "2026-11-13",
+    "status": "indexed; not individually adjudicated for 2026-11-28",
+    "note": "Viktor Leader, Heimerdinger Academy Instructor, Renata Glasc Industrialist; verify exact trigger and opponent condition"
+  }
+]
