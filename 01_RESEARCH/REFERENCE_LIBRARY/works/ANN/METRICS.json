@@ -1,0 +1,352 @@
+{
+  "source": "Annie strategy guide, Origins and Spiritforged update; exact title/author/date unknown",
+  "ingest_date": "2026-11-25",
+  "sha256": "569514f7c8f13cfd0616ef53f6011b020cd9e9b9662349d34df7ff4ef762179d",
+  "bytes": 68715,
+  "lines": 1220,
+  "word_tokens": 11817,
+  "distinct_lowercase_forms": 1799,
+  "blocks": 353,
+  "linked_image_markers": 5,
+  "method": "Python UTF-8-sig, splitlines, Unicode alphabetic tokens with optional internal apostrophe/hyphen; includes headings/URLs. Lowercase forms; blank-line blocks.",
+  "units": [
+    {
+      "id": "ANN-U01",
+      "start": 1,
+      "end": 32,
+      "tokens": 168,
+      "topic": "First principles"
+    },
+    {
+      "id": "ANN-U02",
+      "start": 33,
+      "end": 36,
+      "tokens": 2,
+      "topic": "Heading"
+    },
+    {
+      "id": "ANN-U03",
+      "start": 37,
+      "end": 48,
+      "tokens": 199,
+      "topic": "Battlefield control"
+    },
+    {
+      "id": "ANN-U04",
+      "start": 49,
+      "end": 60,
+      "tokens": 161,
+      "topic": "Resource bottleneck"
+    },
+    {
+      "id": "ANN-U05",
+      "start": 61,
+      "end": 86,
+      "tokens": 202,
+      "topic": "Card access"
+    },
+    {
+      "id": "ANN-U06",
+      "start": 87,
+      "end": 112,
+      "tokens": 218,
+      "topic": "Origins overview"
+    },
+    {
+      "id": "ANN-U07",
+      "start": 113,
+      "end": 116,
+      "tokens": 6,
+      "topic": "Heading"
+    },
+    {
+      "id": "ANN-U08",
+      "start": 117,
+      "end": 127,
+      "tokens": 274,
+      "topic": "Threats"
+    },
+    {
+      "id": "ANN-U09",
+      "start": 128,
+      "end": 142,
+      "tokens": 311,
+      "topic": "Interaction"
+    },
+    {
+      "id": "ANN-U10",
+      "start": 143,
+      "end": 154,
+      "tokens": 97,
+      "topic": "BO1 adjustment"
+    },
+    {
+      "id": "ANN-U11",
+      "start": 155,
+      "end": 193,
+      "tokens": 337,
+      "topic": "Mulligan roles"
+    },
+    {
+      "id": "ANN-U12",
+      "start": 194,
+      "end": 217,
+      "tokens": 378,
+      "topic": "Selection timing"
+    },
+    {
+      "id": "ANN-U13",
+      "start": 218,
+      "end": 237,
+      "tokens": 447,
+      "topic": "Field policy"
+    },
+    {
+      "id": "ANN-U14",
+      "start": 238,
+      "end": 239,
+      "tokens": 3,
+      "topic": "Heading"
+    },
+    {
+      "id": "ANN-U15",
+      "start": 240,
+      "end": 269,
+      "tokens": 354,
+      "topic": "Rune parity"
+    },
+    {
+      "id": "ANN-U16",
+      "start": 270,
+      "end": 282,
+      "tokens": 177,
+      "topic": "Recursion timing"
+    },
+    {
+      "id": "ANN-U17",
+      "start": 283,
+      "end": 295,
+      "tokens": 439,
+      "topic": "Offense/defense"
+    },
+    {
+      "id": "ANN-U18",
+      "start": 296,
+      "end": 304,
+      "tokens": 165,
+      "topic": "Restricted location"
+    },
+    {
+      "id": "ANN-U19",
+      "start": 305,
+      "end": 312,
+      "tokens": 104,
+      "topic": "Mandatory filtering"
+    },
+    {
+      "id": "ANN-U20",
+      "start": 313,
+      "end": 318,
+      "tokens": 152,
+      "topic": "Self-target utility"
+    },
+    {
+      "id": "ANN-U21",
+      "start": 319,
+      "end": 330,
+      "tokens": 112,
+      "topic": "Multiple scoring"
+    },
+    {
+      "id": "ANN-U22",
+      "start": 331,
+      "end": 332,
+      "tokens": 3,
+      "topic": "Heading"
+    },
+    {
+      "id": "ANN-U23",
+      "start": 333,
+      "end": 376,
+      "tokens": 564,
+      "topic": "Mirror"
+    },
+    {
+      "id": "ANN-U24",
+      "start": 377,
+      "end": 434,
+      "tokens": 791,
+      "topic": "Kai'Sa"
+    },
+    {
+      "id": "ANN-U25",
+      "start": 435,
+      "end": 486,
+      "tokens": 384,
+      "topic": "Midrange Yi"
+    },
+    {
+      "id": "ANN-U26",
+      "start": 487,
+      "end": 518,
+      "tokens": 141,
+      "topic": "Aurora Yi"
+    },
+    {
+      "id": "ANN-U27",
+      "start": 519,
+      "end": 592,
+      "tokens": 821,
+      "topic": "Sett"
+    },
+    {
+      "id": "ANN-U28",
+      "start": 593,
+      "end": 639,
+      "tokens": 526,
+      "topic": "Miss Fortune"
+    },
+    {
+      "id": "ANN-U29",
+      "start": 640,
+      "end": 673,
+      "tokens": 552,
+      "topic": "Ahri"
+    },
+    {
+      "id": "ANN-U30",
+      "start": 674,
+      "end": 692,
+      "tokens": 220,
+      "topic": "Darius"
+    },
+    {
+      "id": "ANN-U31",
+      "start": 693,
+      "end": 719,
+      "tokens": 412,
+      "topic": "Viktor"
+    },
+    {
+      "id": "ANN-U32",
+      "start": 720,
+      "end": 745,
+      "tokens": 321,
+      "topic": "Teemo"
+    },
+    {
+      "id": "ANN-U33",
+      "start": 746,
+      "end": 772,
+      "tokens": 211,
+      "topic": "Volibear"
+    },
+    {
+      "id": "ANN-U34",
+      "start": 773,
+      "end": 789,
+      "tokens": 435,
+      "topic": "Yasuo"
+    },
+    {
+      "id": "ANN-U35",
+      "start": 790,
+      "end": 809,
+      "tokens": 334,
+      "topic": "Leona"
+    },
+    {
+      "id": "ANN-U36",
+      "start": 810,
+      "end": 827,
+      "tokens": 213,
+      "topic": "Jinx"
+    },
+    {
+      "id": "ANN-U37",
+      "start": 828,
+      "end": 868,
+      "tokens": 218,
+      "topic": "Conclusion"
+    },
+    {
+      "id": "ANN-U38",
+      "start": 869,
+      "end": 889,
+      "tokens": 233,
+      "topic": "Spiritforged outlook"
+    },
+    {
+      "id": "ANN-U39",
+      "start": 890,
+      "end": 1071,
+      "tokens": 191,
+      "topic": "Two written lists"
+    },
+    {
+      "id": "ANN-U40",
+      "start": 1072,
+      "end": 1097,
+      "tokens": 352,
+      "topic": "Slot revisions"
+    },
+    {
+      "id": "ANN-U41",
+      "start": 1098,
+      "end": 1099,
+      "tokens": 4,
+      "topic": "Heading"
+    },
+    {
+      "id": "ANN-U42",
+      "start": 1100,
+      "end": 1123,
+      "tokens": 102,
+      "topic": "Draven"
+    },
+    {
+      "id": "ANN-U43",
+      "start": 1124,
+      "end": 1155,
+      "tokens": 83,
+      "topic": "Ezreal"
+    },
+    {
+      "id": "ANN-U44",
+      "start": 1156,
+      "end": 1187,
+      "tokens": 128,
+      "topic": "Kai'Sa"
+    },
+    {
+      "id": "ANN-U45",
+      "start": 1188,
+      "end": 1220,
+      "tokens": 272,
+      "topic": "Irelia and general policy"
+    }
+  ],
+  "counts": {
+    "era_layers": 2,
+    "named_main_inventories": 2,
+    "sideboard_plans": 21,
+    "matchup_contexts": 18,
+    "mechanisms": 48,
+    "exercises": 6,
+    "guards": 10
+  },
+  "checks": [
+    "45 contiguous units and 11817 tokens",
+    "two 40-card lists",
+    "eight side, three fields, 12 runes each",
+    "tempo 13, miracle 16 banned instances",
+    "21 balanced baseline swaps",
+    "four Spiritforged swaps compatible with named inventory",
+    "18 matchup contexts",
+    "FTG candidates present",
+    "48 unique candidate mechanisms",
+    "BO1 replacement balances",
+    "conditional parity test",
+    "source identifier unused"
+  ]
+}

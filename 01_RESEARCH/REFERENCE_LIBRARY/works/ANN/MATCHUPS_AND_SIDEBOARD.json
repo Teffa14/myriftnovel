@@ -1,0 +1,1207 @@
+{
+  "matches": [
+    {
+      "era": "Origins",
+      "opponent": "Annie",
+      "profile_candidates": [
+        "FT-L07"
+      ],
+      "source_lines": "333–376",
+      "plan": "Early trades and tempo interaction; adjust risk to score position.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "profile_candidates": [
+        "FT-L24"
+      ],
+      "source_lines": "377–430",
+      "plan": "Threat density, mixed size development and reset recovery against delayed conversion.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Yi midrange",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "435–486",
+      "plan": "Break early holds, compare contest into available responses versus development.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Yi Aurora",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "487–518",
+      "plan": "Pressure before expensive historical engine.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Sett",
+      "profile_candidates": [
+        "FT-L51"
+      ],
+      "source_lines": "519–592",
+      "plan": "Distribute scoring and reserve against concentrated defense.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Miss Fortune Aurora",
+      "profile_candidates": [
+        "FT-L37"
+      ],
+      "source_lines": "593–639",
+      "plan": "Race engine, protect closer access against hand disruption and removal.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Ahri",
+      "profile_candidates": [
+        "FT-L04"
+      ],
+      "source_lines": "640–673",
+      "plan": "Deny sustainable position and ready-resource engine.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Darius",
+      "profile_candidates": [
+        "FT-L09"
+      ],
+      "source_lines": "674–692",
+      "plan": "Efficient development against removal, reinforcement and historical gear.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Viktor",
+      "profile_candidates": [
+        "FT-L57"
+      ],
+      "source_lines": "693–719",
+      "plan": "Condense game horizon; maintain expendable bodies.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Teemo",
+      "profile_candidates": [
+        "FT-L54"
+      ],
+      "source_lines": "720–745",
+      "plan": "Disrupt position-dependent concealed options; reserve answer to expensive movement payoff.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Volibear Aurora",
+      "profile_candidates": [
+        "FT-L58"
+      ],
+      "source_lines": "746–772",
+      "plan": "Pressure before expensive development; preserve fallback against removal.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Yasuo",
+      "profile_candidates": [
+        "FT-L59"
+      ],
+      "source_lines": "773–789",
+      "plan": "Disrupt starting body enabling repeated scoring.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Leona",
+      "profile_candidates": [
+        "FT-L30"
+      ],
+      "source_lines": "790–809",
+      "plan": "Distribute threats to reduce stun concentration risk.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Origins",
+      "opponent": "Jinx",
+      "profile_candidates": [
+        "FT-L23"
+      ],
+      "source_lines": "810–827",
+      "plan": "Compare recurring resource advantage with extra card access.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Spiritforged",
+      "opponent": "Draven",
+      "profile_candidates": [
+        "FT-L11"
+      ],
+      "source_lines": "1100–1123",
+      "plan": "Early pressure and displacement before stronger late payoff.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Spiritforged",
+      "opponent": "Ezreal",
+      "profile_candidates": [
+        "FT-L14"
+      ],
+      "source_lines": "1124–1155",
+      "plan": "Resilient threats and counters against repeated removal.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Spiritforged",
+      "opponent": "Kai'Sa",
+      "profile_candidates": [
+        "FT-L24"
+      ],
+      "source_lines": "1156–1187",
+      "plan": "Pressure and calibrated risk against reset; conditional protection.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    },
+    {
+      "era": "Spiritforged",
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "source_lines": "1188–1210",
+      "plan": "Race protected carry and preserve responses.",
+      "status": "pilot opinion; no verified result",
+      "win_rate": null,
+      "counterplay": "Independent opponent alternatives and actual legal state required."
+    }
+  ],
+  "plans": [
+    {
+      "id": "ANN-SB01",
+      "era": "Origins",
+      "opponent": "Annie",
+      "order": "both",
+      "source_lines": "335–348",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Cleave",
+          "count": 1,
+          "ban_lookup_name": "Cleave",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB02",
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "order": "first",
+      "source_lines": "379–394",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB03",
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "order": "second",
+      "source_lines": "395–410",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 1,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB04",
+      "era": "Origins",
+      "opponent": "Yi midrange",
+      "order": "first",
+      "source_lines": "439–458",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Flash",
+          "count": 1,
+          "ban_lookup_name": "Flash",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB05",
+      "era": "Origins",
+      "opponent": "Yi midrange",
+      "order": "second",
+      "source_lines": "459–478",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Pouty Poro",
+          "count": 1,
+          "ban_lookup_name": "Pouty Poro",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 1,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB06",
+      "era": "Origins",
+      "opponent": "Yi Aurora",
+      "order": "both",
+      "source_lines": "487–518",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fading Memories",
+          "count": 1,
+          "ban_lookup_name": "Fading Memories",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB07",
+      "era": "Origins",
+      "opponent": "Sett",
+      "order": "first",
+      "source_lines": "521–542",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fading Memories",
+          "count": 1,
+          "ban_lookup_name": "Fading Memories",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB08",
+      "era": "Origins",
+      "opponent": "Sett",
+      "order": "second",
+      "source_lines": "543–563",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Pouty Poro",
+          "count": 1,
+          "ban_lookup_name": "Pouty Poro",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fading Memories",
+          "count": 1,
+          "ban_lookup_name": "Fading Memories",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB09",
+      "era": "Origins",
+      "opponent": "Miss Fortune Aurora",
+      "order": "both",
+      "source_lines": "593–639",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fading Memories",
+          "count": 1,
+          "ban_lookup_name": "Fading Memories",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB10",
+      "era": "Origins",
+      "opponent": "Ahri",
+      "order": "both",
+      "source_lines": "640–673",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB11",
+      "era": "Origins",
+      "opponent": "Darius",
+      "order": "both",
+      "source_lines": "674–692",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB12",
+      "era": "Origins",
+      "opponent": "Viktor",
+      "order": "both",
+      "source_lines": "693–719",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB13",
+      "era": "Origins",
+      "opponent": "Teemo",
+      "order": "both",
+      "source_lines": "720–745",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB14",
+      "era": "Origins",
+      "opponent": "Volibear Aurora",
+      "order": "both",
+      "source_lines": "746–772",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Void Seeker",
+          "count": 2,
+          "ban_lookup_name": "Void Seeker",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 2,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fading Memories",
+          "count": 1,
+          "ban_lookup_name": "Fading Memories",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Draven (unqualified)",
+          "count": 2,
+          "ban_lookup_name": "Draven (unqualified)",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB15",
+      "era": "Origins",
+      "opponent": "Yasuo",
+      "order": "both",
+      "source_lines": "773–789",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB16",
+      "era": "Origins",
+      "opponent": "Leona",
+      "order": "both",
+      "source_lines": "790–809",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB17",
+      "era": "Origins",
+      "opponent": "Jinx",
+      "order": "both",
+      "source_lines": "810–827",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Gust",
+          "count": 2,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB18",
+      "era": "Spiritforged",
+      "opponent": "Draven",
+      "order": "both",
+      "source_lines": "1100–1123",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Brynhir Thundersong",
+          "count": 2,
+          "ban_lookup_name": "Brynhir Thundersong",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB19",
+      "era": "Spiritforged",
+      "opponent": "Ezreal",
+      "order": "both",
+      "source_lines": "1124–1155",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Cleave",
+          "count": 2,
+          "ban_lookup_name": "Cleave",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 2,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "ban_lookup_name": "Ferrous Forerunner",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Hard Bargain",
+          "count": 2,
+          "ban_lookup_name": "Hard Bargain",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Flash",
+          "count": 1,
+          "ban_lookup_name": "Flash",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "count": 2,
+          "ban_lookup_name": "Brynhir Thundersong",
+          "snapshot_banned": true
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB20",
+      "era": "Spiritforged",
+      "opponent": "Kai'Sa",
+      "order": "both",
+      "source_lines": "1156–1187",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Cleave",
+          "count": 2,
+          "ban_lookup_name": "Cleave",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 2,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "ban_lookup_name": "Ferrous Forerunner",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Hard Bargain",
+          "count": 2,
+          "ban_lookup_name": "Hard Bargain",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Flash",
+          "count": 1,
+          "ban_lookup_name": "Flash",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "count": 2,
+          "ban_lookup_name": "Brynhir Thundersong",
+          "snapshot_banned": true
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    },
+    {
+      "id": "ANN-SB21",
+      "era": "Spiritforged",
+      "opponent": "Irelia",
+      "order": "both",
+      "source_lines": "1188–1210",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Brynhir Thundersong",
+          "count": 2,
+          "ban_lookup_name": "Brynhir Thundersong",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Hard Bargain",
+          "count": 1,
+          "ban_lookup_name": "Hard Bargain",
+          "snapshot_banned": false
+        }
+      ],
+      "status": "historical counted swaps; not legal certification"
+    }
+  ],
+  "variants": [
+    {
+      "source_lines": "1124–1155",
+      "opponent": "Ezreal non-Vex",
+      "proposal": "Replace two Fight or Flight cuts with two Rebuke cuts; conditional inferred quantity."
+    },
+    {
+      "source_lines": "1156–1187",
+      "opponent": "Kai'Sa Get Excited",
+      "proposal": "Retain all Fight or Flight; interpret third Cleave and one Rebuke as replacing the two cuts, leaving three Scrapheap, three Cleave and one Rebuke outgoing. Seven outgoing; conditional interpretation, not a separate tested plan."
+    },
+    {
+      "source_lines": "810–827",
+      "opponent": "Jinx",
+      "proposal": "Reintroduce Scrapheap if Zaun expected in game three; outgoing unspecified."
+    }
+  ],
+  "guards": [
+    {
+      "source_lines": "37–48",
+      "issue": "2.5 life analogy is arithmetic, not equivalent game utility."
+    },
+    {
+      "source_lines": "61–86",
+      "issue": "90% unused-hand estimate lacks denominator."
+    },
+    {
+      "source_lines": "87–153",
+      "issue": "Origins full list and sideboard image not inspected."
+    },
+    {
+      "source_lines": "240–269",
+      "issue": "For simplified +2 progression, R_next=R+2-L; odd net loss flips parity. Source sequences describe future turns, not immediate payment. Two-turn delay not universal."
+    },
+    {
+      "source_lines": "270–330",
+      "issue": "Named combo, mandatory triggers, readiness and scoring require official proof. Houston semifinal anecdote self-reported partial event, no replay."
+    },
+    {
+      "source_lines": "435–518",
+      "issue": "Yi exact Legend unresolved; Draven unqualified in Origins swaps, do not assume Vanquisher."
+    },
+    {
+      "source_lines": "519–827",
+      "issue": "Matchup superiority and no-answer claims subjective; no measured rates."
+    },
+    {
+      "source_lines": "900–1071",
+      "issue": "Both 39+chosen, eight side cards as supplied; no inference of missing slots or original illegality. Dreaming Tree alias explicitly mapped; ban snapshot conflicts."
+    },
+    {
+      "source_lines": "1156–1187",
+      "issue": "Get Excited alternate cuts balance under explicit conditional interpretation; not independently tested."
+    },
+    {
+      "source_lines": "1–1220",
+      "issue": "Five images linked but uninspected. Unknown author/date, no independent event result, effective-text check or full replay."
+    }
+  ]
+}

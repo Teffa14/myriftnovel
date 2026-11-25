@@ -1,0 +1,482 @@
+[
+  {
+    "id": "ANN-M01",
+    "level": "L4",
+    "name": "Score-per-body abstraction",
+    "source_lines": "37–48",
+    "structure": "Evaluate attainable scoring rather than nominal size.",
+    "acceptance": "Verify final-point rules; no life-total equivalence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M02",
+    "level": "L4",
+    "name": "Initiative and recovery clock",
+    "source_lines": "37–48",
+    "structure": "Early score changes which positions must later be contested.",
+    "acceptance": "Compare alternate holds and closing routes.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M03",
+    "level": "L4",
+    "name": "Resource conversion bottleneck",
+    "source_lines": "49–60",
+    "structure": "Compare development and response capacity over full turn cycle.",
+    "acceptance": "Track Energy, Power and readiness separately.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M04",
+    "level": "L4",
+    "name": "Unused card opportunity cost",
+    "source_lines": "61–86",
+    "structure": "Extra access has little value without time to use it.",
+    "acceptance": "Measure utilization; 90% claim unverified.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M05",
+    "level": "L4",
+    "name": "State-dependent filtering",
+    "source_lines": "61–86,117–127",
+    "structure": "Trade low utility cards for relevant options.",
+    "acceptance": "Verify forced effects and discard.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M06",
+    "level": "L4",
+    "name": "Color-specific reserve",
+    "source_lines": "99–102",
+    "structure": "Budget combined colored costs for successive actions.",
+    "acceptance": "Check actual payment and recycling.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M07",
+    "level": "L4",
+    "name": "Location-dependent engine",
+    "source_lines": "103–112",
+    "structure": "Evaluate package by attainable location payoff.",
+    "acceptance": "Compare both players' access.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M08",
+    "level": "L4",
+    "name": "Opening threshold",
+    "source_lines": "155–193",
+    "structure": "Prioritize functional early body and fallback.",
+    "acceptance": "Verify actual sampling and mulligan.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M09",
+    "level": "L4",
+    "name": "Threat as alternate role",
+    "source_lines": "117–127",
+    "structure": "Use intended finisher early if necessary.",
+    "acceptance": "Account for future closing access.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M10",
+    "level": "L4",
+    "name": "Redundant combo flexibility",
+    "source_lines": "155–193",
+    "structure": "Retain duplicates when alternate uses compensate.",
+    "acceptance": "Test actual role coverage.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M11",
+    "level": "L4",
+    "name": "Matchup-dependent answer",
+    "source_lines": "155–193",
+    "structure": "Keep responses aligned with opponent's critical dependency.",
+    "acceptance": "No omniscient hand inference.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M12",
+    "level": "L4",
+    "name": "Random draw before selection",
+    "source_lines": "194–217",
+    "structure": "Consider guaranteed random draw before discretionary selection.",
+    "acceptance": "Reverse when selection enables otherwise absent payoff.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M13",
+    "level": "L4",
+    "name": "Delay choice for information",
+    "source_lines": "194–217",
+    "structure": "Wait when more information improves flexibility.",
+    "acceptance": "Compare lost tempo and response window.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M14",
+    "level": "L4",
+    "name": "Format-specific package",
+    "source_lines": "143–154",
+    "structure": "Adjust field-dependent package when format changes.",
+    "acceptance": "Verify tournament procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M15",
+    "level": "L4",
+    "name": "Symmetric field redundancy",
+    "source_lines": "218–229",
+    "structure": "Consider saving own field when opponent likely offers same payoff.",
+    "acceptance": "Opponent chooses independently.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M16",
+    "level": "L4",
+    "name": "Between-game adaptation",
+    "source_lines": "218–229",
+    "structure": "Revise choices after revealed fields and cards.",
+    "acceptance": "No deterministic prediction or illegal deception.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M17",
+    "level": "L4",
+    "name": "Post-board resource model",
+    "source_lines": "230–237",
+    "structure": "Removing access engine changes acceptable card expenditure.",
+    "acceptance": "Recalculate from actual swaps.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M18",
+    "level": "L4",
+    "name": "Rune parity shift",
+    "source_lines": "240–269",
+    "structure": "Odd permanent loss flips parity under +2 progression.",
+    "acceptance": "Track actual turns and other effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M19",
+    "level": "L4",
+    "name": "Next-turn complementary cost",
+    "source_lines": "240–269",
+    "structure": "Preserve resources for two useful next actions.",
+    "acceptance": "Check costs and unknown draw.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M20",
+    "level": "L4",
+    "name": "Recursion as flexible access",
+    "source_lines": "270–282",
+    "structure": "Reserve reuse for valuable future response or develop now.",
+    "acceptance": "Verify zone and eligibility.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M21",
+    "level": "L4",
+    "name": "Closing threshold preparation",
+    "source_lines": "270–282",
+    "structure": "Work backward from score and prerequisites.",
+    "acceptance": "No unstoppable combo claim.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M22",
+    "level": "L4",
+    "name": "Offensive versus defensive interaction",
+    "source_lines": "283–295",
+    "structure": "Compare scoring now with protection later.",
+    "acceptance": "Verify actual opposing responses.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M23",
+    "level": "L4",
+    "name": "Concealed protection tradeoff",
+    "source_lines": "283–295",
+    "structure": "Evaluate hidden response against multiple removal classes.",
+    "acceptance": "Account for placement cost and failure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M24",
+    "level": "L4",
+    "name": "Restricted location routing",
+    "source_lines": "296–304",
+    "structure": "Allocate bodies according to actual movement restrictions.",
+    "acceptance": "Verify legal destination.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M25",
+    "level": "L3",
+    "name": "Mandatory filtering sequence",
+    "source_lines": "305–312",
+    "structure": "Check compulsory effects and hand before moving.",
+    "acceptance": "Verify empty-hand resolution.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M26",
+    "level": "L3",
+    "name": "Friendly-target utility",
+    "source_lines": "313–318",
+    "structure": "Consider legal own target to preserve or reuse body.",
+    "acceptance": "Verify targeting and cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M27",
+    "level": "L4",
+    "name": "Repeated scoring route",
+    "source_lines": "319–330",
+    "structure": "Compare hold plus relocation with single-field development.",
+    "acceptance": "Verify readiness, scoring and final point.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M28",
+    "level": "L4",
+    "name": "Risk relative to score",
+    "source_lines": "333–376",
+    "structure": "Increase risk only if safer available path has low prospects.",
+    "acceptance": "Compare explicit independent responses.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M29",
+    "level": "L4",
+    "name": "Deplete opposing response capacity",
+    "source_lines": "333–376",
+    "structure": "Create credible earlier threats before decisive attempt.",
+    "acceptance": "Opponent may decline.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M30",
+    "level": "L4",
+    "name": "Mixed size removal exposure",
+    "source_lines": "377–430",
+    "structure": "Distribute sizes to reduce efficient multi-target removal.",
+    "acceptance": "Verify damage allocation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M31",
+    "level": "L4",
+    "name": "Rebuild reserve",
+    "source_lines": "377–430",
+    "structure": "Keep deployable threats against likely reset.",
+    "acceptance": "Compare current clock and next-turn capacity.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M32",
+    "level": "L4",
+    "name": "Late exception check",
+    "source_lines": "377–430",
+    "structure": "Identify plausible reversal of apparent advantage.",
+    "acceptance": "No guaranteed Time Warp line.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M33",
+    "level": "L4",
+    "name": "Decline expensive contest",
+    "source_lines": "435–486",
+    "structure": "Compare development elsewhere with fighting into resources.",
+    "acceptance": "Account for opposing score.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M34",
+    "level": "L4",
+    "name": "Protect access from disruption",
+    "source_lines": "435–486,519–592",
+    "structure": "Compare preserving hand card with early use and later legal reuse.",
+    "acceptance": "Verify zones and disruption.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M35",
+    "level": "L4",
+    "name": "Role reversal against slow engine",
+    "source_lines": "487–518,593–639",
+    "structure": "Accelerate scoring when opposing late game is stronger.",
+    "acceptance": "Check actual horizon.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M36",
+    "level": "L4",
+    "name": "Movement scarcity",
+    "source_lines": "519–592",
+    "structure": "Compare distributed scoring with concentrated defense.",
+    "acceptance": "Verify rival alternative movement.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M37",
+    "level": "L3",
+    "name": "Cost timing",
+    "source_lines": "593–639",
+    "structure": "Distinguish initiation costs and later resolution choices.",
+    "acceptance": "Exact official timing needed.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M38",
+    "level": "L4",
+    "name": "Engine removal priority",
+    "source_lines": "640–673",
+    "structure": "Prioritize recurring resource bridge when valuable.",
+    "acceptance": "Compare actual payoff and alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M39",
+    "level": "L4",
+    "name": "Expendable reserve",
+    "source_lines": "693–719",
+    "structure": "Keep low-value body against possible sacrifice effects.",
+    "acceptance": "Verify target choice.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M40",
+    "level": "L4",
+    "name": "Concealed-location dependency",
+    "source_lines": "720–745",
+    "structure": "Deny enabling position for hidden response where feasible.",
+    "acceptance": "Check alternative field and timing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M41",
+    "level": "L4",
+    "name": "Deny repeated scoring enabler",
+    "source_lines": "773–789",
+    "structure": "Disrupt initial body enabling successive scoring.",
+    "acceptance": "Verify movement and fallback.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M42",
+    "level": "L4",
+    "name": "Wide defense against stun",
+    "source_lines": "790–809",
+    "structure": "Compare many smaller threats and concentrated large body.",
+    "acceptance": "Account for multi-target effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M43",
+    "level": "L4",
+    "name": "Versioned strategic decline",
+    "source_lines": "869–889",
+    "structure": "Reassess prior strategy as environment changes.",
+    "acceptance": "Tier judgment is opinion.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M44",
+    "level": "L4",
+    "name": "Alternate engines under same Legend",
+    "source_lines": "890–1071",
+    "structure": "Compare tempo and spell-combo inventories by dependencies.",
+    "acceptance": "Miracle list lacks piloting evidence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M45",
+    "level": "L4",
+    "name": "Rebalance response suite",
+    "source_lines": "1072–1097",
+    "structure": "Adjust response quantities as opposing threats change.",
+    "acceptance": "No empirical optimum asserted.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M46",
+    "level": "L4",
+    "name": "Sideboard by answer class",
+    "source_lines": "1098–1220",
+    "structure": "Choose resilient threats, counters or displacement by rival plan.",
+    "acceptance": "Balance actual legal inventory.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M47",
+    "level": "L6",
+    "name": "Cross-game learning",
+    "source_lines": "1–86",
+    "structure": "Use familiar concepts as teaching aids while correcting mismatched mental models.",
+    "acceptance": "Original dialogue; no imported rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  },
+  {
+    "id": "ANN-M48",
+    "level": "L6",
+    "name": "Metagame revision and humility",
+    "source_lines": "869–889,1211–1220",
+    "structure": "A specialist changes expectations after a release.",
+    "acceptance": "Independent motives and no copied persona.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and specialist guides; not independently novel."
+  }
+]

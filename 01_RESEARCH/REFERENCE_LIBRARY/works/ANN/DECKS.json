@@ -1,0 +1,454 @@
+{
+  "origins": {
+    "era": "Origins",
+    "source_lines": "87–153",
+    "runes": {
+      "Fury": 6,
+      "Chaos": 6
+    },
+    "battlefields": [
+      {
+        "name": "Zaun Warrens",
+        "count": 1,
+        "ban_lookup_name": "Zaun Warrens",
+        "snapshot_banned": false
+      },
+      {
+        "name": "The Arena's Greatest",
+        "count": 1,
+        "ban_lookup_name": "The Arena's Greatest",
+        "snapshot_banned": true
+      },
+      {
+        "name": "The Dreaming Tree",
+        "count": 1,
+        "ban_lookup_name": "Dreaming Tree",
+        "snapshot_banned": true
+      }
+    ],
+    "named_roles": [
+      "Sneaky Deckhand",
+      "Traveling Merchant",
+      "Vi, Destructive",
+      "Pouty Poro",
+      "Kai'Sa, Survivor",
+      "Darius, Trifarian",
+      "Ride the Wind",
+      "Gust",
+      "Flash",
+      "Scrapheap",
+      "Cleave",
+      "Stacked Deck",
+      "Fight or Flight",
+      "Void Seeker"
+    ],
+    "full_list": null,
+    "known_main_quantities": [
+      {
+        "name": "Scrapheap",
+        "count": 3,
+        "ban_lookup_name": "Scrapheap",
+        "snapshot_banned": true
+      }
+    ],
+    "bo1_adjustment": {
+      "out": [
+        {
+          "name": "Scrapheap",
+          "count": 3,
+          "ban_lookup_name": "Scrapheap",
+          "snapshot_banned": true
+        }
+      ],
+      "in": [
+        {
+          "name": "Gust",
+          "count": 1,
+          "ban_lookup_name": "Gust",
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fight or Flight",
+          "count": 1,
+          "ban_lookup_name": "Fight or Flight",
+          "snapshot_banned": true
+        },
+        {
+          "name": "Rebuke",
+          "count": 1,
+          "ban_lookup_name": "Rebuke",
+          "snapshot_banned": false
+        }
+      ]
+    },
+    "note": "Image not inspected; unknown quantities not inferred."
+  },
+  "tempo": {
+    "name": "Tempo",
+    "era": "Spiritforged historical",
+    "legend": {
+      "name": "Annie, Dark Child",
+      "profile_id": "FT-L07"
+    },
+    "chosen": [
+      {
+        "name": "Annie, Stubborn",
+        "count": 1,
+        "ban_lookup_name": "Annie, Stubborn",
+        "snapshot_banned": false
+      }
+    ],
+    "main": [
+      {
+        "name": "Cleave",
+        "count": 3,
+        "ban_lookup_name": "Cleave",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Pouty Poro",
+        "count": 3,
+        "ban_lookup_name": "Pouty Poro",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Fight or Flight",
+        "count": 3,
+        "ban_lookup_name": "Fight or Flight",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Ride the Wind",
+        "count": 3,
+        "ban_lookup_name": "Ride the Wind",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Sneaky Deckhand",
+        "count": 3,
+        "ban_lookup_name": "Sneaky Deckhand",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Scrapheap",
+        "count": 3,
+        "ban_lookup_name": "Scrapheap",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Stacked Deck",
+        "count": 3,
+        "ban_lookup_name": "Stacked Deck",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Traveling Merchant",
+        "count": 3,
+        "ban_lookup_name": "Traveling Merchant",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rebuke",
+        "count": 2,
+        "ban_lookup_name": "Rebuke",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Flash",
+        "count": 2,
+        "ban_lookup_name": "Flash",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Tideturner",
+        "count": 1,
+        "ban_lookup_name": "Tideturner",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Darius, Trifarian",
+        "count": 3,
+        "ban_lookup_name": "Darius, Trifarian",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Vi, Destructive",
+        "count": 3,
+        "ban_lookup_name": "Vi, Destructive",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "count": 3,
+        "ban_lookup_name": "Kai'Sa, Survivor",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rengar, Pouncing",
+        "count": 1,
+        "ban_lookup_name": "Rengar, Pouncing",
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Brynhir Thundersong",
+        "count": 2,
+        "ban_lookup_name": "Brynhir Thundersong",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "count": 2,
+        "ban_lookup_name": "Ferrous Forerunner",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Hard Bargain",
+        "count": 2,
+        "ban_lookup_name": "Hard Bargain",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rebuke",
+        "count": 1,
+        "ban_lookup_name": "Rebuke",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Flash",
+        "count": 1,
+        "ban_lookup_name": "Flash",
+        "snapshot_banned": false
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "The Arena's Greatest",
+        "count": 1,
+        "ban_lookup_name": "The Arena's Greatest",
+        "snapshot_banned": true
+      },
+      {
+        "name": "The Dreaming Tree",
+        "count": 1,
+        "ban_lookup_name": "Dreaming Tree",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Zaun Warrens",
+        "count": 1,
+        "ban_lookup_name": "Zaun Warrens",
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Fury": 6,
+      "Chaos": 6
+    },
+    "source_lines": "900–979",
+    "counts": {
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40,
+      "sideboard": 8,
+      "battlefields": 3,
+      "runes": 12
+    },
+    "banned_instances": 13,
+    "current_legal": false,
+    "exact_printings_verified": false
+  },
+  "miracle": {
+    "name": "Detonate miracle",
+    "era": "Spiritforged historical",
+    "legend": {
+      "name": "Annie, Dark Child",
+      "profile_id": "FT-L07"
+    },
+    "chosen": [
+      {
+        "name": "Annie, Stubborn",
+        "count": 1,
+        "ban_lookup_name": "Annie, Stubborn",
+        "snapshot_banned": false
+      }
+    ],
+    "main": [
+      {
+        "name": "Fight or Flight",
+        "count": 3,
+        "ban_lookup_name": "Fight or Flight",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Scrapheap",
+        "count": 3,
+        "ban_lookup_name": "Scrapheap",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Stacked Deck",
+        "count": 3,
+        "ban_lookup_name": "Stacked Deck",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Traveling Merchant",
+        "count": 3,
+        "ban_lookup_name": "Traveling Merchant",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Treasure Trove",
+        "count": 3,
+        "ban_lookup_name": "Treasure Trove",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rhasa the Sunderer",
+        "count": 3,
+        "ban_lookup_name": "Rhasa the Sunderer",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Seal of Discord",
+        "count": 3,
+        "ban_lookup_name": "Seal of Discord",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Detonate",
+        "count": 3,
+        "ban_lookup_name": "Detonate",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Battering Ram",
+        "count": 3,
+        "ban_lookup_name": "Battering Ram",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Called Shot",
+        "count": 3,
+        "ban_lookup_name": "Called Shot",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Hard Bargain",
+        "count": 2,
+        "ban_lookup_name": "Hard Bargain",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rebuke",
+        "count": 1,
+        "ban_lookup_name": "Rebuke",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Bushwhack",
+        "count": 1,
+        "ban_lookup_name": "Bushwhack",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Last Rites",
+        "count": 1,
+        "ban_lookup_name": "Last Rites",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Ezreal, Prodigy",
+        "count": 3,
+        "ban_lookup_name": "Ezreal, Prodigy",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Vi, Destructive",
+        "count": 1,
+        "ban_lookup_name": "Vi, Destructive",
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Ferrous Forerunner",
+        "count": 2,
+        "ban_lookup_name": "Ferrous Forerunner",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "count": 1,
+        "ban_lookup_name": "Brynhir Thundersong",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Falling Star",
+        "count": 1,
+        "ban_lookup_name": "Falling Star",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rebuke",
+        "count": 1,
+        "ban_lookup_name": "Rebuke",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Pack of Wonders",
+        "count": 1,
+        "ban_lookup_name": "Pack of Wonders",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Against the Odds",
+        "count": 1,
+        "ban_lookup_name": "Against the Odds",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Hard Bargain",
+        "count": 1,
+        "ban_lookup_name": "Hard Bargain",
+        "snapshot_banned": false
+      }
+    ],
+    "battlefields": [
+      {
+        "name": "The Candlelit Sanctum",
+        "count": 1,
+        "ban_lookup_name": "The Candlelit Sanctum",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Zaun Warrens",
+        "count": 1,
+        "ban_lookup_name": "Zaun Warrens",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Veiled Temple",
+        "count": 1,
+        "ban_lookup_name": "Veiled Temple",
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Fury": 5,
+      "Chaos": 7
+    },
+    "source_lines": "988–1071",
+    "counts": {
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40,
+      "sideboard": 8,
+      "battlefields": 3,
+      "runes": 12
+    },
+    "banned_instances": 16,
+    "current_legal": false,
+    "exact_printings_verified": false
+  }
+}

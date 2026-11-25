@@ -37,3 +37,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## RNG — competitive agency and peer coaching
 [RNG analysis](../REFERENCE_LIBRARY/works/RNG/ANALYSIS.md) supports original scenes about deck attachment, qualification goals, local versus regional testing, honest uncertainty, humor and reviewing adverse outcomes. Preserve opponent agency, fair play and independent character voices; no real biography or distinctive wording transferred.
+
+## ANN — cross-game learning and format adaptation
+[ANN analysis](../REFERENCE_LIBRARY/works/ANN/ANALYSIS.md) supports original coaching disagreements about scoring, resource conversion and familiar deck revisions. Preserve independent voices and goals; no copied source anecdotes or persona.

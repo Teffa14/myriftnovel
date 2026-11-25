@@ -49,3 +49,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## RNG — agency, tempo and conditional risk
 [RNG research](../../01_RESEARCH/REFERENCE_LIBRARY/works/RNG/INDEX.md) supplements FTG FT-L47 and NLM/NLD with multi-turn curve planning, flexible sideboarding, material trade versus scoring, retained response capacity, baseline-relative risk and public-information hypotheses. Historical Brynhir, Dais and Star Spring banned; no present legality inferred. All named trigger windows require official dated proof. Three partial cases demonstrate reasoning review, not executable matches. Do not use 75% source estimate as actual posterior or endorse slow play.
+
+## ANN — tempo and multi-turn resource conversion
+[ANN research](../../01_RESEARCH/REFERENCE_LIBRARY/works/ANN/INDEX.md) supplements FTG FT-L07 and NLM/NLD with score-based development, resource parity, selection timing, flexible movement and post-board access changes. Historical Origins/Spiritforged layers separate; both written lists have banned cards. Verify official dated text and G3-scene. Simplified arithmetic is not rules certification.

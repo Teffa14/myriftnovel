@@ -98,3 +98,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## RNG — Mom Sky Rengar guide (2026-11-25)
 [Research index](works/RNG/INDEX.md): 19,476 tokens, 72 units, 25 card-role contexts, 18 matchup groups (16 detailed), 36 conditional play-order contexts, three partial cases, 56 candidates and six original exercises. Historical 40+10 text inventory; four banned instances; incomplete sideboard branches and unverified win-rate/record claims. No legal replay or canon change.
+
+## ANN — Annie specialist guide (2026-11-25)
+[Research index](works/ANN/INDEX.md): 11,817 tokens, 45 units, 18 matchup contexts, 21 baseline swaps, two 40-card named main inventories with eight sideboard cards each, 48 candidates and six exercises. Tempo 13 and miracle 16 banned instances; no current legal list or replay certified.
