@@ -1,0 +1,413 @@
+{
+  "historical": {
+    "legend": {
+      "name": "Irelia, Blade Dancer",
+      "profile_id": "FT-L17",
+      "catalog_candidates": [
+        "sfd-195-221",
+        "sfd-246-221"
+      ]
+    },
+    "era": "historical Barcelona, exact event date not supplied",
+    "cards": [
+      {
+        "source_line": 161,
+        "name": "Irelia, Fervent",
+        "role": "chosen",
+        "count": 1,
+        "catalog_candidates": [
+          "sfd-057-221",
+          "sfd-057a-221",
+          "sfd-225*-221",
+          "sfd-225-221",
+          "ven-174-166"
+        ],
+        "snapshot_banned": false,
+        "reason": "Central carry; protection, movement and conditional targeting.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 173,
+        "name": "Tideturner",
+        "role": "unit",
+        "count": 3,
+        "catalog_candidates": [
+          "ogn-199-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Early body plus movement utility; different-location errata claim requires dated official check.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 195,
+        "name": "Lonely Poro",
+        "role": "unit",
+        "count": 3,
+        "catalog_candidates": [
+          "sfd-036-221",
+          "unl-221-219"
+        ],
+        "snapshot_banned": false,
+        "reason": "Early Might floor and access; poor later standalone draw.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 210,
+        "name": "Gust Monk",
+        "role": "unit",
+        "count": 1,
+        "catalog_candidates": [
+          "ven-101-166"
+        ],
+        "snapshot_banned": false,
+        "reason": "Early presence, trash intervention and conditional targeting; validate self-target and acceleration.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 224,
+        "name": "Stellacorn Herder",
+        "role": "unit",
+        "count": 3,
+        "catalog_candidates": [
+          "sfd-048-221"
+        ],
+        "snapshot_banned": true,
+        "reason": "Historical early draw engine, diminishing value after setup.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 238,
+        "name": "Akali, Silent",
+        "role": "unit",
+        "count": 2,
+        "catalog_candidates": [
+          "ven-038-166",
+          "ven-038a-166"
+        ],
+        "snapshot_banned": false,
+        "reason": "Alternative carry against selected interaction; no absolute immunity.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 259,
+        "name": "En Garde",
+        "role": "spell",
+        "count": 2,
+        "catalog_candidates": [
+          "ogn-046-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Low-cost modifier; source gives little independent role detail.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 267,
+        "name": "Discipline",
+        "role": "spell",
+        "count": 3,
+        "catalog_candidates": [
+          "ogn-058-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Flexible modifier and access; compare sequence with En Garde.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 277,
+        "name": "Defy",
+        "role": "spell",
+        "count": 3,
+        "catalog_candidates": [
+          "ogn-045-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Counter eligible opposing spells; reserve against decisive responses.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 287,
+        "name": "Defiant Dance",
+        "role": "spell",
+        "count": 3,
+        "catalog_candidates": [
+          "sfd-196-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "High-impact modifier with target requirements; preserve for contested finish.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 297,
+        "name": "Stacked Deck",
+        "role": "spell",
+        "count": 3,
+        "catalog_candidates": [
+          "ogn-183-298"
+        ],
+        "snapshot_banned": true,
+        "reason": "Historical selection engine; balance required roles and missing pieces.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 309,
+        "name": "Charm",
+        "role": "spell",
+        "count": 2,
+        "catalog_candidates": [
+          "ogn-043-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Reduce opposing board and deny later commitment; verify target, movement and Might.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 319,
+        "name": "Ride the Wind",
+        "role": "spell",
+        "count": 2,
+        "catalog_candidates": [
+          "ogn-173-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Mobility and alternate timing; verify scoring and exhaustion.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 338,
+        "name": "Not So Fast",
+        "role": "spell",
+        "count": 1,
+        "catalog_candidates": [
+          "sfd-045-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "Selective response to otherwise difficult interaction.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 348,
+        "name": "Flash",
+        "role": "spell",
+        "count": 1,
+        "catalog_candidates": [
+          "ogs-011-024"
+        ],
+        "snapshot_banned": false,
+        "reason": "Withdrawal and relocation; cost of yielding a field increases near close.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 358,
+        "name": "Gust",
+        "role": "spell",
+        "count": 1,
+        "catalog_candidates": [
+          "ogn-169-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Early disruption, response timing and replay hypothesis.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 372,
+        "name": "Rebuke",
+        "role": "spell",
+        "count": 1,
+        "catalog_candidates": [
+          "ogn-172-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Displacement; compare with Star-Crossed and targeting constraints.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 385,
+        "name": "Boots of Swiftness",
+        "role": "gear",
+        "count": 3,
+        "catalog_candidates": [
+          "sfd-133-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "Repeatable movement and resource efficiency; source Boots shorthand.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 397,
+        "name": "Guardian Angel",
+        "role": "gear",
+        "count": 2,
+        "catalog_candidates": [
+          "sfd-051-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "Protection and re-entry hypothesis; source GA shorthand.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 410,
+        "name": "Ravenbloom Prefect",
+        "role": "side",
+        "count": 2,
+        "catalog_candidates": [
+          "ven-102-166"
+        ],
+        "snapshot_banned": false,
+        "reason": "Higher early body threshold on draw; incidental gear/trash relevance.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 424,
+        "name": "Adaptatron",
+        "role": "side",
+        "count": 2,
+        "catalog_candidates": [
+          "ogn-056-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Gear answer; evaluate narrow target coverage and post-event revision.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 434,
+        "name": "Twilight Shroud",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "ven-031-166"
+        ],
+        "snapshot_banned": false,
+        "reason": "Closing protection; avoid universal immunity claim.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 444,
+        "name": "Not So Fast",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "sfd-045-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "Additional selective counter coverage.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 454,
+        "name": "Rebuke",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "ogn-172-298"
+        ],
+        "snapshot_banned": false,
+        "reason": "Additional answer against large threats.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 464,
+        "name": "Star-Crossed",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "unl-128-219"
+        ],
+        "snapshot_banned": false,
+        "reason": "Alternative displacement coverage; low reported usage.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 474,
+        "name": "Vex, Apathetic",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "unl-150-219",
+          "unl-150a-219"
+        ],
+        "snapshot_banned": false,
+        "reason": "Alternative defense against acceleration/removal.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      },
+      {
+        "source_line": 484,
+        "name": "Heart of Dark Ice",
+        "role": "side",
+        "count": 1,
+        "catalog_candidates": [
+          "sfd-052-221"
+        ],
+        "snapshot_banned": false,
+        "reason": "Yi-specific experiment; source prefers later replacement.",
+        "status": "source_role_hypothesis_effective_text_unverified"
+      }
+    ],
+    "fields": [
+      {
+        "source_lines": "133–144",
+        "name": "Abandoned Hall",
+        "catalog_candidates": [
+          "unl-205-219"
+        ],
+        "reason": "Default blind choice, conditional trigger timing and split-field utility.",
+        "snapshot_banned": false
+      },
+      {
+        "source_lines": "145–153",
+        "name": "Targon's Peak",
+        "catalog_candidates": [
+          "ogn-289-298"
+        ],
+        "reason": "Play preference, develop while retaining legal protection.",
+        "snapshot_banned": false
+      },
+      {
+        "source_lines": "154–158",
+        "name": "Sunken Temple",
+        "catalog_candidates": [
+          "sfd-218-221"
+        ],
+        "reason": "Draw preference, substitute access for primary engine; reuse only when permitted.",
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Calm": 6,
+      "Chaos": 6
+    },
+    "counts": {
+      "chosen": 1,
+      "units_excluding_chosen": 12,
+      "spells": 22,
+      "gear": 5,
+      "side": 10,
+      "battlefields": 3,
+      "runes": 12,
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40
+    },
+    "banned_instances": 6,
+    "legal_list_certified": false
+  },
+  "proposed": {
+    "source_lines": "520–600",
+    "era": "undated earlier post-ban proposal, not certified for Nov 23",
+    "status": "theory_not_tested",
+    "full_inventory": null,
+    "changes": [
+      "Remove Stacked Deck; consider Edge of Night and additional Gust",
+      "Add early unit, source prefers Scuttle Crab",
+      "Maintain Rebuke preference; switch conditionally based on field",
+      "Move Twilight Shroud to main",
+      "Prefer Vex over Akali as described; exact quantities unknown",
+      "One Hourglass and one Guardian Angel proposed",
+      "Flexible anti-Yi slot, Kha'Zix suggested",
+      "Ravenbloom Prefect side slots"
+    ],
+    "snapshot_conflicts": [
+      "Proposed Hourglass is banned; continued discussion of Herder and Aurora does not establish legality or exact inclusion."
+    ],
+    "sheet": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBxbGxc0dQhjTQEqxR9hyq9Tf1WCFtY86XMavEX_LB797NRAKCxw1Ffss9I98LcTe9_LT44l51M1jf/pubhtml?gid=1586328999&single=true",
+    "sheet_retrieved": false
+  }
+}

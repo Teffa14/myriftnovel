@@ -86,3 +86,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## RIV — Stuttgart team guide (2026-11-25)
 [Research index](works/RIV/INDEX.md): 7,283 tokens, 16 units, 28 card contexts, three matchups, 14 conditional branches, 40 candidate mechanisms, six exercises. Self-reported 32–9–7; 78.05% decisive and 66.67% of all matches. Historical list has eight banned instances; no current legal list or replay certified. No canon change.
+
+## IRE — Barcelona specialist guide (2026-11-25)
+[Research index](works/IRE/INDEX.md): 18,205 tokens, 33 units, 27 card contexts, ten historical sideboard plans, five matchup discussions plus empty heading, six partial retrospective cases, 52 candidate mechanisms and six exercises. Historical six banned copies; earlier post-ban proposal not current legal proof. 13 reported matches vs 12 listed opponents; mirror draw-side minus inferred. No replay or canon change.

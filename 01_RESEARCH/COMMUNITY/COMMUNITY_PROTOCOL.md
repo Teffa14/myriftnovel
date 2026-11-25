@@ -25,3 +25,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## RIV — team preparation and event fatigue
 [RIV analysis](../REFERENCE_LIBRARY/works/RIV/ANALYSIS.md) supports original scenes about testing allocation, slot disagreements, cognitive load and teammate rivalry. Distinguish actual observed facts from self-reported claims. No copying real biographies or distinctive language.
+
+## IRE — specialist practice and self-review
+[IRE analysis](../REFERENCE_LIBRARY/works/IRE/ANALYSIS.md) supports original peer coaching, deck attachment, matchup frustration, learning from unsuccessful choices and hobby versus tournament ambition. Keep source identities and distinctive wording out of fiction; preserve fair-play boundaries, including private judge consultations. No invented real results.

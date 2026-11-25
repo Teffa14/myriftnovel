@@ -1,0 +1,2 @@
+# IRE — Kylin Irelia guide
+Historical Barcelona specialist guide and undated earlier post-ban proposal. 18,205 tokens, 33 units, 52 candidate mechanisms, six retrospective decision cases. Read ANALYSIS.md, DECK_AND_ROLES.json, MATCHUPS_AND_SIDEBOARD.json, DECISION_CASES.json, MECHANISMS.json, EXERCISES.md and METRICS.json/QA.md. Official dated rules govern; neither actual replays nor current list legality certified.

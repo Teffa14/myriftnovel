@@ -1,0 +1,8 @@
+# Original noncanonical analytical exercises
+IRE-X01 (M01/M02/M52): A player who knows an unfashionable strategy debates changing decks before a regional. A friend asks how many practice sessions remain and what the player enjoys. State change: agree on a small comparison test, not a predetermined deck.
+IRE-X02 (M12/M13/M25): A practice hand has abundant cards but limited usable resources. The pilot considers investing in another draw engine versus developing an alternate threat. State change: choose a resource objective and identify its failure case.
+IRE-X03 (M29/M32/M50): After a weak opening, a player chooses between a conservative line and an exposed high-value unit. In review, a teammate asks what each option could actually achieve. State change: document conditional rationale independently of outcome.
+IRE-X04 (M34/M35/M37): Two contested locations offer different margins and the opponent can decline to fight. Compare order and the remaining cards after each response. State change: choose a legal order only after verification.
+IRE-X05 (M47/M48/M49): A public action suggests a missing role in the opponent's hand. The player prepares both selection-hit and miss plans; a later draw changes the opponent hypothesis. State change: revise uncertainty, not rewrite what was known.
+IRE-X06 (M41/M50/M51): A player reviews a loss in which preserving a unit did not preserve the score. A friend explains why the next decision mattered more than the survival. State change: revise evaluation criteria and keep fair-play boundaries.
+All prompts are original abstract exercises, noncanon, no verified named effects or game outcomes.

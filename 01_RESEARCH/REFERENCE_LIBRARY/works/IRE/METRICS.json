@@ -1,0 +1,278 @@
+{
+  "source": "Kylin Irelia guide (Barcelona; exact title/date not supplied)",
+  "ingest_date": "2026-11-25",
+  "sha256": "a29dc0886f2df02c5fd6b84b319e440eca1365b2fcf57009ff8503278918208d",
+  "bytes": 101157,
+  "lines": 1327,
+  "word_tokens": 18205,
+  "distinct_lowercase_forms": 1978,
+  "nonempty_blank_line_separated_blocks": 368,
+  "sentence_proxy": 702,
+  "full_screen_placeholders": 53,
+  "url_occurrences": 3,
+  "method": "Python UTF-8-sig; splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen; all supplied text including headings, URLs and placeholders. Sentence proxy split after terminal punctuation followed by whitespace. No omitted image content counted.",
+  "sections": [
+    {
+      "id": "IRE-U01",
+      "start_line": 1,
+      "end_line": 23,
+      "tokens": 329,
+      "topic": "Introduction"
+    },
+    {
+      "id": "IRE-U02",
+      "start_line": 24,
+      "end_line": 83,
+      "tokens": 492,
+      "topic": "Archetype choice"
+    },
+    {
+      "id": "IRE-U03",
+      "start_line": 84,
+      "end_line": 101,
+      "tokens": 192,
+      "topic": "Acknowledgments"
+    },
+    {
+      "id": "IRE-U04",
+      "start_line": 102,
+      "end_line": 116,
+      "tokens": 336,
+      "topic": "Construction"
+    },
+    {
+      "id": "IRE-U05",
+      "start_line": 117,
+      "end_line": 124,
+      "tokens": 43,
+      "topic": "Card overview"
+    },
+    {
+      "id": "IRE-U06",
+      "start_line": 125,
+      "end_line": 131,
+      "tokens": 65,
+      "topic": "Runes"
+    },
+    {
+      "id": "IRE-U07",
+      "start_line": 132,
+      "end_line": 158,
+      "tokens": 617,
+      "topic": "Battlefields"
+    },
+    {
+      "id": "IRE-U08",
+      "start_line": 159,
+      "end_line": 257,
+      "tokens": 1280,
+      "topic": "Units"
+    },
+    {
+      "id": "IRE-U09",
+      "start_line": 258,
+      "end_line": 383,
+      "tokens": 1260,
+      "topic": "Spells"
+    },
+    {
+      "id": "IRE-U10",
+      "start_line": 384,
+      "end_line": 408,
+      "tokens": 265,
+      "topic": "Gear"
+    },
+    {
+      "id": "IRE-U11",
+      "start_line": 409,
+      "end_line": 499,
+      "tokens": 592,
+      "topic": "Sideboard"
+    },
+    {
+      "id": "IRE-U12",
+      "start_line": 500,
+      "end_line": 519,
+      "tokens": 320,
+      "topic": "Heron variant"
+    },
+    {
+      "id": "IRE-U13",
+      "start_line": 520,
+      "end_line": 561,
+      "tokens": 529,
+      "topic": "Earlier post-ban proposal"
+    },
+    {
+      "id": "IRE-U14",
+      "start_line": 562,
+      "end_line": 600,
+      "tokens": 802,
+      "topic": "Ban FAQ"
+    },
+    {
+      "id": "IRE-U15",
+      "start_line": 601,
+      "end_line": 619,
+      "tokens": 398,
+      "topic": "Mulligan"
+    },
+    {
+      "id": "IRE-U16",
+      "start_line": 620,
+      "end_line": 645,
+      "tokens": 533,
+      "topic": "Opening"
+    },
+    {
+      "id": "IRE-U17",
+      "start_line": 646,
+      "end_line": 672,
+      "tokens": 531,
+      "topic": "Carry commitment"
+    },
+    {
+      "id": "IRE-U18",
+      "start_line": 673,
+      "end_line": 703,
+      "tokens": 691,
+      "topic": "Middle/late"
+    },
+    {
+      "id": "IRE-U19",
+      "start_line": 704,
+      "end_line": 797,
+      "tokens": 1770,
+      "topic": "Combat sequencing"
+    },
+    {
+      "id": "IRE-U20",
+      "start_line": 798,
+      "end_line": 855,
+      "tokens": 933,
+      "topic": "Kennen"
+    },
+    {
+      "id": "IRE-U21",
+      "start_line": 856,
+      "end_line": 902,
+      "tokens": 822,
+      "topic": "Yi"
+    },
+    {
+      "id": "IRE-U22",
+      "start_line": 903,
+      "end_line": 952,
+      "tokens": 655,
+      "topic": "Rengar"
+    },
+    {
+      "id": "IRE-U23",
+      "start_line": 953,
+      "end_line": 1020,
+      "tokens": 1114,
+      "topic": "Mirror"
+    },
+    {
+      "id": "IRE-U24",
+      "start_line": 1021,
+      "end_line": 1052,
+      "tokens": 297,
+      "topic": "Rek'Sai"
+    },
+    {
+      "id": "IRE-U25",
+      "start_line": 1053,
+      "end_line": 1060,
+      "tokens": 2,
+      "topic": "Aurora/Lux"
+    },
+    {
+      "id": "IRE-U26",
+      "start_line": 1061,
+      "end_line": 1076,
+      "tokens": 135,
+      "topic": "Case methodology"
+    },
+    {
+      "id": "IRE-U27",
+      "start_line": 1077,
+      "end_line": 1117,
+      "tokens": 654,
+      "topic": "Diana case"
+    },
+    {
+      "id": "IRE-U28",
+      "start_line": 1118,
+      "end_line": 1155,
+      "tokens": 503,
+      "topic": "Kennen case"
+    },
+    {
+      "id": "IRE-U29",
+      "start_line": 1156,
+      "end_line": 1183,
+      "tokens": 475,
+      "topic": "Mirror case"
+    },
+    {
+      "id": "IRE-U30",
+      "start_line": 1184,
+      "end_line": 1239,
+      "tokens": 893,
+      "topic": "Kennen case"
+    },
+    {
+      "id": "IRE-U31",
+      "start_line": 1240,
+      "end_line": 1267,
+      "tokens": 231,
+      "topic": "Kennen case"
+    },
+    {
+      "id": "IRE-U32",
+      "start_line": 1268,
+      "end_line": 1291,
+      "tokens": 312,
+      "topic": "Kennen case"
+    },
+    {
+      "id": "IRE-U33",
+      "start_line": 1292,
+      "end_line": 1327,
+      "tokens": 134,
+      "topic": "Conclusion"
+    }
+  ],
+  "counts": {
+    "card_contexts": 27,
+    "distinct_card_names": 25,
+    "fields": 3,
+    "sideboard_plans": 10,
+    "matchup_plans": 5,
+    "empty_matchup_headings": 1,
+    "cases": 6,
+    "mechanisms": 52,
+    "exercises": 6,
+    "guards": 12,
+    "catalog_rows": 1408,
+    "catalog_columns": 21,
+    "banned_copies": 6
+  },
+  "checks": [
+    "33 contiguous sections and 18205 tokens",
+    "39 plus chosen",
+    "12 nonchosen units 22 spells 5 gear",
+    "10 sideboard 3 fields 12 runes",
+    "27 card contexts 25 unique",
+    "six banned copies across two identities",
+    "10 balanced historical swaps",
+    "all swaps within named inventory",
+    "five matchup plans and one empty heading",
+    "FTG mappings including ambiguous Yi",
+    "six distinct retrospective cases",
+    "matchup count discrepancy retained",
+    "52 distinct mechanisms",
+    "mirror inferred correction explicit"
+  ]
+}

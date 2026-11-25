@@ -37,3 +37,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## RIV — historical Riven specialist case
 [RIV research](../../01_RESEARCH/REFERENCE_LIBRARY/works/RIV/INDEX.md) supplements FTG FT-L48 with team testing, forecast allocation, play/draw asymmetry and recovery. Preserve pre-ban examples as historical; current official text and scoped legality required. Reported win rate excludes draws; exact swaps and matchup denominators absent. Use NLM/NLD for alternate decisions.
+
+## IRE — decision review and central carry case
+[IRE research](../../01_RESEARCH/REFERENCE_LIBRARY/works/IRE/INDEX.md) supplements FTG FT-L17 and RIV with alternative carry, opening risk, score-dependent roles, battlefield ordering, resource/response sequencing and six partial recalled decisions including failure. Preserve known versus inferred state, actual alternatives and outcome separately. Historical Herder/Stacked Deck banned; earlier proposal contains Hourglass. No transferred historical mechanics without dated effective text, no exact reconstructed board, no measured odds. Use NLM/NLD and G3-scene.

@@ -1,0 +1,125 @@
+[
+  {
+    "id": "IRE-C01",
+    "round": 2,
+    "opponent": "Diana",
+    "game": 1,
+    "source_lines": "1077–1117",
+    "known": "Author describes turn four; needs two points; opponent has earlier selection play; one opposing spell reportedly face-up.",
+    "inference": "Opponent may be short on units, not known; reserve protection against high-impact displacement.",
+    "alternatives": [
+      "Contest first with protected mobile carry and retain option to return it",
+      "Reverse field order; risk losing future positioning",
+      "Spend remaining resource on gear or removal versus reserve"
+    ],
+    "choice": "Chooses ordering that preserves future carry access and later defensive resources.",
+    "reported_result": "Wins after losing subsequent fight and recovering with alternate carry.",
+    "review": "Author questions the amount of defense spent; subsequent exact sequence forgotten.",
+    "missing": "Board images, full hand, exact score and action ledger.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "IRE-C02",
+    "round": 3,
+    "opponent": "Kennen",
+    "game": 1,
+    "source_lines": "1118–1155",
+    "known": "Author at seven; describes exposed hold and three opposing runes/cards.",
+    "inference": "Opposing displacement possible; actual identity unknown until revealed.",
+    "alternatives": [
+      "Attempt closing route via selection and alternative carry",
+      "If selection misses, use fallback to trade and defend instead",
+      "Hold immediately, with described danger"
+    ],
+    "choice": "Attempts close with conditional selection and fallback.",
+    "reported_result": "Reports finding relevant modifier, winning, and observing two opposing displacement cards afterward.",
+    "review": "19/27 estimate equals three independent draws each with one-third hit chance; without replacement and actual deck count not established. Not actual win probability.",
+    "missing": "Board screenshots, deck remainder, target and scoring proof.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "IRE-C03",
+    "round": 6,
+    "opponent": "Irelia mirror",
+    "game": null,
+    "source_lines": "1156–1183",
+    "known": "Opponent wins play order and opens an early engine; pilot has alternative development.",
+    "inference": "Safer line may still lose the race; high-risk early carry has greater recovery upside.",
+    "alternatives": [
+      "Develop engine with protection",
+      "Expose central carry earlier and accept removal risk"
+    ],
+    "choice": "Takes higher-variance line because baseline appears unfavorable.",
+    "reported_result": "Reports successful carry survival and later win.",
+    "review": "Outcome does not certify optimality; review opponent's alternative responses.",
+    "missing": "Exact hands, resources and full turn sequence.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "IRE-C04",
+    "round": 7,
+    "opponent": "Kennen",
+    "game": 3,
+    "source_lines": "1184–1239",
+    "known": "Both at six, author lists public trash contents and one perceived concealed threat.",
+    "inference": "Two defense configurations; alternative reduces enemy board but also own response budget.",
+    "alternatives": [
+      "Remove presumed concealed threat and retain more own resources",
+      "Trade through threat then reduce opposing reserve",
+      "Decline to contest, facing larger next-turn pressure"
+    ],
+    "choice": "Chooses board reduction over greater held response capacity.",
+    "reported_result": "Reports opponent found unexpected unit through selection and attacked; narrow one-Might win.",
+    "review": "Previously omitted opponent draw/reuse route materially changes risk. Preserve uncertainty; concealed identity initially inferred, not fact.",
+    "missing": "Images, exact trigger/response legality, full reconstructed state.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "IRE-C05",
+    "round": 9,
+    "opponent": "Kennen",
+    "game": 2,
+    "source_lines": "1240–1267",
+    "known": "Opponent chooses slower opening; pilot reports protection and alternate carry in hand.",
+    "inference": "Accelerated scoring may close before opponent's late engine.",
+    "alternatives": [
+      "Score and develop normal carry",
+      "Use conditional early acceleration to apply pressure"
+    ],
+    "choice": "Selects aggressive line with intended protection.",
+    "reported_result": "Reports reaching four, then closing after useful later draws.",
+    "review": "Contingent on legal effects, opponent response and subsequent card access; no guaranteed win.",
+    "missing": "Board screenshots and exact sequence.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "IRE-C06",
+    "round": 10,
+    "opponent": "Kennen",
+    "game": 2,
+    "source_lines": "1268–1291",
+    "known": "Opponent at two, pilot reports no modifiers or access engine.",
+    "inference": "Conservative development may fail to catch up; risky removal line can create a route.",
+    "alternatives": [
+      "Conservative scoring and carry deployment",
+      "Aggressive attempt to clear opposing reserve and gain lead"
+    ],
+    "choice": "Chooses high-variance recovery attempt.",
+    "reported_result": "Reports opposing displacement, retreat, unfavorable draws and concession.",
+    "review": "Failed outcome alone does not prove mistake; compare alternatives with assumptions and uncertainty.",
+    "missing": "Images and exact full game state.",
+    "evidence_status": "self_reported_partial_reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  }
+]

@@ -1,0 +1,467 @@
+{
+  "records": {
+    "reported_results": [
+      {
+        "event": "RQ Vancouver",
+        "wins": 10,
+        "losses": 2,
+        "draws": 1,
+        "placement": 29,
+        "deck": "Irelia"
+      },
+      {
+        "event": "RQ Hartford",
+        "wins": 10,
+        "losses": 2,
+        "draws": 1,
+        "placement": 28,
+        "deck": "Darius",
+        "best_of_claim": true
+      },
+      {
+        "event": "RQ Barcelona",
+        "wins": 11,
+        "losses": 2,
+        "draws": 0,
+        "placement": 11,
+        "deck": "Irelia",
+        "best_of_claim": true
+      }
+    ],
+    "barcelona_opponents": {
+      "Kennen": 5,
+      "Rengar": 2,
+      "Diana": 1,
+      "Kha'Zix": 1,
+      "Yi": 1,
+      "Irelia": 2
+    },
+    "barcelona_reported_match_count": 13,
+    "opponent_count": 12,
+    "unaccounted_matches": 1,
+    "all_dates": null,
+    "verification": "source self-report only; no event result or pairings independently retrieved"
+  },
+  "matchup": [
+    {
+      "profile_id": "FT-L25",
+      "opponent": "Kennen",
+      "source_lines": "800–855",
+      "assessment": "Difficult; three successive threat plans",
+      "plan": "Disrupt early mobility, deny reuse/payoff and convert before repeated late threats.",
+      "guard": "Historical Rhasa and other banned pieces; exact contemporary rules required.",
+      "win_rate": null,
+      "status": "pilot_opinion"
+    },
+    {
+      "profile_id": "FT-L34 or FT-L35",
+      "opponent": "Yi",
+      "source_lines": "856–902",
+      "assessment": "One of hardest; exact Legend variant unconfirmed",
+      "plan": "Early Might disadvantage, protected carry, persistent gear; compare draw versus play.",
+      "guard": "Do not assume same Yi effect across both identities.",
+      "win_rate": null,
+      "status": "pilot_opinion"
+    },
+    {
+      "profile_id": "FT-L47",
+      "opponent": "Rengar",
+      "source_lines": "903–952",
+      "assessment": "Difficult but preferred to Yi",
+      "plan": "Respect eligible reinforcement and movement; preserve response to decisive threat.",
+      "guard": "80–90% Faefolk opener claim unmeasured; exact effect verification required.",
+      "win_rate": null,
+      "status": "pilot_opinion"
+    },
+    {
+      "profile_id": "FT-L17",
+      "opponent": "Irelia mirror",
+      "source_lines": "953–1020",
+      "assessment": "Play advantage; author's deterministic language conflicts with reported comeback",
+      "plan": "Compare early engine and risk, choose field order from state and future access.",
+      "guard": "Do not treat die roll as actual win certainty.",
+      "win_rate": null,
+      "status": "pilot_opinion"
+    },
+    {
+      "profile_id": "FT-L44",
+      "opponent": "Rek'Sai",
+      "source_lines": "1021–1052",
+      "assessment": "Potentially worst matchup",
+      "plan": "Preserve inexpensive bodies against sacrifice threats; track alternate scoring timing.",
+      "guard": "No deterministic response or forced loss established.",
+      "win_rate": null,
+      "status": "pilot_opinion"
+    },
+    {
+      "profile_id": null,
+      "opponent": "Aurora/Lux",
+      "source_lines": "1053–1060",
+      "assessment": "No content beyond heading",
+      "plan": "No plan extracted.",
+      "guard": "Do not reconstruct missing material.",
+      "win_rate": null,
+      "status": "missing_content"
+    }
+  ],
+  "plans": [
+    {
+      "id": "IRE-SB01",
+      "opponent": "Kennen",
+      "order": "play",
+      "source_line": 842,
+      "outgoing": [
+        {
+          "name": "Gust",
+          "count": 1
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Twilight Shroud",
+          "count": 1
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB02",
+      "opponent": "Kennen",
+      "order": "draw",
+      "source_line": 848,
+      "outgoing": [
+        {
+          "name": "Lonely Poro",
+          "count": 2
+        },
+        {
+          "name": "Charm",
+          "count": 1
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ravenbloom Prefect",
+          "count": 2
+        },
+        {
+          "name": "Twilight Shroud",
+          "count": 1
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB03",
+      "opponent": "Yi",
+      "order": "play",
+      "source_line": 891,
+      "outgoing": [
+        {
+          "name": "Gust",
+          "count": 1
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Rebuke",
+          "count": 1
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB04",
+      "opponent": "Yi",
+      "order": "draw",
+      "source_line": 897,
+      "outgoing": [
+        {
+          "name": "Lonely Poro",
+          "count": 3
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Rebuke",
+          "count": 1
+        },
+        {
+          "name": "Ravenbloom Prefect",
+          "count": 2
+        },
+        {
+          "name": "Heart of Dark Ice",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB05",
+      "opponent": "Rengar",
+      "order": "play",
+      "source_line": 939,
+      "outgoing": [
+        {
+          "name": "Not So Fast",
+          "count": 1
+        },
+        {
+          "name": "Gust",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Vex, Apathetic",
+          "count": 1
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB06",
+      "opponent": "Rengar",
+      "order": "draw",
+      "source_line": 945,
+      "outgoing": [
+        {
+          "name": "Lonely Poro",
+          "count": 2
+        },
+        {
+          "name": "Gust",
+          "count": 1
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ravenbloom Prefect",
+          "count": 2
+        },
+        {
+          "name": "Vex, Apathetic",
+          "count": 1
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB07",
+      "opponent": "Mirror",
+      "order": "play",
+      "source_line": 1007,
+      "outgoing": [
+        {
+          "name": "Gust",
+          "count": 1
+        },
+        {
+          "name": "Akali, Silent",
+          "count": 2
+        },
+        {
+          "name": "Charm",
+          "count": 2
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Adaptatron",
+          "count": 2
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        },
+        {
+          "name": "Vex, Apathetic",
+          "count": 1
+        },
+        {
+          "name": "Twilight Shroud",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB08",
+      "opponent": "Mirror",
+      "order": "draw",
+      "source_line": 1013,
+      "outgoing": [
+        {
+          "name": "Gust",
+          "count": 1
+        },
+        {
+          "name": "Akali, Silent",
+          "count": 2
+        },
+        {
+          "name": "Lonely Poro",
+          "count": 2
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ravenbloom Prefect",
+          "count": 2
+        },
+        {
+          "name": "Twilight Shroud",
+          "count": 1
+        },
+        {
+          "name": "Adaptatron",
+          "count": 1
+        },
+        {
+          "name": "Rebuke",
+          "count": 1
+        }
+      ],
+      "inference": "Source omits minus sign on two Akali; interpreted as outgoing because entry sits in removal line. Not silently corrected.",
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB09",
+      "opponent": "Rek'Sai",
+      "order": "play",
+      "source_line": 1041,
+      "outgoing": [
+        {
+          "name": "Akali, Silent",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Vex, Apathetic",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    },
+    {
+      "id": "IRE-SB10",
+      "opponent": "Rek'Sai",
+      "order": "draw",
+      "source_line": 1047,
+      "outgoing": [
+        {
+          "name": "Akali, Silent",
+          "count": 1
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Vex, Apathetic",
+          "count": 1
+        }
+      ],
+      "inference": null,
+      "status": "historical_source_plan_not_legal_certification"
+    }
+  ],
+  "guards": [
+    {
+      "source_lines": "1–23,24–83",
+      "guard": "Barcelona record totals 13; listed opposing labels total 12. One unaccounted, no invented matchup."
+    },
+    {
+      "source_lines": "173–194",
+      "guard": "Tideturner errata claim must be verified against effective dated text."
+    },
+    {
+      "source_lines": "500–600",
+      "guard": "Heron and earlier post-ban proposal lack images and exact lists; no legality certificate."
+    },
+    {
+      "source_lines": "520–600",
+      "guard": "Hourglass proposal and historical Herder/Stacked Deck references conflict with November 23 snapshot."
+    },
+    {
+      "source_lines": "646–672",
+      "guard": "Do not exploit private judge communications; apply official conduct rules."
+    },
+    {
+      "source_lines": "673–703,1118–1155",
+      "guard": "Final point, scoring on opposing turn and double-conquest wording require official timing/score proof."
+    },
+    {
+      "source_lines": "903–952",
+      "guard": "Faefolk 80–90% opener estimate unsupported by match denominator."
+    },
+    {
+      "source_lines": "953–1020",
+      "guard": "Mirror play advantage is opinion; source reports draw-side victory."
+    },
+    {
+      "source_lines": "1013",
+      "guard": "Two Akali removal inferred from missing minus sign; retain correction flag."
+    },
+    {
+      "source_lines": "1053–1060",
+      "guard": "Aurora/Lux heading only."
+    },
+    {
+      "source_lines": "1118–1155",
+      "guard": "19/27 conditional arithmetic only; not measured win odds or exact hypergeometric result."
+    },
+    {
+      "source_lines": "1061–1291",
+      "guard": "Six recalled cases have 53 full-screen placeholders across guide, no underlying images; not complete match replays."
+    }
+  ]
+}

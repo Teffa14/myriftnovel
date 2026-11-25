@@ -1,0 +1,522 @@
+[
+  {
+    "id": "IRE-M01",
+    "level": "L4",
+    "name": "Practice equity versus expected deck strength",
+    "source_lines": "24–83",
+    "structure": "Compare familiar execution and access constraints with expected matchup strength.",
+    "acceptance": "Do not assume a specialist always overcomes matchup disadvantage.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M02",
+    "level": "L6",
+    "name": "Hobby versus optimization",
+    "source_lines": "1–101",
+    "structure": "Give player enjoyment, peer relationships, fatigue and ambition independent weight.",
+    "acceptance": "No biography copying or claims of universal motivation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M03",
+    "level": "L4",
+    "name": "Early body floor",
+    "source_lines": "102–116,195–209",
+    "structure": "Evaluate minimum threshold that denies costless early progress.",
+    "acceptance": "Verify real Might and opponent options.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M04",
+    "level": "L4",
+    "name": "Consistency by role mixture",
+    "source_lines": "297–308,603–619",
+    "structure": "Balance bodies, modifiers and responses rather than maximize a single category.",
+    "acceptance": "Test correlated draws and actual legal inventory.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M05",
+    "level": "L3",
+    "name": "Rune color contingencies",
+    "source_lines": "125–131",
+    "structure": "Recycle based on remaining legal payments in hand.",
+    "acceptance": "Track actual resource state, not color slogans.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M06",
+    "level": "L4",
+    "name": "Play/draw field allocation",
+    "source_lines": "132–158,994–996",
+    "structure": "Choose asymmetric field value and opportunity across games.",
+    "acceptance": "Verify selection process and exact eligible effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M07",
+    "level": "L3",
+    "name": "Delay optional expenditure",
+    "source_lines": "133–144,759–764",
+    "structure": "When a later legal window supplies additional information, compare early payment with waiting.",
+    "acceptance": "Verify triggers, priority and optionality.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M08",
+    "level": "L4",
+    "name": "Cross-location utility",
+    "source_lines": "133–144,759–764",
+    "structure": "A legal payoff in one location may affect the value of contest elsewhere.",
+    "acceptance": "Check actual trigger scope and opponent response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M09",
+    "level": "L3",
+    "name": "Repeatable location access",
+    "source_lines": "145–158,708–738",
+    "structure": "Compare leaving a field available for future payoff against current defense.",
+    "acceptance": "Verify scoring and legal movement.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M10",
+    "level": "L3",
+    "name": "Movement asset optionality",
+    "source_lines": "173–194",
+    "structure": "Preserve early body that can later support legal relocation.",
+    "acceptance": "No free movement or invalid same-location target assumption.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M11",
+    "level": "L4",
+    "name": "Early efficiency decay",
+    "source_lines": "195–237",
+    "structure": "An early strong draw may be poor once thresholds rise.",
+    "acceptance": "Compare later alternatives and opportunity cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M12",
+    "level": "L4",
+    "name": "Stop feeding draw engine",
+    "source_lines": "224–237",
+    "structure": "Transition from access generation to spending and central threat when resources constrain play.",
+    "acceptance": "Extra hand size is not usable tempo.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M13",
+    "level": "L4",
+    "name": "Alternative carry",
+    "source_lines": "238–257,500–519",
+    "structure": "Diversify threat against specific opposing answers.",
+    "acceptance": "No unconditional immunity; verify effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M14",
+    "level": "L3",
+    "name": "Target requirement check",
+    "source_lines": "287–296",
+    "structure": "Before budgeting a spell, check both legal targets and current state.",
+    "acceptance": "Missing eligible target invalidates candidate.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M15",
+    "level": "L4",
+    "name": "Selection tool replacement",
+    "source_lines": "297–308,520–600",
+    "structure": "When banned consistency tool disappears, compare role coverage and changed variance.",
+    "acceptance": "Do not transfer proposed list to later ban era.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M16",
+    "level": "L3",
+    "name": "Mobility as resource economy",
+    "source_lines": "319–337,385–396",
+    "structure": "Repeated movement can reduce need for one-use resources.",
+    "acceptance": "Calculate actual cost and readiness, not free equivalence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M17",
+    "level": "L4",
+    "name": "Closing mobility horizon",
+    "source_lines": "319–337",
+    "structure": "Conditional additional scoring access changes parity preference.",
+    "acceptance": "Verify final-point rules and eligible timing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M18",
+    "level": "L4",
+    "name": "Selective answer reserve",
+    "source_lines": "338–347,747–758",
+    "structure": "Reserve rare counter for an otherwise unanswerable transition.",
+    "acceptance": "Check target class and legal response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M19",
+    "level": "L4",
+    "name": "Withdrawal near finish",
+    "source_lines": "348–357,765–797",
+    "structure": "A safe retreat or survival may still yield losing score.",
+    "acceptance": "Compare game horizon and score, not survival alone.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M20",
+    "level": "L3",
+    "name": "Response timing leverage",
+    "source_lines": "358–371",
+    "structure": "Wait for meaningful commitment when legal instead of spending answer too soon.",
+    "acceptance": "Verify chain timing and independent alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M21",
+    "level": "L4",
+    "name": "Answer breadth versus cost",
+    "source_lines": "372–383",
+    "structure": "Compare removal/displacement by targets, timing and resource requirements.",
+    "acceptance": "Avoid blanket assumptions of resolution.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M22",
+    "level": "L4",
+    "name": "Durable investment versus bounce",
+    "source_lines": "385–408",
+    "structure": "Compare repeated gear utility with risk of losing protected carry or position.",
+    "acceptance": "Verify ownership, attachment, recall and modifier persistence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M23",
+    "level": "L4",
+    "name": "Draw-specific floor upgrade",
+    "source_lines": "410–423",
+    "structure": "Trade some low-cost early options for bodies that contest opposing opening.",
+    "acceptance": "Test play-order resources and post-board legality.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M24",
+    "level": "L4",
+    "name": "Narrow sideboard relevance",
+    "source_lines": "424–499",
+    "structure": "Compare predicted targets with actual usage and alternate slot utility.",
+    "acceptance": "Non-use in small event does not prove zero value.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M25",
+    "level": "L4",
+    "name": "High ceiling with dependency",
+    "source_lines": "500–519,580–588",
+    "structure": "Compare diversified payoff build with weak baseline when missing engine.",
+    "acceptance": "Test access probability, fallback and timing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M26",
+    "level": "L4",
+    "name": "Forecast versioning",
+    "source_lines": "520–600",
+    "structure": "Keep provisional list and changed assumptions separate from tested event list.",
+    "acceptance": "No later legality claim without full inventory.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M27",
+    "level": "L4",
+    "name": "Duplicate mulligan tradeoff",
+    "source_lines": "603–619",
+    "structure": "Compare role balance, conditional keeps and return of redundant cards.",
+    "acceptance": "Use actual sampling without replacement and legal mulligan procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M28",
+    "level": "L4",
+    "name": "Opening development versus scoring",
+    "source_lines": "620–645",
+    "structure": "Choose whether to concede early point, trade or develop based on opponent threshold.",
+    "acceptance": "Verify actual state and alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M29",
+    "level": "L4",
+    "name": "Carry deployment risk",
+    "source_lines": "646–672",
+    "structure": "Compare protected delay against danger of falling irrecoverably behind.",
+    "acceptance": "Estimate payoff and failure for both; no deterministic gamble.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M30",
+    "level": "L4",
+    "name": "Removal cost threshold",
+    "source_lines": "646–672",
+    "structure": "An exposed threat may still impose a favorable exchange if removal consumes enough enemy resources.",
+    "acceptance": "Track remaining tempo, resources and alternate threat.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M31",
+    "level": "L4",
+    "name": "Counterfactual practice",
+    "source_lines": "646–672",
+    "structure": "Replay a practice decision with same known starting assumptions to compare outcomes.",
+    "acceptance": "Separate practice rewind from permitted tournament procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M32",
+    "level": "L4",
+    "name": "Variance conditional on baseline",
+    "source_lines": "646–672,1156–1183,1268–1291",
+    "structure": "Consider riskier line if low-variance baseline has poor prospects.",
+    "acceptance": "Do not confuse self-rated skill or favorable result with probability.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M33",
+    "level": "L4",
+    "name": "Role switching by score",
+    "source_lines": "673–703",
+    "structure": "Lead favors low-commitment progress; deficit may demand active defensive position.",
+    "acceptance": "Check actual close horizons and competing threats.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M34",
+    "level": "L4",
+    "name": "Field ordering by margin",
+    "source_lines": "708–738",
+    "structure": "Choose contest order by Might gap, legal next action and response incentives.",
+    "acceptance": "Verify state and avoid replicating exact source example.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M35",
+    "level": "L4",
+    "name": "Induce useful opposing commitment",
+    "source_lines": "708–738",
+    "structure": "A narrower initial margin may invite opponent expenditure that supports subsequent own objective.",
+    "acceptance": "Opponent may decline; no assumed cooperation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M36",
+    "level": "L4",
+    "name": "End-position resource tradeoff",
+    "source_lines": "708–738",
+    "structure": "Choose ending field by future access, protection and remaining resources.",
+    "acceptance": "Check opposing benefit and reachable follow-up.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M37",
+    "level": "L3",
+    "name": "Match modifier to threshold",
+    "source_lines": "742–746",
+    "structure": "Use smallest sufficient legal modifier if preserving larger answer matters.",
+    "acceptance": "Consider opponent response range and remaining targets.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M38",
+    "level": "L4",
+    "name": "Answer class hierarchy",
+    "source_lines": "742–758",
+    "structure": "Distinguish ordinary modifier from displacement or removal that invalidates investment.",
+    "acceptance": "No fixed category superiority across actual effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M39",
+    "level": "L4",
+    "name": "Bait versus preserve counter",
+    "source_lines": "752–758",
+    "structure": "Sequence lower-stakes action before decisive commitment when it tests opposing response.",
+    "acceptance": "Opponent may keep response; verify actual chain.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M40",
+    "level": "L4",
+    "name": "Avoid sunk investment",
+    "source_lines": "755–758",
+    "structure": "More resources already invested can increase vulnerability to decisive displacement.",
+    "acceptance": "Reassess whether to stop, protect or accept loss.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M41",
+    "level": "L4",
+    "name": "Survival value expires",
+    "source_lines": "765–797",
+    "structure": "Midgame survival protection may be less valuable near decisive score.",
+    "acceptance": "Evaluate actual score consequence even if unit returns.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M42",
+    "level": "L4",
+    "name": "Opponent plan phases",
+    "source_lines": "800–855",
+    "structure": "Identify early engine, intermediate payoff and later reuse routes; intervene at dependencies.",
+    "acceptance": "Banned historical examples require dated proof or abstraction.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M43",
+    "level": "L4",
+    "name": "Early pressure threshold asymmetry",
+    "source_lines": "856–902",
+    "structure": "Compare avoiding unfavorable early trades versus alternate development.",
+    "acceptance": "Resolve Yi Legend identity and actual resources.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M44",
+    "level": "L4",
+    "name": "Threat window and response priority",
+    "source_lines": "903–952",
+    "structure": "Track public resource conditions for possible reinforcement without assuming hand contents.",
+    "acceptance": "No unsupported opponent opener win rate.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M45",
+    "level": "L4",
+    "name": "Mirror location policy",
+    "source_lines": "953–1020",
+    "structure": "Select field and protection policy based on play order and prior game outcome.",
+    "acceptance": "Verify exact tournament field procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M46",
+    "level": "L4",
+    "name": "Reserve against sacrifice",
+    "source_lines": "1021–1052",
+    "structure": "Preserve expendable body when facing eligible opposing sacrifice effects.",
+    "acceptance": "Check target choice, visibility and legality.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M47",
+    "level": "L4",
+    "name": "Evidence-based hand inference",
+    "source_lines": "1077–1117",
+    "structure": "Observed selection timing may update hypotheses about missing card role.",
+    "acceptance": "Retain alternative explanations and private information boundary.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M48",
+    "level": "L4",
+    "name": "Conditional fallback after selection",
+    "source_lines": "1118–1155",
+    "structure": "Plan both hit and miss before choosing uncertain action.",
+    "acceptance": "Calculate access only from known deck and actual draw rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M49",
+    "level": "L4",
+    "name": "Risk model revision",
+    "source_lines": "1184–1239",
+    "structure": "When opposing unexpected access emerges, update previously excluded route.",
+    "acceptance": "Do not retroactively assign omniscience.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M50",
+    "level": "L6",
+    "name": "Review success and failure",
+    "source_lines": "1077–1291",
+    "structure": "Let competent characters admit uncertainty, review both wins and losses and challenge each other's inference.",
+    "acceptance": "Original dialogue and independent goals; no borrowed real match recreation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M51",
+    "level": "L6",
+    "name": "Ethical information boundary",
+    "source_lines": "646–672",
+    "structure": "Private judge consultation is not permission to extract protected information; distinguish publicly visible behavior from private ruling content.",
+    "acceptance": "Never encourage exploiting judge calls, probing private discussion, slow play or violating event conduct.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  },
+  {
+    "id": "IRE-M52",
+    "level": "L6",
+    "name": "Mentor and peer recognition",
+    "source_lines": "84–101,1292–1327",
+    "structure": "Show learning, encouragement and giving back as social functions independent of ranking.",
+    "acceptance": "No actual personal identity, private details or source language copied.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, EKK, VEX and RIV; not certified independent novelty."
+  }
+]
