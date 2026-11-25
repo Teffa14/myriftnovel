@@ -71,5 +71,62 @@
     "ref": "129d4cf4bc2481b03af87dfbd357c469262bed14",
     "blob": "3db05d9edafb4fe73e21a48ea6a88e3106f3ebb9",
     "status": "older 5-set printings, actual metadata extracted, printed text deliberately not redistributed"
+  },
+  "gallery_feed": {
+    "url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_cards",
+    "sets_url": "https://content.publishing.riotgames.com/publishing-content/v2.0/public/channel/riftbound_website/list/riftbound_gallery_sets",
+    "locale": "en_US",
+    "checked": "2026-11-25T17:57:18.718222998Z",
+    "reported_total_items": 1416,
+    "first_page_count": 5,
+    "verification": "direct official endpoint response; only first small page parsed, total not enumerated"
+  },
+  "gallery_snapshot": {
+    "source_repo": "https://github.com/Dystorted888/riftbound-card-data",
+    "commit": "8a10812968506363a373f36a8bb7cf4d02694",
+    "blob_sha": "6defe98f5d1e5901bb9f200164678bb89e737ba8",
+    "raw_url": "https://raw.githubusercontent.com/Dystorted888/riftbound-card-data/8a10812968506363a373f36a8bb7cf4d02694/data/cards.json",
+    "path": "data/cards.json",
+    "fetched_at": "2026-10-26T20:27:52.627Z",
+    "records": 1408,
+    "sets": [
+      {
+        "id": "OGN",
+        "name": "Origins",
+        "collector_number_max": 298,
+        "known_printings": 352
+      },
+      {
+        "id": "OGS",
+        "name": "Proving Grounds",
+        "collector_number_max": 24,
+        "known_printings": 24
+      },
+      {
+        "id": "RAD",
+        "name": "Radiance",
+        "collector_number_max": 167,
+        "known_printings": 219
+      },
+      {
+        "id": "SFD",
+        "name": "Spiritforged",
+        "collector_number_max": 221,
+        "known_printings": 288
+      },
+      {
+        "id": "UNL",
+        "name": "Unleashed",
+        "collector_number_max": 219,
+        "known_printings": 288
+      },
+      {
+        "id": "VEN",
+        "name": "Vendetta",
+        "collector_number_max": 166,
+        "known_printings": 237
+      }
+    ],
+    "verified": "full snapshot parsed in current session; distinct ID count 1408; printed metadata only in public novel repo; current feed count differs by 8, identities not yet reconciled"
   }
 }

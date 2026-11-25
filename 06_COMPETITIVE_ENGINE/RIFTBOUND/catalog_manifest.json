@@ -1,0 +1,95 @@
+{
+  "rows": 1408,
+  "unique_ids": 1408,
+  "unique_public_codes": 1408,
+  "sets": [
+    {
+      "id": "OGN",
+      "name": "Origins",
+      "collector_number_max": 298,
+      "known_printings": 352
+    },
+    {
+      "id": "OGS",
+      "name": "Proving Grounds",
+      "collector_number_max": 24,
+      "known_printings": 24
+    },
+    {
+      "id": "RAD",
+      "name": "Radiance",
+      "collector_number_max": 167,
+      "known_printings": 219
+    },
+    {
+      "id": "SFD",
+      "name": "Spiritforged",
+      "collector_number_max": 221,
+      "known_printings": 288
+    },
+    {
+      "id": "UNL",
+      "name": "Unleashed",
+      "collector_number_max": 219,
+      "known_printings": 288
+    },
+    {
+      "id": "VEN",
+      "name": "Vendetta",
+      "collector_number_max": 166,
+      "known_printings": 237
+    }
+  ],
+  "snapshot": {
+    "source_repo": "https://github.com/Dystorted888/riftbound-card-data",
+    "commit": "8a10812968506363a373f36a8bb7cf4d02694",
+    "blob_sha": "6defe98f5d1e5901bb9f200164678bb89e737ba8",
+    "raw_url": "https://raw.githubusercontent.com/Dystorted888/riftbound-card-data/8a10812968506363a373f36a8bb7cf4d02694/data/cards.json",
+    "path": "data/cards.json",
+    "fetched_at": "2026-10-26T20:27:52.627Z",
+    "records": 1408,
+    "sets": [
+      {
+        "id": "OGN",
+        "name": "Origins",
+        "collector_number_max": 298,
+        "known_printings": 352
+      },
+      {
+        "id": "OGS",
+        "name": "Proving Grounds",
+        "collector_number_max": 24,
+        "known_printings": 24
+      },
+      {
+        "id": "RAD",
+        "name": "Radiance",
+        "collector_number_max": 167,
+        "known_printings": 219
+      },
+      {
+        "id": "SFD",
+        "name": "Spiritforged",
+        "collector_number_max": 221,
+        "known_printings": 288
+      },
+      {
+        "id": "UNL",
+        "name": "Unleashed",
+        "collector_number_max": 219,
+        "known_printings": 288
+      },
+      {
+        "id": "VEN",
+        "name": "Vendetta",
+        "collector_number_max": 166,
+        "known_printings": 237
+      }
+    ],
+    "verified": "full snapshot parsed in current session; distinct ID count 1408; printed metadata only in public novel repo; current feed count differs by 8, identities not yet reconciled"
+  },
+  "live_gallery_reported_count": 1416,
+  "arithmetic_count_delta": 8,
+  "coverage_certified": false,
+  "notes": "Count difference does not establish which cards were added or removed. Printed data source has rules text but public repo deliberately stores factual metadata only; private import required for effective text."
+}
