@@ -303,6 +303,41 @@
   },
   "chapter_06": {
     "status": "not_started",
-    "preflight": "Retrieve verified v6 or successor; read full approved history, source-linked continuity and private pilot/payoff ledger; verify next chapter scope and fresh competitive evidence. No automatic draft or publication."
+    "preflight": "CH0005.1 (display 5.5) optional supplement requested and preflighted. Resolve its approval/closeout or explicit deferral before drafting CH6. Retrieve authoritative v6 or verified successor; run validators, read private payoff ledger, preserve unresolved practice and chronology."
+  },
+  "chapter_05_1": {
+    "id": "CH0005.1",
+    "display_number": "5.5",
+    "parent_number": 5,
+    "supplement_index": 1,
+    "format": "optional supplement; excluded from 20 main chapters",
+    "status": "not_started",
+    "preflight_result": {
+      "status": "scoped_preflight_completed",
+      "source_commit": "5cbccfef5b50833bf780b06af01a7aec44aec045",
+      "concurrent_research_revision_preserved": "6ea9c54637a5f7bfdf6f006758c026d824196df8",
+      "repository_inventory": {
+        "entries": 383,
+        "blobs": 317,
+        "truncated": false
+      },
+      "private_dossier": "/The Last Draw - Private Archive/CH0005_5_preflight.zip",
+      "dossier_sha256": "877371a4eefe065732b5b320fb365380d1a824fb4e7667964465c2e43edf791c",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 6,
+      "retired_expressions": 242,
+      "usage_records": 95,
+      "continuity_records": 319,
+      "timeline_events": 39,
+      "checks": {
+        "passed": 42,
+        "failed": 0,
+        "scope": "archive integrity, chronology, supplement-order fixtures, source references, scene plan fields and existing promotional asset hashes; four guard regression tests nested"
+      },
+      "planned_scope": "L0",
+      "limitations": "No manuscript or new canon. Selected repository files/excerpts only. No literary score or gameplay certification.",
+      "next_gate": "Draft when authorized; separate approval and closeout before main CH6; keep display label separate from sequential internal supplement ID."
+    }
   }
 }
