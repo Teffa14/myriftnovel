@@ -35,3 +35,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX10 — instituciones y memoria competitiva
 [Análisis](INSTITUTIONAL_META_EXCERPT_ANALYSIS.md): décima muestra, búsqueda de cartas, rivalidad, señales ambiguas, precedente de Tang y nuevo diseño de Xie. Diez entradas y cuatro bloques originales. [Métricas](EX10_METRICS.json) y [script](measure_excerpt.py); 1486 tokens narrativos. No se certifica capítulo completo.
+
+## MSC-EX11–EX13
+[Análisis conjunto](RECRUITMENT_PRACTICE_OPTIMIZATION_ANALYSIS.md): tres muestras distintas, reclutamiento, ejecución de combinación aprendida, especialización, optimización y encuentro profesional. 24 entradas y nueve bloques originales. Créditos Star River/Rhith; capítulo no confirmado.

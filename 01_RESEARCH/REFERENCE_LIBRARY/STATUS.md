@@ -33,3 +33,6 @@ Ocho muestras parciales distintas analizadas cualitativamente, cero capítulos c
 
 ## MSC-EX09 y MSC-EX10
 Diez muestras distintas analizadas; el texto duplicado de EX09 se cuenta una sola vez. EX09: convivencia, vulnerabilidad y pasado implícito; EX10: competencia institucional, memoria del meta, señales y creación. 18 entradas y 7 bloques añadidos; total 122 entradas y 47 bloques. EX10 tiene conteos Python ejecutados (1486 tokens, 41 párrafos, 17 segmentos entre comillas), script y JSON. EX01–EX09 siguen cualitativos. Créditos visibles en EX09/EX10: Star River y Rhith; edición y capítulos sin confirmar. Cero capítulos MSC completos certificados. No se demuestra resultado de torneo competitivo.
+
+## MSC-EX11–EX13
+Trece muestras únicas; cero capítulos completos certificados. Tres nuevas muestras cualitativas: scouting y reclutamiento, práctica y especialización, optimización y reunión. 24 entradas y 9 bloques añadidos; total 146 entradas y 56 bloques. No se ejecutó Python en estas tres muestras. No se observó validación competitiva de cartas modificadas ni acuerdo comercial. Edición y capítulos sin confirmar.
