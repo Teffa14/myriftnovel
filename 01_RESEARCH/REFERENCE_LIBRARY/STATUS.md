@@ -101,3 +101,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## ANN — Annie specialist guide (2026-11-25)
 [Research index](works/ANN/INDEX.md): 11,817 tokens, 45 units, 18 matchup contexts, 21 baseline swaps, two 40-card named main inventories with eight sideboard cards each, 48 candidates and six exercises. Tempo 13 and miracle 16 banned instances; no current legal list or replay certified.
+
+## OUT — route-preservation strategy (2026-11-25)
+[Research index](works/OUT/INDEX.md): 3,329 tokens, 21 units, 24 linked candidate refinements, six exercises, six structural checks and six abstract predicate tests. Separate from specialist guide corpus; overlap recorded, no replay or independent novelty claim.

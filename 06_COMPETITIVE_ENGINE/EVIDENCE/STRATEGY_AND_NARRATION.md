@@ -52,3 +52,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## ANN — tempo and multi-turn resource conversion
 [ANN research](../../01_RESEARCH/REFERENCE_LIBRARY/works/ANN/INDEX.md) supplements FTG FT-L07 and NLM/NLD with score-based development, resource parity, selection timing, flexible movement and post-board access changes. Historical Origins/Spiritforged layers separate; both written lists have banned cards. Verify official dated text and G3-scene. Simplified arithmetic is not rules certification.
+
+## OUT — route-preservation diagnostic
+[OUT protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/OUT/ROUTE_PROTOCOL.json) supplements NLM, RNG and other guides with plan invalidation, prerequisite tracking, future-draw usability, deadline and independent answer/non-answer branches. Compare routes before commitment; review with information then available. No source mechanic or win probability certified. Use dated G3-scene evidence for named interactions.

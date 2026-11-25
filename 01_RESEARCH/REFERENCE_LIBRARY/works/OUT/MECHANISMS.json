@@ -1,0 +1,452 @@
+[
+  {
+    "id": "OUT-M01",
+    "level": "L4",
+    "name": "Early invalidation detection",
+    "source_lines": "4–25,258–261",
+    "structure": "Identify first observation that removes ordinary development route.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Require evidence, not merely a disappointing draw.",
+    "acceptance_checks": [
+      "Require evidence, not merely a disappointing draw.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M41"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M02",
+    "level": "L4",
+    "name": "Endpoint-first comparison",
+    "source_lines": "4–25,89–107",
+    "structure": "Compare actions against attainable endpoints across turns.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Check clocks and legal feasibility; no forced win.",
+    "acceptance_checks": [
+      "Check clocks and legal feasibility; no forced win.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M34",
+      "RNG-M42"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M03",
+    "level": "L4",
+    "name": "Multi-step out",
+    "source_lines": "26–59",
+    "structure": "Represent an out as a path with enabling conditions.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Track dependencies and independent rival choices.",
+    "acceptance_checks": [
+      "Track dependencies and independent rival choices.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M48",
+      "IRE-M48"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M04",
+    "level": "L4",
+    "name": "Resource prerequisite lock",
+    "source_lines": "26–59,108–124",
+    "structure": "Reserve payment capacity needed for more important future action.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Verify colors, costs, substitutions and urgency.",
+    "acceptance_checks": [
+      "Verify colors, costs, substitutions and urgency.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "KSA-M07",
+      "ANN-M06",
+      "SET-M06"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M05",
+    "level": "L4",
+    "name": "Reassign weak hand",
+    "source_lines": "60–82",
+    "structure": "Determine available roles and revise objective.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Do not assume missing pieces arrive; revisit on evidence.",
+    "acceptance_checks": [
+      "Do not assume missing pieces arrive; revisit on evidence.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M41",
+      "IRE-M33"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M06",
+    "level": "L4",
+    "name": "Delayed-payoff bridge",
+    "source_lines": "60–82,155–171",
+    "structure": "Preserve resources until later action becomes affordable.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Reject if opposing close precedes recovery.",
+    "acceptance_checks": [
+      "Reject if opposing close precedes recovery.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "KSA-M08",
+      "ANN-M02"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M07",
+    "level": "L4",
+    "name": "Compressed scoring horizon",
+    "source_lines": "60–82,172–183",
+    "structure": "Shift toward pressure when longer game favors rival.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Compare clock and stabilization; no automatic aggression.",
+    "acceptance_checks": [
+      "Compare clock and stabilization; no automatic aggression.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "ANN-M35",
+      "SET-M37"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M08",
+    "level": "L4",
+    "name": "Threat-dependent interaction",
+    "source_lines": "60–82,184–199",
+    "structure": "Save support for future body when present exchanges lack lasting value.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Allow critical denial and useful early expenditure exceptions.",
+    "acceptance_checks": [
+      "Allow critical denial and useful early expenditure exceptions.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M48",
+      "ANN-M39"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M09",
+    "level": "L4",
+    "name": "Feasibility filter",
+    "source_lines": "89–107",
+    "structure": "Discard endpoints with unattainable prerequisites.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Distinguish possible, plausible and verified.",
+    "acceptance_checks": [
+      "Distinguish possible, plausible and verified.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M10",
+    "level": "L4",
+    "name": "Critical dependency ledger",
+    "source_lines": "108–124",
+    "structure": "Record irreplaceable resource, body, location and timing requirements.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Account for substitutions and removal.",
+    "acceptance_checks": [
+      "Account for substitutions and removal.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "KSA-M07",
+      "IRE-M18"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M11",
+    "level": "L4",
+    "name": "Local gain versus route survival",
+    "source_lines": "108–124,155–171",
+    "structure": "Compare immediate gain with loss of more valuable future path.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Avoid sunk-cost attachment to impossible routes.",
+    "acceptance_checks": [
+      "Avoid sunk-cost attachment to impossible routes.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "ANN-M03",
+      "KSA-M08"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M12",
+    "level": "L4",
+    "name": "Bounded answer coverage",
+    "source_lines": "125–136",
+    "structure": "Select line against defensible response subset if unable to cover all.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Use legal threat range and evidence; no automatic dismissal.",
+    "acceptance_checks": [
+      "Use legal threat range and evidence; no automatic dismissal.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "SET-M31",
+      "RNG-M46"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M13",
+    "level": "L4",
+    "name": "Ex ante risk commitment",
+    "source_lines": "125–136,233–253",
+    "structure": "Specify acceptable failure branch before action.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "No retroactive excuses; compare alternatives.",
+    "acceptance_checks": [
+      "No retroactive excuses; compare alternatives.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M46",
+      "IRE-M50"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M14",
+    "level": "L4",
+    "name": "Live-draw preservation",
+    "source_lines": "137–150",
+    "structure": "Compare prospective draw usability after candidate actions.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "A draw may be unaffordable or lack target/window.",
+    "acceptance_checks": [
+      "A draw may be unaffordable or lack target/window.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "IRE-M48",
+      "ANN-M06"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M15",
+    "level": "L4",
+    "name": "Conditional point concession",
+    "source_lines": "155–171",
+    "structure": "Accept temporary score cost only when later route remains viable.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Verify score and final-point constraint; never assume another turn.",
+    "acceptance_checks": [
+      "Verify score and final-point constraint; never assume another turn.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "KSA-M08"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M16",
+    "level": "L4",
+    "name": "Threat-first support allocation",
+    "source_lines": "184–199",
+    "structure": "Match scarce support to meaningful body or decisive denial.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Check earlier intervention alternatives.",
+    "acceptance_checks": [
+      "Check earlier intervention alternatives.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M48",
+      "ANN-M31"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M17",
+    "level": "L4",
+    "name": "Two-branch bait",
+    "source_lines": "200–218",
+    "structure": "Compare secondary threat when answered and ignored.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Both branches should help; include other legal responses.",
+    "acceptance_checks": [
+      "Both branches should help; include other legal responses.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "IRE-M39"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M18",
+    "level": "L4",
+    "name": "Opponent path suppression",
+    "source_lines": "219–232",
+    "structure": "Compare lead-preserving plans by rival recovery routes remaining.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "No perfect information or guaranteed safety.",
+    "acceptance_checks": [
+      "No perfect information or guaranteed safety.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "SET-M31",
+      "RNG-M42"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M19",
+    "level": "L4",
+    "name": "Avoid excess variance while ahead",
+    "source_lines": "219–232",
+    "structure": "Reject unnecessary commitment reopening relevant threat.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Verify simpler line is sufficient; avoid automatic passivity.",
+    "acceptance_checks": [
+      "Verify simpler line is sufficient; avoid automatic passivity.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "ANN-M28",
+      "RNG-M46"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M20",
+    "level": "L4",
+    "name": "Decision-result separation",
+    "source_lines": "233–253",
+    "structure": "Review evidence available at choice independently of result.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "No optimality from success or blanket excuse for loss.",
+    "acceptance_checks": [
+      "No optimality from success or blanket excuse for loss.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "IRE-M50",
+      "RNG-M46"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M21",
+    "level": "L4",
+    "name": "Plan-failure timestamp",
+    "source_lines": "258–261",
+    "structure": "Record earliest departure from baseline and delay in reassignment.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Use actual notes; distinguish hindsight.",
+    "acceptance_checks": [
+      "Use actual notes; distinguish hindsight.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M41"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M22",
+    "level": "L4",
+    "name": "Counterfactual rehearsal",
+    "source_lines": "262–265",
+    "structure": "In practice compare future consequences before revealing outcome.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "No unauthorized tournament pause or rewind.",
+    "acceptance_checks": [
+      "No unauthorized tournament pause or rewind.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M34"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M23",
+    "level": "L4",
+    "name": "Adverse-opening practice",
+    "source_lines": "266–273",
+    "structure": "Include missed curve and awkward hands in testing.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Fixed sampling and recorded failures; no cherry-picking.",
+    "acceptance_checks": [
+      "Fixed sampling and recorded failures; no cherry-picking.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "RNG-M34",
+      "IRE-M48"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  },
+  {
+    "id": "OUT-M24",
+    "level": "L6",
+    "name": "Coaching through revised assignments",
+    "source_lines": "60–82,254–286",
+    "structure": "Show changed priorities and actions as observable development.",
+    "conditions": "Actual known state, independent opponent goals and dated rules when applicable.",
+    "failure_case": "Original dialogue; avoid checklist monologue.",
+    "acceptance_checks": [
+      "Original dialogue; avoid checklist monologue.",
+      "Compare alternative and record consequences using pre-action evidence."
+    ],
+    "related_ids": [
+      "IRE-M50"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Overlap explicitly recorded; no independent discovery claim."
+  }
+]

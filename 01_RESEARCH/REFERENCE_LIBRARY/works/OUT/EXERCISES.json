@@ -1,0 +1,93 @@
+[
+  {
+    "id": "OUT-X01",
+    "mechanisms": [
+      "OUT-M01",
+      "OUT-M05",
+      "OUT-M21"
+    ],
+    "setup": "A practice player misses initial development but retains two later routes.",
+    "task": "Identify first failed prerequisite and assign a new objective; specify revision trigger.",
+    "failure": "Continuing on assumed draws.",
+    "state_change": "Document change of plan.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  },
+  {
+    "id": "OUT-X02",
+    "mechanisms": [
+      "OUT-M04",
+      "OUT-M11",
+      "OUT-M14"
+    ],
+    "setup": "A synthetic ledger has two persistent resources required by a later option; immediate play spends one.",
+    "task": "Compare usability of future draw under spending and saving; identify urgent exception.",
+    "failure": "Counting unaffordable draw as live.",
+    "state_change": "Identify preserved and destroyed routes.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  },
+  {
+    "id": "OUT-X03",
+    "mechanisms": [
+      "OUT-M06",
+      "OUT-M12",
+      "OUT-M15"
+    ],
+    "setup": "A trailing player may recover next turn if one resource remains.",
+    "task": "Compare concession and defense, including rival decisive scoring.",
+    "failure": "Assuming any point can be conceded.",
+    "state_change": "Retain routes compatible with clock.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  },
+  {
+    "id": "OUT-X04",
+    "mechanisms": [
+      "OUT-M07",
+      "OUT-M08",
+      "OUT-M23"
+    ],
+    "setup": "Two awkward hands: early threats without late payoff; support without threats.",
+    "task": "Assign distinct scoring horizon and preservation priority.",
+    "failure": "Same pacing rule for both.",
+    "state_change": "Distinct test plans.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  },
+  {
+    "id": "OUT-X05",
+    "mechanisms": [
+      "OUT-M17",
+      "OUT-M18",
+      "OUT-M19"
+    ],
+    "setup": "A secondary threat may be answered, ignored, or met with another response.",
+    "task": "Compare all branches from both players' perspectives.",
+    "failure": "Requiring opponent cooperation.",
+    "state_change": "Revise branch tree.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  },
+  {
+    "id": "OUT-X06",
+    "mechanisms": [
+      "OUT-M13",
+      "OUT-M20",
+      "OUT-M22",
+      "OUT-M24"
+    ],
+    "setup": "Two identical practice decisions have different later draws.",
+    "task": "Freeze pre-action evidence and review alternatives before revealing outcome.",
+    "failure": "Outcome-only evaluation.",
+    "state_change": "Evidence-linked coaching.",
+    "domain_validation": "abstract only; no game legality proof",
+    "canon_status": "noncanon",
+    "status": "proposed_not_playtested"
+  }
+]

@@ -1,0 +1,175 @@
+{
+  "source": "Stop Playing the Turn: How to Actually Play to Your Outs in Riftbound",
+  "author": null,
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "c6ff853972ededdd287341784d21aaaacddddd636a579ffdee13c798ca3df629",
+  "bytes": 19545,
+  "lines": 286,
+  "word_tokens": 3329,
+  "distinct_lowercase_forms": 837,
+  "blocks": 118,
+  "method": "Python UTF-8-sig; splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen, headings and markup included; lowercase types and blank-line separated blocks.",
+  "units": [
+    {
+      "id": "OUT-U01",
+      "start": 1,
+      "end": 3,
+      "tokens": 13,
+      "function_name": "Title"
+    },
+    {
+      "id": "OUT-U02",
+      "start": 4,
+      "end": 25,
+      "tokens": 276,
+      "function_name": "Replanning trigger"
+    },
+    {
+      "id": "OUT-U03",
+      "start": 26,
+      "end": 59,
+      "tokens": 282,
+      "function_name": "Prerequisite preservation"
+    },
+    {
+      "id": "OUT-U04",
+      "start": 60,
+      "end": 82,
+      "tokens": 372,
+      "function_name": "Hand-dependent role assignment"
+    },
+    {
+      "id": "OUT-U05",
+      "start": 83,
+      "end": 88,
+      "tokens": 55,
+      "function_name": "Diagnostic introduction"
+    },
+    {
+      "id": "OUT-U06",
+      "start": 89,
+      "end": 107,
+      "tokens": 179,
+      "function_name": "Reachable endpoint"
+    },
+    {
+      "id": "OUT-U07",
+      "start": 108,
+      "end": 124,
+      "tokens": 208,
+      "function_name": "Critical resources"
+    },
+    {
+      "id": "OUT-U08",
+      "start": 125,
+      "end": 136,
+      "tokens": 267,
+      "function_name": "Bounded response coverage"
+    },
+    {
+      "id": "OUT-U09",
+      "start": 137,
+      "end": 150,
+      "tokens": 121,
+      "function_name": "Future draw usability"
+    },
+    {
+      "id": "OUT-U10",
+      "start": 151,
+      "end": 154,
+      "tokens": 24,
+      "function_name": "Scenario introduction"
+    },
+    {
+      "id": "OUT-U11",
+      "start": 155,
+      "end": 171,
+      "tokens": 239,
+      "function_name": "Delayed recovery"
+    },
+    {
+      "id": "OUT-U12",
+      "start": 172,
+      "end": 183,
+      "tokens": 180,
+      "function_name": "Accelerated race"
+    },
+    {
+      "id": "OUT-U13",
+      "start": 184,
+      "end": 199,
+      "tokens": 179,
+      "function_name": "Threat-dependent interaction"
+    },
+    {
+      "id": "OUT-U14",
+      "start": 200,
+      "end": 218,
+      "tokens": 205,
+      "function_name": "Branch-valid secondary threat"
+    },
+    {
+      "id": "OUT-U15",
+      "start": 219,
+      "end": 232,
+      "tokens": 173,
+      "function_name": "Lead preservation"
+    },
+    {
+      "id": "OUT-U16",
+      "start": 233,
+      "end": 253,
+      "tokens": 215,
+      "function_name": "Risk evaluation"
+    },
+    {
+      "id": "OUT-U17",
+      "start": 254,
+      "end": 257,
+      "tokens": 40,
+      "function_name": "Practice introduction"
+    },
+    {
+      "id": "OUT-U18",
+      "start": 258,
+      "end": 261,
+      "tokens": 37,
+      "function_name": "Plan-loss timestamp"
+    },
+    {
+      "id": "OUT-U19",
+      "start": 262,
+      "end": 265,
+      "tokens": 51,
+      "function_name": "Counterfactual lookahead"
+    },
+    {
+      "id": "OUT-U20",
+      "start": 266,
+      "end": 273,
+      "tokens": 63,
+      "function_name": "Weak opening tests"
+    },
+    {
+      "id": "OUT-U21",
+      "start": 274,
+      "end": 286,
+      "tokens": 150,
+      "function_name": "Integration"
+    }
+  ],
+  "counts": {
+    "mechanism_refinements": 24,
+    "exercises": 6,
+    "abstract_predicate_tests": 6
+  },
+  "checks": [
+    "21 contiguous units, 286 lines, 3329 tokens",
+    "24 unique mechanism IDs",
+    "six exercises reference existing IDs",
+    "six positive and negative predicates",
+    "unused source ID",
+    "source ranges in bounds"
+  ]
+}

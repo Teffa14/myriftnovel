@@ -78,3 +78,6 @@ Use 01_RESEARCH/REFERENCE_LIBRARY/works/FTG/INDEX.md as the primary dated practi
 
 ## Serial-quality and payoff audit
 Before drafting and after each revision, apply 09_EDITORIAL_QA/SERIAL_QUALITY_PROTOCOL.md. Examine cumulative reader experience, deliver concrete competitive or character rewards, and maintain the private pilot/payoff ledger. Do not advance to a new chapter with pending approval or validation; no approved prose or canon is altered by this protocol.
+
+## OUT — optional decision-scene diagnostic
+For a consequential comeback, failed opener or closing choice consult [OUT](../01_RESEARCH/REFERENCE_LIBRARY/works/OUT/INDEX.md) alongside NLM and competitive evidence. Record initial plan, reason to revise, prerequisites, alternative actions and actual response; distinguish choice quality from later outcome. Optional selector, not a mandatory monologue, new canon or substitute for G3-scene. Preserve rival agency and failure branches.

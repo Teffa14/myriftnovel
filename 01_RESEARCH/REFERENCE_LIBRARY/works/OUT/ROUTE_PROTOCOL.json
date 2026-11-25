@@ -1,0 +1,111 @@
+{
+  "routeSchema": {
+    "scope": "Original editorial diagnostic, not a game simulator.",
+    "fields": [
+      "decision_id",
+      "scene_date",
+      "format",
+      "score_and_clock",
+      "public_state",
+      "pov_known_private_state",
+      "unknowns",
+      "baseline_plan",
+      "invalidation_evidence",
+      "candidate_routes",
+      "selected_action",
+      "opponent_actual_response",
+      "resulting_state",
+      "postgame_review"
+    ],
+    "route_fields": [
+      "endpoint",
+      "prerequisites",
+      "critical_resources",
+      "deadline",
+      "current_action",
+      "alternative_action",
+      "opponent_response_branches",
+      "future_draw_conditions",
+      "failure_condition",
+      "legality_evidence",
+      "uncertainty"
+    ],
+    "acceptance": "Compare feasible alternatives when present. Never invent an alternative or guarantee a draw. Use G3-scene evidence for named mechanics."
+  },
+  "tests": [
+    {
+      "id": "OUT-T01",
+      "purpose": "Resource capacity preserved",
+      "input": {
+        "available": 2,
+        "required": 2,
+        "spend": 0
+      },
+      "expected": true,
+      "actual": true,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    },
+    {
+      "id": "OUT-T02",
+      "purpose": "Resource capacity destroyed",
+      "input": {
+        "available": 2,
+        "required": 2,
+        "spend": 1
+      },
+      "expected": false,
+      "actual": false,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    },
+    {
+      "id": "OUT-T03",
+      "purpose": "Both basic bait branches useful",
+      "input": {
+        "answer": true,
+        "ignore": true
+      },
+      "expected": true,
+      "actual": true,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    },
+    {
+      "id": "OUT-T04",
+      "purpose": "Non-answer branch unhelpful",
+      "input": {
+        "answer": true,
+        "ignore": false
+      },
+      "expected": false,
+      "actual": false,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    },
+    {
+      "id": "OUT-T05",
+      "purpose": "Recovery before deadline",
+      "input": {
+        "recovery": 2,
+        "deadline": 3
+      },
+      "expected": true,
+      "actual": true,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    },
+    {
+      "id": "OUT-T06",
+      "purpose": "Recovery after deadline",
+      "input": {
+        "recovery": 3,
+        "deadline": 2
+      },
+      "expected": false,
+      "actual": false,
+      "pass": true,
+      "scope": "synthetic predicate, not actual game simulation"
+    }
+  ]
+}
