@@ -1,26 +1,26 @@
 {
   "version": "2.0",
   "approved_chapters_registered": 1,
-  "retired_resources_registered": 52,
-  "manuscript_audits": 1,
+  "retired_resources_registered": 91,
+  "manuscript_audits": 2,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 1,
-    "new_variant_candidates": 3
+    "own_approved_units": 2,
+    "new_variant_candidates": 6
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "verified local archive and successfully uploaded to user's private ChatGPT Library; retrieve by exact filename before new production",
+  "private_archive": "authoritative v2 verified locally and uploaded to private ChatGPT Library; original Chapter 1 archive retained as history",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_CH0001_PRIVATE_ARCHIVE.zip",
-  "usage_records": 16,
-  "lexical_fingerprints_registered": 2457,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip",
+  "usage_records": 32,
+  "lexical_fingerprints_registered": 4636,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -42,5 +42,27 @@
     "passed": 18,
     "failed": 0,
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
+  },
+  "approved_supplements_registered": 1,
+  "approved_units_registered": 2,
+  "chapter_1_1": {
+    "revision": "V4",
+    "words": 2186,
+    "paragraphs": 81,
+    "distinctive_retired_spans": 39,
+    "scenes": 3,
+    "usage_records": 16,
+    "abstract_variants": 3,
+    "archive_integrity": "verified",
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "scope": "fresh lexical comparison with approved CH0001 V4.1; same-agent semantic review; no exhaustive third-party corpus certification",
+    "g6": "approved unit archived, distilled and registered; supplement migration tested"
+  },
+  "supplement_registration_checks": {
+    "passed": 26,
+    "failed": 0,
+    "scope": "local archive integrity, migration, continuity and lexical checks"
   }
 }

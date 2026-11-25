@@ -15,25 +15,44 @@
   },
   "chapter_02": {
     "status": "not_started",
-    "preflight": "ChatGPT retrieve private archive from Library, verify manifest and hashes with private tools/check_future.py --verify-only; load private continuity and abstract usage summaries, complete any outstanding scoped reference review, write without retrieving retired wording for generation; screen candidate and conduct semantic review before approval"
+    "preflight": "Retrieve latest authoritative archive v2 or its verified successor; verify manifest with tools/check_future.py --verify-only, validate continuity_registry.json with tools/validate_continuity.py, consult chronology, knowledge, obligations, abstract usage summaries and NDM 2.0 before drafting. Screen candidate against both approved units; never use retired expressions as a generation source."
   },
   "publication": "not published by this work; rights gate separate",
   "chapter_01_1": {
     "id": "CH0001.1",
     "title": "Faces at the Table",
-    "status": "draft_pending_author_approval",
-    "format": "optional reader-facing character interlude, separate from numbered main chapters",
-    "words_excluding_headings": 884,
-    "profiles": 6,
+    "status": "author_approved_and_distilled",
+    "revision": "V4",
+    "format": "supplement, not a numbered main chapter",
+    "words_excluding_headings": 2186,
+    "paragraphs": 81,
+    "scenes": 3,
+    "retired_resources": 39,
+    "abstract_usage_records": 16,
+    "variant_candidates": 3,
+    "lexical_fingerprints": 2179,
     "originality": {
       "prior_archive_verified": true,
       "retired_expression_matches": 0,
       "body_lexical_flags": 0,
-      "heading_only_matches": 2,
-      "scope": "Python lexical screening and same-agent editorial comparison; no exhaustive source-semantic certification"
+      "scope": "fresh Python lexical comparison against approved CH0001 and same-agent semantic continuity review; no exhaustive external source certification"
     },
-    "character_details": "proposed; do not treat as locked until approval",
-    "publication": "not published",
-    "archive_requirement": "On approval extend the private manifest and checker to include interlude as an ordered supplementary unit without changing CH0001 or counting it as CH0002; distill and retire its expressive resources before subsequent drafting."
+    "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
+    "publication": "not published"
+  },
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip",
+  "private_archive_integrity_verified": true,
+  "continuity": {
+    "records": 101,
+    "events": 8,
+    "approved_records": 101,
+    "open_intentional_unknowns": 4,
+    "structural_validation": "passed; semantic review same-agent",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip"
+  },
+  "archive_checks": {
+    "passed": 26,
+    "failed": 0,
+    "scope": "source integrity, supplement order and regression tests, lexical screening, continuity validation and negative controls"
   }
 }
