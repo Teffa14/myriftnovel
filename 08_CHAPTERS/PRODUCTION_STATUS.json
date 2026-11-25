@@ -15,7 +15,29 @@
   },
   "chapter_02": {
     "status": "not_started",
-    "preflight": "Retrieve latest authoritative archive v2 or its verified successor; verify manifest with tools/check_future.py --verify-only, validate continuity_registry.json with tools/validate_continuity.py, consult chronology, knowledge, obligations, abstract usage summaries and NDM 2.0 before drafting. Screen candidate against both approved units; never use retired expressions as a generation source."
+    "preflight": "Retrieve latest authoritative archive v2 or its verified successor; verify manifest with tools/check_future.py --verify-only, validate continuity_registry.json with tools/validate_continuity.py, consult chronology, knowledge, obligations, abstract usage summaries and NDM 2.0 before drafting. Screen candidate against both approved units; never use retired expressions as a generation source.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "cf853bcd2e318c03c0d5f5f4edbf0852e58dbbc4",
+      "repository_inventory": {
+        "entries": 214,
+        "truncated": false
+      },
+      "archive_verified": true,
+      "approved_units": 2,
+      "retired_expressions": 91,
+      "usage_records": 32,
+      "continuity_records": 101,
+      "timeline_events": 8,
+      "structural_errors": 0,
+      "intentional_unknown_groups": 4,
+      "guard_tests_passed": 4,
+      "additional_source_timeline_finance_checks_passed": 10,
+      "competitive_evidence_pack": "equivalent date-filtered execution; 2 candidate decks, 40 price references, 9 scoped cases; 2 pack assertions passed",
+      "planned_competitive_scope": "L0, narrative-only; no new mechanical claims planned",
+      "private_brief": "Delivered privately in conversation; no plot or manuscript content committed.",
+      "limitations": "Applicable source review scoped; some long guides retrieved in excerpts and research archives not exhaustively reprocessed. Finish remaining applicable guide review before drafting. Draft-specific QA, originality screening, author approval and distillation not yet applicable."
+    }
   },
   "publication": "not published by this work; rights gate separate",
   "chapter_01_1": {
