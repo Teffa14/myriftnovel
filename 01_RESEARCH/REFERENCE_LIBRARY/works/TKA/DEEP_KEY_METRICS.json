@@ -1,0 +1,97 @@
+{
+  "chapters": 1728,
+  "words": 3154011,
+  "paragraphs": 100530,
+  "unique_word_forms": 23716,
+  "segments": 8640,
+  "quote_spans": 37236,
+  "nearby_attribution_candidates": 17640,
+  "attribution": {
+    "said": 9279,
+    "asked": 2674,
+    "replied": 1373,
+    "shouted": 689,
+    "laughed": 647,
+    "called": 463,
+    "continued": 460,
+    "yelled": 384,
+    "sighed": 370,
+    "answered": 222
+  },
+  "paragraph_proxies": {
+    "other": 46845,
+    "dialogue": 31379,
+    "description": 7087,
+    "combat": 5833,
+    "institution": 3675,
+    "explanation": 3163,
+    "reflection": 2548
+  },
+  "quintiles": {
+    "questions_per_1000": [
+      6.87,
+      7.705,
+      8.56,
+      8.89,
+      9.244
+    ],
+    "exclamations_per_1000": [
+      5.441,
+      6.92,
+      7.751,
+      8.323,
+      9.522
+    ],
+    "combat_per_1000": [
+      8.282,
+      9.239,
+      9.989,
+      9.685,
+      9.493
+    ],
+    "quoted_pct": [
+      8.09,
+      11.08,
+      12.17,
+      13.13,
+      14.99
+    ]
+  },
+  "edges": {
+    "opening": {
+      "question_pct": 15.28,
+      "exclamation_pct": 15.74,
+      "quote_start_pct": 15.62
+    },
+    "middle": {
+      "question_pct": 22.05,
+      "exclamation_pct": 18.75,
+      "quote_start_pct": 33.74
+    },
+    "closing": {
+      "question_pct": 24.19,
+      "exclamation_pct": 29.11,
+      "quote_start_pct": 36.57
+    }
+  },
+  "combat_quartiles": {
+    "n_per_group": 432,
+    "low": {
+      "combat_median": 0.65,
+      "quote_pct": 16.53,
+      "urgency": 3.45,
+      "reversal": 9.65,
+      "space": 5.08,
+      "explanation": 8.13
+    },
+    "high": {
+      "combat_median": 20.56,
+      "quote_pct": 6.27,
+      "urgency": 5.63,
+      "reversal": 12.33,
+      "space": 6.84,
+      "explanation": 8.04
+    }
+  },
+  "note": "See deep/deep_metrics.json inside ZIP for comprehensive data and definitions; all signals are heuristics, not semantic labels."
+}

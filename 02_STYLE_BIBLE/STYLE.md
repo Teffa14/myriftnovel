@@ -34,3 +34,6 @@ Nota: el fragmento es un ejercicio literario, no una partida validada ni una dec
 
 ## Calibración experimental TKA
 Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/TRANSFER_RULES.md. Rango inicial 1500–2100 palabras como propuesta; composición según función social/competitiva; foco por escena, exposición ligada a decisiones, cierres variados y consecuencias humanas. Pendiente corroboración con otras obras y lectores.
+
+## Método de escritura TKA — aplicación provisional
+Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/WRITING_METHOD.md. Diferenciar registro de narración y diálogo; usar sujeto/acción/consecuencia, contraste funcional, exposición vinculada a decisiones, descripciones sensoriales relevantes y atribuciones sencillas. Apertura anclada en situación; desarrollo mediante restricciones, hipótesis y contrajuego; cierre con consecuencia, decisión o incertidumbre legítima. En combate usar replay legal y separar inferencia de conocimiento. Los datos del corpus sirven para diagnóstico, no cuotas obligatorias ni imitación literal. El estilo propio queda pendiente de calibración multifuente.

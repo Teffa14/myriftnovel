@@ -8,3 +8,6 @@ Preguntas: ¿qué desea el personaje?, ¿cómo se transmite información?, ¿qu�
 
 ## EPUB aportado
 1728 archivos narrativos procesados cuantitativamente; 27 archivos narrativos con fragmentos examinados y nota final (véase lista exacta en DISTILLATION.md). Cero fichas integrales certificadas. Ver DISTILLATION.md, TRANSFER_RULES.md, METHOD.md y chapter_metrics.csv. Integridad de numeración pendiente.
+
+## Segunda pasada: método integral de escritura
+Consultar WRITING_METHOD.md y DEEP_ANALYSIS_README.md. TKA_deep_distillation.zip conserva los 29 archivos originales (código, datasets y manual); hash verificado. 1728 archivos y 8640 segmentos analizados automáticamente, 23716 formas de palabra. Lectura semántica completa aún pendiente.

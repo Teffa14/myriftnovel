@@ -3,3 +3,6 @@ Referencias registradas: 14. Fichas de obras: 14. Unidades consultadas directame
 
 ## TKA actualización
 1728 archivos narrativos procesados; 3.154.011 palabras; 122 encabezados discrepantes. Muestreo cualitativo y 20 reglas candidatas; cero fichas integrales certificadas. Otras obras pendientes. Ver works/TKA/DISTILLATION.md.
+
+## Segunda pasada TKA
+Procesamiento de los 1728 archivos narrativos: léxico, POS, voz, comillas, transiciones, personajes, estructura, quintiles de tensión y densidad de combate. 8640 segmentos, 23716 formas de palabra. Manual transferible y paquete original de 29 archivos en works/TKA/TKA_deep_distillation.zip. No se certifica lectura crítica integral de cada capítulo.
