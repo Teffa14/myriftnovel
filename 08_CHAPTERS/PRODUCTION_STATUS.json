@@ -65,23 +65,24 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v4.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 152,
-    "events": 14,
-    "approved_records": 152,
-    "open_issue_groups": 5,
+    "records": 202,
+    "events": 23,
+    "approved_records": 202,
+    "open_issue_groups": 6,
     "structural_validation": "passed; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v4.zip",
+    "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 32,
+    "passed": 36,
     "failed": 0,
-    "scope": "Chapter 2 close-out, all prior approved hashes, exact source, lexical screening, continuity and negative controls"
+    "scope": "archive, lexical, source locators, conditional rule fixtures, calendar and continuity"
   },
   "chapter_03": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight": "Retrieve authoritative archive v3, run archive and continuity validators, load all three approved units and relevant abstract usage and continuity records. Compare candidate against all three before approval; honor previously established commitments and knowledge boundaries.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -125,6 +126,43 @@
       "planned_competitive_scope": "L0 by default; L1 only after exact dated claim verification",
       "private_dossier": "/The Last Draw - Private Archive/CH0003_preflight.zip",
       "limitations": "Scoped source review, not all 230 files or raw third-party corpus exhaustively read; new scene details provisional; no draft-specific originality or mechanical certification; no artificial scores or reader evidence."
-    }
+    },
+    "revision": "V4",
+    "title": "Coverage",
+    "words_excluding_headings": 1772,
+    "paragraphs": 59,
+    "scenes": 1,
+    "retired_resources": 41,
+    "abstract_usage_records": 15,
+    "variant_candidates": 3,
+    "lexical_fingerprints": 1765,
+    "competitive_scope": "L1 conditional: two bounded spell interactions; complete character decklists, full match replay and G3-global remain unverified",
+    "prior_screening": {
+      "approved_units": 3,
+      "retired_spans_screened": 127,
+      "lexical_flags": 0,
+      "retired_matches": 0,
+      "internal_5grams_ge2": 0
+    },
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v4.zip",
+    "approval": "Author expressly authorized V4 close-out; extracted body preserved verbatim; Markdown heading only; browser export metadata excluded",
+    "checks": {
+      "passed": 36,
+      "failed": 0,
+      "scope": "source integrity, lexical, manifest, continuity, calendar, simple predicate/priority/board-transition fixtures and arithmetic; not a rules engine or independent judge review"
+    },
+    "publication": "not published"
+  },
+  "chapter_04": {
+    "status": "not_started",
+    "preflight": "Retrieve authoritative archive v4 or verified successor. Validate archive and continuity, load all four approved units, select fresh narrative mechanisms; honor prior commitments. Competitive preflight must distinguish real reference compositions from fictional character decks, establish source-linked versioned decklists before extended technical gameplay, and maintain dated post-ban references. No automatic approval or publication."
+  },
+  "competitive_registry_status": {
+    "historical_complete_reference_lists": 2,
+    "registered_card_rows": 64,
+    "fully_assigned_character_lists": 0,
+    "target_reference_lists": 100,
+    "status": "incomplete; not a certification of deck legality",
+    "requirement": "distinguish historical pre-ban evidence, dated post-ban imports, and fictional character versions; no invented lists or results"
   }
 }
