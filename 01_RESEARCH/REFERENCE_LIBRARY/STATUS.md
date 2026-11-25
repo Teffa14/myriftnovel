@@ -15,3 +15,6 @@ Dos muestras parciales distintas leídas cualitativamente; ninguna unidad comple
 
 ## MSC-EX03
 Tres muestras parciales distintas analizadas cualitativamente; cero capítulos completos certificados. Tercera: integración al equipo, derrota de cartas iniciales, limpieza coordinada de enemigos menores, instrucción y comprensión de mecánica de jefe, resolución del jefe pendiente. 10 patrones y 4 bloques originales añadidos; total 60 patrones y 23 bloques. No se ejecutó Python sobre MSC. Edición y capítulos sin confirmar.
+
+## MSC-EX04
+Cuatro muestras parciales distintas analizadas cualitativamente; cero capítulos completos certificados. Cuarta: resultado informado de jefe, economía, pedido de cliente, restricciones de acceso, ecosistema y agencia interpersonal. Ocho patrones candidatos y tres bloques originales nuevos; total acumulado 68 entradas y 26 bloques, con mecanismos relacionados. No se ejecutó Python sobre MSC ni se verificó edición. No se observó ejecución del jefe, deckbuilding competitivo ni torneo de cartas en esta muestra.

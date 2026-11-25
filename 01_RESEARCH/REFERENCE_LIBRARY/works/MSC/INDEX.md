@@ -14,3 +14,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX03 — equipo, coordinación y reputación
 [Análisis](TEAM_COMBAT_EXCERPT_ANALYSIS.md): tercera muestra parcial, presentación del estudio, fracaso inicial, coordinación contra enemigos menores, explicación y reformulación de mecánica del jefe. La ejecución contra el jefe no aparece. Diez patrones y cuatro bloques originales adicionales. Cero capítulos completos certificados.
+
+## MSC-EX04 — economía y agencia
+[Análisis](ECONOMY_AND_AGENCY_EXCERPT_ANALYSIS.md): cuarta muestra parcial, recompensa, encargo comercial, plazos, restricción de nivel, mapa funcional, conflicto de valores y propuesta de cooperación. Ocho patrones y tres bloques originales; cero capítulos completos certificados. La muerte del jefe se informa, pero no se muestra su ejecución.
