@@ -22,3 +22,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## NLM — central TCG strategic lens
 [NLM](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/INDEX.md) is a major strategy reference for decision structure, resource accounting, contextual utility, role assignment, preparation and error review. Use [transfer protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md); distinguish historical MTG rules from actual dated Riftbound evidence. No optimality, hidden information, win probability or legal interaction asserted without independent evidence. The arithmetic fixtures are synthetic, not a replay engine.
+
+## NLD — strategic design and matchup evidence
+[NLD](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/INDEX.md) adds card-role analysis, rate versus synergy, sequential resource access, threat/answer coverage, sideboard accounting and 16 MTG macroarchetypes. Map only functions supported by actual Riftbound rules. No forced taxonomy or fabricated win rates. Source p.21 figures require [arithmetic correction](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/PROBABILITY_AUDIT.json). Distinguish construction flaws, piloting errors and variance.

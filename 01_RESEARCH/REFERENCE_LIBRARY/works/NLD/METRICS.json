@@ -1,0 +1,356 @@
+{
+  "source": "Patrick Chapin, Next Level Deckbuilding; supplied PDF, creation metadata 2013-07-24 (publication date not independently verified)",
+  "sha256": "319948758474869d1aad9898e1241454d3521019bb534e710f57321664fb9a53",
+  "bytes": 98578290,
+  "pages": 473,
+  "raw_word_tokens": 136831,
+  "clean_word_tokens": 134871,
+  "all_distinct_word_types": 9264,
+  "body_pages": [
+    5,
+    470
+  ],
+  "body_word_tokens": 133892,
+  "body_distinct_word_types": 9208,
+  "body_hapax": 3528,
+  "pages_with_image_objects": 289,
+  "empty_text_pages": [
+    1
+  ],
+  "main_units": 47,
+  "total_units": 48,
+  "macro_archetypes": 16,
+  "method": "PyMuPDF text layer; line trim; remove exact known running headers and standalone digits; lowercase Unicode alphabetic tokens with optional internal apostrophes/hyphens. Includes headings, decklist words, captions and repeated callouts. No OCR; page 1 cover visible without text layer.",
+  "unit_metrics": [
+    [
+      1,
+      5,
+      7,
+      774
+    ],
+    [
+      2,
+      8,
+      16,
+      3252
+    ],
+    [
+      3,
+      17,
+      21,
+      1625
+    ],
+    [
+      4,
+      22,
+      22,
+      393
+    ],
+    [
+      5,
+      23,
+      24,
+      810
+    ],
+    [
+      6,
+      25,
+      38,
+      3896
+    ],
+    [
+      7,
+      39,
+      53,
+      5442
+    ],
+    [
+      8,
+      54,
+      54,
+      392
+    ],
+    [
+      9,
+      55,
+      59,
+      1404
+    ],
+    [
+      10,
+      60,
+      73,
+      3927
+    ],
+    [
+      11,
+      74,
+      75,
+      776
+    ],
+    [
+      12,
+      76,
+      77,
+      559
+    ],
+    [
+      13,
+      78,
+      84,
+      2797
+    ],
+    [
+      14,
+      85,
+      87,
+      959
+    ],
+    [
+      15,
+      88,
+      97,
+      2816
+    ],
+    [
+      16,
+      98,
+      101,
+      1198
+    ],
+    [
+      17,
+      102,
+      114,
+      4606
+    ],
+    [
+      18,
+      115,
+      119,
+      1387
+    ],
+    [
+      19,
+      120,
+      141,
+      7195
+    ],
+    [
+      20,
+      142,
+      156,
+      4008
+    ],
+    [
+      21,
+      157,
+      177,
+      5729
+    ],
+    [
+      22,
+      178,
+      190,
+      3435
+    ],
+    [
+      23,
+      191,
+      202,
+      3415
+    ],
+    [
+      24,
+      203,
+      213,
+      2876
+    ],
+    [
+      25,
+      214,
+      227,
+      3659
+    ],
+    [
+      26,
+      228,
+      239,
+      3289
+    ],
+    [
+      27,
+      240,
+      254,
+      4064
+    ],
+    [
+      28,
+      255,
+      266,
+      3337
+    ],
+    [
+      29,
+      267,
+      280,
+      3855
+    ],
+    [
+      30,
+      281,
+      294,
+      4319
+    ],
+    [
+      31,
+      295,
+      310,
+      4179
+    ],
+    [
+      32,
+      311,
+      329,
+      5161
+    ],
+    [
+      33,
+      330,
+      342,
+      3066
+    ],
+    [
+      34,
+      343,
+      359,
+      4488
+    ],
+    [
+      35,
+      360,
+      376,
+      4908
+    ],
+    [
+      36,
+      377,
+      384,
+      2392
+    ],
+    [
+      37,
+      385,
+      390,
+      1537
+    ],
+    [
+      38,
+      391,
+      394,
+      1254
+    ],
+    [
+      39,
+      395,
+      403,
+      2413
+    ],
+    [
+      40,
+      404,
+      411,
+      2228
+    ],
+    [
+      41,
+      412,
+      420,
+      2643
+    ],
+    [
+      42,
+      421,
+      429,
+      2714
+    ],
+    [
+      43,
+      430,
+      437,
+      1895
+    ],
+    [
+      44,
+      438,
+      445,
+      2197
+    ],
+    [
+      45,
+      446,
+      455,
+      2584
+    ],
+    [
+      46,
+      456,
+      467,
+      3261
+    ],
+    [
+      47,
+      468,
+      470,
+      778
+    ],
+    [
+      48,
+      471,
+      473,
+      811
+    ]
+  ],
+  "term_counts_body": {
+    "tempo": 37,
+    "card advantage": 80,
+    "virtual card advantage": 1,
+    "mana curve": 33,
+    "opportunity cost": 9,
+    "sideboard": 312,
+    "removal": 150,
+    "threat": 27,
+    "probability": 12,
+    "hypergeometric": 3,
+    "synergy": 20,
+    "archetype": 37,
+    "metagame": 32,
+    "gauntlet": 15,
+    "playtesting": 3,
+    "control": 472,
+    "aggro": 255,
+    "combo": 333,
+    "midrange": 88,
+    "lock": 90,
+    "storm": 70,
+    "swarm": 54,
+    "land": 250,
+    "mana": 815,
+    "baneslayer": 34,
+    "mulldrifter": 14,
+    "inevitability": 8,
+    "redundancy": 15,
+    "consistency": 3,
+    "templating": 5,
+    "linear": 72,
+    "reactive": 9,
+    "proactive": 11,
+    "flexibility": 10,
+    "flood": 9,
+    "screw": 6,
+    "mulligan": 2,
+    "clock": 23,
+    "matchup": 39,
+    "card evaluation": 1
+  }
+}

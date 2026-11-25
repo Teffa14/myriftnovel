@@ -1,0 +1,23 @@
+# NLD — 16 macroarchetypes
+Source pp.140–141, 142–376 and cover. Four families of four archetypes on a continuous spectrum; the aggressive/reactive and fair/unfair axes describe game-plan structure, not sportsmanship. Non-Blue Control and Aggro-Control belong to Midrange; Lava Spike belongs to Combo. These are analytical MTG labels, not proof that sixteen equivalent Riftbound decks exist.
+
+| ID | Family | Archetype | Pages | Objective | Functions | Failure hypothesis | Target-game transfer |
+|---|---|---|---|---|---|---|---|
+| NLD-A01 | Aggro | Red Aggro | 142–156 | Fast board pressure with reach and interaction | Cheap threats, flexible answers, closing routes | Threats answered and closing routes fail | Compare removal used to clear a path versus kept for later; only legal point-producing effects count. |
+| NLD-A02 | Aggro | Linear Aggro | 157–177 | Shared-property scaling | Enablers, density, payoffs, redundancy | Low density or disruption of common dependency | Measure payoff access with and without supporting package. |
+| NLD-A03 | Aggro | Swarm | 178–190 | Multiple bodies and collective enhancement | Board presence, efficient bodies, scaling | Concentrated removal exposure, limited reach | Compare territorial coverage with concentration using actual battlefield rules. |
+| NLD-A04 | Aggro | Fish / Suicide Black | 191–202 | Pressure first; disruption protects its window | Early threats and inexpensive interaction | Delayed pressure makes disruption less useful | Compare answer cost against additional scoring opportunities. |
+| NLD-A05 | Midrange | Rock / Junk | 203–213 | Disrupt then develop stronger threats | Flexible answers, progressive threats, recovery | Outpaced or outscaled by specialized plans | Assign role from the matchup rather than label. |
+| NLD-A06 | Midrange | Pure Midrange | 214–227 | Standalone efficiency and flexible roles | Strong individual cards, curve, broad answers | Synergistic rival has higher payoff ceiling | Compare independent utility with package contribution. |
+| NLD-A07 | Midrange | Non-Blue Control | 228–239 | Board-centric reactive plan | Coverage, removal, value engine, finish | Answers miss other threats or are exhausted | Build a target/answer matrix and verify closure. |
+| NLD-A08 | Midrange | Aggro-Control | 240–254 | Interaction produces tempo then threats convert it | Flexible timing, threats, disruption | Role misassignment or failure to convert time | Differentiate from Fish by which function drives the plan. |
+| NLD-A09 | Control | Tap-Out Control | 255–266 | Proactive high-impact stabilization | Strong proactive plays and support | Exposure while resources are committed | Compare committing now against retaining legal responses. |
+| NLD-A10 | Control | Draw-Go | 267–280 | Maintain response options and develop advantage | Permissible reactive effects, selection, finish | Unused resources or unresolved threats consume time | Verify response windows and scoring route. |
+| NLD-A11 | Control | Lock | 281–294 | Sustain restrictions that reduce opposing options | Restriction pieces, recovery prevention, finish | Alternative routes or disruption | Document exact restricted options, scope, duration and counterplay. |
+| NLD-A12 | Control | Combo-Control | 295–310 | Reactive shell then concentrated payoff | Survival, assembly, protection, payoff | Dead pieces or failed protection | Compare defensive costs, access and fallback. |
+| NLD-A13 | Combo | Big Spell Combo | 311–329 | Reach substantial payoff early or reliably | Resource access, acceleration, payoff, contingency | Payoff stranded, late or answered | Check attainable resources and relevant responses. |
+| NLD-A14 | Combo | Traditional Combo | 330–342 | Combine required effects into decisive route | Components, selection, redundancy, protection | Missing piece, interference, weak draws | Prove each prerequisite and alternative. |
+| NLD-A15 | Combo | Storm Combo | 343–359 | Accumulated actions/resources enable payoff | Sequencing, replenishment, payoff, finite chain | Chain stalls or resource miscalculation | Verify net resource deltas, ordering and finite termination. |
+| NLD-A16 | Combo | Lava Spike | 360–376 | Narrow racing route bypasses ordinary interaction | Efficient progress effects and consistency | Weak reactive capacity and defensive counterplay | Require legal scoring route; MTG direct damage is not a Riftbound rule. |
+
+For a fictional pairing describe both players' reachable scoring horizons, resource profiles, dependencies, board interaction, flexibility, recovery and between-game changes. Classify by observed behavior, allow hybrids, and avoid universal matchup triangles and invented percentages. Unsupported transfers remain unsupported; verify exact legal effects.

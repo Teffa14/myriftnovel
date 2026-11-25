@@ -68,3 +68,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## NLM — central competitive strategy reference (2026-11-25)
 [Research index](works/NLM/INDEX.md): 433 pages extracted; 105,555 cleaned word tokens total, 96,562 main-body words, 6,418 main-body word types, 70 main units and 136 glossary headings. 45 candidate mechanism entries, not independent certified techniques. All source sections mapped; selective qualitative review, no exhaustive paragraph-level semantic certification or image-only text extraction. 12 game-agnostic arithmetic tests passed; no Riftbound replay validated. Separate from prior corpus counts. Source not committed; no new canon.
+
+## NLD — central deckbuilding reference (2026-11-25)
+[Research index](works/NLD/INDEX.md). 473 pages, 134,871 cleaned tokens, 9,264 word types, 47 main units; 16 archetype records and 29 decision refinements (overlap with NLM retained). Source p.21: 314 cells checked, 20 deviations above tolerance; exact formula passed 2,088 exhaustive small-population cases. Full computational coverage, selective semantic/visual review; no Riftbound deck or replay validated, no new canon.

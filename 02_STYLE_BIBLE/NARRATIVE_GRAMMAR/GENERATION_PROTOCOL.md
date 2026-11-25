@@ -78,3 +78,6 @@ Use [MAJ candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAJ/PATTERNS.md) 
 
 ## NLM competitive decision selector
 Consult [NLM decision mechanisms](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/DECISION_MECHANISMS.md) and [transfer protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md) for substantive competitive decisions, preparation, deck construction, team testing and postgame review. Keep an explicit objective, verified state, legal alternatives, uncertainty and material consequence. Select mechanisms by scene function; never reproduce source examples, give every character the same strategic voice, or import MTG mechanics. Existing G3-scene and NDM 2.0 gates remain mandatory.
+
+## NLD deck construction selector
+Consult [NLD deckbuilding protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md) and [archetype matrix](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/ARCHETYPE_MATRIX.md) for deck choice, testing, slots and roles. Use independent objectives, dated legal card identities, actual resource constraints, alternatives and evidence. NLD supports NLM; G3-scene and originality gates remain. No imported MTG mechanics or source examples.
