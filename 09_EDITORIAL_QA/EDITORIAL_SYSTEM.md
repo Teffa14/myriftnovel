@@ -1,0 +1,6 @@
+# Comité editorial y estándar de aceptación
+Roles: director narrativo (decisiones y canon), arquitecto de tramas (causalidad, pistas y resoluciones), psicólogo de personajes (motivaciones y agencia), analista competitivo (legalidad y estrategia), novelista (borrador), editor literario (estructura, voz, ritmo y línea), auditor de continuidad (contradicciones y estados). Separar autor y evaluador en lo posible; revisión humana significativa antes de publicar.
+
+Rúbrica 0–10: coherencia narrativa, profundidad psicológica, naturalidad de diálogos, calidad de prosa, originalidad, ritmo y tensión, continuidad, precisión competitiva, impacto emocional y contribución al arco. Umbral propuesto: promedio ≥9, ninguna dimensión <8, cero errores de continuidad o reglas. Cada valoración exige evidencia, pasajes, defecto, gravedad y reparación. Los números no garantizan calidad profesional ni sustituyen lectores y editores humanos.
+
+Gates de proyecto: G1 corpus documentado y técnicas demostradas; G2 fundamentos coherentes y decisiones autorales aprobadas; G3 partidas reproducibles y tests ejecutados; G4 piloto revisado; G5 validación de mercado y derechos. Estado actual: preliminar, sin certificaciones ni pruebas ejecutadas.
