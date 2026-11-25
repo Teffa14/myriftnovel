@@ -303,7 +303,33 @@
   },
   "chapter_06": {
     "status": "not_started",
-    "preflight": "CH0005.1 (display 5.5) closed. Retrieve verified v7 or successor, full approved history, source-linked continuity and private pilot/payoff ledger; preserve unresolved practice chronology, verify next chapter scope, run fresh originality and competitive checks as applicable. No automatic draft or publication."
+    "preflight": "CH0005.1 (display 5.5) closed. Retrieve verified v7 or successor, full approved history, source-linked continuity and private pilot/payoff ledger; preserve unresolved practice chronology, verify next chapter scope, run fresh originality and competitive checks as applicable. No automatic draft or publication.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed",
+      "source_commit": "bd1ddefc184b2c746f1c0d367651d198341a3207",
+      "repository_inventory": {
+        "entries": 455,
+        "blobs": 381,
+        "truncated": false
+      },
+      "private_dossier": "/The Last Draw - Private Archive/CH0006_preflight.zip",
+      "dossier_sha256": "453550889d7a262e992d9123f41201781f0d10a935b88d8c93d8ef987a541bab",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 7,
+      "retired_expressions": 278,
+      "usage_records": 110,
+      "continuity_records": 378,
+      "timeline_events": 45,
+      "checks": {
+        "passed": 53,
+        "failed": 0,
+        "scope": "Archive integrity, continuity, chronology and conditional branch assertions; four guard tests nested; no full match replay."
+      },
+      "planned_scope": "L1 conditional",
+      "limitations": "Selective repository and prior manuscript review; no draft, newly approved canon, full legal deck certification, complete game outcome or literary score. Effective rules recheck required for future story date.",
+      "next_gate": "Draft on author instruction; preserve prior approved v7, verify depicted technical state and exact candidate originality, obtain separate author approval and closeout."
+    }
   },
   "chapter_05_1": {
     "id": "CH0005.1",
