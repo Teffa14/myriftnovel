@@ -6,3 +6,4 @@ Local private reference (with permission and within Riot terms): run `python 06_
  
 Current session: gallery first page direct response parsed, full October snapshot parsed; live pagination not completed (larger page responses malformed here), community release assets unavailable. Official PDF links verified; docs not all downloaded. No public full card text, art or PDF redistribution. No actual match validated. See QA.md before technical prose. 
 Riot rights: https://www.riotgames.com/en/legal ; https://developer.riotgames.com/docs/riftbound. No license transferred.
+Official errata discovery index: `errata_index.csv` has 67 card-heading entries across five official articles, with dates and links. This locates affected cards, not certified effective text. Exact publication date differs from effective date; reconcile each card and FAQ before writing play.

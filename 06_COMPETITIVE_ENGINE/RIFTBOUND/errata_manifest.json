@@ -1,0 +1,39 @@
+{
+  "checked": "2026-11-25",
+  "article_count": 5,
+  "entry_count": 67,
+  "unique_names": 67,
+  "coverage": "headings observed in the five listed official articles; not all FAQ, PDF or subsequent rule changes verified; individual dates and identity mapping pending",
+  "articles": [
+    {
+      "article": "origins",
+      "publication_date": "2025-10-27",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/",
+      "count": 31
+    },
+    {
+      "article": "spiritforged",
+      "publication_date": "2026-01-13",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/",
+      "count": 16
+    },
+    {
+      "article": "unleashed",
+      "publication_date": "2026-04-02",
+      "source_url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/",
+      "count": 8
+    },
+    {
+      "article": "vendetta",
+      "publication_date": "2026-07-23",
+      "source_url": "https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/",
+      "count": 8
+    },
+    {
+      "article": "radiance",
+      "publication_date": "2026-10-09",
+      "source_url": "https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/",
+      "count": 4
+    }
+  ]
+}
