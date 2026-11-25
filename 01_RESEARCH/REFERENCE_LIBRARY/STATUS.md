@@ -24,3 +24,6 @@ Cinco muestras parciales distintas analizadas cualitativamente, cero capítulos 
 
 ## MSC-EX06
 Seis muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Sexta: escalada de puja, contraste económico, cambio motivacional, POV independiente y anticipación de innovación. Ocho entradas y tres bloques originales añadidos; total 84 entradas y 32 bloques. No se ejecutó Python sobre MSC; edición sin confirmar. No se muestra partida competitiva ni éxito comercial del protagonista.
+
+## MSC-EX07
+Siete muestras parciales distintas leídas cualitativamente, cero capítulos completos certificados. Séptima: mercado, negociación, criterio de calidad, mentoría, progreso grupal y primer fracaso creativo. 10 entradas y 4 bloques originales añadidos; total 94 entradas y 36 bloques. No se ejecutó Python sobre MSC; edición y numeración sin confirmar. No hay resultado competitivo ni solución del experimento.

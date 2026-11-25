@@ -41,3 +41,5 @@ Extensión MSC-EX04: consultar MSC_EX04_PATTERNS.md. Mantener ledger de recursos
 Extensión MSC-EX05: consultar MSC_EX05_PATTERNS.md. Separar valor competitivo, coleccionable, disponibilidad y valor personal; distinguir oferta, adjudicación, pago y resultado neto. Registrar comparables y límites de predicciones. La observación puede generar progreso sin compra ni victoria. No copiar mecánicas de economía virtual.
 
 Extensión MSC-EX06: consultar MSC_EX06_PATTERNS.md. Registrar estado motivacional anterior, evidencia desencadenante, nueva aspiración y prueba pendiente. Introducir élite mediante escenas independientes con conocimiento separado; distinguir reputación, predicción y rendimiento. No garantizar ingresos ni importar creación de cartas oficiales del juego ficticio.
+
+Extensión MSC-EX07: consultar MSC_EX07_PATTERNS.md. Versionar listas, explicitar hipótesis, registrar condiciones, recursos, coste, resultado y revisión. Un fracaso puede revelar un problema metodológico sin resolverlo. No convertir material caro en garantía de habilidad ni reproducir fabricación de cartas ficticias. Distinguir progreso parcial de resultado definitivo.

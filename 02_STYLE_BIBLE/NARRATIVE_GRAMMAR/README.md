@@ -18,3 +18,6 @@
 
 ## Extensión MSC-EX06
 [MSC_EX06_PATTERNS.md](MSC_EX06_PATTERNS.md): 8 entradas y 3 bloques de cambio motivacional, escala económica, anticipación, reputación y POV. Total acumulado: 84 entradas de patrones y 32 bloques; mecanismos relacionados, no técnicas independientes certificadas. Seis muestras parciales MSC.
+
+## Extensión MSC-EX07
+[MSC_EX07_PATTERNS.md](MSC_EX07_PATTERNS.md): 10 entradas y 4 bloques de gestión de recursos, mentoría, testing, fracaso y revisión. Total acumulado: 94 entradas de patrones y 36 bloques; mecanismos relacionados. Siete muestras parciales MSC.
