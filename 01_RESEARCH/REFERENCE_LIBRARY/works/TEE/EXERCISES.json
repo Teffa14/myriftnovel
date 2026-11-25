@@ -1,0 +1,57 @@
+[
+  {
+    "id": "TEE-X01",
+    "mechanisms": [
+      "TEE-M03",
+      "TEE-M04",
+      "TEE-M10"
+    ],
+    "exercise": "Compare a disposable pressure piece and a durable unit against a rival with limited interaction. Track actual cost and next-turn presence.",
+    "canon_status": "noncanon",
+    "status": "untested abstract exercise"
+  },
+  {
+    "id": "TEE-X02",
+    "mechanisms": [
+      "TEE-M05",
+      "TEE-M11",
+      "TEE-M18"
+    ],
+    "exercise": "A player debates concentrating resources in a carry or developing a cheaper alternate threat. Compare actual opposing options and failure conditions.",
+    "canon_status": "noncanon",
+    "status": "untested abstract exercise"
+  },
+  {
+    "id": "TEE-X03",
+    "mechanisms": [
+      "TEE-M14",
+      "TEE-M16",
+      "TEE-M17"
+    ],
+    "exercise": "Compare disrupting an enabler before its payoff with responding afterward. Include a rival alternate target and a missed window.",
+    "canon_status": "noncanon",
+    "status": "untested abstract exercise"
+  },
+  {
+    "id": "TEE-X04",
+    "mechanisms": [
+      "TEE-M21",
+      "TEE-M22",
+      "TEE-M23"
+    ],
+    "exercise": "Two players disagree about field selection and sideboard coverage over three games. Record legal choices, unknown quantities and a test that could resolve disagreement.",
+    "canon_status": "noncanon",
+    "status": "untested abstract exercise"
+  },
+  {
+    "id": "TEE-X05",
+    "mechanisms": [
+      "TEE-M01",
+      "TEE-M24",
+      "TEE-M25"
+    ],
+    "exercise": "A small local event yields a mixed record. Two teammates draw different matchup conclusions; design an original follow-up test without pretending either has population data.",
+    "canon_status": "noncanon",
+    "status": "untested abstract exercise"
+  }
+]

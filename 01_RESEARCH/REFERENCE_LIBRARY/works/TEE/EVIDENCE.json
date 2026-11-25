@@ -1,0 +1,838 @@
+{
+  "archetypes": [
+    {
+      "id": "TEE-A01",
+      "label": "Turbo Mundo",
+      "source_lines": "29–56",
+      "plan": "Concentrated Mundo payoff and Mindsplitter support; pilot prefers it against Kai'Sa and Viktor relative to alternative, weaker against Yi.",
+      "side_roles": [
+        [
+          "Acceptable Losses",
+          "Yi"
+        ],
+        [
+          "Gust",
+          "Annie"
+        ],
+        [
+          "Rebuke",
+          "Annie and Sett"
+        ],
+        [
+          "Watcher",
+          "All except Viktor and Kai'Sa"
+        ]
+      ],
+      "main_inventory": null,
+      "side_inventory": null,
+      "chosen": null,
+      "runes": null,
+      "deck_image_retrieved": false,
+      "format_preference": null,
+      "win_rate": null
+    },
+    {
+      "id": "TEE-A02",
+      "label": "Midrange Teemo (source heading Midrange Mundo)",
+      "source_lines": "57–79",
+      "plan": "More balanced approach to Kai'Sa and Yi according to pilot.",
+      "side_roles": [
+        [
+          "Acceptable Losses",
+          "Yi"
+        ],
+        [
+          "Gust",
+          "Annie"
+        ],
+        [
+          "Rebuke",
+          "Annie and Sett"
+        ],
+        [
+          "Unchecked Power",
+          "Yi and Volibear"
+        ]
+      ],
+      "main_inventory": null,
+      "side_inventory": null,
+      "chosen": null,
+      "runes": null,
+      "deck_image_retrieved": false,
+      "format_preference": null,
+      "win_rate": null
+    }
+  ],
+  "record": {
+    "source_lines": "57–79",
+    "event_label": "2k run",
+    "event_date": null,
+    "archetype": "TEE-A02",
+    "wins": 4,
+    "losses": 2,
+    "draws": 0,
+    "total": 6,
+    "kaisa_matches": 4,
+    "kaisa_losses": 2,
+    "kaisa_wins_inferred": 2,
+    "other_wins_inferred": 2,
+    "other_opponents": null,
+    "overall_fraction": 0.6666666666666666,
+    "kaisa_fraction": 0.5,
+    "status": "self-reported; wins by opponent inferred from complete reported 4–2 record; no independent logs"
+  },
+  "roles": [
+    {
+      "id": "TEE-C01",
+      "source_label": "Sprite Mother",
+      "name": "Sprite Mother",
+      "source_lines": "80–105,222–226,302–306,561–566,648–653",
+      "role": "Temporary token plus residual development; compare card expenditure and follow-up.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C02",
+      "source_label": "Rhasa",
+      "name": "Rhasa the Sunderer",
+      "source_lines": "106–121",
+      "role": "Alternate cheaper threat against Viktor; probable shorthand, banned in snapshot.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": true,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C03",
+      "source_label": "Kayne / Kayn",
+      "name": "Kayn (subtitle unknown)",
+      "source_lines": "122–139",
+      "role": "Conditional protection during rival turn; movement synergy and hold; exact identity unknown.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C04",
+      "source_label": "Fading",
+      "name": "Fading Memories (candidate)",
+      "source_lines": "140–156",
+      "role": "Situational removal/interaction; source dislikes four-cost investment; identity tentative.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C05",
+      "source_label": "Morbid Return",
+      "name": "Morbid Return",
+      "source_lines": "157–164",
+      "role": "Experimental reuse package with Rhasa, untested.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C06",
+      "source_label": "Retreat",
+      "name": "Retreat",
+      "source_lines": "208–217",
+      "role": "Preserve development and resource access on withdrawal; named field dependency historical.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C07",
+      "source_label": "Sprite Call",
+      "name": "Sprite Call",
+      "source_lines": "218–221,298–301,584–590,673–677",
+      "role": "Immediate token pressure; compare material exchange and later location access.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C08",
+      "source_label": "Mundo",
+      "name": "Mundo (subtitle unknown)",
+      "source_lines": "227–233,604–606,678–681",
+      "role": "Concentrated threat; compare removal exposure, supporting resources and scoring clock.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C09",
+      "source_label": "Invert the Timeline",
+      "name": "Invert the Timeline",
+      "source_lines": "234–242",
+      "role": "Sequence payoff after primary threat; exact effect and costs unverified.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C10",
+      "source_label": "Watcher",
+      "name": "Watcher (subtitle unknown)",
+      "source_lines": "556–560,643–647",
+      "role": "Field-breaking role; precise identity unresolved; conflicting inclusion policy.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C11",
+      "source_label": "Mindsplitter",
+      "name": "Mindsplitter (identity unverified)",
+      "source_lines": "488–499,572–583,659–672",
+      "role": "Targeted hand interference against response classes; verify eligibility and information.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C12",
+      "source_label": "Gust",
+      "name": "Gust",
+      "source_lines": "293–297,378–382,465–477",
+      "role": "Early displacement and delay of rival development.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C13",
+      "source_label": "Rebuke",
+      "name": "Rebuke",
+      "source_lines": "307–311,401–407,478–482,678–681",
+      "role": "Disrupt expensive threat or scoring route; no absolute counter.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C14",
+      "source_label": "FoF",
+      "name": "Fight or Flight",
+      "source_lines": "312–323,408–421,500–512",
+      "role": "Historical displacement/defensive option; banned in snapshot.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": true,
+      "identity_status": "candidate_normalization"
+    },
+    {
+      "id": "TEE-C15",
+      "source_label": "Singularity",
+      "name": "Singularity",
+      "source_lines": "324–334,389–400,483–487,567–571,654–658",
+      "role": "Disrupt setup across locations; verify eligible targets and timing.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C16",
+      "source_label": "Acceptable Losses",
+      "name": "Acceptable Losses",
+      "source_lines": "49–54,383–388",
+      "role": "Targeted answer to historical Aurora engine.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C17",
+      "source_label": "Unchecked Power",
+      "name": "Unchecked Power",
+      "source_lines": "73–78",
+      "role": "Optional response versus Yi and Volibear.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C18",
+      "source_label": "Scrapheap",
+      "name": "Scrapheap",
+      "source_lines": "190–197,276–281,360–367,447–454,538–545,623–630",
+      "role": "Historical outgoing slot; banned in snapshot.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": true,
+      "identity_status": "source_name_only"
+    },
+    {
+      "id": "TEE-C19",
+      "source_label": "Mega Mech",
+      "name": "Mega Mech (identity unverified)",
+      "source_lines": "617–622",
+      "role": "Mirror outgoing role only; no effect supplied.",
+      "quantity": null,
+      "exact_printing_verified": false,
+      "effective_text_verified": false,
+      "snapshot_banned": false,
+      "identity_status": "candidate_normalization"
+    }
+  ],
+  "matches": [
+    {
+      "opponent": "Kai'Sa",
+      "profile_candidates": [
+        "FT-L24"
+      ],
+      "source_lines": "165–242",
+      "source_estimate_percent": 40,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 2,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 3,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        }
+      ],
+      "plan": "Use temporary bodies and protect a durable payoff; preserve resource access.",
+      "counterplay": "Opponent can trade differently, deny payoff or close early."
+    },
+    {
+      "opponent": "Annie",
+      "profile_candidates": [
+        "FT-L07"
+      ],
+      "source_lines": "243–334",
+      "source_estimate_percent": 40,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 2,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 3,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        }
+      ],
+      "plan": "Match early pace and disrupt mobility or setup before scoring.",
+      "counterplay": "Opponent can develop alternate threat, conserve interaction or force response elsewhere."
+    },
+    {
+      "opponent": "Yi",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "335–421",
+      "source_estimate_percent": 60,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 2,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 3,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        }
+      ],
+      "plan": "Distinguish historical Aurora variant from tempo build; disrupt enabling dependency.",
+      "counterplay": "Exact Legend unknown; opponent may deploy alternate midgame threats."
+    },
+    {
+      "opponent": "Sett",
+      "profile_candidates": [
+        "FT-L51"
+      ],
+      "source_lines": "422–512",
+      "source_estimate_percent": 60,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 2,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 3,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        }
+      ],
+      "plan": "Interrupt investment before protected hold; target relevant response classes.",
+      "counterplay": "Opponent can distribute development, preserve rescue or avoid concentration."
+    },
+    {
+      "opponent": "Viktor",
+      "profile_candidates": [
+        "FT-L57"
+      ],
+      "source_lines": "513–590",
+      "source_estimate_percent": 50,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 2,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        },
+        {
+          "game": 3,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        }
+      ],
+      "plan": "Contest wide board with efficient temporary threats; protect main payoff.",
+      "counterplay": "Opponent can retain removal, change token development or counter pressure."
+    },
+    {
+      "opponent": "Teemo",
+      "profile_candidates": [
+        "FT-L54"
+      ],
+      "source_lines": "591–689",
+      "source_estimate_percent": 50,
+      "observed_win_rate": null,
+      "estimate_status": "subjective; no denominator",
+      "field_policy": [
+        {
+          "game": 1,
+          "label": "Dreaming Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": true
+        },
+        {
+          "game": 2,
+          "label": "Zaun",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        },
+        {
+          "game": 3,
+          "label": "Bundle Tree",
+          "identity_status": "source shorthand; Bundle Tree not silently corrected",
+          "snapshot_banned": false
+        }
+      ],
+      "plan": "Compare concentrated threat and flexible resources; disrupt protection before committing.",
+      "counterplay": "Opponent can preserve hidden options, respond to bait or race another field."
+    }
+  ],
+  "swaps": [
+    {
+      "id": "TEE-SB01",
+      "opponent": "Kai'Sa",
+      "game": 2,
+      "source_lines": "190–197",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Watcher",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB02",
+      "opponent": "Annie",
+      "game": 2,
+      "source_lines": "268–275",
+      "outgoing": [
+        {
+          "name": "Mundo",
+          "count": null
+        },
+        {
+          "name": "Invert the Timeline",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Rebuke",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB03",
+      "opponent": "Annie",
+      "game": 3,
+      "source_lines": "276–281",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Rebuke",
+          "count": null
+        },
+        {
+          "name": "Invert the Timeline",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB04",
+      "opponent": "Yi",
+      "game": 2,
+      "source_lines": "360–367",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Rebuke",
+          "count": null
+        },
+        {
+          "name": "Acceptable Losses",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB05",
+      "opponent": "Sett",
+      "game": 2,
+      "source_lines": "447–454",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Rebuke",
+          "count": null
+        },
+        {
+          "name": "Mindsplitter",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB06",
+      "opponent": "Viktor",
+      "game": 2,
+      "source_lines": "538–545",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Mindsplitter",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB07",
+      "opponent": "Teemo",
+      "game": 2,
+      "source_lines": "615–622",
+      "outgoing": [
+        {
+          "name": "Mega Mech",
+          "count": null
+        },
+        {
+          "name": "Retreat",
+          "count": null
+        },
+        {
+          "name": "Invert the Timeline",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Mindsplitter",
+          "count": null
+        },
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Rebuke",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    },
+    {
+      "id": "TEE-SB08",
+      "opponent": "Teemo",
+      "game": 3,
+      "source_lines": "623–630",
+      "outgoing": [
+        {
+          "name": "Scrapheap",
+          "count": null
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Watcher",
+          "count": null
+        },
+        {
+          "name": "Sprite Mother",
+          "count": null
+        },
+        {
+          "name": "Mindsplitter",
+          "count": null
+        }
+      ],
+      "balance_status": "unknown; names are categories not counts",
+      "baseline_version": null,
+      "status": "conditional source recommendations"
+    }
+  ],
+  "guards": [
+    {
+      "source_lines": "29–79",
+      "issue": "Two image-only lists unavailable; no copy counts, chosen, runes, field inventory or full legality. Intro promises BO1/BO3 comparison but no explicit format preference supplied."
+    },
+    {
+      "source_lines": "49–54,192–197,540–545",
+      "issue": "Turbo overview excludes Watcher against Viktor/Kai'Sa; both detailed plans include it. No variant resolution."
+    },
+    {
+      "source_lines": "57–79,175–242",
+      "issue": "4–2 event and 2–2 Kai'Sa subset are self-reported; 40/60 label is general opinion, not the same event rate."
+    },
+    {
+      "source_lines": "122–139",
+      "issue": "Kayn title unknown, three RTW copies in most lists and near-guaranteed hold are unverified claims."
+    },
+    {
+      "source_lines": "227–242,307–311",
+      "issue": "Power used colloquially for unit size; do not equate with formal Power resource. Numerical thresholds, hand sizes and costs are not measured samples."
+    },
+    {
+      "source_lines": "165–689",
+      "issue": "Field patterns use Bundle Tree, Zaun/Zhaun and Dreaming Tree. Preserve labels; exact printing and legal selection procedure unverified."
+    },
+    {
+      "source_lines": "190–689",
+      "issue": "Eight game-specific swap policies lack quantities and some have unequal number of names. Do not infer copy counts, fixed legal swaps or actual G3 procedure."
+    },
+    {
+      "source_lines": "335–421",
+      "issue": "Yi variants distinguished strategically but exact FTG Legend identity unresolved. No free-win or universal response claim."
+    },
+    {
+      "source_lines": "106–121,190–197,312–323,335–421",
+      "issue": "Rhasa candidate, Scrapheap, Fight or Flight, Dreaming Tree and opposing Dazzling Aurora are historical banned references under Nov 23 snapshot. No current deck inferred."
+    },
+    {
+      "source_lines": "80–689",
+      "issue": "All named timing, targets, immunity, combat, withdrawal, token, hand interference and location claims need official effective-text proof; no complete replay."
+    },
+    {
+      "source_lines": "1–698",
+      "issue": "14 image links present; no images retrieved; author/date unknown. No external results or current metagame verified."
+    }
+  ],
+  "banFlags": [
+    {
+      "name": "Rhasa the Sunderer",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "probable identity, tech recommendation"
+    },
+    {
+      "name": "Scrapheap",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical policy reference"
+    },
+    {
+      "name": "Fight or Flight",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical policy reference"
+    },
+    {
+      "name": "Dreaming Tree",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical policy reference"
+    },
+    {
+      "name": "Dazzling Aurora",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "opposing historical engine"
+    }
+  ],
+  "images_retrieved": false
+}

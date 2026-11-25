@@ -1,0 +1,11 @@
+# TEE — Teemo specialist guide
+Undated supplied text, author unknown. FT-L54 Swift Scout is the separate dated strategy anchor. Two image-only lists not reconstructed. Source offers subjective comparison of Turbo Mundo and Midrange; a 4–2 midrange event record includes four Kai'Sa matches and two losses. Arithmetic implies 2–2 against Kai'Sa and two other wins, assuming reported record complete. No other pairing invented.
+
+## Strategic contribution
+A deck may choose disposable immediate pressure and an expensive protected payoff in different proportions. Compare the resource spent to answer a temporary threat, surviving development and the clock for deploying a major carry. Hand disruption is only useful when it changes a later feasible action; the opponent can draw or choose an alternative. Location-dependent concealment and retreat introduce timing choices, but the supplied descriptions are not legal proof. Variant-specific matchup judgments are hypotheses, not measured rates.
+
+## Conflicts and scope
+The Turbo overview excludes Watcher against Viktor and Kai'Sa; detailed sideboard plans include it against both. Preserve as unresolved, possibly version-dependent. Eight game-specific recommendations lack copy counts, and unequal numbers of named cards cannot establish imbalance or legal swaps. Field labels are normalized only for Zaun/Zhaun and the literal Dreaming Tree ban match; Bundle Tree identity remains unresolved. No full decks, exact printings, chosen champions, rune counts, BO1/BO3 preference, independent event results or complete game states provided. Four own historical card/field references plus opposing Aurora flag under Nov 23 snapshot. Current list legality is unknown. Exact numerical thresholds, terminology, costs, immunity, targeting and Hidden mechanics require official dated rules and text.
+
+## Narrative transfer
+Use different definitions of efficiency to create original practice disagreements: a temporary body can be useful despite disappearing, while a large carry can be a risky commitment. Compare both players' independent routes and preserve uncertainty about private hands. Cross-reference OUT for prerequisites and reserve preservation, SET for concentration risk, NLM/NLD for baseline alternatives. No real pilot biography, wording, canonical deck assignment or manuscript change.

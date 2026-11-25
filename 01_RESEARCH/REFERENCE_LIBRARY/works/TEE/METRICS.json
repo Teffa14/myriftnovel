@@ -1,0 +1,149 @@
+{
+  "source": "Teemo specialist guide (title, author, date unknown)",
+  "ingest_date": "2026-11-25",
+  "sha256": "aa0ef2ffcf2deb73a7d665926e66c2b6b0f05b3d11ede367db5ea2e70a0ddebf",
+  "bytes": 18106,
+  "lines": 698,
+  "word_tokens": 2539,
+  "distinct_lowercase_forms": 624,
+  "blocks": 221,
+  "linked_images": 14,
+  "method": "Python UTF-8-sig, splitlines; Unicode alphabetic regex with optional internal apostrophe/hyphen; includes headings and URLs, lowercase forms and blank-line blocks.",
+  "units": [
+    {
+      "id": "TEE-U01",
+      "start": 1,
+      "end": 13,
+      "tokens": 29,
+      "topic": "Title and image"
+    },
+    {
+      "id": "TEE-U02",
+      "start": 14,
+      "end": 28,
+      "tokens": 88,
+      "topic": "Archetype choice"
+    },
+    {
+      "id": "TEE-U03",
+      "start": 29,
+      "end": 56,
+      "tokens": 80,
+      "topic": "Turbo Mundo"
+    },
+    {
+      "id": "TEE-U04",
+      "start": 57,
+      "end": 79,
+      "tokens": 90,
+      "topic": "Midrange"
+    },
+    {
+      "id": "TEE-U05",
+      "start": 80,
+      "end": 105,
+      "tokens": 108,
+      "topic": "Sprite Mother"
+    },
+    {
+      "id": "TEE-U06",
+      "start": 106,
+      "end": 121,
+      "tokens": 79,
+      "topic": "Rhasa"
+    },
+    {
+      "id": "TEE-U07",
+      "start": 122,
+      "end": 139,
+      "tokens": 74,
+      "topic": "Kayn"
+    },
+    {
+      "id": "TEE-U08",
+      "start": 140,
+      "end": 156,
+      "tokens": 59,
+      "topic": "Fading"
+    },
+    {
+      "id": "TEE-U09",
+      "start": 157,
+      "end": 164,
+      "tokens": 36,
+      "topic": "Morbid Return"
+    },
+    {
+      "id": "TEE-U10",
+      "start": 165,
+      "end": 242,
+      "tokens": 289,
+      "topic": "Kai'Sa"
+    },
+    {
+      "id": "TEE-U11",
+      "start": 243,
+      "end": 334,
+      "tokens": 351,
+      "topic": "Annie"
+    },
+    {
+      "id": "TEE-U12",
+      "start": 335,
+      "end": 421,
+      "tokens": 306,
+      "topic": "Yi variants"
+    },
+    {
+      "id": "TEE-U13",
+      "start": 422,
+      "end": 512,
+      "tokens": 289,
+      "topic": "Sett"
+    },
+    {
+      "id": "TEE-U14",
+      "start": 513,
+      "end": 590,
+      "tokens": 298,
+      "topic": "Viktor"
+    },
+    {
+      "id": "TEE-U15",
+      "start": 591,
+      "end": 689,
+      "tokens": 282,
+      "topic": "Mirror"
+    },
+    {
+      "id": "TEE-U16",
+      "start": 690,
+      "end": 698,
+      "tokens": 81,
+      "topic": "Conclusion"
+    }
+  ],
+  "counts": {
+    "archetype_profiles": 2,
+    "role_records": 19,
+    "matchups": 6,
+    "field_preferences": 18,
+    "swap_policies": 8,
+    "mechanisms": 26,
+    "exercises": 5,
+    "guards": 11
+  },
+  "checks": [
+    "16 contiguous source units, 698 lines, 2539 tokens",
+    "two variant profiles with unknown inventories",
+    "six matchup contexts and 18 field preferences",
+    "eight quantity-unknown swap policies",
+    "19 role records",
+    "five snapshot ban flags",
+    "seven FTG references including two Yi variants",
+    "reported event arithmetic",
+    "26 unique mechanism IDs",
+    "five original exercise links",
+    "source ID not previously used"
+  ]
+}

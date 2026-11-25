@@ -55,3 +55,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## OUT — route-preservation diagnostic
 [OUT protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/OUT/ROUTE_PROTOCOL.json) supplements NLM, RNG and other guides with plan invalidation, prerequisite tracking, future-draw usability, deadline and independent answer/non-answer branches. Compare routes before commitment; review with information then available. No source mechanic or win probability certified. Use dated G3-scene evidence for named interactions.
+
+## TEE — temporary pressure and concentrated payoff
+[TEE research](../../01_RESEARCH/REFERENCE_LIBRARY/works/TEE/INDEX.md) supplements FTG FT-L54 with disposable threat exchanges, carry exposure, pre-payoff hand interference, field choice across series and variant-dependent preparation. Two deck images unavailable; Watcher policy conflicts; quantities unknown. All named mechanics require dated effective text and G3-scene. Matchup estimates are pilot opinions, not measured win rates.

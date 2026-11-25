@@ -104,3 +104,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## OUT — route-preservation strategy (2026-11-25)
 [Research index](works/OUT/INDEX.md): 3,329 tokens, 21 units, 24 linked candidate refinements, six exercises, six structural checks and six abstract predicate tests. Separate from specialist guide corpus; overlap recorded, no replay or independent novelty claim.
+
+## TEE — Teemo specialist guide (2026-11-25)
+[Research index](works/TEE/INDEX.md): 2,539 tokens, 16 units, two profiles, 19 role records, six matchup contexts, eight unquantified swap policies, 26 candidates and five exercises. Watcher policy conflicts; historical ban references and no certified legal list. No canon change.

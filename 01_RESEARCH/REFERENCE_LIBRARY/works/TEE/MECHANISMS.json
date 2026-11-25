@@ -1,0 +1,262 @@
+[
+  {
+    "id": "TEE-M01",
+    "level": "L4",
+    "name": "Variant-specific matchup hypothesis",
+    "source_lines": "14–79",
+    "structure": "Compare concentrated payoff against broader midrange coverage.",
+    "acceptance": "Test both complete legal lists; no measured matchup superiority.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M02",
+    "level": "L4",
+    "name": "Specialist preference versus coverage",
+    "source_lines": "29–79",
+    "structure": "Separate enjoyment and favored build from projected field fit.",
+    "acceptance": "Record actual practice conditions and alternative choice.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M03",
+    "level": "L4",
+    "name": "Temporary body exchange",
+    "source_lines": "80–105,218–226",
+    "structure": "Compare real-card cost of answering disposable threats.",
+    "acceptance": "Verify token generation, persistence, target and trade; no guaranteed value.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M04",
+    "level": "L4",
+    "name": "Residual board value",
+    "source_lines": "80–105,302–306",
+    "structure": "Evaluate immediate token payoff plus remaining body separately.",
+    "acceptance": "Check surviving board and opposing response.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M05",
+    "level": "L4",
+    "name": "Lower-investment alternative threat",
+    "source_lines": "106–121",
+    "structure": "Compare losing cheap alternative against losing expensive carry.",
+    "acceptance": "Historical Rhasa banned; verify substitute and actual costs.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M06",
+    "level": "L4",
+    "name": "Movement-enabled protection",
+    "source_lines": "122–139",
+    "structure": "Evaluate protection only when mobility and reaction requirements remain met.",
+    "acceptance": "Resolve Kayn identity and legal timing; no blanket immunity.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M07",
+    "level": "L4",
+    "name": "Tech cost versus coverage",
+    "source_lines": "140–156",
+    "structure": "Reject expensive narrow response when other roles have greater utility.",
+    "acceptance": "Compare target frequency, cost and available alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M08",
+    "level": "L4",
+    "name": "Experimental package dependency",
+    "source_lines": "157–164",
+    "structure": "Test a reuse option alongside enablers and without them.",
+    "acceptance": "No tested outcome claimed; historical Rhasa dependency.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M09",
+    "level": "L4",
+    "name": "Withdrawal resource preservation",
+    "source_lines": "208–217",
+    "structure": "Compare abandoning contested position against preserving future usable access.",
+    "acceptance": "Verify actual field payoff and scoring; historical banned field.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M10",
+    "level": "L4",
+    "name": "Immediate token pressure",
+    "source_lines": "218–226,584–590",
+    "structure": "Use disposable development to compress rival clock or force real resources.",
+    "acceptance": "Opponent can decline trade; verify actual costs and effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M11",
+    "level": "L4",
+    "name": "Concentrated threat exposure",
+    "source_lines": "227–233,604–606",
+    "structure": "Compare stat investment and number/type of opposing responses.",
+    "acceptance": "No fixed 20+ Might or three-card requirement; test actual thresholds.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M12",
+    "level": "L4",
+    "name": "Payoff order",
+    "source_lines": "234–242",
+    "structure": "Choose ordering of primary body and follow-up based on conditional payoff.",
+    "acceptance": "Verify exact effect and legal state; rival can interrupt.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M13",
+    "level": "L4",
+    "name": "Displace before conversion",
+    "source_lines": "293–297,307–323",
+    "structure": "Interrupt threat between development and scoring conversion.",
+    "acceptance": "Verify legal movement and response windows.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M14",
+    "level": "L4",
+    "name": "Attack setup at base",
+    "source_lines": "324–334,389–400",
+    "structure": "Remove enabling body before rival's next planned action if legal.",
+    "acceptance": "Verify target eligibility and alternative target.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M15",
+    "level": "L4",
+    "name": "Variant distinction in matchup",
+    "source_lines": "335–351",
+    "structure": "Different versions sharing a Legend can require different speed and answers.",
+    "acceptance": "Resolve exact Legend and deck identity; no free win.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M16",
+    "level": "L4",
+    "name": "Engine-targeted interaction",
+    "source_lines": "383–400",
+    "structure": "Deny specific enabler rather than overpay for eventual payoff.",
+    "acceptance": "Historical Aurora banned; verify current substitute.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M17",
+    "level": "L4",
+    "name": "Recovery-window exploitation",
+    "source_lines": "478–487",
+    "structure": "Compare disruption after opposing protection has been spent.",
+    "acceptance": "Verify rescue and remaining alternatives; no guaranteed two-unit removal.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M18",
+    "level": "L4",
+    "name": "Hand disruption before carry",
+    "source_lines": "488–499,572–583,659–672",
+    "structure": "Reduce known eligible response capacity before investing in threat.",
+    "acceptance": "Respect hidden information, legal selection and subsequent draws.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M19",
+    "level": "L4",
+    "name": "Threat-class priority",
+    "source_lines": "488–499,572–583",
+    "structure": "Group opposing responses by consequence to current plan.",
+    "acceptance": "Do not assume exact list or guaranteed target.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M20",
+    "level": "L4",
+    "name": "Wide-board breaker selection",
+    "source_lines": "556–560",
+    "structure": "Compare field-breaking response against opponent's distributed investment.",
+    "acceptance": "Verify actual Watcher identity and modifier/target restrictions.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M21",
+    "level": "L4",
+    "name": "Concealed-position pressure",
+    "source_lines": "648–658,673–677",
+    "structure": "Contest relevant location to affect available concealed options.",
+    "acceptance": "Verify current Hidden rules; no forced reveal or automatic setup.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M22",
+    "level": "L4",
+    "name": "Field policy across series",
+    "source_lines": "182–189,260–267,352–359,439–446,530–537,607–614",
+    "structure": "Compare different field choices by opponent, game number and remaining access.",
+    "acceptance": "Check actual format procedure and banned references.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M23",
+    "level": "L4",
+    "name": "Contradictory sideboard policy review",
+    "source_lines": "49–54,192–197,540–545",
+    "structure": "Treat disagreement across overview and detail as unresolved variant hypothesis.",
+    "acceptance": "Require exact quantities, complete lists and paired tests before choosing.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M24",
+    "level": "L6",
+    "name": "Disagreement about bad matchups",
+    "source_lines": "175–181,253–259,523–529",
+    "structure": "Fictional specialists disagree about hardest opponent based on their own limited practice.",
+    "acceptance": "No copied voice or invented statistics.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M25",
+    "level": "L4",
+    "name": "Small-sample restraint",
+    "source_lines": "57–79,175–689",
+    "structure": "Keep individual event record separate from general matchup opinion.",
+    "acceptance": "No inferred population win rate or confidence from six matches alone.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  },
+  {
+    "id": "TEE-M26",
+    "level": "L4",
+    "name": "Preserve interaction versus commitment",
+    "source_lines": "690–698",
+    "structure": "Compare immediate pressure with retained answer against opposing route.",
+    "acceptance": "Verify actual clock, alternatives and critical prerequisites.",
+    "status": "candidate_untested",
+    "overlap": "Compare prior specialist guides and OUT; not independently novel."
+  }
+]

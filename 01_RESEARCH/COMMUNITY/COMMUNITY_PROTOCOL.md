@@ -40,3 +40,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## ANN — cross-game learning and format adaptation
 [ANN analysis](../REFERENCE_LIBRARY/works/ANN/ANALYSIS.md) supports original coaching disagreements about scoring, resource conversion and familiar deck revisions. Preserve independent voices and goals; no copied source anecdotes or persona.
+
+## TEE — specialist disagreement and small samples
+[TEE analysis](../REFERENCE_LIBRARY/works/TEE/ANALYSIS.md) supports original practice discussions of favored builds, limited event evidence, temporary bodies and expensive carry protection. Keep opinions distinct from observed results and preserve independent voices. No copied source wording.
