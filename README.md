@@ -7,8 +7,10 @@ Production: finalize pilot briefs → validate legal match logs → write and ed
 
 Permanent agent instructions: [AGENTS.md](AGENTS.md). Author-mandated recursive originality system: [NDM 2.0 protocol](02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md). Every approved chapter becomes a private source and retires its distinctive prose; no next chapter before originality and distillation gate. Zero approved production chapters registered at initialization.
 
-Production prompts: [master author](08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md), [recursive distillation](08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md), [final execution](08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md). Use final execution prompt in Codex.
+Production prompts: [master author](08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md), [recursive distillation](08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md), [final execution](08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md). ChatGPT executes the final prompt directly using the GitHub connector.
 
 Author-supplied WebNovel identity: [brand record](10_PUBLICATION/BRAND_IDENTITY.md). Former title The Final Draw is historical only; the repository URL remains unchanged.
 
 Competitive policy v2 (2026-11-25): 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md takes precedence over older references to full replay, full catalog coverage or global G3 blocking production. The author is never required to provide games or rules adjudication. The current CH01 example has ten executed conditional scoring tests, not a full match or approval. G6, author approval and rights gates remain unchanged.
+
+Binding execution mandate (2026-11-25): ChatGPT → GitHub directly. See 08_CHAPTERS/CHATGPT_PRODUCTION.md. No Codex, user-run scripts or external handoff required. Execute requested research, tests and edits in the active ChatGPT session using available tools; commit and verify public-safe artifacts. Preserve private manuscript/approval/rights gates. Use official FAQ scene options when relevant; do not claim full replays from conditional evidence.

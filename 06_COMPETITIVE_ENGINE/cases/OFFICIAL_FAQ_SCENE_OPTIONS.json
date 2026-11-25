@@ -1,0 +1,105 @@
+{
+  "reviewed": "2026-11-25",
+  "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+  "source_scope": "Official answers directly inspected; five separate premise/outcome cases. Not observed matches. No verbatim card text reproduced.",
+  "cases": [
+    {
+      "id": "FAQ-GF-01",
+      "card_codes": [
+        "RAD-062/167"
+      ],
+      "names": [
+        "Gravity Field"
+      ],
+      "reference": "Standard Move / Gravity Field",
+      "premise": "Opponent controls Gravity Field at destination; normal movement otherwise possible; moving player declines required extra cost.",
+      "result": "Movement cancelled; unit remains in original state.",
+      "scope": "Official ruling applied to stated premises; no full board or card legality certified.",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "source_date": "2026-10-26",
+      "story_date_candidate": "2026-11-28",
+      "ban_name_matches": [],
+      "verification": "official FAQ directly read; exact listed premises and outcome checked; snapshot codes matched; ban name screen only; complete deck and reachability unverified"
+    },
+    {
+      "id": "FAQ-GF-02",
+      "card_codes": [
+        "RAD-062/167",
+        "OGN-043/298"
+      ],
+      "names": [
+        "Gravity Field",
+        "Charm"
+      ],
+      "reference": "412.2 and subrules; Charm / Gravity Field",
+      "premise": "Player resolves Charm to move an enemy unit into a battlefield where that same player controls Gravity Field.",
+      "result": "The enemy unit's controller does not owe the movement charge.",
+      "scope": "Official ruling; other target, cost and timing prerequisites assumed, not replayed.",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "source_date": "2026-10-26",
+      "story_date_candidate": "2026-11-28",
+      "ban_name_matches": [],
+      "verification": "official FAQ directly read; exact listed premises and outcome checked; snapshot codes matched; ban name screen only; complete deck and reachability unverified"
+    },
+    {
+      "id": "FAQ-GF-03",
+      "card_codes": [
+        "RAD-062/167",
+        "RAD-113/167"
+      ],
+      "names": [
+        "Gravity Field",
+        "Angler Wyrm"
+      ],
+      "reference": "412.2; 204.4, 204.4.b, 204.4.c",
+      "premise": "Angler Wyrm's ability instructs an opponent to move their unit to the destination with the Wyrm player's Gravity Field.",
+      "result": "Opponent must pay the applicable charge for movement; otherwise unit stays put.",
+      "scope": "Official ruling; complete activation, target and board state not verified.",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "source_date": "2026-10-26",
+      "story_date_candidate": "2026-11-28",
+      "ban_name_matches": [],
+      "verification": "official FAQ directly read; exact listed premises and outcome checked; snapshot codes matched; ban name screen only; complete deck and reachability unverified"
+    },
+    {
+      "id": "FAQ-RESOURCE-01",
+      "card_codes": [
+        "OGN-134/298",
+        "RAD-092/167"
+      ],
+      "names": [
+        "Mobilize",
+        "Seraphic Wyvern"
+      ],
+      "reference": "359.3.e.14.c",
+      "premise": "Mobilize played by Wyvern controller with exactly one rune left in Rune Deck.",
+      "result": "No additional card draw from Mobilize's condition.",
+      "scope": "Official ruling for exact premise; no full spell sequence replay.",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "source_date": "2026-10-26",
+      "story_date_candidate": "2026-11-28",
+      "ban_name_matches": [],
+      "verification": "official FAQ directly read; exact listed premises and outcome checked; snapshot codes matched; ban name screen only; complete deck and reachability unverified"
+    },
+    {
+      "id": "FAQ-RESOURCE-02",
+      "card_codes": [
+        "OGN-138/298",
+        "RAD-092/167"
+      ],
+      "names": [
+        "Catalyst of Aeons",
+        "Seraphic Wyvern"
+      ],
+      "reference": "359.3.e.14.c",
+      "premise": "Catalyst played by Wyvern controller with exactly two runes left in Rune Deck.",
+      "result": "No card draw from Catalyst's condition.",
+      "scope": "Official ruling for exact premise; no full spell sequence replay.",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "source_date": "2026-10-26",
+      "story_date_candidate": "2026-11-28",
+      "ban_name_matches": [],
+      "verification": "official FAQ directly read; exact listed premises and outcome checked; snapshot codes matched; ban name screen only; complete deck and reachability unverified"
+    }
+  ]
+}

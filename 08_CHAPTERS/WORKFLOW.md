@@ -7,3 +7,5 @@ Mandatory recursive close-out (NDM 2.0): before drafting load and verify complet
 Execution entry point: PROMPTS/FINAL_EXECUTION_PROMPT.md; full author and recursive prompts in PROMPTS/ are mandatory. Resume incomplete approved-chapter close-out before any next draft; pending approval blocks advancement.
 
 Mandatory competitive policy v2: 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md supersedes blanket full-replay requirements. G3-scene remains required for depicted rules; global coverage is independent. Do not ask the author for match logs or judge expertise. CH01 scoring case is conditional only; no canon outcome locked by this change.
+
+Binding execution mandate (2026-11-25): ChatGPT → GitHub directly. See 08_CHAPTERS/CHATGPT_PRODUCTION.md. No Codex, user-run scripts or external handoff required. Execute requested research, tests and edits in the active ChatGPT session using available tools; commit and verify public-safe artifacts. Preserve private manuscript/approval/rights gates. Use official FAQ scene options when relevant; do not claim full replays from conditional evidence.
