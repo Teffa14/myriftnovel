@@ -1,0 +1,11 @@
+{
+  "sample": "MSC-EX10",
+  "words": 1486,
+  "paragraphs": 41,
+  "quoted_spans": 17,
+  "quoted_words": 182,
+  "question_marks": 5,
+  "exclamation_marks": 7,
+  "sha256": "b434871912226a0d4f3b56f68e33f3763340f057e9bce62833898de0cb122aaf",
+  "method": "measure_excerpt.py; quoted spans proxy, excludes translator notes; not chapter-level"
+}

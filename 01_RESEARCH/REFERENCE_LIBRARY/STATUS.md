@@ -30,3 +30,6 @@ Siete muestras parciales distintas leídas cualitativamente, cero capítulos com
 
 ## MSC-EX08
 Ocho muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Octava: creación repetida, mercado, venta, inconsistencias contables y descubrimiento de una posible innovación táctica por otro personaje. 10 entradas y 4 bloques nuevos; total 104 entradas y 40 bloques. No se ejecutó Python sobre MSC, edición sin confirmar. No se observa validación competitiva ni ingresos sostenidos.
+
+## MSC-EX09 y MSC-EX10
+Diez muestras distintas analizadas; el texto duplicado de EX09 se cuenta una sola vez. EX09: convivencia, vulnerabilidad y pasado implícito; EX10: competencia institucional, memoria del meta, señales y creación. 18 entradas y 7 bloques añadidos; total 122 entradas y 47 bloques. EX10 tiene conteos Python ejecutados (1486 tokens, 41 párrafos, 17 segmentos entre comillas), script y JSON. EX01–EX09 siguen cualitativos. Créditos visibles en EX09/EX10: Star River y Rhith; edición y capítulos sin confirmar. Cero capítulos MSC completos certificados. No se demuestra resultado de torneo competitivo.

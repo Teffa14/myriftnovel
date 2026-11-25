@@ -24,3 +24,6 @@
 
 ## Extensión MSC-EX08
 [MSC_EX08_PATTERNS.md](MSC_EX08_PATTERNS.md): 10 entradas y 4 bloques de valoración contextual, innovación, negociación, probabilidad e ironía dramática. Total acumulado: 104 entradas de patrones y 40 bloques; mecanismos relacionados. Ocho muestras parciales MSC, cero capítulos completos certificados.
+
+## Extensiones MSC-EX09 y MSC-EX10
+[MSC_EX09_PATTERNS.md](MSC_EX09_PATTERNS.md): 8 entradas y 3 bloques de convivencia y subtexto. [MSC_EX10_PATTERNS.md](MSC_EX10_PATTERNS.md): 10 entradas y 4 bloques de memoria institucional, señales, agencia y experimentación. Total acumulado: 122 entradas de patrones y 47 bloques; mecanismos relacionados, no técnicas independientes certificadas. Diez muestras únicas MSC, una con métricas Python; ninguna unidad completa certificada.

@@ -29,3 +29,9 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX08 — innovación infravalorada
 [Análisis](UNDERVALUE_INNOVATION_EXCERPT_ANALYSIS.md): octava muestra parcial, producción repetida, investigación de mercado, primera venta, proyección de rentabilidad y descubrimiento de potencial táctico por Hong Zhu. Registra contradicciones de precio y oferta; validación de la carta pendiente. Diez entradas y cuatro bloques originales.
+
+## MSC-EX09 — convivencia y subtexto
+[Análisis](DOMESTIC_SUBTEXT_EXCERPT_ANALYSIS.md): novena muestra única, duplicación literal excluida. Ocho entradas y tres bloques originales. Créditos visibles Star River y Rhith; edición y capítulo sin confirmar.
+
+## MSC-EX10 — instituciones y memoria competitiva
+[Análisis](INSTITUTIONAL_META_EXCERPT_ANALYSIS.md): décima muestra, búsqueda de cartas, rivalidad, señales ambiguas, precedente de Tang y nuevo diseño de Xie. Diez entradas y cuatro bloques originales. [Métricas](EX10_METRICS.json) y [script](measure_excerpt.py); 1486 tokens narrativos. No se certifica capítulo completo.
