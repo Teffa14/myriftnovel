@@ -6,3 +6,6 @@ Referencias registradas: 14. Fichas de obras: 14. Unidades consultadas directame
 
 ## Segunda pasada TKA
 Procesamiento de los 1728 archivos narrativos: léxico, POS, voz, comillas, transiciones, personajes, estructura, quintiles de tensión y densidad de combate. 8640 segmentos, 23716 formas de palabra. Manual transferible y paquete original de 29 archivos en works/TKA/TKA_deep_distillation.zip. No se certifica lectura crítica integral de cada capítulo.
+
+## Actualizaciones
+TKA: análisis contextual 1728 archivos, 14069 candidatos, 28 auditados manualmente; cero revisiones críticas integrales certificadas. MSC: 1 muestra inicial parcial leída cualitativamente, cero capítulos completos certificados, 8 mecanismos y 3 bloques originales; sin análisis de partidas. Gramática acumulada: 40 patrones y 15 bloques. No se ha analizado toda MSC ni se ha identificado edición exacta.

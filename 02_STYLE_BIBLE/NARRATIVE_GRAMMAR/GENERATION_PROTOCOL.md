@@ -29,3 +29,5 @@ Narración: tercera persona limitada por escena, pasado como base, concreción, 
 A: la decisión tiene causa previa. B: cada participante tiene información y agencia compatibles. C: la exposición cambia interpretación o elección. D: el resultado tiene consecuencias persistentes. E: el cierre responde una pregunta o cambia otra. F: los personajes no comparten una sola voz. G: ejemplos y capítulos son originales. H: el replay confirma jugadas. I: no hay frases de transición calcadas repetidamente. Revisar con humanos antes de publicación.
 
 La gramática se ampliará con corpus independientes y feedback de lectores. No sustituye la revisión semántica de 1728 capítulos de TKA, que sigue en 0 certificados.
+
+Extensión MSC: consultar MSC_EX01_PATTERNS.md para aperturas con anomalía, hipótesis refutables, humor por contraste, exposición por preguntas, deducción y revelación. Verificar evidencias y distinguir inferencia de conocimiento; no imponer viaje temporal ni replicar la trama fuente.
