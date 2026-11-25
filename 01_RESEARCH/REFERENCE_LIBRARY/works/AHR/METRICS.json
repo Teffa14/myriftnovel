@@ -1,0 +1,188 @@
+{
+  "source": "Ahri Masterclass (Origins and Spiritforged)",
+  "author": "Bradykin and Dhawally (source sign-off)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "18140544ed22e491489c72a5451bd06bd42d142f11d13050c15325cdc7230888",
+  "bytes": 51342,
+  "lines": 1117,
+  "word_tokens": 8831,
+  "distinct_lowercase_forms": 1505,
+  "blocks": 367,
+  "linked_images": 15,
+  "method": "Python UTF-8-sig, splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen; includes markup, headings and URLs; lowercase types and blank-line blocks.",
+  "units": [
+    {
+      "id": "AHR-U01",
+      "start": 1,
+      "end": 3,
+      "tokens": 1
+    },
+    {
+      "id": "AHR-U02",
+      "start": 4,
+      "end": 29,
+      "tokens": 392
+    },
+    {
+      "id": "AHR-U03",
+      "start": 30,
+      "end": 55,
+      "tokens": 427
+    },
+    {
+      "id": "AHR-U04",
+      "start": 56,
+      "end": 81,
+      "tokens": 324
+    },
+    {
+      "id": "AHR-U05",
+      "start": 82,
+      "end": 175,
+      "tokens": 96
+    },
+    {
+      "id": "AHR-U06",
+      "start": 176,
+      "end": 193,
+      "tokens": 279
+    },
+    {
+      "id": "AHR-U07",
+      "start": 194,
+      "end": 227,
+      "tokens": 421
+    },
+    {
+      "id": "AHR-U08",
+      "start": 228,
+      "end": 277,
+      "tokens": 417
+    },
+    {
+      "id": "AHR-U09",
+      "start": 278,
+      "end": 385,
+      "tokens": 1624
+    },
+    {
+      "id": "AHR-U10",
+      "start": 386,
+      "end": 445,
+      "tokens": 442
+    },
+    {
+      "id": "AHR-U11",
+      "start": 446,
+      "end": 527,
+      "tokens": 726
+    },
+    {
+      "id": "AHR-U12",
+      "start": 528,
+      "end": 589,
+      "tokens": 564
+    },
+    {
+      "id": "AHR-U13",
+      "start": 590,
+      "end": 679,
+      "tokens": 365
+    },
+    {
+      "id": "AHR-U14",
+      "start": 680,
+      "end": 717,
+      "tokens": 325
+    },
+    {
+      "id": "AHR-U15",
+      "start": 718,
+      "end": 757,
+      "tokens": 184
+    },
+    {
+      "id": "AHR-U16",
+      "start": 758,
+      "end": 801,
+      "tokens": 136
+    },
+    {
+      "id": "AHR-U17",
+      "start": 802,
+      "end": 841,
+      "tokens": 118
+    },
+    {
+      "id": "AHR-U18",
+      "start": 842,
+      "end": 871,
+      "tokens": 121
+    },
+    {
+      "id": "AHR-U19",
+      "start": 872,
+      "end": 909,
+      "tokens": 225
+    },
+    {
+      "id": "AHR-U20",
+      "start": 910,
+      "end": 915,
+      "tokens": 46
+    },
+    {
+      "id": "AHR-U21",
+      "start": 916,
+      "end": 927,
+      "tokens": 456
+    },
+    {
+      "id": "AHR-U22",
+      "start": 928,
+      "end": 945,
+      "tokens": 651
+    },
+    {
+      "id": "AHR-U23",
+      "start": 946,
+      "end": 1021,
+      "tokens": 81
+    },
+    {
+      "id": "AHR-U24",
+      "start": 1022,
+      "end": 1064,
+      "tokens": 361
+    },
+    {
+      "id": "AHR-U25",
+      "start": 1065,
+      "end": 1117,
+      "tokens": 49
+    }
+  ],
+  "counts": {
+    "historical_decks": 2,
+    "matchup_contexts": 10,
+    "sideboard_plans": 26,
+    "tactical_hypotheses": 8,
+    "mechanisms": 45,
+    "exercises": 6
+  },
+  "checks": [
+    "25 contiguous units and 8831 tokens",
+    "both lists 40 including chosen",
+    "eight side, three fields, twelve runes each",
+    "one banned field each",
+    "26 balanced plans",
+    "all swap quantities available in respective written inventories",
+    "ten matchup contexts",
+    "FTG candidate links",
+    "45 unique mechanisms",
+    "six exercise references",
+    "eight unverified tactical hypotheses",
+    "unused ID"
+  ]
+}

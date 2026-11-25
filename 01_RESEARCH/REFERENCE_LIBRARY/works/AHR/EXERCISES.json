@@ -1,0 +1,69 @@
+[
+  {
+    "id": "AHR-X01",
+    "mechanisms": [
+      "AHR-M05",
+      "AHR-M13",
+      "AHR-M14"
+    ],
+    "task": "Compare concentrated and distributed defense with a rival choosing whether to accept a trade; account for response reserves.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AHR-X02",
+    "mechanisms": [
+      "AHR-M15",
+      "AHR-M18",
+      "AHR-M25"
+    ],
+    "task": "Two flexible modifiers differ in cost and card access. Compare next-turn options and color reserves.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AHR-X03",
+    "mechanisms": [
+      "AHR-M17",
+      "AHR-M29",
+      "AHR-M30"
+    ],
+    "task": "A player nearing the winning score faces a potential reset. Compare withdrawal and defense, with rival closing branch.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AHR-X04",
+    "mechanisms": [
+      "AHR-M22",
+      "AHR-M23",
+      "AHR-M26"
+    ],
+    "task": "Construct a new legal timing exercise only after confirming rules; compare separate and shared resolution windows.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AHR-X05",
+    "mechanisms": [
+      "AHR-M38",
+      "AHR-M39",
+      "AHR-M41"
+    ],
+    "task": "A previously successful defensive specialist faces a new environment with fewer exposed targets; test two revised role packages.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AHR-X06",
+    "mechanisms": [
+      "AHR-M11",
+      "AHR-M12",
+      "AHR-M44",
+      "AHR-M45"
+    ],
+    "task": "Two teammates disagree about an often-boarded card that strains resources; design a test by matchup and starting order.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  }
+]

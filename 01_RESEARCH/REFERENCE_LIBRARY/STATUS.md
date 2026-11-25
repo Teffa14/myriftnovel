@@ -110,3 +110,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## AZI — Sand Storm (2026-11-25)
 [Research index](works/AZI/INDEX.md): 6,368 tokens, 31 units, 25 role records, six sideboard candidates, 36 mechanisms, six exercises. 20 baseline probability comparisons and 1,235 exhaustive synthetic conditional predicate tests. Partial inventory, unknown real mulligan/Hall odds, unverified self-reported local results. No canon change.
+
+## AHR — Ahri specialist guide (2026-11-25)
+[Research index](works/AHR/INDEX.md): 8,831 tokens, 25 units, two historical main inventories, ten matchup contexts, 26 balanced counted swap configurations, eight unverified tactical hypotheses, 45 candidate mechanisms and six exercises. Both lists contain banned Dreaming Tree. No current legal list or replay certified.

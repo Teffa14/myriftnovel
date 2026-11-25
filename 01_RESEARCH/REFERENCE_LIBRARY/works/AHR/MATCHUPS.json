@@ -1,0 +1,1137 @@
+{
+  "matches": [
+    {
+      "opponent": "Annie",
+      "profile_candidates": [
+        "FT-L07"
+      ],
+      "source_lines": "386–445",
+      "estimate": "slightly favored",
+      "plan": "Concentrate defense where appropriate, reserve key counters and denial, prevent fast double scoring.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Kai'Sa",
+      "profile_candidates": [
+        "FT-L24"
+      ],
+      "source_lines": "446–527",
+      "estimate": "moderately unfavored",
+      "plan": "Balance score, access and development; avoid catastrophic reset while preserving Sona and replacement threats.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Miss Fortune Aurora",
+      "profile_candidates": [
+        "FT-L37"
+      ],
+      "source_lines": "528–589",
+      "estimate": "moderately unfavored",
+      "plan": "Pressure resource development while retaining bodies, compare responses before committing.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Yi midrange",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "590–631",
+      "estimate": "slightly favored",
+      "plan": "Compare single and multiple unit defense; reserve response to decisive combat modifier.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Yi Aurora",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "632–679",
+      "estimate": "highly unfavored",
+      "plan": "Historical engine race plus opposing combat and protection options.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Mirror",
+      "profile_candidates": [
+        "FT-L04"
+      ],
+      "source_lines": "680–717",
+      "estimate": "mirror",
+      "plan": "Compare exchanges and future response capacity; alternative scoring when trailing.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Sett",
+      "profile_candidates": [
+        "FT-L51"
+      ],
+      "source_lines": "718–757",
+      "estimate": "highly favored",
+      "plan": "Tax repeated attack and rescue resources; preserve relevant interaction.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Viktor",
+      "profile_candidates": [
+        "FT-L57"
+      ],
+      "source_lines": "758–801",
+      "estimate": "moderately favored",
+      "plan": "Contest points proactively and anticipate large reset.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Teemo",
+      "profile_candidates": [
+        "FT-L54"
+      ],
+      "source_lines": "802–841",
+      "estimate": "moderately favored",
+      "plan": "Compare recurring access and concentrated threat response.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    },
+    {
+      "opponent": "Yasuo",
+      "profile_candidates": [
+        "FT-L59"
+      ],
+      "source_lines": "842–871",
+      "estimate": "highly favored",
+      "plan": "Deny easy movement-enabled scoring by defending a sustainable position.",
+      "win_rate": null,
+      "status": "pilot assessment, no denominator"
+    }
+  ],
+  "plans": [
+    {
+      "id": "AHR-SB01",
+      "era": "Origins",
+      "opponent": "Annie",
+      "order": "first",
+      "source_lines": "392–404",
+      "incoming": [
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Thousand-Tail Watcher",
+          "name": "Thousand-Tailed Watcher",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Lecturing Yordle",
+          "name": "Lecturing Yordle",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB02",
+      "era": "Origins",
+      "opponent": "Annie",
+      "order": "second",
+      "source_lines": "408–420",
+      "incoming": [
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Thousand-Tail Watcher",
+          "name": "Thousand-Tailed Watcher",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB03",
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "order": "first",
+      "source_lines": "452–462",
+      "incoming": [
+        {
+          "source_name": "Wind Wall",
+          "name": "Wind Wall",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Defy",
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Blitzcrank",
+          "name": "Blitzcrank, Impassive",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Lecturing Yordle",
+          "name": "Lecturing Yordle",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB04",
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "order": "first after Reaver's Row",
+      "source_lines": "466–476",
+      "incoming": [
+        {
+          "source_name": "Windwall",
+          "name": "Wind Wall",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Defy",
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Blitzcrank",
+          "name": "Blitzcrank, Impassive",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Lecturing Yordle",
+          "name": "Lecturing Yordle",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB05",
+      "era": "Origins",
+      "opponent": "Kai'Sa",
+      "order": "second",
+      "source_lines": "480–490",
+      "incoming": [
+        {
+          "source_name": "Wind Wall",
+          "name": "Wind Wall",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Defy",
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Blitzcrank",
+          "name": "Blitzcrank, Impassive",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB06",
+      "era": "Origins",
+      "opponent": "Miss Fortune Aurora",
+      "order": "first",
+      "source_lines": "534–546",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "replace chosen; original chosen retained in main",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB07",
+      "era": "Origins",
+      "opponent": "Miss Fortune Aurora",
+      "order": "second",
+      "source_lines": "550–562",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "replace chosen; original chosen retained in main",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB08",
+      "era": "Origins",
+      "opponent": "Yi midrange",
+      "order": "first",
+      "source_lines": "600–604",
+      "incoming": [
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB09",
+      "era": "Origins",
+      "opponent": "Yi midrange",
+      "order": "second",
+      "source_lines": "608–620",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Ahri Inquisitive",
+          "name": "Ahri, Inquisitive",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "chosen replacement inferred",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB10",
+      "era": "Origins",
+      "opponent": "Yi Aurora",
+      "order": "first",
+      "source_lines": "638–650",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "replace chosen; original chosen retained in main",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB11",
+      "era": "Origins",
+      "opponent": "Yi Aurora",
+      "order": "second",
+      "source_lines": "654–666",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "replace chosen; original chosen retained in main",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB12",
+      "era": "Origins",
+      "opponent": "Mirror",
+      "order": "first",
+      "source_lines": "686–690",
+      "incoming": [
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB13",
+      "era": "Origins",
+      "opponent": "Mirror",
+      "order": "second",
+      "source_lines": "694–702",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Ahri Inquisitive",
+          "name": "Ahri, Inquisitive",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "chosen replacement inferred",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB14",
+      "era": "Origins",
+      "opponent": "Sett",
+      "order": "first",
+      "source_lines": "724–732",
+      "incoming": [
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Fox-Fire",
+          "name": "Fox-Fire",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Lecturing Yordle",
+          "name": "Lecturing Yordle",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB15",
+      "era": "Origins",
+      "opponent": "Sett",
+      "order": "second",
+      "source_lines": "736–742",
+      "incoming": [
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB16",
+      "era": "Origins",
+      "opponent": "Viktor",
+      "order": "first",
+      "source_lines": "764–776",
+      "incoming": [
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Wind Wall",
+          "name": "Wind Wall",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Defy",
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB17",
+      "era": "Origins",
+      "opponent": "Viktor",
+      "order": "second",
+      "source_lines": "780–790",
+      "incoming": [
+        {
+          "source_name": "Sprite Mother",
+          "name": "Sprite Mother",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Wind Wall",
+          "name": "Wind Wall",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB18",
+      "era": "Origins",
+      "opponent": "Teemo",
+      "order": "first",
+      "source_lines": "808–816",
+      "incoming": [
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Retreat",
+          "name": "Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Block",
+          "name": "Block",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB19",
+      "era": "Origins",
+      "opponent": "Teemo",
+      "order": "second",
+      "source_lines": "820–830",
+      "incoming": [
+        {
+          "source_name": "Ahri Alluring",
+          "name": "Ahri, Alluring",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Rune Prison",
+          "name": "Rune Prison",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Ahri Inquisitive",
+          "name": "Ahri, Inquisitive",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": "chosen replacement inferred",
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB20",
+      "era": "Origins",
+      "opponent": "Yasuo",
+      "order": "first",
+      "source_lines": "848–850",
+      "incoming": [],
+      "outgoing": [],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB21",
+      "era": "Origins",
+      "opponent": "Yasuo",
+      "order": "second",
+      "source_lines": "854–858",
+      "incoming": [
+        {
+          "source_name": "Charm",
+          "name": "Charm",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Watchful Sentry",
+          "name": "Watchful Sentry",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB22",
+      "era": "Spiritforged",
+      "opponent": "Draven midrange",
+      "order": "both",
+      "source_lines": "1067–1073",
+      "incoming": [
+        {
+          "source_name": "Thwonk",
+          "name": "Thwonk!",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Disarming Rake",
+          "name": "Disarming Rake",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Not so Fast",
+          "name": "Not So Fast",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB23",
+      "era": "Spiritforged",
+      "opponent": "Draven miracle",
+      "order": "both",
+      "source_lines": "1077–1085",
+      "incoming": [
+        {
+          "source_name": "Thwonk",
+          "name": "Thwonk!",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Pickpocket",
+          "name": "Pickpocket",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Not so Fast",
+          "name": "Not So Fast",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB24",
+      "era": "Spiritforged",
+      "opponent": "Kai'Sa",
+      "order": "both",
+      "source_lines": "1089–1093",
+      "incoming": [
+        {
+          "source_name": "Not so Fast",
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Block",
+          "name": "Block",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB25",
+      "era": "Spiritforged",
+      "opponent": "Ezreal",
+      "order": "both",
+      "source_lines": "1097–1105",
+      "incoming": [
+        {
+          "source_name": "Pickpocket",
+          "name": "Pickpocket",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Thwonk",
+          "name": "Thwonk!",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Cloth Armor",
+          "name": "Cloth Armor",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Block",
+          "name": "Block",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    },
+    {
+      "id": "AHR-SB26",
+      "era": "Spiritforged",
+      "opponent": "Irelia/Lucian/Fiora/Aurora",
+      "order": "both",
+      "source_lines": "1109–1117",
+      "incoming": [
+        {
+          "source_name": "Disarming Rake",
+          "name": "Disarming Rake",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Thwonk",
+          "name": "Thwonk!",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "source_name": "Not so Fast",
+          "name": "Not So Fast",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "source_name": "Stupefy",
+          "name": "Stupefy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "chosen_policy": null,
+      "status": "historical source recommendation; not certified legal"
+    }
+  ],
+  "guards": [
+    "Origins and Spiritforged are historical; both use Dreaming Tree, banned Nov 23. The alias The Dreaming Tree is explicit. Opposing historical references include Dazzling Aurora, Fight or Flight, The Arena's Greatest, Reaver's Row, Zhonya's Hourglass; exact shorthand and opposing inventory not established.",
+    "Two written lists each include 39 main plus chosen, eight named side copies. Spiritforged chosen role inferred, not independently certified. No extra sideboard slots invented.",
+    "The 26 count-balanced configurations include one no-change choice and one conditional Kai'Sa branch. Four Aurora configurations retain former chosen in main; three other chosen replacements inferred from explicit swap and strategy. Slot/format legality not verified.",
+    "The source describes Kai'Sa as slightly favored toward Kai'Sa in intro, moderately unfavored in detail and 50% achievable with practice. Subjective, not measured contradiction resolved by inventing rates.",
+    "Two Yi identities remain candidates; no exact Legend confirmed. 15 linked images uninspected. Authors credited by sign-off; exact title/date unknown.",
+    "All named interactions, focus/priority, countered-spell trigger, deflect, temporary rune recycling, surprise defender and discounts require dated official effective-text and state proof. No actual replay, event outcome or win rate verified."
+  ],
+  "field_policy": {
+    "Origins": {
+      "Annie": "Trifarian first game, Grove post-board first, Dreaming Tree post-board second",
+      "KaiSa": "same as Annie",
+      "other": "Dreaming Tree game one, Grove post-board first, Trifarian post-board second"
+    },
+    "Spiritforged": "Dreaming Tree game one, Grove first, Conservatory second"
+  },
+  "status": "historical source policies"
+}

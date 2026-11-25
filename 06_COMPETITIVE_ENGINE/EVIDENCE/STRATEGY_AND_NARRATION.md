@@ -61,3 +61,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## AZI — persistent asset economy and conditional access
 [AZI research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AZI/INDEX.md) supplements FTG FT-L08 with reusable investment, variable threat ceiling, interchangeable carriers, reactive versus persistent gear, color constraints and two-axis sideboard coverage. [Probability audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/AZI/PROBABILITY_AUDIT.json) separates distinct samples from conditional access, not actual Hall trigger or legal mulligan. Verify dated official mechanics and G3-scene; no complete list or measured matchup rate inferred.
+
+## AHR — defensive geometry and chain timing
+[AHR research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AHR/INDEX.md) supplements FTG FT-L04 with multi-turn response reserves, position allocation, selective withdrawal, minimal commitment, resource breakpoints and metagame adaptation. [Tactical hypotheses](../../01_RESEARCH/REFERENCE_LIBRARY/works/AHR/TACTICAL_HYPOTHESES.json) require dated official rules, effective text and G3-scene before use. No actual priority/trigger verification asserted. Historical lists separate.

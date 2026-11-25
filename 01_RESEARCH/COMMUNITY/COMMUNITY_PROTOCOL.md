@@ -46,3 +46,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## AZI — local experimentation
 [AZI analysis](../REFERENCE_LIBRARY/works/AZI/ANALYSIS.md) supports original scenes about local practice, testing fringe alternatives, debating slot value and revising assumptions. Self-reported local success is not general performance evidence; do not copy personal anecdotes or distinctive phrasing.
+
+## AHR — specialization and changing incentives
+[AHR analysis](../REFERENCE_LIBRARY/works/AHR/ANALYSIS.md) supports original peer discussions of defense, positional risk, confidence revision and adapting a favorite list. No borrowed real persona, phrasing or guaranteed matchup result.

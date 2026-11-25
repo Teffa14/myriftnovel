@@ -1,0 +1,74 @@
+[
+  {
+    "id": "AHR-T01",
+    "source_lines": "278–385",
+    "topic": "Tied combat and hidden response",
+    "abstract": "Compare committing modifier early with passing when baseline trade acceptable; preserve reactive answer.",
+    "guard": "Opponent could choose another legal response or accept exchange. Exact chain and hidden-card loss require proof.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T02",
+    "source_lines": "278–385",
+    "topic": "Modifier sequencing",
+    "abstract": "Compare card-replacing expensive modifier with cheaper situational modifier.",
+    "guard": "Earlier draw can change next choice; future multi-body position may reduce value of narrower modifier.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T03",
+    "source_lines": "278–385",
+    "topic": "Deflect payment",
+    "abstract": "Consider declining an optional payment when effect is unnecessary.",
+    "guard": "Verify current timing, mandatory trigger and precise counter rule.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T04",
+    "source_lines": "278–385",
+    "topic": "Open to contested showdown",
+    "abstract": "Check whether a defender joining during an open contest changes attack-trigger eligibility.",
+    "guard": "Verify actual transition and designation under dated official rules.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T05",
+    "source_lines": "278–385",
+    "topic": "Beginning-phase resource conversion",
+    "abstract": "Compare resource recovery before channel with passive resource loss under proposed temporary-unit sequence.",
+    "guard": "Source's 10 ready + 2 tapped example not independently validated; exact timing and permission critical.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T06",
+    "source_lines": "278–385",
+    "topic": "Separate versus shared chains",
+    "abstract": "Compare legal responses on existing chain with later independent chain to alter who must act first.",
+    "guard": "Source 6-to-6 example requires full focus/priority trace, exact card effects and opponent alternatives.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T07",
+    "source_lines": "1022–1064",
+    "topic": "Additional cost versus choosing",
+    "abstract": "Distinguish tapping for cost from selection triggering an effect.",
+    "guard": "Verify actual Meditation and historical field text; Dreaming Tree banned in snapshot.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  },
+  {
+    "id": "AHR-T08",
+    "source_lines": "1022–1064",
+    "topic": "Location-dependent discount",
+    "abstract": "Distinguish presence from control when evaluating spell cost.",
+    "guard": "Verify Eager Apprentice exact text and timing.",
+    "status": "source tactical hypothesis, unverified",
+    "full_replay": false
+  }
+]

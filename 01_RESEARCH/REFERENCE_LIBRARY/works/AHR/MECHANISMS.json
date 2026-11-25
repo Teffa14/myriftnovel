@@ -1,0 +1,452 @@
+[
+  {
+    "id": "AHR-M01",
+    "level": "L4",
+    "source_lines": "4–29",
+    "name": "Defense-to-offense transition",
+    "structure": "Preserve a sustainable hold until a later attack changes scoring horizon.",
+    "acceptance": "Check rival close and legal route; no guaranteed late-game win.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M02",
+    "level": "L4",
+    "source_lines": "4–29",
+    "name": "Ready-resource leverage",
+    "structure": "Separate spending on own turn from capacity on opponent turn.",
+    "acceptance": "Verify exact readiness triggers and resources.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M03",
+    "level": "L4",
+    "source_lines": "4–29",
+    "name": "Retreat and rebuild",
+    "structure": "Withdraw when defending costs more than attainable future advantage.",
+    "acceptance": "Do not permit decisive opposing point.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M04",
+    "level": "L4",
+    "source_lines": "30–55",
+    "name": "Compare concentrated modifier and distributed debuff",
+    "structure": "Evaluate threshold changes across actual bodies.",
+    "acceptance": "Verify current Might and legal combat.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M05",
+    "level": "L4",
+    "source_lines": "30–55",
+    "name": "Flexible defensive geometry",
+    "structure": "Choose single or multiple bodies according to opponent response classes.",
+    "acceptance": "Account for both wide and targeted removal.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M06",
+    "level": "L4",
+    "source_lines": "56–81",
+    "name": "Local matchup selection",
+    "structure": "Weigh unfavorable pairings against breadth of local field.",
+    "acceptance": "No measured win rates or certainty.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M07",
+    "level": "L4",
+    "source_lines": "176–193",
+    "name": "Joint opener requirement",
+    "structure": "Seek both early body and relevant support.",
+    "acceptance": "Define legal mulligan and joint sampling; neither alone suffices.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M08",
+    "level": "L4",
+    "source_lines": "176–193",
+    "name": "Conditional second-turn priority",
+    "structure": "Keep engine only after foundational roles secured.",
+    "acceptance": "Compare first/second and post-board variants.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M09",
+    "level": "L4",
+    "source_lines": "194–227",
+    "name": "Play-order field advantage",
+    "structure": "Allocate highest payoff field to context likely to sustain it.",
+    "acceptance": "Verify actual procedure and rival choice.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M10",
+    "level": "L4",
+    "source_lines": "194–227",
+    "name": "Symmetric field avoidance",
+    "structure": "Separate duplicated field effects across games if rival benefits disproportionately.",
+    "acceptance": "No deterministic prediction; historical field banned.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M11",
+    "level": "L4",
+    "source_lines": "228–277",
+    "name": "Sideboard coverage opportunity cost",
+    "structure": "Strengthen weak matchups without diluting stronger ones excessively.",
+    "acceptance": "Use complete inventory and evidence.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M12",
+    "level": "L4",
+    "source_lines": "228–277",
+    "name": "Permanent resource capacity constraint",
+    "structure": "A useful card may remain sideboard because simultaneous expensive roles overload costs.",
+    "acceptance": "Test joint resource demands.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M13",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Minimal sufficient combat commitment",
+    "structure": "Start with an acceptable exchange and retain flexible modifiers.",
+    "acceptance": "Opponent may accept or choose another response.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M14",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Conditional information gain",
+    "structure": "Passing can expose opposing decision before spending another card.",
+    "acceptance": "Verify passing/focus procedure and downside.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M15",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Modifier order tradeoff",
+    "structure": "Compare card access now with retaining cheaper or more conditional effect.",
+    "acceptance": "Account for future geometry and timing.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M16",
+    "level": "L3",
+    "source_lines": "278–385",
+    "name": "Counter-trigger distinction",
+    "structure": "A countered action may differ from a resolved action for dependent payoffs.",
+    "acceptance": "Verify rules and exact triggers.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M17",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Closing swing preparation",
+    "structure": "From near winning score, rebuild for next attainable finish.",
+    "acceptance": "Check final point and opponent close.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M18",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Next-turn resource breakpoint",
+    "structure": "Evaluate expenditure by whether future acceleration remains affordable.",
+    "acceptance": "Track actual resources and modifiers.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M19",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Preemptive versus reactive buff",
+    "structure": "Compare protection against displacement with exposure to later removal.",
+    "acceptance": "Check exact timing and legal target.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M20",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Modifier duration exploitation",
+    "structure": "Consider ongoing effect when later action changes location.",
+    "acceptance": "Verify duration and reset rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M21",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Friendly-target access",
+    "structure": "Compare legal use on own body to access needed option.",
+    "acceptance": "Verify targeting and historical field restrictions.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M22",
+    "level": "L3",
+    "source_lines": "278–385",
+    "name": "Optional payment value",
+    "structure": "Avoid paying for unnecessary effect when legal.",
+    "acceptance": "Verify mandatory costs versus optional payment.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M23",
+    "level": "L3",
+    "source_lines": "278–385",
+    "name": "Transition-trigger window",
+    "structure": "Check whether a state transition changes eligibility for an effect.",
+    "acceptance": "Independent official proof required.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M24",
+    "level": "L3",
+    "source_lines": "278–385",
+    "name": "Resource recovery ordering",
+    "structure": "Compare timing of returning and reaccessing resources.",
+    "acceptance": "Verify phase permissions and actual resulting ready state.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M25",
+    "level": "L4",
+    "source_lines": "278–385",
+    "name": "Color-specific preservation",
+    "structure": "Reserve scarce resource color for subsequent payoffs.",
+    "acceptance": "Check actual costs and rune distribution.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M26",
+    "level": "L3",
+    "source_lines": "278–385",
+    "name": "Chain-boundary decision order",
+    "structure": "Compare response windows when actions resolve jointly or separately.",
+    "acceptance": "Verify focus and priority with dated rule trace.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M27",
+    "level": "L4",
+    "source_lines": "386–445",
+    "name": "Deny fast double scoring",
+    "structure": "Force rival to use costlier route while maintaining own viable clock.",
+    "acceptance": "No invulnerable field assumption.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M28",
+    "level": "L4",
+    "source_lines": "386–445",
+    "name": "Reserve for decisive opposing sequence",
+    "structure": "Spend flexible response only if later key threat remains covered.",
+    "acceptance": "Opponent can have alternate routes.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M29",
+    "level": "L4",
+    "source_lines": "446–527",
+    "name": "Three-dimensional stabilization",
+    "structure": "Balance score, card access and surviving board simultaneously.",
+    "acceptance": "No single metric guarantees recovery.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M30",
+    "level": "L4",
+    "source_lines": "446–527",
+    "name": "Bounded answer coverage",
+    "structure": "Choose which credible threat to cover when all cannot be answered.",
+    "acceptance": "Record uncovered branch and risk; see OUT.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M31",
+    "level": "L4",
+    "source_lines": "446–527",
+    "name": "Replacement engine redundancy",
+    "structure": "Keep extra copy when opponent must invest heavily removing first.",
+    "acceptance": "Account for duplicate congestion and actual cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M32",
+    "level": "L4",
+    "source_lines": "528–679",
+    "name": "Disrupt resource threshold",
+    "structure": "Delay opposing expensive engine via legitimate pressure and response.",
+    "acceptance": "Historical Aurora banned; no current use.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M33",
+    "level": "L4",
+    "source_lines": "528–679",
+    "name": "Avoid premature payoff",
+    "structure": "Develop scoring engine only when protection and alternative route exist.",
+    "acceptance": "Compare safer development, no automatic rush.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M34",
+    "level": "L4",
+    "source_lines": "680–717",
+    "name": "Break scoring stalemate",
+    "structure": "Use alternate scoring path when symmetrical holds favor earlier player.",
+    "acceptance": "Verify exact scoring rule and opponent response.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M35",
+    "level": "L4",
+    "source_lines": "718–757",
+    "name": "Attrition through repeated cost",
+    "structure": "Track opposing resource expenditure required to sustain threat.",
+    "acceptance": "No assumption that opponent has no responses.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M36",
+    "level": "L4",
+    "source_lines": "758–801",
+    "name": "Reset forecast",
+    "structure": "Plan development against plausible next-turn board wipe.",
+    "acceptance": "Check opponent's actual capacity, alternative threats.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M37",
+    "level": "L4",
+    "source_lines": "802–871",
+    "name": "Threat-specific defensive coverage",
+    "structure": "Adjust defense based on movement, carry and response profile.",
+    "acceptance": "Reject guaranteed 2–0 or automatic win.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M38",
+    "level": "L4",
+    "source_lines": "916–927",
+    "name": "Environment changes interaction incentives",
+    "structure": "When common strategy rewards combat, rival movement patterns may change.",
+    "acceptance": "Use dated inclusion evidence; historical Draven explanation is opinion.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M39",
+    "level": "L4",
+    "source_lines": "916–927",
+    "name": "Engine dependency loses targets",
+    "structure": "A defensive effect loses relative value when rivals expose fewer bodies.",
+    "acceptance": "Compare observed board states, not universal decline.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M40",
+    "level": "L4",
+    "source_lines": "928–945",
+    "name": "Adaptation without abandoning identity",
+    "structure": "Retain primary plan while adding answers to changed threat classes.",
+    "acceptance": "Compare alternative archetype and actual test.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M41",
+    "level": "L4",
+    "source_lines": "928–945",
+    "name": "New card enables old slot",
+    "structure": "A changed supporting card pool may improve earlier excluded role.",
+    "acceptance": "Test marginal inclusion and dependency.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M42",
+    "level": "L4",
+    "source_lines": "1022–1064",
+    "name": "Early efficiency versus late utility",
+    "structure": "Compare opening resource generation with weak late draw.",
+    "acceptance": "No automatic best one-drop.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M43",
+    "level": "L3",
+    "source_lines": "1022–1064",
+    "name": "Cost reduction condition",
+    "structure": "Separate location presence, control and legal timing.",
+    "acceptance": "Verify effective card text.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M44",
+    "level": "L6",
+    "source_lines": "872–945",
+    "name": "Specialist confidence revision",
+    "structure": "Show a competitor revising a favored list as evidence changes.",
+    "acceptance": "Original voice, independent goals, no copied anecdotes.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  },
+  {
+    "id": "AHR-M45",
+    "level": "L4",
+    "source_lines": "228–277,1065–1117",
+    "name": "Versioned sideboard replacement",
+    "structure": "Maintain separate swap ledgers by set and opponent role.",
+    "acceptance": "Check quantities and banned fields before play.",
+    "status": "candidate_untested",
+    "overlap": "Compare SET/RNG/KSA/ANN/OUT and NLM/NLD; no independent novelty claim."
+  }
+]

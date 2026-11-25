@@ -1,0 +1,380 @@
+{
+  "origins": {
+    "era": "Origins",
+    "source_lines": "82–175",
+    "legend": "Ahri, Nine-Tailed Fox",
+    "profile_id": "FT-L04",
+    "chosen": [
+      {
+        "source_name": "Ahri, Inquisitive",
+        "name": "Ahri, Inquisitive",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "chosenEvidence": "explicit",
+    "main": [
+      {
+        "source_name": "Sona, Harmonious",
+        "name": "Sona, Harmonious",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Lecturing Yordle",
+        "name": "Lecturing Yordle",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Thousand-Tailed Watcher",
+        "name": "Thousand-Tailed Watcher",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Stalwart Poro",
+        "name": "Stalwart Poro",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Ravenbloom Student",
+        "name": "Ravenbloom Student",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Defy",
+        "name": "Defy",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Tasty Faefolk",
+        "name": "Tasty Faefolk",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Discipline",
+        "name": "Discipline",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Stupefy",
+        "name": "Stupefy",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Rune Prison",
+        "name": "Rune Prison",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Block",
+        "name": "Block",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "En Garde",
+        "name": "En Garde",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Retreat",
+        "name": "Retreat",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Watchful Sentry",
+        "name": "Watchful Sentry",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Charm",
+        "name": "Charm",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Blitzcrank, Impassive",
+        "name": "Blitzcrank, Impassive",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Fox-Fire",
+        "name": "Fox-Fire",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "source_name": "Charm",
+        "name": "Charm",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Rune Prison",
+        "name": "Rune Prison",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Wind Wall",
+        "name": "Wind Wall",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Sprite Mother",
+        "name": "Sprite Mother",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Ahri, Alluring",
+        "name": "Ahri, Alluring",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "battlefields": [
+      {
+        "source_name": "Grove of the God-Willow",
+        "name": "Grove of the God-Willow",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "The Dreaming Tree",
+        "name": "Dreaming Tree",
+        "count": 1,
+        "snapshot_banned": true
+      },
+      {
+        "source_name": "Trifarian War Camp",
+        "name": "Trifarian War Camp",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Calm": 6,
+      "Mind": 6
+    },
+    "counts": {
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40,
+      "sideboard": 8,
+      "battlefields": 3,
+      "runes": 12
+    },
+    "banned_instances": 1,
+    "legal_certified": false
+  },
+  "spirit": {
+    "era": "Spiritforged",
+    "source_lines": "946–1021",
+    "legend": "Ahri, Nine-Tailed Fox",
+    "profile_id": "FT-L04",
+    "chosen": [
+      {
+        "source_name": "Ahri, Inquisitive",
+        "name": "Ahri, Inquisitive",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "chosenEvidence": "inferred from first card and continuity with Origins; source list ungrouped",
+    "main": [
+      {
+        "source_name": "Blitzcrank, Impassive",
+        "name": "Blitzcrank, Impassive",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Ravenbloom Student",
+        "name": "Ravenbloom Student",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Sona, Harmonious",
+        "name": "Sona, Harmonious",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Thousand-Tailed Watcher",
+        "name": "Thousand-Tailed Watcher",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Plundering Poro",
+        "name": "Plundering Poro",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Eager Apprentice",
+        "name": "Eager Apprentice",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Defy",
+        "name": "Defy",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Discipline",
+        "name": "Discipline",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Stupefy",
+        "name": "Stupefy",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Thwonk!",
+        "name": "Thwonk!",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Not So Fast",
+        "name": "Not So Fast",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Feral Strength",
+        "name": "Feral Strength",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Desert's Call",
+        "name": "Desert's Call",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Block",
+        "name": "Block",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Meditation",
+        "name": "Meditation",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Charm",
+        "name": "Charm",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Cloth Armor",
+        "name": "Cloth Armor",
+        "count": 2,
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "source_name": "Thwonk!",
+        "name": "Thwonk!",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Not So Fast",
+        "name": "Not So Fast",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Disarming Rake",
+        "name": "Disarming Rake",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Ahri, Alluring",
+        "name": "Ahri, Alluring",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Pickpocket",
+        "name": "Pickpocket",
+        "count": 3,
+        "snapshot_banned": false
+      }
+    ],
+    "battlefields": [
+      {
+        "source_name": "The Dreaming Tree",
+        "name": "Dreaming Tree",
+        "count": 1,
+        "snapshot_banned": true
+      },
+      {
+        "source_name": "Ravenbloom Conservatory",
+        "name": "Ravenbloom Conservatory",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "source_name": "Grove of the God-Willow",
+        "name": "Grove of the God-Willow",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Calm": 6,
+      "Mind": 6
+    },
+    "counts": {
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40,
+      "sideboard": 8,
+      "battlefields": 3,
+      "runes": 12
+    },
+    "banned_instances": 1,
+    "legal_certified": false
+  },
+  "aliases": {
+    "The Dreaming Tree": "Dreaming Tree",
+    "Thousand-Tail Watcher": "Thousand-Tailed Watcher",
+    "Windwall": "Wind Wall",
+    "Thwonk": "Thwonk!",
+    "Not so Fast": "Not So Fast",
+    "Blitzcrank": "Blitzcrank, Impassive",
+    "Ahri Inquisitive": "Ahri, Inquisitive",
+    "Ahri Alluring": "Ahri, Alluring"
+  }
+}
