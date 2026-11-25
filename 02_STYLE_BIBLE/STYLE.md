@@ -37,3 +37,6 @@ Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/TRANSFER_RULES.md. Rango in
 
 ## Método de escritura TKA — aplicación provisional
 Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/WRITING_METHOD.md. Diferenciar registro de narración y diálogo; usar sujeto/acción/consecuencia, contraste funcional, exposición vinculada a decisiones, descripciones sensoriales relevantes y atribuciones sencillas. Apertura anclada en situación; desarrollo mediante restricciones, hipótesis y contrajuego; cierre con consecuencia, decisión o incertidumbre legítima. En combate usar replay legal y separar inferencia de conocimiento. Los datos del corpus sirven para diagnóstico, no cuotas obligatorias ni imitación literal. El estilo propio queda pendiente de calibración multifuente.
+
+## Gramática narrativa generativa
+Consultar [NARRATIVE_GRAMMAR](NARRATIVE_GRAMMAR/README.md) antes de redactar: 32 patrones de oración y 12 bloques originales, selector de mecanismos y pruebas editoriales. Aplicar por función; no reutilizar frases ni imponer cuotas. Los ejemplos son independientes, no canon. Confirmar jugadas mediante replay y conservar focalización y voces propias.
