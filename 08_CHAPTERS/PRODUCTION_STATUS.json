@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 263,
-    "events": 31,
-    "approved_records": 263,
-    "open_issue_groups": 7,
-    "structural_validation": "fresh readback validation passed; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
+    "records": 319,
+    "events": 39,
+    "approved_records": 319,
+    "open_issue_groups": 8,
+    "structural_validation": "fresh Library readback passed; same-agent semantic review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 44,
+    "passed": 39,
     "failed": 0,
-    "scope": "CH4 historical closeout; fresh archive/continuity/guard validation executed on Library readback"
+    "scope": "CH5 closeout, plus fresh persistent archive/continuity/guard readback"
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -241,7 +241,7 @@
     "requirement": "distinguish historical pre-ban evidence, dated post-ban imports, and fictional character versions; no invented lists or results"
   },
   "chapter_05": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
       "source_commit": "1d88203b706bc7b7b84d59986ac7bf1f54175d0c",
@@ -277,6 +277,32 @@
       "dossier_sha256": "c7687d3024772aae00967e188405bfd8794c6f4487791509125651af3c31fddd",
       "private_dossier_readback": true,
       "limitations": "selected relevant files/extracts, not exhaustive corpus review; conditional eligibility fixtures only; no new canon, actual outcome, manuscript or independent reader validation"
-    }
+    },
+    "revision": "V2",
+    "title": "The Second Threat",
+    "words_excluding_headings": 2135,
+    "paragraphs": 86,
+    "scenes": 2,
+    "retired_resources": 36,
+    "abstract_usage_records": 17,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 2128,
+    "competitive_scope": "L1 conditional bounded arithmetic; no full match replay or complete legal character decklists",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "f27a8ae5dc99f6a91a0f06156987777abb8adec215f67464a7ca0bec48cbe243",
+    "archive_storage": "persistent Library exact byte readback verified; fresh manifest, continuity and four guard checks passed",
+    "checks": {
+      "passed": 39,
+      "failed": 0,
+      "scope": "local closeout checks include a block of 13 conditional tactical arithmetic checks, 72 enumerated cases and negative controls; separately reverified Library readback"
+    },
+    "approval": "Author explicitly requested closeout of V2; existing heading restored and trailing page numeral excluded; prose and scene separator preserved",
+    "literary_review": "accepted by author; prior editorial mean 8.94; serial mean 8.75; no independent reader data",
+    "publication": "not published"
+  },
+  "chapter_06": {
+    "status": "not_started",
+    "preflight": "Retrieve verified v6 or successor; read full approved history, source-linked continuity and private pilot/payoff ledger; verify next chapter scope and fresh competitive evidence. No automatic draft or publication."
   }
 }

@@ -1,26 +1,26 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 4,
-  "retired_resources_registered": 206,
-  "manuscript_audits": 5,
+  "approved_chapters_registered": 5,
+  "retired_resources_registered": 242,
+  "manuscript_audits": 6,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 5,
-    "new_variant_candidates": 15
+    "own_approved_units": 6,
+    "new_variant_candidates": 17
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "authoritative v5 persisted in private Library; exact hash readback verified",
+  "private_archive": "authoritative v6 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
-  "usage_records": 78,
-  "lexical_fingerprints_registered": 10423,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
+  "usage_records": 95,
+  "lexical_fingerprints_registered": 12551,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 1,
-  "approved_units_registered": 5,
+  "approved_units_registered": 6,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -124,5 +124,25 @@
     "passed": 44,
     "failed": 0,
     "scope": "original local closeout; separately reverified persistent archive"
+  },
+  "chapter_5": {
+    "revision": "V2",
+    "words": 2135,
+    "paragraphs": 86,
+    "scenes": 2,
+    "distinctive_retired_spans": 36,
+    "usage_records": 17,
+    "abstract_variants": 2,
+    "lexical_fingerprints": 2128,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L1 conditional; 13 bounded arithmetic/calendar checks, 72 assignment/target variations; not full replay",
+    "g6": "explicitly approved, distilled, persisted and verified"
+  },
+  "chapter_5_registration_checks": {
+    "passed": 39,
+    "failed": 0,
+    "scope": "named local closeout checks; tactical block and guard tests nested; separate persistent readback"
   }
 }
