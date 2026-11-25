@@ -15,3 +15,6 @@
 
 ## Extensión MSC-EX05
 [MSC_EX05_PATTERNS.md](MSC_EX05_PATTERNS.md): 8 entradas y 3 bloques originales de mercado, escala, valoración, experiencia demostrada y progreso sin adquisición. Total acumulado: 76 entradas de patrones y 29 bloques; incluyen mecanismos relacionados. Cinco muestras parciales MSC.
+
+## Extensión MSC-EX06
+[MSC_EX06_PATTERNS.md](MSC_EX06_PATTERNS.md): 8 entradas y 3 bloques de cambio motivacional, escala económica, anticipación, reputación y POV. Total acumulado: 84 entradas de patrones y 32 bloques; mecanismos relacionados, no técnicas independientes certificadas. Seis muestras parciales MSC.

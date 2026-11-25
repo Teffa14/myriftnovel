@@ -21,3 +21,6 @@ Cuatro muestras parciales distintas analizadas cualitativamente; cero capítulos
 
 ## MSC-EX05
 Cinco muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Quinta: subasta, valoración, escasez, aspiración y mentoría mediante predicción. Ocho entradas y tres bloques originales nuevos; total acumulado 76 entradas y 29 bloques. No se ejecutó Python sobre MSC, edición sin confirmar. La muestra no incluye torneo PvP ni deckbuilding competitivo.
+
+## MSC-EX06
+Seis muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Sexta: escalada de puja, contraste económico, cambio motivacional, POV independiente y anticipación de innovación. Ocho entradas y tres bloques originales añadidos; total 84 entradas y 32 bloques. No se ejecutó Python sobre MSC; edición sin confirmar. No se muestra partida competitiva ni éxito comercial del protagonista.

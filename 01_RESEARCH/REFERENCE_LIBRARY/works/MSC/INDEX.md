@@ -20,3 +20,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX05 — subasta y valoración
 [Análisis](AUCTION_EXCERPT_ANALYSIS.md): quinta muestra parcial, mercado de alquileres y cartas, predicción de Qi, comparación de atributos, valor estético y aspiración comercial. Ocho entradas y tres bloques originales. Solo se observan dos adjudicaciones de cartas; cero capítulos completos certificados.
+
+## MSC-EX06 — ambición y élite
+[Análisis](AMBITION_AND_ELITE_EXCERPT_ANALYSIS.md): sexta muestra parcial, continuación temática de subasta, desigualdad, cambio de aspiración, corte de POV a Fenghua Club y anticipación de innovación. Ocho entradas y tres bloques originales. No se muestra creación comercial de Xie ni prueba competitiva del reemplazo.
