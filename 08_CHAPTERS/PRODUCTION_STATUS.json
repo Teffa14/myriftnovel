@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v4.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 202,
-    "events": 23,
-    "approved_records": 202,
-    "open_issue_groups": 6,
-    "structural_validation": "passed; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v4.zip",
+    "records": 263,
+    "events": 31,
+    "approved_records": 263,
+    "open_issue_groups": 7,
+    "structural_validation": "fresh readback validation passed; same-agent semantic review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 36,
+    "passed": 44,
     "failed": 0,
-    "scope": "archive, lexical, source locators, conditional rule fixtures, calendar and continuity"
+    "scope": "CH4 historical closeout; fresh archive/continuity/guard validation executed on Library readback"
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -154,7 +154,7 @@
     "publication": "not published"
   },
   "chapter_04": {
-    "status": "author_approved_locally_distilled_pending_private_persistence",
+    "status": "author_approved_and_distilled",
     "preflight": "Retrieve authoritative archive v4 or verified successor. Validate archive and continuity, load all four approved units, select fresh narrative mechanisms; honor prior commitments. Competitive preflight must distinguish real reference compositions from fictional character decks, establish source-linked versioned decklists before extended technical gameplay, and maintain dated post-ban references. No automatic approval or publication.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -215,10 +215,7 @@
       "failed": 0,
       "scope": "exact-text preservation, archive manifest, lexical, structural continuity, negative controls and historical deck comparison arithmetic"
     },
-    "pending_archive_filename": "THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
-    "pending_archive_sha256": "7b692a6c58d0800bd2712e4ea4ada5b2ee030381b6a6f4d97039478e48d19e7a",
-    "pending_archive_bytes": 713039,
-    "archive_storage": "verified local artifact; persistent Library write and byte readback not confirmed",
+    "archive_storage": "Library upload and exact SHA-256 readback verified; manifest and continuity validators passed",
     "local_counts": {
       "retired": 206,
       "usage": 78,
@@ -229,7 +226,11 @@
     },
     "competitive_scope": "L0 documentary historical comparison; no complete legal character decklist or replay",
     "serial_quality": "existing editorial scores retained; private 20-chapter payoff ledger added; future arc proposals remain unapproved; no actual reader measurements",
-    "next_gate": "Do not advance to Chapter 5 until exact v5 archive is retrievable from authorized private persistent storage, SHA-256 matches, and archive/continuity checks pass. Then promote authoritative pointer and aggregate registered counts. Preserve v4."
+    "next_gate": "closed",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "7b692a6c58d0800bd2712e4ea4ada5b2ee030381b6a6f4d97039478e48d19e7a",
+    "publication": "not published"
   },
   "competitive_registry_status": {
     "historical_complete_reference_lists": 2,
@@ -240,7 +241,42 @@
     "requirement": "distinguish historical pre-ban evidence, dated post-ban imports, and fictional character versions; no invented lists or results"
   },
   "chapter_05": {
-    "status": "blocked_pending_CH0004_private_archive_persistence",
-    "preflight": "After private v5 persistence confirmed, use complete approved corpus and serial payoff ledger; fulfill earned competitive anticipation through supported gameplay; no new canon or manuscript yet."
+    "status": "not_started",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "1d88203b706bc7b7b84d59986ac7bf1f54175d0c",
+      "repository_inventory": {
+        "entries": 331,
+        "blobs": 270,
+        "truncated": false
+      },
+      "archive_verified": true,
+      "private_archive_readback": true,
+      "approved_units": 5,
+      "retired_expressions": 206,
+      "usage_records": 78,
+      "continuity_records": 263,
+      "timeline_events": 31,
+      "open_issue_groups": 7,
+      "python_checks": {
+        "passed": 51,
+        "failed": 0
+      },
+      "guard_selftests_passed": 4,
+      "competitive_reference_screen": {
+        "new_private_historical_reference_lists": 2,
+        "new_private_card_rows": 57,
+        "section_counts_match": 2,
+        "normalized_standard_ban_name_matches": 0,
+        "new_postban_full_lists": 0,
+        "assigned_character_lists": 0,
+        "scope": "historical counts, copy-count proxy and name screening, not complete legality; no replay"
+      },
+      "planned_competitive_scope": "L1 target; exact state and rules proof required before draft acceptance",
+      "private_dossier": "/The Last Draw - Private Archive/CH0005_preflight.zip",
+      "dossier_sha256": "c7687d3024772aae00967e188405bfd8794c6f4487791509125651af3c31fddd",
+      "private_dossier_readback": true,
+      "limitations": "selected relevant files/extracts, not exhaustive corpus review; conditional eligibility fixtures only; no new canon, actual outcome, manuscript or independent reader validation"
+    }
   }
 }
