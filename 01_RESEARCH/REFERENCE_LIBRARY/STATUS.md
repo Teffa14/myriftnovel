@@ -45,3 +45,6 @@ Trece muestras únicas; cero capítulos completos certificados. Tres nuevas mues
 
 ## GED-CH01
 Third work; first supplied unit labeled Chapter 1. Python executed on mounted file: 3499 tokens, 156 paragraphs, 629 quoted tokens; excluded Wattpad UI/recommendations. Ten candidate variants and four original blocks, totals 178 entries and 69 blocks across three works; not independent certified techniques. No chapter certification or reader tests; POS not run. Source not committed.
+
+## CFA-V01
+Fourth work, 17 narrative XHTML files grouped into prologue and seven chapters. 79,988 tokens and 2,968 paragraphs processed quantitatively. CH01 fully read, remaining seven units sampled; zero chapter-certified because formal independent review gates not completed. Eight candidate entries, four original blocks; total 186 entries and 73 blocks across four works, not independent mechanisms. No POS or reader tests; no original text stored.

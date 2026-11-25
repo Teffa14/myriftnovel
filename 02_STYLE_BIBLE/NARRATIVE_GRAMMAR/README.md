@@ -39,3 +39,6 @@
 
 ## GED-CH01
 [GED_CH01_PATTERNS.md](GED_CH01_PATTERNS.md): 10 candidate entries G01–G10 and 4 original blocks GB01–GB04, total 178 entries and 69 blocks. Third work, humor and relationship dynamics. Python metrics in GED research folder; chapter completeness unverified.
+
+## CFA-V01
+[CFA_V01_PATTERNS.md](CFA_V01_PATTERNS.md): eight entries C01–C08 and four blocks CB01–CB04. Totals 186 entries and 73 blocks, four works. Full narrative metrics, CH01 direct full reading and sampled remainder. No independent certification.

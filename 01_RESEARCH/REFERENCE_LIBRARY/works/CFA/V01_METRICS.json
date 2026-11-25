@@ -1,0 +1,322 @@
+{
+  "source_sha256": "1fa0b9f81e210e0519ec32957960c4d6795e8d75dedb1682af83f006c2269c7c",
+  "narrative_files": 17,
+  "total": {
+    "tokens": 79988,
+    "paragraphs": 2968,
+    "sentence_proxy": 7662,
+    "quote_spans": 1390,
+    "quote_tokens": 17673,
+    "quote_pct": 22.09,
+    "questions": 1124,
+    "exclamations": 620,
+    "forms": 7488,
+    "median_sentence_tokens": 9,
+    "median_paragraph_tokens": 21,
+    "top_forms": [
+      [
+        "the",
+        3815
+      ],
+      [
+        "to",
+        2185
+      ],
+      [
+        "a",
+        1933
+      ],
+      [
+        "i",
+        1739
+      ],
+      [
+        "of",
+        1661
+      ],
+      [
+        "was",
+        1518
+      ],
+      [
+        "and",
+        1215
+      ],
+      [
+        "that",
+        1093
+      ],
+      [
+        "in",
+        1047
+      ],
+      [
+        "my",
+        956
+      ],
+      [
+        "it",
+        915
+      ],
+      [
+        "this",
+        893
+      ],
+      [
+        "you",
+        767
+      ],
+      [
+        "as",
+        742
+      ],
+      [
+        "with",
+        615
+      ],
+      [
+        "but",
+        588
+      ],
+      [
+        "had",
+        585
+      ],
+      [
+        "for",
+        571
+      ],
+      [
+        "me",
+        569
+      ],
+      [
+        "his",
+        561
+      ]
+    ],
+    "sentence_starts": [
+      [
+        "i",
+        556
+      ],
+      [
+        "the",
+        406
+      ],
+      [
+        "but",
+        203
+      ],
+      [
+        "this",
+        159
+      ],
+      [
+        "what",
+        153
+      ],
+      [
+        "you",
+        147
+      ],
+      [
+        "it",
+        146
+      ],
+      [
+        "in",
+        140
+      ],
+      [
+        "that",
+        136
+      ],
+      [
+        "and",
+        134
+      ]
+    ],
+    "lexicon": {
+      "contrast": 732,
+      "causal": 440,
+      "conditional": 244,
+      "cognition": 152,
+      "attribution": 121,
+      "uncertainty": 147,
+      "sequence": 528,
+      "action_proxy": 60
+    }
+  },
+  "units": {
+    "prologue": {
+      "tokens": 3498,
+      "paragraphs": 107,
+      "sentence_proxy": 251,
+      "quote_tokens": 410,
+      "quote_pct": 11.72,
+      "questions": 15,
+      "exclamations": 4,
+      "median_sentence_tokens": 13,
+      "median_paragraph_tokens": 28,
+      "lexicon": {
+        "contrast": 29,
+        "causal": 15,
+        "conditional": 12,
+        "cognition": 8,
+        "attribution": 9,
+        "uncertainty": 6,
+        "sequence": 26,
+        "action_proxy": 2
+      }
+    },
+    "chapter1": {
+      "tokens": 2760,
+      "paragraphs": 86,
+      "sentence_proxy": 242,
+      "quote_tokens": 138,
+      "quote_pct": 5,
+      "questions": 55,
+      "exclamations": 13,
+      "median_sentence_tokens": 10,
+      "median_paragraph_tokens": 30,
+      "lexicon": {
+        "contrast": 23,
+        "causal": 13,
+        "conditional": 5,
+        "cognition": 10,
+        "attribution": 2,
+        "uncertainty": 7,
+        "sequence": 15,
+        "action_proxy": 2
+      }
+    },
+    "chapter2": {
+      "tokens": 5410,
+      "paragraphs": 212,
+      "sentence_proxy": 504,
+      "quote_tokens": 774,
+      "quote_pct": 14.31,
+      "questions": 68,
+      "exclamations": 47,
+      "median_sentence_tokens": 9,
+      "median_paragraph_tokens": 18,
+      "lexicon": {
+        "contrast": 61,
+        "causal": 27,
+        "conditional": 29,
+        "cognition": 20,
+        "attribution": 4,
+        "uncertainty": 13,
+        "sequence": 42,
+        "action_proxy": 3
+      }
+    },
+    "chapter3": {
+      "tokens": 4510,
+      "paragraphs": 162,
+      "sentence_proxy": 392,
+      "quote_tokens": 251,
+      "quote_pct": 5.57,
+      "questions": 61,
+      "exclamations": 37,
+      "median_sentence_tokens": 10,
+      "median_paragraph_tokens": 22,
+      "lexicon": {
+        "contrast": 37,
+        "causal": 32,
+        "conditional": 16,
+        "cognition": 16,
+        "attribution": 3,
+        "uncertainty": 12,
+        "sequence": 33,
+        "action_proxy": 0
+      }
+    },
+    "chapter4": {
+      "tokens": 29008,
+      "paragraphs": 1010,
+      "sentence_proxy": 2709,
+      "quote_tokens": 6252,
+      "quote_pct": 21.55,
+      "questions": 426,
+      "exclamations": 172,
+      "median_sentence_tokens": 9,
+      "median_paragraph_tokens": 21.5,
+      "lexicon": {
+        "contrast": 282,
+        "causal": 165,
+        "conditional": 87,
+        "cognition": 54,
+        "attribution": 45,
+        "uncertainty": 51,
+        "sequence": 189,
+        "action_proxy": 24
+      }
+    },
+    "chapter5": {
+      "tokens": 8668,
+      "paragraphs": 315,
+      "sentence_proxy": 834,
+      "quote_tokens": 1972,
+      "quote_pct": 22.75,
+      "questions": 111,
+      "exclamations": 89,
+      "median_sentence_tokens": 9,
+      "median_paragraph_tokens": 24,
+      "lexicon": {
+        "contrast": 76,
+        "causal": 47,
+        "conditional": 22,
+        "cognition": 15,
+        "attribution": 6,
+        "uncertainty": 8,
+        "sequence": 58,
+        "action_proxy": 9
+      }
+    },
+    "chapter6": {
+      "tokens": 18248,
+      "paragraphs": 743,
+      "sentence_proxy": 1857,
+      "quote_tokens": 5139,
+      "quote_pct": 28.16,
+      "questions": 282,
+      "exclamations": 182,
+      "median_sentence_tokens": 9,
+      "median_paragraph_tokens": 18,
+      "lexicon": {
+        "contrast": 150,
+        "causal": 111,
+        "conditional": 61,
+        "cognition": 22,
+        "attribution": 40,
+        "uncertainty": 46,
+        "sequence": 115,
+        "action_proxy": 11
+      }
+    },
+    "chapter7": {
+      "tokens": 7886,
+      "paragraphs": 333,
+      "sentence_proxy": 873,
+      "quote_tokens": 2737,
+      "quote_pct": 34.71,
+      "questions": 106,
+      "exclamations": 76,
+      "median_sentence_tokens": 8,
+      "median_paragraph_tokens": 18,
+      "lexicon": {
+        "contrast": 74,
+        "causal": 30,
+        "conditional": 12,
+        "cognition": 7,
+        "attribution": 12,
+        "uncertainty": 4,
+        "sequence": 50,
+        "action_proxy": 9
+      }
+    }
+  },
+  "limitations": "Chapter-level and aggregate subset of executed Python results; complete output regenerates with measure_volume.py. No POS. Quote and sentence proxies."
+}

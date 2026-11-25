@@ -24,3 +24,6 @@ Consultar [REFERENCE_LIBRARY](REFERENCE_LIBRARY/README.md) para catálogo de 14 
 
 ## GED — third work chosen by author
 The Greatest Estate Developer: humor, contrasting voices, relationship dynamics, responsibility, technical problem solving. First supplied chapter analyzed hybrid; see REFERENCE_LIBRARY/works/GED/INDEX.md. Coverage unverified.
+
+## CFA — fourth work
+Rei Yayoi, volume 1; J-Novel Club English translation. Complete narrative spine measured; CH01 full reading, remaining units sampled. See REFERENCE_LIBRARY/works/CFA/INDEX.md. Focus: strategic adaptation and asymmetric interpretation.
