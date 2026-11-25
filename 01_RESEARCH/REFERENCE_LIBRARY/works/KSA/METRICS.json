@@ -1,0 +1,254 @@
+{
+  "source": "Kai'Sa specialist introduction; title and author not supplied",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "114d4ab70d24a9ae79389a39edc4f16aceff0654b99f09200881a0dda1412384",
+  "bytes": 21374,
+  "lines": 449,
+  "word_tokens": 3155,
+  "distinct_lowercase_forms": 815,
+  "blocks": 141,
+  "unique_urls": 2,
+  "method": "Python UTF-8-sig splitlines, Unicode alphabetic regex with internal apostrophe/hyphen, includes headings, links and Markdown. Lowercase forms. Blank-line-delimited blocks.",
+  "units": [
+    {
+      "id": "KSA-U01",
+      "start": 1,
+      "end": 12,
+      "tokens": 60,
+      "topic": "Scope and maintenance"
+    },
+    {
+      "id": "KSA-U02",
+      "start": 13,
+      "end": 30,
+      "tokens": 57,
+      "topic": "Deck links"
+    },
+    {
+      "id": "KSA-U03",
+      "start": 31,
+      "end": 34,
+      "tokens": 2,
+      "topic": "Card heading"
+    },
+    {
+      "id": "KSA-U04",
+      "start": 35,
+      "end": 42,
+      "tokens": 11,
+      "topic": "Battlefields"
+    },
+    {
+      "id": "KSA-U05",
+      "start": 43,
+      "end": 56,
+      "tokens": 103,
+      "topic": "Opening density"
+    },
+    {
+      "id": "KSA-U06",
+      "start": 57,
+      "end": 68,
+      "tokens": 140,
+      "topic": "Removal"
+    },
+    {
+      "id": "KSA-U07",
+      "start": 69,
+      "end": 84,
+      "tokens": 237,
+      "topic": "Breach engine"
+    },
+    {
+      "id": "KSA-U08",
+      "start": 85,
+      "end": 96,
+      "tokens": 141,
+      "topic": "Flex slots"
+    },
+    {
+      "id": "KSA-U09",
+      "start": 97,
+      "end": 98,
+      "tokens": 1,
+      "topic": "Sideboard heading"
+    },
+    {
+      "id": "KSA-U10",
+      "start": 99,
+      "end": 112,
+      "tokens": 15,
+      "topic": "Heron Irelia swaps"
+    },
+    {
+      "id": "KSA-U11",
+      "start": 113,
+      "end": 127,
+      "tokens": 25,
+      "topic": "Non-Heron Irelia swaps"
+    },
+    {
+      "id": "KSA-U12",
+      "start": 128,
+      "end": 141,
+      "tokens": 20,
+      "topic": "Kennen swaps"
+    },
+    {
+      "id": "KSA-U13",
+      "start": 142,
+      "end": 156,
+      "tokens": 18,
+      "topic": "Jayce swaps"
+    },
+    {
+      "id": "KSA-U14",
+      "start": 157,
+      "end": 168,
+      "tokens": 7,
+      "topic": "LeBlanc swaps"
+    },
+    {
+      "id": "KSA-U15",
+      "start": 169,
+      "end": 181,
+      "tokens": 12,
+      "topic": "Rengar swaps"
+    },
+    {
+      "id": "KSA-U16",
+      "start": 182,
+      "end": 195,
+      "tokens": 18,
+      "topic": "Akali swaps"
+    },
+    {
+      "id": "KSA-U17",
+      "start": 196,
+      "end": 209,
+      "tokens": 21,
+      "topic": "Heron Vex swaps"
+    },
+    {
+      "id": "KSA-U18",
+      "start": 210,
+      "end": 225,
+      "tokens": 22,
+      "topic": "Azir swaps"
+    },
+    {
+      "id": "KSA-U19",
+      "start": 226,
+      "end": 240,
+      "tokens": 21,
+      "topic": "Yi swaps"
+    },
+    {
+      "id": "KSA-U20",
+      "start": 241,
+      "end": 242,
+      "tokens": 1,
+      "topic": "Matchup heading"
+    },
+    {
+      "id": "KSA-U21",
+      "start": 243,
+      "end": 264,
+      "tokens": 215,
+      "topic": "General strategy"
+    },
+    {
+      "id": "KSA-U22",
+      "start": 265,
+      "end": 288,
+      "tokens": 238,
+      "topic": "Heron Irelia"
+    },
+    {
+      "id": "KSA-U23",
+      "start": 289,
+      "end": 308,
+      "tokens": 281,
+      "topic": "Non-Heron Irelia"
+    },
+    {
+      "id": "KSA-U24",
+      "start": 309,
+      "end": 326,
+      "tokens": 216,
+      "topic": "Kennen"
+    },
+    {
+      "id": "KSA-U25",
+      "start": 327,
+      "end": 344,
+      "tokens": 278,
+      "topic": "Jayce"
+    },
+    {
+      "id": "KSA-U26",
+      "start": 345,
+      "end": 364,
+      "tokens": 258,
+      "topic": "LeBlanc"
+    },
+    {
+      "id": "KSA-U27",
+      "start": 365,
+      "end": 386,
+      "tokens": 220,
+      "topic": "Rengar"
+    },
+    {
+      "id": "KSA-U28",
+      "start": 387,
+      "end": 402,
+      "tokens": 89,
+      "topic": "Akali"
+    },
+    {
+      "id": "KSA-U29",
+      "start": 403,
+      "end": 418,
+      "tokens": 96,
+      "topic": "Heron Vex"
+    },
+    {
+      "id": "KSA-U30",
+      "start": 419,
+      "end": 436,
+      "tokens": 169,
+      "topic": "Azir"
+    },
+    {
+      "id": "KSA-U31",
+      "start": 437,
+      "end": 449,
+      "tokens": 163,
+      "topic": "Master Yi"
+    }
+  ],
+  "counts": {
+    "role_records": 20,
+    "fields": 3,
+    "matchup_variants": 10,
+    "swap_plans": 15,
+    "inferred_sideboard_minimum": 10,
+    "mechanisms": 32,
+    "exercises": 4,
+    "guards": 9
+  },
+  "checks": [
+    "31 units contiguous and 3155 tokens",
+    "15 balanced swap plans",
+    "10 matchup labels",
+    "five order-specific pairs",
+    "inferred minimum sideboard 10",
+    "all known main counts compatible with outgoing minima",
+    "four ban flags",
+    "FTG identities including both Yi candidates",
+    "32 unique mechanisms",
+    "existing Kaiji ID preserved"
+  ]
+}

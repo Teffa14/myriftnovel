@@ -1,0 +1,702 @@
+{
+  "matches": [
+    {
+      "profile_id": "FT-L17",
+      "opponent": "Irelia Heron",
+      "source_lines": "265–288",
+      "macro": "Deny inexpensive early scoring and force expenditure before large payoff.",
+      "micro": "Compare early pressure with reserve; account for modifiers and actual interaction.",
+      "guard": "Historical Brynhir and Hourglass; no guaranteed uncontested combat.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L17",
+      "opponent": "Irelia non-Heron",
+      "source_lines": "289–308",
+      "macro": "Tax early progress, maintain own score, avoid disproportionately costly removal.",
+      "micro": "Compare raw defense plus responses against central carry; distribute expendable scoring.",
+      "guard": "Specific 10/11 Might claim and closing line require dated rules and state.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L25",
+      "opponent": "Kennen",
+      "source_lines": "309–326",
+      "macro": "Avoid sacrificing valuable bodies to offense; seek efficient reset and redevelop.",
+      "micro": "Track small units, trash access and exchange effects; opponent may retain answers or recover.",
+      "guard": "No universal vulnerability threshold or absence of interaction.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L21",
+      "opponent": "Jayce",
+      "source_lines": "327–344",
+      "macro": "Maintain pressure, access and safe positioning against gear engine.",
+      "micro": "Track public reveals and remaining possible threats; compare clustered and isolated bodies.",
+      "guard": "Aurora and Brynhir historical; binary matchup judgment unsupported.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L28",
+      "opponent": "LeBlanc Baited Hook",
+      "source_lines": "345–364",
+      "macro": "Interrupt scoring that enables copies and remove supporting original bodies.",
+      "micro": "Test token handling, death triggers and competing responses.",
+      "guard": "Baited Hook and Brynhir historical; cannot assert no opposing interaction.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L47",
+      "opponent": "Rengar",
+      "source_lines": "365–386",
+      "macro": "Constrain card access and reinforcement before attempting costly clears.",
+      "micro": "Compare combat before and after opponent's legal modifier options; retain second use of payoff.",
+      "guard": "Source calls difficult; no observed win rate.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L05",
+      "opponent": "Akali",
+      "source_lines": "387–402",
+      "macro": "Compare slower threat development and drawing against early score pressure.",
+      "micro": "Account for movement and alternate modifiers.",
+      "guard": "Historical denial engine excluded from current use.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L55",
+      "opponent": "Vex Heron",
+      "source_lines": "403–418",
+      "macro": "Contest first scoring opportunity before recurring control develops.",
+      "micro": "Maintain alternate route; track concealed reinforcement hypotheses.",
+      "guard": "No automatic lockout or blanket inability to move.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L08",
+      "opponent": "Azir",
+      "source_lines": "419–436",
+      "macro": "Limit equipment payoff and preserve base; use defense to extract resources.",
+      "micro": "Budget actual hidden threats and token interaction; compare losing trade against expensive defense.",
+      "guard": "Token removal and scoring claims require rules proof.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L34 or FT-L35",
+      "opponent": "Master Yi",
+      "source_lines": "437–449",
+      "macro": "Tax development while building a later board-clear opportunity.",
+      "micro": "Compare legal targets, modifier thresholds, potential reinforcement and expendable probe.",
+      "guard": "Exact Yi Legend unresolved; no assumed effect across variants.",
+      "status": "pilot_opinion_untested",
+      "observed_matches": null,
+      "win_rate": null
+    }
+  ],
+  "plans": [
+    {
+      "id": "KSA-SB01",
+      "opponent": "Irelia Heron",
+      "order": "both",
+      "source_lines": "99–112",
+      "incoming": [
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Bellows Breath",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB02",
+      "opponent": "Irelia non-Heron",
+      "order": "first",
+      "source_lines": "113–127",
+      "incoming": [
+        {
+          "name": "Brittle Steel",
+          "count": 2
+        },
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Lecturing Yordle",
+          "count": 2
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Temporal Breach",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB03",
+      "opponent": "Irelia non-Heron",
+      "order": "second",
+      "source_lines": "113–127",
+      "incoming": [
+        {
+          "name": "Brittle Steel",
+          "count": 2
+        },
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Watchful Sentry",
+          "count": 1
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Temporal Breach",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB04",
+      "opponent": "Kennen",
+      "order": "first",
+      "source_lines": "128–141",
+      "incoming": [
+        {
+          "name": "Pickpocket",
+          "count": 2
+        },
+        {
+          "name": "Brittle Steel",
+          "count": 1
+        },
+        {
+          "name": "Icathian Rain",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB05",
+      "opponent": "Kennen",
+      "order": "second",
+      "source_lines": "128–141",
+      "incoming": [
+        {
+          "name": "Pickpocket",
+          "count": 2
+        },
+        {
+          "name": "Brittle Steel",
+          "count": 1
+        },
+        {
+          "name": "Icathian Rain",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        },
+        {
+          "name": "Watchful Sentry",
+          "count": 1
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB06",
+      "opponent": "Jayce",
+      "order": "both",
+      "source_lines": "142–156",
+      "incoming": [
+        {
+          "name": "Brittle Steel",
+          "count": 2
+        },
+        {
+          "name": "Decree of Insight",
+          "count": 1
+        },
+        {
+          "name": "Icathian Rain",
+          "count": 1
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Bellows Breath",
+          "count": 2
+        },
+        {
+          "name": "Hextech Ray",
+          "count": 2
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB07",
+      "opponent": "LeBlanc",
+      "order": "both",
+      "source_lines": "157–168",
+      "incoming": [
+        {
+          "name": "Icathian Rain",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB08",
+      "opponent": "Rengar",
+      "order": "both",
+      "source_lines": "169–181",
+      "incoming": [
+        {
+          "name": "Decree of Insight",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Time Warp",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB09",
+      "opponent": "Akali",
+      "order": "first",
+      "source_lines": "182–195",
+      "incoming": [
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB10",
+      "opponent": "Akali",
+      "order": "second",
+      "source_lines": "182–195",
+      "incoming": [
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Watchful Sentry",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB11",
+      "opponent": "Vex Heron",
+      "order": "first",
+      "source_lines": "196–209",
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        },
+        {
+          "name": "Brittle Steel",
+          "count": 1
+        },
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB12",
+      "opponent": "Vex Heron",
+      "order": "second",
+      "source_lines": "196–209",
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        },
+        {
+          "name": "Brittle Steel",
+          "count": 1
+        },
+        {
+          "name": "Decree of Rage",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Watchful Sentry",
+          "count": 1
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB13",
+      "opponent": "Azir",
+      "order": "both_no_distinction_supplied",
+      "source_lines": "210–225",
+      "incoming": [
+        {
+          "name": "Pickpocket",
+          "count": 2
+        },
+        {
+          "name": "Brittle Steel",
+          "count": 2
+        },
+        {
+          "name": "Icathian Rain",
+          "count": 1
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        },
+        {
+          "name": "Perfect Execution",
+          "count": 1
+        },
+        {
+          "name": "Lecturing Yordle",
+          "count": 2
+        },
+        {
+          "name": "Time Warp",
+          "count": 1
+        },
+        {
+          "name": "Progress Day",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB14",
+      "opponent": "Master Yi",
+      "order": "first",
+      "source_lines": "226–240",
+      "incoming": [
+        {
+          "name": "Decree of Insight",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Lecturing Yordle",
+          "count": 2
+        },
+        {
+          "name": "Rocket Barrage",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    },
+    {
+      "id": "KSA-SB15",
+      "opponent": "Master Yi",
+      "order": "second",
+      "source_lines": "226–240",
+      "incoming": [
+        {
+          "name": "Decree of Insight",
+          "count": 2
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Watchful Sentry",
+          "count": 1
+        },
+        {
+          "name": "Plundering Poro",
+          "count": 1
+        },
+        {
+          "name": "Progress Day",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legality_proof"
+    }
+  ],
+  "minimum_sideboard_from_plans": [
+    {
+      "name": "Decree of Rage",
+      "count": 2
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "count": 1
+    },
+    {
+      "name": "Brittle Steel",
+      "count": 2
+    },
+    {
+      "name": "Pickpocket",
+      "count": 2
+    },
+    {
+      "name": "Icathian Rain",
+      "count": 1
+    },
+    {
+      "name": "Decree of Insight",
+      "count": 2
+    }
+  ],
+  "minimum_sideboard_total": 10,
+  "guards": [
+    {
+      "name": "Brynhir Thundersong",
+      "repository_banned": true,
+      "source_status": "central own engine; quantity unknown",
+      "decision": "Do not transfer to post-November-23 Standard; verify historical rules for dated scenes."
+    },
+    {
+      "name": "Zhonya’s Hourglass",
+      "repository_banned": true,
+      "source_status": "opposing/historical example; not evidence of own inclusion",
+      "decision": "Do not transfer to post-November-23 Standard; verify historical rules for dated scenes."
+    },
+    {
+      "name": "Dazzling Aurora",
+      "repository_banned": true,
+      "source_status": "opposing/historical example; not evidence of own inclusion",
+      "decision": "Do not transfer to post-November-23 Standard; verify historical rules for dated scenes."
+    },
+    {
+      "name": "Baited Hook",
+      "repository_banned": true,
+      "source_status": "opposing/historical example; not evidence of own inclusion",
+      "decision": "Do not transfer to post-November-23 Standard; verify historical rules for dated scenes."
+    },
+    {
+      "name": "Master Yi identity",
+      "decision": "Both FT-L34 and FT-L35 remain candidates; resolve exact Legend before mechanical use."
+    },
+    {
+      "name": "One rune per turn",
+      "decision": "Pilot resource heuristic with stated clear exception, not official rule."
+    },
+    {
+      "name": "Deck image and URL",
+      "decision": "No image inspected; supplied PiltoverArchive URL attempted and inaccessible. Full list, chosen champion, rune split and complete legality remain unknown."
+    },
+    {
+      "name": "Sideboard maxima",
+      "decision": "Maximum incoming per identity across plans is inferred minimum inventory, not independently read decklist."
+    },
+    {
+      "name": "Absolute matchup claims",
+      "decision": "No denominator; counterplay, opponent choices and win rates remain unknown."
+    }
+  ]
+}

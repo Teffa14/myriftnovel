@@ -1,0 +1,322 @@
+[
+  {
+    "id": "KSA-M01",
+    "level": "L4",
+    "name": "Opening density versus late relevance",
+    "source_lines": "43–56",
+    "structure": "Limit weak late draws while keeping sufficient initial options.",
+    "acceptance": "Test actual opening access and alternative late value.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M02",
+    "level": "L4",
+    "name": "Role fit over isolated quality",
+    "source_lines": "43–56",
+    "structure": "Reject an individually strong card if its payoff requires a different plan.",
+    "acceptance": "Compare marginal slot and dependency.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M03",
+    "level": "L4",
+    "name": "Asymmetric opening alternatives",
+    "source_lines": "43–56",
+    "structure": "Compare early body plus response with alternative development on draw.",
+    "acceptance": "Verify resource access and opponent opening.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M04",
+    "level": "L4",
+    "name": "Combined damage threshold",
+    "source_lines": "57–68",
+    "structure": "Combine separate effects to reach removal thresholds efficiently.",
+    "acceptance": "Track current damage, Might, timing and all eligible targets.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M05",
+    "level": "L4",
+    "name": "Marginal board-clear yield",
+    "source_lines": "57–68",
+    "structure": "Compare aggregate opposing resources removed with own investment.",
+    "acceptance": "Include opponent responses, recovery and score.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M06",
+    "level": "L4",
+    "name": "Rune conservation heuristic",
+    "source_lines": "57–68,245–256",
+    "structure": "Avoid unnecessary expenditure of persistent resources to preserve later options.",
+    "acceptance": "One-per-turn is a pilot heuristic, not law; test exceptions.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M07",
+    "level": "L4",
+    "name": "Future resource budget",
+    "source_lines": "245–256",
+    "structure": "Work backward from closing resource requirement to current affordable actions.",
+    "acceptance": "Separate Energy and Power and exact recycling.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M08",
+    "level": "L4",
+    "name": "Intentional point concession",
+    "source_lines": "245–256",
+    "structure": "Accept low-cost opposing progress if spending now destroys later viable recovery.",
+    "acceptance": "Check opposing closing clock; do not concede a decisive point.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M09",
+    "level": "L4",
+    "name": "Interaction suppression dependency",
+    "source_lines": "69–84",
+    "structure": "Evaluate a payoff dependent on a preceding restriction and opponent response window.",
+    "acceptance": "Historical Brynhir banned; no current use without independent legal substitute.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M10",
+    "level": "L3",
+    "name": "Replay entry value",
+    "source_lines": "69–84",
+    "structure": "Compare reusing a qualifying entry payoff with deploying new body.",
+    "acceptance": "Verify identity, zone change, triggers and cost.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M11",
+    "level": "L4",
+    "name": "Hidden defensive timing",
+    "source_lines": "69–84",
+    "structure": "Preserve a conditional response for attack window rather than spend it prematurely.",
+    "acceptance": "Verify reveal eligibility, timing and opponent alternatives.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M12",
+    "level": "L4",
+    "name": "Restriction timing versus developed board",
+    "source_lines": "69–84",
+    "structure": "A restriction can lose utility once opponent has already deployed relevant resources.",
+    "acceptance": "Compare precise scope and remaining legal responses.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M13",
+    "level": "L4",
+    "name": "Multi-role mobility",
+    "source_lines": "85–96",
+    "structure": "Value relocation as retreat, scoring or conditional setup.",
+    "acceptance": "Check targets, movement and actual result.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M14",
+    "level": "L4",
+    "name": "Flexible answer versus narrow tech",
+    "source_lines": "85–96",
+    "structure": "Prefer wider useful coverage when expected narrow targets are uncertain.",
+    "acceptance": "Compare actual target frequency and marginal effectiveness.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M15",
+    "level": "L4",
+    "name": "Long-game access slot",
+    "source_lines": "85–96",
+    "structure": "Retain extra selection/draw if longer contest makes closing options valuable.",
+    "acceptance": "Check resource opportunity cost and opposing pace.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M16",
+    "level": "L4",
+    "name": "Matchup-dependent threat density",
+    "source_lines": "85–96,99–240",
+    "structure": "Add or remove expensive threats according to opposing answer profile.",
+    "acceptance": "Require legal inventory and actual replacement constraints.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M17",
+    "level": "L4",
+    "name": "Sideboard order dependence",
+    "source_lines": "113–240",
+    "structure": "Change opening bodies according to first/second access and opponent.",
+    "acceptance": "Verify all counts and legal swaps.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M18",
+    "level": "L4",
+    "name": "Sequence reversible before irreversible commitment",
+    "source_lines": "257–264",
+    "structure": "When legal, test response to damage before committing scarce threshold modifier.",
+    "acceptance": "Opponent may counter, change targets or decline; verify chain.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M19",
+    "level": "L3",
+    "name": "Damage mark and conditional trade",
+    "source_lines": "257–264",
+    "structure": "Compare an offered combat trade with response to attempted opposing modifier.",
+    "acceptance": "Verify damage persistence, reaction window and threshold.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M20",
+    "level": "L4",
+    "name": "Tax development through defense",
+    "source_lines": "265–308",
+    "structure": "Force meaningful expenditure to access a field, delaying large opposing payoff.",
+    "acceptance": "Test actual alternative routes and cost.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M21",
+    "level": "L4",
+    "name": "Distributed scoring against central carry",
+    "source_lines": "289–308",
+    "structure": "Maintain low-investment alternative scoring while opponent protects one position.",
+    "acceptance": "Do not assume central carry cannot contest both.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M22",
+    "level": "L4",
+    "name": "Reset then convert",
+    "source_lines": "309–326",
+    "structure": "Plan post-clear deployment and scoring before spending board-reset resources.",
+    "acceptance": "Check opposing recovery and actual scoring.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M23",
+    "level": "L4",
+    "name": "Track public access and depletion",
+    "source_lines": "327–344",
+    "structure": "Update threat hypotheses using publicly revealed cards and zone history.",
+    "acceptance": "Do not infer unknown hand or deck composition with certainty.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M24",
+    "level": "L4",
+    "name": "Position against expensive engine",
+    "source_lines": "327–344",
+    "structure": "Compare isolation and clustering against likely legal removal modes.",
+    "acceptance": "Verify relevant target restrictions; no fixed positioning rule.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M25",
+    "level": "L4",
+    "name": "Interrupt enabling dependency",
+    "source_lines": "345–364,365–386",
+    "structure": "Prevent the resource or scoring event that supplies repeated opposing value.",
+    "acceptance": "Check real trigger and alternative engine.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M26",
+    "level": "L4",
+    "name": "Payoff reuse timing",
+    "source_lines": "365–386",
+    "structure": "Develop payoff body now and preserve later use when its effect becomes relevant.",
+    "acceptance": "Verify actual replay eligibility and resource costs.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M27",
+    "level": "L4",
+    "name": "Early lock prevention",
+    "source_lines": "403–418",
+    "structure": "Challenge first recurring-value position when feasible; preserve alternate score route.",
+    "acceptance": "Compare actual loss of resources and future holds.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M28",
+    "level": "L4",
+    "name": "Defense as resource extraction",
+    "source_lines": "419–436",
+    "structure": "A defense can be worthwhile without winning if it forces costly commitment.",
+    "acceptance": "Quantify actual opposing expenditure and future advantage.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M29",
+    "level": "L4",
+    "name": "Target eligibility before answer",
+    "source_lines": "437–449",
+    "structure": "Identify threats that cannot be targeted before relying on interaction.",
+    "acceptance": "Check exact card text and Legend identity.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M30",
+    "level": "L4",
+    "name": "Expendable probe",
+    "source_lines": "437–449",
+    "structure": "Offer a low-cost action to test whether opponent commits a scarce response.",
+    "acceptance": "Opponent may decline or choose alternative; no omniscient inference.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M31",
+    "level": "L6",
+    "name": "Different views of acceptable loss",
+    "source_lines": "243–264,419–436",
+    "structure": "Use competing evaluation of temporary score deficit versus resource preservation to distinguish fictional players.",
+    "acceptance": "Original dialogue and independent goals, no source phrasing.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  },
+  {
+    "id": "KSA-M32",
+    "level": "L6",
+    "name": "Specialist restraint",
+    "source_lines": "57–84,245–264",
+    "structure": "Show anticipation through deliberate choice to preserve resources and a later explanation of why.",
+    "acceptance": "Avoid repetitive genius monologues; preserve uncertainty and consequences.",
+    "status": "candidate_untested",
+    "related": "Compare NLM/NLD and specialist EKK/VEX/RIV/IRE; overlap not independent novelty."
+  }
+]

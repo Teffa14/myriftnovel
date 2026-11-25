@@ -1,0 +1,256 @@
+{
+  "legend_profile": "FT-L24",
+  "cards": [
+    {
+      "source_lines": "43–56",
+      "name": "Plundering Poro",
+      "role": "opening",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Early presence supporting later removal; six combined early two-drops with Sentry, split unknown.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "43–56",
+      "name": "Watchful Sentry",
+      "role": "opening",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Early presence and later value; avoid excess weak late draws.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "43–56",
+      "name": "Ravenbloom Student",
+      "role": "excluded",
+      "main_count": 0,
+      "snapshot_banned": false,
+      "reason": "Combat payoff incompatible with intended opening role.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "43–56",
+      "name": "Pouty Poro",
+      "role": "excluded",
+      "main_count": 0,
+      "snapshot_banned": false,
+      "reason": "Conditional answer lacks expected target density.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "43–56",
+      "name": "Forecaster",
+      "role": "excluded",
+      "main_count": 0,
+      "snapshot_banned": false,
+      "reason": "Insufficient supporting package in main according to pilot.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "43–56",
+      "name": "Lecturing Yordle",
+      "role": "opening",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Alternative on draw; compare against early unit plus removal; swaps imply at least two.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "57–68",
+      "name": "Falling Star",
+      "role": "removal",
+      "main_count": 3,
+      "snapshot_banned": false,
+      "reason": "Flexible damage source; verify targets and thresholds.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "57–68",
+      "name": "Bellows Breath",
+      "role": "removal",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Multi-target damage and conditional debuff payoff; swaps imply at least two.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "57–68",
+      "name": "Hextech Ray",
+      "role": "removal",
+      "main_count": 2,
+      "snapshot_banned": false,
+      "reason": "Early utility with declining late relevance.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "69–84",
+      "name": "Brynhir Thundersong",
+      "role": "historical engine",
+      "main_count": null,
+      "snapshot_banned": true,
+      "reason": "Conditional denial of interaction; banned in repository snapshot.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "69–84",
+      "name": "Temporal Breach",
+      "role": "engine",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Removal or replay hypothesis; target, zones, timing and cost require verification.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "69–84",
+      "name": "Thousand-Tailed Watcher",
+      "role": "payoff",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Board debuff and replay hypothesis; mulligan recommendation up to two not deck count.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "85–96",
+      "name": "Perfect Execution",
+      "role": "flex",
+      "main_count": 1,
+      "snapshot_banned": false,
+      "reason": "Mobility, readiness or setup; compare scoring versus retreat.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "85–96",
+      "name": "Rocket Barrage",
+      "role": "flex",
+      "main_count": 1,
+      "snapshot_banned": false,
+      "reason": "Broad answer including gear, rather than narrower removal.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "85–96",
+      "name": "Progress Day",
+      "role": "flex",
+      "main_count": 1,
+      "snapshot_banned": false,
+      "reason": "Additional access for longer contests.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "85–96",
+      "name": "Ferrous Forerunner",
+      "role": "flex",
+      "main_count": 1,
+      "snapshot_banned": false,
+      "reason": "Threat development; extra side copy against suitable opponents.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "243–264",
+      "name": "Time Warp",
+      "role": "closing",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Late conversion; swaps imply at least two.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "257–264",
+      "name": "Stupefy",
+      "role": "interaction",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Conditional threshold interaction after damage.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "257–264",
+      "name": "Smoke Screen",
+      "role": "interaction",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Conditional threshold interaction after damage.",
+      "status": "source_hypothesis_effective_text_unverified"
+    },
+    {
+      "source_lines": "289–308",
+      "name": "Kai'Sa, Survivor",
+      "role": "named context",
+      "main_count": null,
+      "snapshot_banned": false,
+      "reason": "Midgame body mentioned; chosen identity unconfirmed.",
+      "status": "source_hypothesis_effective_text_unverified"
+    }
+  ],
+  "fields": [
+    {
+      "name": "Rockfall Path",
+      "order": "unspecified/default",
+      "source_lines": "35–42"
+    },
+    {
+      "name": "Frozen Fortress",
+      "order": "first",
+      "source_lines": "35–42"
+    },
+    {
+      "name": "Void Gate",
+      "order": "second",
+      "source_lines": "35–42"
+    }
+  ],
+  "deck_url": "https://piltoverarchive.com/decks/view/c980f05d-bbf4-4f4e-ba1c-34ed24590d40",
+  "image_url": "https://cdn.metafy.gg/uploads/store/account_attachment/0c8b17c3-4c97-44d4-83df-c7cdfd034353/attachment/5d2afa064b3883d1789d3c5524cce204.webp",
+  "deck_retrieved": false,
+  "image_inspected": false,
+  "full_list": null,
+  "runes": null,
+  "chosen": null,
+  "combined_two_drop_count_claim": 6,
+  "minimum_main_from_swaps": [
+    {
+      "name": "Rocket Barrage",
+      "count": 1
+    },
+    {
+      "name": "Perfect Execution",
+      "count": 1
+    },
+    {
+      "name": "Bellows Breath",
+      "count": 2
+    },
+    {
+      "name": "Lecturing Yordle",
+      "count": 2
+    },
+    {
+      "name": "Temporal Breach",
+      "count": 1
+    },
+    {
+      "name": "Watchful Sentry",
+      "count": 1
+    },
+    {
+      "name": "Plundering Poro",
+      "count": 1
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "count": 1
+    },
+    {
+      "name": "Hextech Ray",
+      "count": 2
+    },
+    {
+      "name": "Time Warp",
+      "count": 2
+    },
+    {
+      "name": "Progress Day",
+      "count": 1
+    }
+  ]
+}

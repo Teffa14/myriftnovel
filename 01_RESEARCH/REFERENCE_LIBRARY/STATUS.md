@@ -89,3 +89,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## IRE — Barcelona specialist guide (2026-11-25)
 [Research index](works/IRE/INDEX.md): 18,205 tokens, 33 units, 27 card contexts, ten historical sideboard plans, five matchup discussions plus empty heading, six partial retrospective cases, 52 candidate mechanisms and six exercises. Historical six banned copies; earlier post-ban proposal not current legal proof. 13 reported matches vs 12 listed opponents; mirror draw-side minus inferred. No replay or canon change.
+
+## KSA — Kai'Sa specialist guide (2026-11-25)
+[Research index](works/KSA/INDEX.md): 3,155 tokens, 31 units, 20 role records, ten matchup variants, fifteen balanced historical swap plans, 32 candidate mechanisms and four exercises. Minimum sideboard inferred as ten; full list missing. Brynhir engine banned in Nov 23 snapshot; no legal replay or current build certified. KAI Kaiji preserved.

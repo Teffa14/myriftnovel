@@ -28,3 +28,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## IRE — specialist practice and self-review
 [IRE analysis](../REFERENCE_LIBRARY/works/IRE/ANALYSIS.md) supports original peer coaching, deck attachment, matchup frustration, learning from unsuccessful choices and hobby versus tournament ambition. Keep source identities and distinctive wording out of fiction; preserve fair-play boundaries, including private judge consultations. No invented real results.
+
+## KSA — conflicting definitions of efficiency
+[KSA analysis](../REFERENCE_LIBRARY/works/KSA/ANALYSIS.md) supports original practice disagreements over temporary point loss, resource conservation and timing of interaction. Different goals and risk tolerances can produce credible independent decisions. No copied guide language or invented pilot biography.

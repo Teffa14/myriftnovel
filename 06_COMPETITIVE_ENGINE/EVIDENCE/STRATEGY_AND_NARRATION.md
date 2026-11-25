@@ -40,3 +40,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## IRE — decision review and central carry case
 [IRE research](../../01_RESEARCH/REFERENCE_LIBRARY/works/IRE/INDEX.md) supplements FTG FT-L17 and RIV with alternative carry, opening risk, score-dependent roles, battlefield ordering, resource/response sequencing and six partial recalled decisions including failure. Preserve known versus inferred state, actual alternatives and outcome separately. Historical Herder/Stacked Deck banned; earlier proposal contains Hourglass. No transferred historical mechanics without dated effective text, no exact reconstructed board, no measured odds. Use NLM/NLD and G3-scene.
+
+## KSA — delayed conversion and reset
+[KSA research](../../01_RESEARCH/REFERENCE_LIBRARY/works/KSA/INDEX.md) supplements FTG FT-L24 with resource preservation, intentional temporary score concession, damage/threshold ordering, reset recovery and opposing engine interruption. Compare IRE/VEX/EKK/RIV independently. Historical Brynhir, Hourglass, Aurora and Baited Hook references require dated legal context. One-rune-per-turn is a conditional pilot heuristic. No automatic wipe, matchup result or complete deck inferred. Use official dated mechanics and G3-scene.

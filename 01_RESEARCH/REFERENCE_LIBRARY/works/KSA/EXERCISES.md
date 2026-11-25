@@ -1,0 +1,6 @@
+# Original noncanonical exercises
+KSA-X01 (M06/M07/M08): A competitor can contest a modest point now or preserve the resource needed for a later defense. A teammate questions the assumed opposing clock. State change: compare both plans and specify the failure condition.
+KSA-X02 (M04/M05/M18): A player can spend a scarce threshold modifier before or after an uncertain response to damage. Compare both orders and legal opposing actions. No named mechanics or verified outcome asserted.
+KSA-X03 (M20/M22/M28): After conceding a position, a player evaluates whether a later reset leaves enough resources to score before the opponent rebuilds. State change: record a fallback when the reset fails.
+KSA-X04 (M23/M30/M31): Two players review a public reveal and a low-cost probe. One assumes a response is exhausted, the other lists plausible alternatives. State change: update hypotheses without access to concealed information.
+Original abstract prompts only. All require continuity and G3-scene proof before technical use.
