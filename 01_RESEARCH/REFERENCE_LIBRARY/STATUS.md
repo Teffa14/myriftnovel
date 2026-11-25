@@ -27,3 +27,6 @@ Seis muestras parciales distintas analizadas cualitativamente, cero capítulos c
 
 ## MSC-EX07
 Siete muestras parciales distintas leídas cualitativamente, cero capítulos completos certificados. Séptima: mercado, negociación, criterio de calidad, mentoría, progreso grupal y primer fracaso creativo. 10 entradas y 4 bloques originales añadidos; total 94 entradas y 36 bloques. No se ejecutó Python sobre MSC; edición y numeración sin confirmar. No hay resultado competitivo ni solución del experimento.
+
+## MSC-EX08
+Ocho muestras parciales distintas analizadas cualitativamente, cero capítulos completos certificados. Octava: creación repetida, mercado, venta, inconsistencias contables y descubrimiento de una posible innovación táctica por otro personaje. 10 entradas y 4 bloques nuevos; total 104 entradas y 40 bloques. No se ejecutó Python sobre MSC, edición sin confirmar. No se observa validación competitiva ni ingresos sostenidos.

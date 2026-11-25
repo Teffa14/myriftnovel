@@ -21,3 +21,6 @@
 
 ## Extensión MSC-EX07
 [MSC_EX07_PATTERNS.md](MSC_EX07_PATTERNS.md): 10 entradas y 4 bloques de gestión de recursos, mentoría, testing, fracaso y revisión. Total acumulado: 94 entradas de patrones y 36 bloques; mecanismos relacionados. Siete muestras parciales MSC.
+
+## Extensión MSC-EX08
+[MSC_EX08_PATTERNS.md](MSC_EX08_PATTERNS.md): 10 entradas y 4 bloques de valoración contextual, innovación, negociación, probabilidad e ironía dramática. Total acumulado: 104 entradas de patrones y 40 bloques; mecanismos relacionados. Ocho muestras parciales MSC, cero capítulos completos certificados.

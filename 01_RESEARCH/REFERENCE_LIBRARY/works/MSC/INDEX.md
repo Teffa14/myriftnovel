@@ -26,3 +26,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX07 — experimentación y fracaso
 [Análisis](EXPERIMENTATION_EXCERPT_ANALYSIS.md): séptima muestra parcial, negociación, materiales, mentoría, coordinación, progreso y primer intento fallido de creación. Diez entradas y cuatro bloques originales; ningún capítulo completo certificado. No se muestra solución ni competición PvP.
+
+## MSC-EX08 — innovación infravalorada
+[Análisis](UNDERVALUE_INNOVATION_EXCERPT_ANALYSIS.md): octava muestra parcial, producción repetida, investigación de mercado, primera venta, proyección de rentabilidad y descubrimiento de potencial táctico por Hong Zhu. Registra contradicciones de precio y oferta; validación de la carta pendiente. Diez entradas y cuatro bloques originales.
