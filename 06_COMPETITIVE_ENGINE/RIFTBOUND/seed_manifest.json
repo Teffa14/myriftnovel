@@ -1,0 +1,34 @@
+{
+  "rows": 1180,
+  "unique_public_codes": 1180,
+  "sets": {
+    "OGN": 352,
+    "OGS": 24,
+    "SFD": 288,
+    "UNL": 288,
+    "VEN": 228
+  },
+  "source": {
+    "source": "https://github.com/slimtreble/Riftbound-card-data",
+    "ref": "129d4cf4bc2481b03af87dfbd357c469262bed14",
+    "blob": "3db05d9edafb4fe73e21a48ea6a88e3106f3ebb9",
+    "status": "older 5-set printings, actual metadata extracted, printed text deliberately not redistributed"
+  },
+  "fields": [
+    "publicCode",
+    "set",
+    "setName",
+    "collectorNumber",
+    "name",
+    "type",
+    "rarity",
+    "domains",
+    "energy",
+    "might",
+    "power",
+    "isAltArt",
+    "isSigned",
+    "isVariant"
+  ],
+  "coverage": "historical seed, excludes Radiance and other missing printings; no printed/effective text, not legal deck validation"
+}

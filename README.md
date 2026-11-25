@@ -1,10 +1,6 @@
-# THE FINAL DRAW — RIFT NOVEL
-Fecha: 25 de noviembre de 2026. Estado: planificación preliminar. Título de trabajo elegido por el autor: The Final Draw. Subtítulo de posicionamiento propuesto: A Competitive TCG Novel. Los Ángeles es la recomendación editorial de ambientación, aún no aprobada. Rosario deja de ser la opción prioritaria.
-
-Objetivo: desarrollar una novela serial profesional sobre jugadores competitivos de TCG, inicialmente concebida alrededor de Riftbound, con profundidad estratégica, psicología, relaciones, progresión deportiva y potencial comercial. Antes de producir capítulos, construir un corpus de técnicas narrativas, una biblia de estilo, una arquitectura de tramas, un sistema de continuidad y un proceso editorial verificable. Crear una voz original; no reproducir prosa ni tramas de las referencias.
-
-Orden: investigación y derechos → fundamentos narrativos → diseño de personajes y arcos → validación del motor competitivo → piloto → evaluación de lectores → producción serial. No declarar tareas terminadas sin evidencia. Los parámetros cuantitativos son propuestas, no compromisos autorales.
-
-Consultar las diez carpetas numeradas. El proyecto debe decidir si utiliza Riftbound real (previa revisión de derechos para cualquier monetización) o un TCG original. No se ha aprobado ninguna de las dos rutas de manera definitiva. Consultar 03_STORY_BIBLE/IDENTITY_AND_SETTING.md y 10_PUBLICATION/MARKET_VALIDATION.md para las nuevas propuestas.
-
-Este repositorio es público. No guardar manuscritos inéditos completos, información privada, secretos narrativos definitivos ni credenciales hasta revisar la visibilidad y la estrategia de derechos. No se concede una licencia pública para explotar la obra por el hecho de publicar este documento.
+# THE FINAL DRAW
+Canon editorial v1.0 — 2026-11-25. Decisiones delegadas por el autor; reemplaza fundamentos provisionales. Novela original de ficción deportiva contemporánea en inglés, situada en Los Ángeles, con Riftbound como juego de referencia real. El desarrollo literario no implica autorización para vender una obra derivada de Riot. La ruta de publicación comercial queda bloqueada hasta clearance; si no se obtiene, adaptar la capa competitiva a IP original sin cambiar trama humana ni realizar clon digital.
+ 
+Start here: 03_STORY_BIBLE/IDENTITY_AND_SETTING.md, PREMISE.md, WORLD.md; 04_CHARACTERS/CHARACTER_SYSTEM.md, RELATIONSHIPS.md; 05_PLOT_ARCHITECTURE/ARCS.md, SUBPLOTS.md; 08_CHAPTERS/PILOT_20.md; 07_CONTINUITY/CANON.md. 06_COMPETITIVE_ENGINE/RIFTBOUND/ contiene registro de fuentes, banlists, catálogo factual inicial, importador de referencia privada. STYLE.md and NARRATIVE_GRAMMAR/ define the writing system (190 candidate entries, 75 original blocks, four works). No copy of third-party novels, cards' artwork or complete card text committed.
+ 
+Production: finalize pilot briefs → validate legal match logs → write and edit 20 chapters → private reader test → rights and publishing gates. Do not create real future tournament outcomes or guarantee sales. No complete manuscript or decisive late-saga spoilers in this public repository; protect private material locally. The title remains subject to clearance (existing homonym). No external publishing, paid account or license granted by this commit.

@@ -1,0 +1,10 @@
+# Relationship and voice dynamics
+Nico ↔ June: symmetric competitive respect; she sees his over-analysis, he sees her reluctance to test uncertainties. Conflict: disagreement about preparation, not humiliation. Neither owes the other information. Progress from local benchmark to credible rivalry; alliance for shared logistics allowed without collusion.
+Nico ↔ Eli: affectionate banter and contrasting risk tolerance; Eli initiates ideas, Nico designs tests; repeated dismissals have a cost. No sidekick permanently defeated.
+Nico ↔ Maya: practical cooperation, favors tracked transparently; attraction may develop only through earned trust, consent and separate ambitions. No romance resolved by tournament win. Maya can decline support, prioritize her job and grow independently.
+Nico ↔ Marcus: Socratic mentorship, limited time, no savior. Marcus withdraws intervention as Nico owns decisions. 
+Nico ↔ Lucia: shared household and money, disagreements resolved by explicit commitments rather than guilt. She has independent scenes and deadlines.
+June ↔ Samira: alternate philosophies, shared respect; both pursue opportunities outside Nico. June ↔ Andre: practice partnership and disagreement over confidentiality.
+Maya ↔ Owen: community vs operating margin, both legitimate goals. Theo ↔ Samira / Breakpoint: deliverable/rights negotiation, no imposed exploitation as universal norm.
+ 
+Voice rules: Nico thinks in conditions; June answers narrowly; Eli expands metaphor; Maya grounds in logistics; Marcus asks a diagnostic question; Samira qualifies evidence; Theo frames terms; Lucia speaks from human stakes. Use differences selectively; do not mechanically assign catchphrases. Characters can change register by circumstance. Comedy requires real stakes, contrast, timing and consequence; allow vulnerability and quiet passages. Dialogue should still make sense if attribution is removed, but do not impose artificial uniqueness in every line.

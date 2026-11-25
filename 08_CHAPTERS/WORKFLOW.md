@@ -1,8 +1,3 @@
-# Flujo de producción de capítulos
-No iniciar producción masiva hasta aprobar fundamentos, ruta de propiedad intelectual y piloto.
-
-Brief: capítulo, arco, perspectiva, lugar/fecha, estado inicial, objetivo, conflicto, escenas, giro, consecuencia, hilos abiertos, pistas permitidas, partidas validadas y cambios previstos. Redacción → edición estructural → revisión psicológica → revisión técnica → edición de línea → continuidad → revisión humana → versión final. Guardar borrador, observaciones, cambios y versión aprobada.
-
-Piloto sugerido: 15–25 capítulos para evaluar retención, comprensión del juego, interés en el elenco y demanda. No confundir métricas de alcance con lectura efectiva.
-
-Antes del borrador aplicar ../02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md. Seleccionar mecanismo según conflicto y estado inicial, escribir prosa nueva, verificar cambio de estado y legalidad. No copiar ejemplos. Registrar decisiones y pruebas de calidad.
+# Production workflow v1.0
+1. Load canon and relevant character/thread states; choose pilot brief and fix exact date. 2. If match involved, load versioned card data, official rules/errata, format legality, validate decks and deterministic replay with independent player knowledge. Block technical prose if not validated. 3. Scene brief: objective, obstacle, action, outcome, state delta, cues/payoff, perspective and limits. 4. Write original English using selected NDM functions, not templates. 5. Structural and line edit: remove redundancy, check pacing, humor, voice, human stakes. 6. Independent game and continuity review with evidence. 7. Reconcile defects and run tests; document unresolved issues. 8. Human editorial approval and update state ledger. 
+Pilot: 20 chapters, no mass production. First 5 privately beta-reviewed after draft, then full pilot. Keep 10-chapter reserve after acceptance; cadence 3/week only when rights and editorial gates pass. No AI scores as certification, no public publication without permissions and review.

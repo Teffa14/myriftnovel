@@ -1,6 +1,8 @@
-# Comité editorial y estándar de aceptación
-Roles: director narrativo (decisiones y canon), arquitecto de tramas (causalidad, pistas y resoluciones), psicólogo de personajes (motivaciones y agencia), analista competitivo (legalidad y estrategia), novelista (borrador), editor literario (estructura, voz, ritmo y línea), auditor de continuidad (contradicciones y estados). Separar autor y evaluador en lo posible; revisión humana significativa antes de publicar.
-
-Rúbrica 0–10: coherencia narrativa, profundidad psicológica, naturalidad de diálogos, calidad de prosa, originalidad, ritmo y tensión, continuidad, precisión competitiva, impacto emocional y contribución al arco. Umbral propuesto: promedio ≥9, ninguna dimensión <8, cero errores de continuidad o reglas. Cada valoración exige evidencia, pasajes, defecto, gravedad y reparación. Los números no garantizan calidad profesional ni sustituyen lectores y editores humanos.
-
-Gates de proyecto: G1 corpus documentado y técnicas demostradas; G2 fundamentos coherentes y decisiones autorales aprobadas; G3 partidas reproducibles y tests ejecutados; G4 piloto revisado; G5 validación de mercado y derechos. Estado actual: preliminar, sin certificaciones ni pruebas ejecutadas.
+# Acceptance gates v1.0
+G1 corpus documented: evidence 4 works, 190 candidate entries, 75 blocks; not all references semantically certified. Sufficient for starting original writing, not proof of literary quality.
+G2 story foundation: canon v1.0 exists; delegated decisions fixed; check cross-references, chronology, finance and agency. No external reader approval yet.
+G3 competitive data and replay: required complete edition snapshot with SHA, official rules and errata, bans by format/date/region, card identity mapping, unknowns flagged, legal deck and replay tests. BLOCKED until imported and reconciled; not certify based on importer alone.
+G4 pilot: 20 drafted and reviewed, all scenes have traceable state change, zero unresolved rule/continuity errors, no cloned source prose, every match reproducible. NOT STARTED.
+G5 market/legal: rights review, title clearance, platform policies, consent-based panel, cohort retentions. BLOCKED / not tested. 
+Editorial rubric: coherence, originality, character agency, voice, pacing, tactical correctness, emotional consequence, continuity, accessibility, commercial hook. Score only with evidence and documented defects; threshold aspirational 9 average/no criterion <8, zero critical errors; reviewer and author distinct when feasible. 
+Automated checks: card database import count/identity/errata conflicts, foreign keys and integrity; chapter ledger date/currency, knowledge and version links; exact match log replay. No fake tests.

@@ -1,0 +1,75 @@
+{
+  "as_of": "2026-11-25",
+  "region": "US/English",
+  "gallery": "https://playriftbound.com/en-us/card-gallery/",
+  "hub": "https://playriftbound.com/en-us/rules-hub/",
+  "rules": [
+    {
+      "id": "core_2026-10-09",
+      "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "document_date": "2026-10-09",
+      "effective": "2026-10-16"
+    },
+    {
+      "id": "tournament_2026-10-09",
+      "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/861752822d217edf37d9febaeaf77a7d924c1bb6.pdf",
+      "document_date": "2026-10-09",
+      "effective": "2026-10-16",
+      "note": "PDF link verified, fetch failed due size"
+    }
+  ],
+  "patch_and_faq": [
+    {
+      "id": "radiance_core_patch",
+      "url": "https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/"
+    },
+    {
+      "id": "radiance_faq",
+      "url": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/"
+    },
+    {
+      "id": "tournament_changelog",
+      "url": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/"
+    }
+  ],
+  "errata": [
+    {
+      "id": "origins",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/"
+    },
+    {
+      "id": "spiritforged",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+    },
+    {
+      "id": "unleashed",
+      "url": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+    },
+    {
+      "id": "vendetta",
+      "url": "https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/"
+    },
+    {
+      "id": "radiance",
+      "url": "https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/"
+    }
+  ],
+  "ban_announcement": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
+  "community_snapshot": {
+    "tag": "v2026-11-14",
+    "source": "https://github.com/LouisCourrian/riftbound-cards/releases/tag/v2026-11-14",
+    "claimed_records": 1407,
+    "known_missing_from_latest_scrape": "sfd-054a-221",
+    "url": "https://github.com/LouisCourrian/riftbound-cards/releases/download/v2026-11-14/cards.json",
+    "sha256": "a39950789f184cc5a53698c2d921891b5331ee9c0e82017e616a054864854e20",
+    "sqlite_url": "https://github.com/LouisCourrian/riftbound-cards/releases/download/v2026-11-14/riftbound.db",
+    "sqlite_sha256": "3df8a26bc3503d92042d65900b6e02b6208ebf78308142a3a2e0bcd0d7809f35",
+    "status": "release metadata verified; asset unavailable in current environment; not reconciled to 2026-11-25 gallery"
+  },
+  "seed": {
+    "source": "https://github.com/slimtreble/Riftbound-card-data",
+    "ref": "129d4cf4bc2481b03af87dfbd357c469262bed14",
+    "blob": "3db05d9edafb4fe73e21a48ea6a88e3106f3ebb9",
+    "status": "older 5-set printings, actual metadata extracted, printed text deliberately not redistributed"
+  }
+}

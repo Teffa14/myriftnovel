@@ -1,42 +1,10 @@
-# Biblia de estilo provisional
-Narrador en tercera persona limitada; cambios de perspectiva controlados, sin revelar información que el personaje focal desconoce. Voz original, prosa precisa, natural, sensorial y selectiva. Diálogos distintos por edad, origen, personalidad e intención. Usar subtexto y acción para comunicar emociones; evitar explicaciones repetidas, clichés, admiración automática y monólogos técnicos innecesarios. Humor situacional, romance gradual, exposición integrada en decisiones y consecuencias. Ritmo variable; capítulos de 1.800–3.000 palabras como hipótesis inicial.
-
-Cada escena tiene objetivo, obstáculo, elección, cambio y consecuencia. Cada capítulo modifica un estado relevante. Alternar acción, preparación, vida cotidiana, relaciones, tensión institucional y consecuencias. La competición debe ser comprensible para el lector nuevo y técnicamente significativa para el experto. Seleccionar decisiones decisivas en vez de narrar cada turno.
-
-Revelaciones tácticas: presentar indicios, restringir información por perspectiva, sostener incertidumbre y revelar una decisión justificable retrospectivamente. No esconder arbitrariamente información que la perspectiva debería conocer.
-
-## Ejemplo original ilustrativo (no canon)
-Las dos runas enderezadas de su oponente llevaban tres turnos molestándolo.
-
-Podía ser removal. Podía ser un combat trick. También podía ser nada.
-
-Nicolás volvió a contar las cartas de la mano contraria.
-
-Cuatro.
-
-—¿Vas a jugar? —preguntó Julián.
-
-Desde la mesa de al lado llegó el ruido de una silla arrastrándose. Alguien acababa de terminar su ronda.
-
-Nicolás miró el reloj.
-
-—Estoy pensando.
-
-—Ya sé.
-
-Lo que Julián no sabía era que Nicolás llevaba toda la semana practicando aquel enfrentamiento. Había perdido diecisiete de las veinticuatro partidas de testing. En catorce de ellas había cometido exactamente el mismo error.
-
-Bajó la carta que tenía entre los dedos y anunció el final de su turno.
-
-Julián dejó de sonreír.
-
-Nota: el fragmento es un ejercicio literario, no una partida validada ni una decisión sobre nombres definitivos.
-
-## Calibración experimental TKA
-Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/TRANSFER_RULES.md. Rango inicial 1500–2100 palabras como propuesta; composición según función social/competitiva; foco por escena, exposición ligada a decisiones, cierres variados y consecuencias humanas. Pendiente corroboración con otras obras y lectores.
-
-## Método de escritura TKA — aplicación provisional
-Consultar ../01_RESEARCH/REFERENCE_LIBRARY/works/TKA/WRITING_METHOD.md. Diferenciar registro de narración y diálogo; usar sujeto/acción/consecuencia, contraste funcional, exposición vinculada a decisiones, descripciones sensoriales relevantes y atribuciones sencillas. Apertura anclada en situación; desarrollo mediante restricciones, hipótesis y contrajuego; cierre con consecuencia, decisión o incertidumbre legítima. En combate usar replay legal y separar inferencia de conocimiento. Los datos del corpus sirven para diagnóstico, no cuotas obligatorias ni imitación literal. El estilo propio queda pendiente de calibración multifuente.
-
-## Gramática narrativa generativa
-Consultar [NARRATIVE_GRAMMAR](NARRATIVE_GRAMMAR/README.md) antes de redactar: 32 patrones de oración y 12 bloques originales, selector de mecanismos y pruebas editoriales. Aplicar por función; no reutilizar frases ni imponer cuotas. Los ejemplos son independientes, no canon. Confirmar jugadas mediante replay y conservar focalización y voces propias.
+# Voice and prose bible v1.0
+English original, close third-person past, one focal character per scene, Nico primary, rotating POV only when it creates independent action or controlled dramatic irony. No head-hopping. Internal thoughts naturally integrated; italic direct thought sparingly. Prose concrete, idiomatic and sensory-selective; vary syntax, avoid generic motivational narration, repetitive contrast constructions and translation artifacts. No copy of reference expression, archetypal names or scenes.
+ 
+Default chapter 1,700–2,200 words, extend when the scene earns it, never pad. Start in action, tension or relationship; anchor place and immediate goal quickly. Every scene has a change in state and a causal link; quiet moments can alter trust, perception or commitment. Close with genuine consequence, question, decision or emotional payoff; avoid automatic cliffhanger every chapter.
+ 
+Matches: show stakes before technical detail; give novice reader the decision and consequence, expert reader enough precise state to assess it. Explain a rule when it changes choices. Compress routine turns only if replay preserves them. Avoid uninterrupted wall of card effects. No omniscient hidden-hand narration in a player POV. After a match, retrospective reveal clearly marked. Do not assert a play without verified text, timing and replay. 
+Comedy: contrast voice, objective and ordinary inconvenience; specific consequences rather than canned jokes. Show competent people disagreeing; respect and agency remain. 
+Psychology: desire, fear, habit and constraint; do not diagnose casually. Give every secondary a life beyond Nico. Romance slow and optional. Avoid melodrama, forced misunderstandings, author praise, repetitive smiles or gasps.
+ 
+NDM selection: TKA competitive architecture and pacing; MSC experimentation and economy; GED humor/relationships; CFA competing perspectives and anticipation. Library 190 entries/75 original blocks; mechanisms are candidates not tested requirements. Use by function, never recycle example prose. GENERATION_PROTOCOL.md remains applicable; superseded earlier sample names are noncanon.

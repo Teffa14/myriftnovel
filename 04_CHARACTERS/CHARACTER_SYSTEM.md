@@ -1,10 +1,31 @@
-# Sistema de personajes
-Cada ficha: identificador, biografía, voz, deseo consciente, necesidad emocional, creencia limitante, contradicción, virtud, defecto, miedo, límites éticos, presión económica, objetivos propios, relaciones, secretos, conocimientos, evolución por arco, decisiones irreversibles y consecuencias.
+# Cast bible v1.0
+IDs fixed; canonical backgrounds are fictional. Do not substitute prior illustrative names from the research corpus. Competitive specialties are tendencies, not numeric power levels, and no exact deck is canon until verified.
 
-Perfil competitivo separado: deckbuilding, lectura del meta, ejecución, adaptabilidad, regulación emocional, lectura del rival; documentar evidencia y cambios. Las escalas numéricas son opcionales para uso interno, nunca una sustitución de escenas ni estadísticas explícitas en la prosa.
-
-Filosofías ilustrativas: matemático (valor esperado), controlador (restricción de opciones), depredador (presión), innovador (ruptura del meta), perfeccionista (ejecución), psicólogo (información imperfecta), adaptativo (revisión de hipótesis). Evitar encerrar a personajes en etiquetas.
-
-Ejemplo provisional: rival metódico y reservado, especializado en control/tempo; desea reconocimiento, necesita aceptar errores; cree que toda derrota puede evitarse con preparación; analiza a otros mejor que a sí mismo. Su obsesión por controlar variables lo perjudica contra un rival imprevisible. Perfil ilustrativo: 92/86/95/48/39/76 en las seis dimensiones anteriores. No canon.
-
-Los secundarios deben actuar y evolucionar fuera de la presencia del protagonista, ganar, perder, cambiar de equipo y perseguir metas propias.
+## P01 Nicolas "Nico" Vega, 23, protagonist
+Argentine-American, raised in LA, bilingual, night-shift logistics; former community-college student who paused studies for finances. Goal: earn sustainable competitive opportunity. Need: tolerate uncertainty and accept reciprocal support. Belief: every failure must be preventable. Virtue: curiosity, willingness to revisit mistakes; defect: over-analysis, withholding uncertainty, promises too much to repay favors. Competitive: excels in postgame pattern recognition; average live sequencing and weak time management initially; prefers interactive control/tempo but adapts. Voice: clipped, observational, dry comparisons, asks specific questions, internal conditional reasoning, rarely announces feelings. Habit: records timestamps in notebook, forgets to eat during review. Boundary: never stake household money; respects judging, privacy and consent. Arc: solitary preparation → group dependence → mistake made public → accountability → leadership by distributing trust.
+ 
+## P02 June Park, 24, principal rival
+Korean-American, part-time design contractor, Westline player. Desire: qualify on her own terms and earn reliable support. Need: allow experimentation even when it damages a tidy record. Belief: showing uncertainty invites dismissal. Strong execution, tempo, recognizes risks and clocks; vulnerable to unfamiliar lines and stubborn preparation. Voice: precise, short corrections, not sarcastic by default; uses concrete evidence, rarely filler. Humor: literal answer to exaggerated statement. She wins her own matches and builds independent friendships. Rivalry based on contrasting errors and shared respect, not attraction by default. Arc: established local benchmark → challenged by changing environment → forced choice between sponsor demands and own judgment → cooperation without surrendering rivalry.
+ 
+## P03 Maya Serrano, 24, community anchor
+Assistant manager of Sideboard and aspiring independent event producer, studying business on reduced schedule. Desire: make the local scene sustainable; needs to delegate and set boundaries instead of fixing everyone. Understands logistics and negotiation, not portrayed as inferior player; prefers midrange and casual-to-competitive events. Voice: grounded, direct questions about costs, dry irony, gives practical responses. She has goals beyond Nico; potential slow-burn intimacy only after demonstrated reciprocity and separate workplace boundaries, no romance required in season 1. Arc: protects store → runs transparent events → makes independent business decision → builds credible community.
+ 
+## P04 Elias "Eli" Brooks, 22, friend and foil
+Bike shop apprentice, energetic, budget brewer, comfortable losing experimental games. Desire: prove an unconventional strategy can work. Need: finish what he starts and learn when to abandon a pet hypothesis. Strong creative deck construction, weak sample discipline. Voice: playful metaphor, expansive claims then concrete corrections; humor not incompetence. He can discover useful lines Nico misses. Arc: informal partner → experiment conflict → accepts testing discipline → contributes a decisive alternative independently.
+ 
+## P05 Marcus Bell, 36, mentor
+Former high-level player in another tabletop game, works technical support, family responsibilities. Mentor by consent, not savior; strong review methods and emotional regulation, current Riftbound knowledge must be tested. Desire: develop a practice culture without repeating former burnout. Need: stop trying to direct everyone's choices. Voice: sparse questions, analogies from work, explains only enough to provoke a test. No official match coaching. Arc: offers bounded trial → teaches evidence discipline → steps back when group must own decisions.
+ 
+## P06 Samira Haddad, 26, established competitor
+Works as freelance analyst, veteran competitor; pragmatic but ethical, evaluates sponsorship and travel as business. Desire: stable competitive career; need: distinguish ambition from dependence on brand. Strong adaptive preparation and value assessment; imperfect under personal pressure. Voice: calibrated claims and explicit numbers, quietly funny. Competes independently; not antagonist solely for ambition. Arc: institutional benchmark → contract choices → tactical and commercial rival or ally.
+ 
+## P07 Theo Ward, 31, sponsorship manager
+Northstar Media representative; goal: reliable audience and deliverables, pressure from budget deadlines. Neither villain nor authority over results. Belief: measurable content outcomes can reduce financial risk; underestimates community trust. Voice: polished offers, questions about delivery, avoids promises he cannot sign. Arc: opportunity → negotiation conflict over exclusivity and control → consequences of incentives. No fraud accusations unsupported.
+ 
+## P08 Lucia Vega, 20, younger sister
+Studying radiography, part-time café work; household co-planner. Desire: complete training without pausing for Nico's career. Need: articulate her own limits instead of quietly compensating. Voice: blunt warmth, specific questions, no gamer jargon unless learned. Conflict: schedule and shared money, not disapproval of hobby. Arc: supportive but boundaried → forced independent choice → equal partnership at home. No financial or emotional dependency as romance substitute.
+ 
+## Supporting ensemble
+P09 Owen Price, 45, Sideboard owner: store survival and fairness; warm but refuses unprofitable promises. P10 Ren Ito, 19, newcomer: wants competent community, plays for different reasons; learns through action and can defeat stronger names in plausible play. P11 Tessa Morgan, 29, neutral fictional judge/organizer: consistency and accessible explanations; no favoritism, no affiliation with players' practice. P12 Andre Flores, 27, Westline tester: seeks stable role, loyal to teammates yet independent, credible dissent.
+ 
+Every scene ledger records desire, choice, consequence, knowledge and unresolved goals. Character identities, names and relationships fixed; later changes require explicit continuity revision. No character is an exposition device or permanent loser.

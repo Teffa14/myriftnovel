@@ -1,0 +1,16 @@
+# World bible v1.0
+## Geography and scale
+Core fictional venue: Sideboard, a small independent tabletop shop in the San Gabriel Valley. Nico lives with his younger sister in a modest apartment in East LA; transit, shifts, and limited evening hours shape choices. A second fictional venue, Westline Cards, serves a more established competitive group; neutral tournament halls and conventions expand scale as earned. Real neighborhoods are geographic context, not claims about businesses. Before a specific route, event or price is narrated, verify period facts; never invent an actual store's misconduct.
+ 
+## Ecosystem
+Local shop: community tables, casual players, new players, collectors, trade and retail, entry fees, organizer schedules. Local competitive practice: voluntary teams, loan agreements and clear consent for sharing lists. Competition: local play → larger open/qualified events → national/international pathway only as verified for story date. Match results, prize amounts, sponsor commitments and event dates fictional unless explicitly referenced as historical. Tournament officials independently enforce rules; team advice occurs outside matches. No cheating tutorials or unauthorized scouting.
+ 
+Institutions (fictional): Sideboard (community hub, Maya's work and survival); Westline (well-funded rival group, June's testing environment); Breakpoint (Nico's evolving group, begins informal); Northstar Media (sponsor/content operator, Theo's interest in audience). None affiliated with Riot. No fixed professional salary assumed. Store owner balances foot traffic, margins and community; casual players have agency and enjoyment, not inferior extras.
+ 
+## Material reality
+USD ledger. At opening Nico has $480 unrestricted savings, $120 game fund, $1,050 rent contribution due monthly, $21/hour fictional logistics wage before deductions, 32 scheduled hours/week, debt-free on cards except documented loans. Sister contributes irregularly by agreement; household expenses outside the game require an actual ledger. These are fictional character numbers, not market averages or actual price quotes. He will not gamble rent or borrow at predatory rates. Entry, transport, food, missed work, replacement cards, loans and tax on prizes tracked separately. Prices need dated source or explicit fictional quote. No instant wealth; sponsors and costs negotiated. 
+Card objects: ownership, condition, language, printing and lending distinct from competitive identity. Match wins generate no automatic wealth. Collection growth can conflict with deck requirements.
+ 
+## Time and meta
+Start 2026-11-28. Freeze 2026-11-25 rules reference: Radiance post-ban, region US/English. All actual legal cards/format and rules verified before each match. Use dated snapshots; future set changes never projected as fact. Time skips require calendar and character progression. No official rules/errata retroactively alter a finished match. 
+Narrative scope expands only after local emotional stakes resolve. The outside world remains contemporary and ordinary.

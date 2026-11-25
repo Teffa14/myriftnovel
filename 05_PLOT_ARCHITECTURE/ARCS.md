@@ -1,20 +1,14 @@
-# Arquitectura de tramas
-Seis niveles: saga (transformación integral), temporada (ciclo competitivo), arco (objetivo, adversidad, consecuencias), subtrama (conflicto paralelo), capítulo (cambio significativo), escena (acción, decisión, reacción y resultado).
-
-Plantilla: ID, pregunta dramática, punto de partida, objetivos incompatibles, acontecimientos causales, escalada, pistas, decisiones, coste, clímax, resolución, consecuencias, estados modificados, hilos pendientes y dependencias. Planificar resolución antes de sembrar elementos fundamentales; permitir iteración controlada.
-
-## Primera saga — hipótesis de 500 capítulos
-| Rango | Arco | Función |
-|---|---|---|
-| 1–25 | La primera mesa | Comunidad |
-| 26–60 | El circuito local | Rivalidad y derrota |
-| 61–100 | El mazo imperfecto | Identidad competitiva |
-| 101–150 | El equipo | Testing y conflictos |
-| 151–210 | La escena nacional | Distancia entre talento y profesionalización |
-| 211–260 | La ruptura | Crisis personal y competitiva |
-| 261–320 | El nuevo metagame | Adaptación |
-| 321–380 | El circuito internacional | Nuevas escuelas estratégicas |
-| 381–440 | El precio de competir | Sacrificios y relaciones |
-| 441–500 | La clasificación | Convergencia de conflictos |
-
-Ningún arco, resultado o longitud es canon. Validar con piloto antes de comprometer una saga larga.
+# Serial architecture v1.0
+Three sagas planned, first season 120 chapters, later ranges conditional on reader validation. Production units 20 chapters (~34–44k words at 1,700–2,200 average); don't promise 500 chapters before retention. All match outcomes depend on legal replay; plot goals define consequences, not rigged game results. Exact late-saga resolution kept out of public repo.
+ 
+Season 1 — Earn Your Seat (1–120). Questions: can Nico become a reliable competitor and teammate; can he pay for participation without losing his ordinary life?
+A01 1–20, The First Table: post-ban deck problem, local loss, bounded trial, first earned place in practice group. Close on tangible opportunity with conditions. Focus: compelling hook, local stakes, friendship, embarrassment and humor. 
+A02 21–40, The Price of Practice: unreliable testing and money, side responsibilities, June challenges his approach; Eli's hypothesis proves useful or refuted by replay. Nico changes method, commits to honest documentation. Close with a stable schedule, not guaranteed wins.
+A03 41–60, Breakpoint: informal group becomes named practice group; deck identity and confidentiality expectations, incompatible incentives and work schedule. A public misunderstanding exposes a genuine process error, not a fabricated malicious leak. Repair and new explicit rules. 
+A04 61–80, Road Costs: first larger event opportunity, travel budget and team obligations, independent Maya/Lucia plots. Larger field reveals weaknesses. Close with a concrete result, cost and path forward; qualification only if actual format and replay support.
+A05 81–100, The New Meta: verified game change or already-legal discovery forces adaptation; existing specialists remain credible. Sponsors become interested; June and Samira make independent choices. Nico must choose between familiar method and evidence. 
+A06 101–120, The Final Point: season stakes converge at a verified or explicitly fictional competitive event. Resolve group trust and household boundary before the decisive match. Competitive outcome comes from validated play; emotional resolution is earned accountability rather than trophy guarantee. End with earned next-stage opportunity and one grounded unresolved question.
+ 
+Season 2 — Outside the Room (121–240 provisional): A07 national-scale opposition and logistical barriers, A08 divergent schools of play, A09 sponsorship terms and public expectation, A10 team splits under conflict of priorities, A11 adaptation via honest review and independent side characters, A12 championship-path opportunity contingent on current rules and results. Central question: does visibility change how Nico plays and treats others?
+Season 3 — The Last Seat (241–360 provisional): A13 international preparation (verify actual eligibility), A14 travel/cultural/format differences, A15 public reputation vs private commitment, A16 rivals' convergence and personal loss/recovery, A17 competition climax, A18 consequences and new identity. End arc of dependence/control; no forced sequel. Further seasons require distinct question and audience evidence. 
+Each arc has opening problem, at least one believable reversal, distinct emotional progression, one closed local question, persistent consequence and setup/payoff tracking. Avoid identical tournament ladders; alternate competitive intensity, personal conflict, institution and recovery. No unverified actual schedules or manufactured real player scandals.

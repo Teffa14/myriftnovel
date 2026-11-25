@@ -1,0 +1,228 @@
+{
+  "as_of": "2026-11-23",
+  "region": "US/English",
+  "source": "https://playriftbound.com/en-us/rules-hub/",
+  "scope": "complete lists as shown on official Rules Hub, snapshot date not individual ban effective dates; 2v2 source prints Draven Vanquisher without comma, normalized here for identity review",
+  "rows": [
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Called Shot"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Ekko, Recurrent"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Draven, Vanquisher"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Fight or Flight"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Scrapheap"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Stealthy Pursuer"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Stacked Deck"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Riven, Broken Blade"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Zhonya’s Hourglass"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Stellacorn Herder"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Nocturne, Horrifying"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Rhasa the Sunderer"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Brynhir Thundersong"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Dazzling Aurora"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "card",
+      "name": "Baited Hook"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "The Arena’s Greatest"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Aspirant’s Climb"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Dreaming Tree"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Obelisk of Power"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Reaver’s Row"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Star Spring"
+    },
+    {
+      "format": "standard_constructed",
+      "kind": "battlefield",
+      "name": "Emperor’s Dais"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Called Shot"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Ekko, Recurrent"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Draven, Vanquisher"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Scrapheap"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Stealthy Pursuer"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Stacked Deck"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Riven, Broken Blade"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Zhonya’s Hourglass"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Stellacorn Herder"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Nocturne, Horrifying"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Rhasa the Sunderer"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Brynhir Thundersong"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Dazzling Aurora"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "card",
+      "name": "Baited Hook"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "The Arena’s Greatest"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Aspirant’s Climb"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Dreaming Tree"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Obelisk of Power"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Reaver’s Row"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Star Spring"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "battlefield",
+      "name": "Emperor’s Dais"
+    },
+    {
+      "format": "2v2_constructed",
+      "kind": "legend",
+      "name": "Master Yi, Wuju Bladesman"
+    }
+  ]
+}
