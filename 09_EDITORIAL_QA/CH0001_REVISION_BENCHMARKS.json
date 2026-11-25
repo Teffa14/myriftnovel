@@ -1,0 +1,100 @@
+{
+  "schema_version": 1,
+  "chapter_id": "CH0001",
+  "scope": "Historical aggregate revision metrics reported in editorial review; not remeasured in documentation commit. V4.1 approved status comes from PRODUCTION_STATUS.json; V4 measures refer to the delivered V4 editorial text, not an independent new measurement of V4.1.",
+  "versions": [
+    {
+      "revision": "V1",
+      "words": 2471,
+      "paragraphs": 282,
+      "mean_words_per_paragraph": 8.76,
+      "one_word_paragraphs": 23,
+      "paragraphs_up_to_10_words_pct": 77,
+      "dialogue_pct": 22.74,
+      "unique_lexical_forms": 812,
+      "internal_5gram_flags": 0,
+      "editorial_rating": 6.7,
+      "diagnosis": "Overfragmentation, insufficient tactical specificity and excessive preliminary dialogue."
+    },
+    {
+      "revision": "V2",
+      "words": 2263,
+      "paragraphs": 120,
+      "mean_words_per_paragraph": 18.86,
+      "median_words_per_paragraph": 11,
+      "one_word_paragraphs": 3,
+      "paragraphs_up_to_10_words_pct": 48.3,
+      "dialogue_pct": 12.42,
+      "unique_lexical_forms": 697,
+      "internal_5gram_flags": 0,
+      "editorial_rating": 8.2,
+      "diagnosis": "Concrete cards and strategic causality; remaining technical precision and recovery pacing issues."
+    },
+    {
+      "revision": "V3",
+      "words": 2342,
+      "paragraphs": 79,
+      "mean_words_per_paragraph": 29.65,
+      "median_words_per_paragraph": 23,
+      "one_word_paragraphs": 0,
+      "paragraphs_up_to_10_words_pct": 30.4,
+      "dialogue_pct": 10.93,
+      "unique_lexical_forms": 678,
+      "internal_5gram_flags": 0,
+      "editorial_rating": 8.7,
+      "diagnosis": "Stronger recovery and density; final cost-resolution correction and personal stakes needed."
+    },
+    {
+      "revision": "V4",
+      "words": 2464,
+      "paragraphs": 81,
+      "mean_words_per_paragraph": 30.42,
+      "one_word_paragraphs": 0,
+      "dialogue_pct": 10.39,
+      "unique_lexical_forms": 713,
+      "internal_5gram_flags": 0,
+      "editorial_rating": null,
+      "diagnosis": "Targeted precision pass; no fabricated numerical rating."
+    }
+  ],
+  "section_words": {
+    "V1": {
+      "preparation": 1120,
+      "competition": 519,
+      "aftermath": 832
+    },
+    "V2": {
+      "preparation": 573,
+      "competition": 1171,
+      "aftermath": 519
+    },
+    "V3": {
+      "preparation": 525,
+      "competition": 1345,
+      "aftermath": 472
+    }
+  },
+  "references": {
+    "TKA_mean_words_per_paragraph": 31.37,
+    "CFA_CH1_median_words_per_paragraph": 30,
+    "interpretation": "Diagnostic references only; translation and segmentation differences matter."
+  },
+  "historical_checks": {
+    "repository_scoring_tests": 10,
+    "autonomous_evidence_scoped_tests": 15,
+    "chapter_scoring_transitions": 11,
+    "scope": "Prior reported executions, not rerun for this commit. Conditional checks not full game replay."
+  },
+  "approval": {
+    "revision": "V4.1",
+    "status": "author_approved_and_distilled",
+    "source": "08_CHAPTERS/PRODUCTION_STATUS.json"
+  },
+  "limitations": [
+    "No independent reader validation",
+    "No full match reachability or comprehensive deck legality certification",
+    "No exhaustive raw corpus semantic audit",
+    "Exact prose and private archive records excluded from public Git"
+  ],
+  "usage": "Historical comparison only; recompute exact candidate metrics and checks per chapter. No enforced density quotas."
+}

@@ -1,0 +1,61 @@
+# Chapter production playbook — lessons from CH0001
+
+Author direction, 2026-11-25. Mandatory for subsequent chapters in conjunction with AGENTS.md, the three canonical prompts, the story bible, G1–G6 and NDM 2.0. This is a reusable method derived from the actual Chapter 1 revision history, not an instruction to reproduce its plot, language, scene proportions, jokes or tactical solutions. CH0001 remains approved at V4.1; this playbook does not change canon, approved bytes or publication status.
+
+## 1. Operational tools and responsibilities
+
+- GitHub connector: retrieve current main HEAD and recursive inventory; inspect applicable files across all ten directories, record actually read files and gaps. Preserve concurrent updates; commit and read back public-safe changes. Repo is canonical, not a manuscript store.
+- ChatGPT / Author Studio: orchestration, scene construction, developmental review, line editing and delivery. Where accessible, use relevant repository, novel, editorial, voice and quality-gate skills; do not claim unavailable plugins ran.
+- Writing Style: retrieve relevant, genuinely authored fiction samples when available. CH0001 did not obtain suitable independent fiction samples; the approved project voice and style bible remain authoritative. Do not imitate living authors' distinctive language or import unrelated personal writing.
+- Writing Assistant, Human Writing and Avoid AI Writing: apply structural, rhythm, natural dialogue, agency, diction and formulaic-pattern review. These are editorial lenses, not independent reviewers, human-authorship certifications or detector-evasion tools.
+- Official web research: dated Riot rules, effective card text, errata and bans before third-party indexes; community commentary for subjective opinions and social texture, never as final rules authority.
+- Python: exact-version metrics, revision diff, lexical detector, continuity arithmetic, scoped rules checks, negative tests, manifest and private archive validation. JavaScript: run repository scoring and autonomous evidence scripts. Distinguish actual execution from illustrative pseudocode or reported historical runs.
+- Private workspace / ChatGPT Library: preserve draft and reviewed versions, full manuscript, evidence, usage records, retirement registry and archive. Never commit exact unpublished prose, private beat sequences, retired text, raw third-party assets or private state deltas to public GitHub.
+
+## 2. Preflight before any chapter
+
+Retrieve latest main, inventory recursively and inspect applicable research (including relevant archive members), style grammar, story bible, cast, arcs, subplots, competitive engine, continuity, pilot brief, QA and publication gates. Record HEAD, actual sources read, unresolved gaps and why they matter. Verify previous approved chapter archive and manifest with its tools/check_future.py --verify-only, then load private continuity, abstract mechanism and usage summaries. Do not retrieve retired language as writing examples. Do not invent missing records or treat missing history as empty. Follow PRODUCTION_STATUS.json, ORIGINALITY/STATUS.json and the NDM protocol. Complete outstanding approved-chapter close-out before writing. No new chapter without verified prior archive and approval gate.
+
+## 3. Research and select mechanisms
+
+Study abstract functions, not source phrasing: TKA tactical identity and competitive narration; CFA progression, density and causal perspectives; GED humor, relationships and opening mechanics; MSC economy, experimentation, professional ambition and negotiation. Use the four-work research base (190 candidate entries, 75 original demonstration blocks as previously recorded) and accumulating approved chapter abstractions. Select by scene need, not quota. Consult CH0001_ABSTRACT_VARIANTS.md for TLDV001–003 only as abstract functional options; use private usage memory to avoid repeating their execution signatures. For shop, event or online scenes, consult COMMUNITY/COMMUNITY_PROTOCOL.md and its social research. Invent independent fictional extras with their own motives, natural American English, ordinary interruptions and varied opinions. Never copy Reddit wording or turn background characters into a chorus praising the protagonist.
+
+## 4. Build the scene before drafting
+
+Fix date, place, POV, goal, opponent/obstacle, starting financial/time/knowledge constraints, choices, consequences and state changes. Establish what the protagonist can know then, what they can learn later, and what remains uncertain. Where relevant, connect practical access, competition, psychology and relationships without demanding all four in every chapter. Let strong rivals adapt for their own goals; show protagonist ability through a specific observation or action that changes the situation, not narration asserting talent. Let other characters pursue independent interests; preserve voice differences and household boundaries. Opening conflict should be concrete and early; closing consequence should invite the next chapter without contrived cliffhangers. Do not repeat CH0001's opening or ending architecture automatically.
+
+## 5. Construct and verify competitive content
+
+Follow SCENE_INTEGRITY.md and AUTONOMOUS_PRODUCTION.md. Run autonomous_evidence.js for the story date; check official sources, catalog identity, corrected domains, effective errata, bans, resources, timing, target eligibility, movement, priority, triggers, combat, scoring and public/private knowledge as applicable. Date decklist and price evidence; pre-ban results are not automatically post-ban evidence. Construct plausible fictional matches; no invented real outcomes. At L1, document explicit premises and prove only depicted transitions. At L2, verify decklists, reachability and complete replay. No full-replay claim from scoped arithmetic. If unsupported, narrow or replace the specific line without sacrificing narrative stakes. Never claim a legal winning alternative or optimal play without evidence. Use negative cases and independent review if available; disclose same-agent checking otherwise.
+
+CH0001 demonstrated useful review targets: pay costs before resolution; distinguish one movement of multiple units from separate actions; verify token-generation prerequisites, control vs occupation, gear removal timing, who actually moves a unit, attacker designation, combat math and final-point restrictions. These are general verification prompts, not an obligation to reuse the cards or scenario. Keep state ledgers private. For technical scenes, render decisions as meaningful actions and consequences; explain just enough for a novice to follow, with relevant specifics for veteran players.
+
+## 6. Draft and developmental edit
+
+Write original idiomatic American English in close third-person past, one POV per scene, normally 1,700–2,200 words; justified deviations may be approved. First review causal sequence, stakes, pacing, agency, scene objective, distribution and accessibility. In a competition-centered chapter, avoid summarizing the very strategic exchange the reader came for; show choices, costs, counterplay, adaptation and consequences. Noncompetition chapters may allocate time differently. Avoid making every scene a lesson or every conversation a tutorial. Use character-specific motives, unresolved threads and physical actions. Distinguish retrospective reasoning from information actually available during the match.
+
+CH0001's first substantial review found overfragmentation, too much preliminary conversation, generic match summary, repetitive cognitive verbs and psychologically overexplained consequences. The next revision rebuilt the match with real card interactions and concrete tradeoffs; a precision revision added a bounded recovery and corrected rule wording; the final precision pass repaired payment order and strengthened personal stakes, title and transition. Preserve strong passages within the current revision rather than rewriting indiscriminately. Approved passages become retired resources for future chapters.
+
+## 7. Measure exact text; then edit
+
+Use one declared tokenization and paragraph definition consistently across versions. Analyze the clean manuscript excluding title, author note and editorial material; distinguish scene separators from paragraphs. Record word count, unique normalized forms, paragraph count/mean/median/distribution, one-word paragraphs, dialogue share, estimated sentence length, frequent words and paragraph openings, internal 5-grams occurring at least three times, scene word allocations and relevant syntactic/semantic repetition. State estimator limitations. Compute on the actual delivered bytes, not a working draft; bind reports to the private SHA-256. If formatting changes, confirm normalized prose unchanged or rerun. Use revision diff and preserve versions. Re-run metrics and tests after every material correction; reject stale reports.
+
+CH0001 baseline metrics and prior editorial ratings are in 09_EDITORIAL_QA/CH0001_REVISION_BENCHMARKS.json. Reference TKA paragraph mean 31.37 and CFA Ch1 median 30 are diagnostics, not standards. Do not maximize paragraph length, minimize dialogue or force specific percentages. Language variety is semantic and syntactic as well as lexical; ordinary verbs and technical terms should remain natural.
+
+## 8. Recursive editorial passes
+
+Review structure, psychological causality, character agency, voice, prose, pace, tactical correctness, emotional consequence, continuity, accessibility and commercial pull. Review line-level patterns: repeated subject openings, stock contrasts, repetitive gestures, vague mental summaries, formulaic exchanges, forced humor, uniform cadence and generic exposition. Repair actual defects, then reread for rhythm and meaning. Use natural character voice, not artificial mistakes or detector targets. Test the title against the actual chapter focus and keep author notes separate from narrative metrics.
+
+Record scores only as provisional editorial judgments with reasons, never independent reader outcomes. The project aspirational threshold (9 average, no criterion below 8, no critical defects) does not substitute for actual checks and author approval. Avoid endless rewrites driven by metrics alone. Preserve agreed literary decisions and stop at explicit approval or a documented real blocker.
+
+## 9. Originality, continuity and approval
+
+Execute repetition_check.py against every approved chapter and the private future guard; manually review short distinctive phrases, near paraphrases, metaphors, jokes, gestures, dialogue, openings, endings, causal order and semantic scene signatures. Exact and near lexical checks do not certify originality. Review source corpus within documented scope; no claim of exhaustive raw or semantic coverage without actual access and analysis. Resolve flags, document local justified exceptions, and preserve common terminology. Check financial/time/knowledge/state deltas and dependencies. Verify evidence and exact final manuscript. Deliver complete private chapter, separate editorial dossier and honest limitations. Author alone approves; no publication or next chapter on an unapproved draft.
+
+## 10. After approval
+
+Lock exact bytes and hash, distill abstract functions using NDM 1.0/2.0, register distinctive text privately as retired, update private usage/exception/continuity records, verify manifest and future guard, update public-safe status and aggregate records. Read back commit. No silent edits to approved text; authorized revisions require a new version and dependency audit. Do not publish or monetize before rights and publication gates.
+
+## Evidence boundaries
+
+CH0001's recorded scoped tests and historical metrics are useful baseline evidence, not proof of independent reader satisfaction, full game simulation, or exhaustive source originality. See existing SCENE_INTEGRITY.md, CH0001 private archive and ORIGINALITY/STATUS.json for current registration and limitations. The present documentation commit does not rerun tests, modify the approved manuscript or initiate CH0002. For subsequent chapters execute fresh checks, rather than reusing CH0001 results.
