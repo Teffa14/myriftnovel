@@ -51,3 +51,5 @@ Extensiones MSC-EX09/EX10: consultar archivos respectivos. En escenas cotidianas
 Extensiones EX11–EX13: distinguir señal, potencial, desempeño, invitación, oferta y aceptación; recuperar aprendizaje sembrado mediante ejecución verificada; comparar versiones y métricas sin confundir proxies con resultados; converger objetivos independientes sin transferir conocimiento privado. Consultar los tres archivos de patrones. No importar creación de cartas ni PvE al TCG físico.
 
 EX14–EX15: separar derechos, empleo, oferta, firma, pago y titularidad; demostrar experiencia por hipótesis y comprobación; recuperar hilos sin inventar conocimiento. Para extracción de nuevos patrones usar ../../01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/MASTER_PROMPT.md y METHOD.md.
+
+EX16–EX18: use MSC_EX16_18_PATTERNS.md. Preserve gross/net and reserve distinctions, unaddressed contract conditions, public vs private reputation, conditional effect vs guaranteed outcome, and artifact-based inference. Reuse existing patterns before extending IDs. See MSC continuity corrections; no fictional game mechanics transferred.

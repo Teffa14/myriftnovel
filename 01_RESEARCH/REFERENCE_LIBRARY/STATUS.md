@@ -39,3 +39,6 @@ Trece muestras únicas; cero capítulos completos certificados. Tres nuevas mues
 
 ## MSC-EX14–EX15 y método NDM v1.0
 15 muestras distintas MSC, cero capítulos completos certificados. Dos nuevas lecturas cualitativas: venta de derechos y pago, empleo pendiente, búsqueda experta y conexiones retrospectivas. 16 entradas y 6 bloques nuevos; total 162 entradas y 62 bloques, con solapamientos pendientes. No se ejecutó Python sobre estos dos fragmentos. Método portable documentado en DISTILLATION_METHOD/; controles nuevos prospectivos, no certificación retroactiva.
+
+## MSC-EX16–EX18
+18 unique partial units; 0 complete chapters certified. EX17 visible Chapter 22 heading. Hybrid analysis latest 3: 3509 tokens, 101 paragraphs, 1362 quoted tokens from manual narrative transcription; POS unavailable. 6 candidate entries and 3 blocks added, 168 entries/65 blocks total; equivalent mechanisms linked, not inflated. Continuity correction: Lin Daiyu targets flowers only; fee, probability indexing and inventory gaps documented. No competitive validation or reader testing.

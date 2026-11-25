@@ -41,3 +41,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX14–EX15
 [Análisis](NEGOTIATION_AND_TARGETED_SEARCH_ANALYSIS.md): negociación de derechos, conversión y pago, empleo pendiente, búsqueda especializada, identidad y recuperación causal. 16 entradas y 6 bloques nuevos. Cobertura parcial.
+
+## MSC-EX16–EX18
+[Analysis](PRICE_REPUTATION_MENTORSHIP_ANALYSIS.md), [metrics](EX16_18_METRICS.json), [Python](measure_batch.py), [continuity corrections](CONTINUITY_CORRECTIONS.md). Three partial units; EX17 labeled Chapter 22, completeness unverified. 6 candidate entries, 3 original blocks; existing IDs reused. Flower-only Lin Daiyu correction supersedes earlier broad interpretation.

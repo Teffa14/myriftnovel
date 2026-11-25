@@ -33,3 +33,6 @@
 
 ## MSC-EX14–EX15
 [EX14](MSC_EX14_PATTERNS.md), [EX15](MSC_EX15_PATTERNS.md): 16 entradas y 6 bloques. Total 162 entradas y 62 bloques; 15 muestras MSC parciales. [Método portable NDM v1.0](../../01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/README.md), formalización retrospectiva y controles nuevos prospectivos.
+
+## MSC-EX16–EX18
+[Patterns](MSC_EX16_18_PATTERNS.md): 6 new candidate entries, 3 blocks; reuse earlier IDs for equivalent functions. Total 168 entries and 65 blocks, not distinct certified mechanisms. 18 unique partial units MSC. Python metrics executed on narrative-only transcription of latest 3; POS not measured.
