@@ -13,3 +13,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## 48P social/institutional complement
 [48P](../../01_RESEARCH/REFERENCE_LIBRARY/works/48P/INDEX.md) complements FRY: M06 and M09 can inform legal initiative and bounded commitment; the other candidates chiefly concern teams, sponsorship and community decisions. All depicted rules remain governed by G3-scene and current official evidence; distinguish legal play from interpersonal pressure, enforce consent and no misconduct, and keep offers separate from actual payments. No fabricated game or empirical result.
+
+## MED psychological/ethical complement
+[MED](../../01_RESEARCH/REFERENCE_LIBRARY/works/MED/INDEX.md) complements FRY and 48P. Use M02–M05 for postgame review and bounded preparation; M07–M12 for conflict, responsibility and ethical adaptation. A legal or advantageous play is not evidence of moral virtue; a loss is not evidence of bad judgment. Real game state, rules, recorded outcomes and obligations remain binding. No invented mental-state certainty or game interaction.

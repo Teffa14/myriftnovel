@@ -69,3 +69,6 @@ Consult [FRY strategy candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/
 
 ## Optional institutional and interpersonal selector — 48P
 Use [48P research candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/48P/PATTERNS.md) for disputed credit, incentives, reputation, hierarchy, sponsorship, collaboration and resource trade-offs. Preserve independent goals, dissent, consent, available alternatives, factual evidence, information boundaries, and consequential choices. Treat the source's claims as contested character beliefs or conflict lenses, never compulsory behavior or verified psychology. No reuse of example prose, new canon, or change to private originality gates.
+
+## Optional psychological and ethical selector — MED
+Consult [MED candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MED/PATTERNS.md) for judgment, proportionate response, corrigibility, reciprocal support, disciplined practice and values under pressure. Distinguish actual events from interpretation, control of conduct from control of outcomes, and accountability from self-condemnation. Preserve practical costs, emotion, boundaries, independent goals and character-specific voice. No mandatory Stoic doctrine, clinical claim, recycled sample prose, or change to NDM 2.0 gates.

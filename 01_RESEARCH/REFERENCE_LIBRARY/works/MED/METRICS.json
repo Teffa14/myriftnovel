@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-25",
+  "source": "User-supplied EPUB, Standard Ebooks edition of George Long translation",
+  "source_identifier": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long",
+  "source_sha256": "0da41e46edab352c9f8b394234a82dc0c0851d0d4a8b7876763e855883769ed7",
+  "bytes": 1378157,
+  "spine_items": 18,
+  "body_books": 12,
+  "metadata_word_count": 45696,
+  "method": "Resolve EPUB manifest and spine; select 12 book XHTML files; remove noteref links while preserving tails; extract direct section paragraphs, normalize whitespace, count Unicode alphabetic tokens including internal apostrophe/hyphen. Exclude headers, endnotes, cover, titlepage, credits and promotional matter. Sentence proxy splits on punctuation followed by whitespace. Paragraph ordinals include brief location notes and split continuation paragraphs. Metadata count differs due to counting conventions; not a discrepancy in book coverage.",
+  "columns": [
+    "book",
+    "paragraphs",
+    "word_tokens",
+    "sentence_proxy",
+    "mean_words_per_paragraph"
+  ],
+  "books": [
+    [
+      1,
+      18,
+      2812,
+      41,
+      156.22
+    ],
+    [
+      2,
+      18,
+      2335,
+      70,
+      129.72
+    ],
+    [
+      3,
+      16,
+      2808,
+      60,
+      175.5
+    ],
+    [
+      4,
+      54,
+      4251,
+      157,
+      78.72
+    ],
+    [
+      5,
+      39,
+      4424,
+      144,
+      113.44
+    ],
+    [
+      6,
+      58,
+      4491,
+      157,
+      77.43
+    ],
+    [
+      7,
+      71,
+      4171,
+      169,
+      58.75
+    ],
+    [
+      8,
+      64,
+      4485,
+      196,
+      70.08
+    ],
+    [
+      9,
+      43,
+      4199,
+      164,
+      97.65
+    ],
+    [
+      10,
+      42,
+      4464,
+      153,
+      106.29
+    ],
+    [
+      11,
+      50,
+      3747,
+      115,
+      74.94
+    ],
+    [
+      12,
+      38,
+      3066,
+      109,
+      80.68
+    ]
+  ],
+  "total_paragraphs": 511,
+  "total_words": 45253,
+  "total_sentence_proxy": 1535,
+  "limitations": [
+    "Paragraph ordinal is this edition's HTML order, not universal numbered section",
+    "Full computational coverage; selective semantic review, not every paragraph read in depth",
+    "No POS or independent historical/clinical validation",
+    "No stylistic imitation or direct source text committed"
+  ]
+}

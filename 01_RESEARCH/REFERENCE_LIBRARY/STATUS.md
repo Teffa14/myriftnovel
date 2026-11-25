@@ -59,3 +59,6 @@ Two strategic works from one supplied edition; PDF used as authoritative text ov
 
 ## 48P — Robert Greene and Joost Elffers (2026-11-25)
 Complete coverage of the supplied Spanish condensed guide, not the unabridged book. 48 numbered source units, 4,933 word tokens measured in Python, 12 grouped institutional/social candidates and six original noncanonical exercises. [Research index](works/48P/INDEX.md). Separate from FRY's 12 strategy candidates and the historical narrative grammar counts; no certification, reader testing, or new canon. Source not committed. Full semantic deduplication pending.
+
+## MED — Marcus Aurelius (2026-11-25)
+12/12 body books processed in Python: 511 paragraphs, 45,253 word tokens, 1,535 sentence proxies. Selective semantic review, twelve grouped psychological/ethical candidates and six original noncanonical exercises. [Research index](works/MED/INDEX.md). Keep separate from historical narrative counts and FRY/48P; the three strategic/philosophical bundles now contain 36 candidate entries and 16 exercises, not necessarily independent mechanisms. No reader testing, full semantic certification, or new canon.
