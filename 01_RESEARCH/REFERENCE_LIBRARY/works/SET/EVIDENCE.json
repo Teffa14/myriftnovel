@@ -1,0 +1,841 @@
+{
+  "chronology": [
+    {
+      "era": 1,
+      "source_lines": "1–2267",
+      "chosen": "Sett, Kingpin",
+      "style": "Durable holds, buff-backed rescue, four-cost threats, matchup-specific role inversion",
+      "runes": {
+        "Body": 6,
+        "Order": 6
+      },
+      "field_policy_primary": [
+        "Monastery of Hirana",
+        "Grove of the God-Willow",
+        "Windswept Hillock"
+      ],
+      "field_policy_conflicting": [
+        "The Dreaming Tree",
+        "Grove of the God-Willow",
+        "Monastery of Hirana"
+      ],
+      "full_list": null,
+      "status": "historical layers, conflicting field policy"
+    },
+    {
+      "era": 2,
+      "source_lines": "2268–2421",
+      "chosen": "Sett, Brawler",
+      "style": "Proactive hit-and-run, Lucian and gear, flexible anti-bounce responses, slow package side option",
+      "fields": [
+        "The Dreaming Tree",
+        "Monastery of Hirana"
+      ],
+      "full_list": null,
+      "status": "historical hypothesis; third field unspecified"
+    },
+    {
+      "era": 3,
+      "source_lines": "2422–2434",
+      "chosen": null,
+      "style": "Adapt to displacement with Ambush and cross-deck answers; no complete updated list",
+      "full_list": null,
+      "status": "truncated source"
+    }
+  ],
+  "roles": [
+    {
+      "source_lines": "87–98",
+      "name": "Showstopper",
+      "era": "1",
+      "quantity": 3,
+      "reason": "Mobility, repeat entry and conditional solo attack; verify readiness and restrictions.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "99–112",
+      "name": "Sabotage",
+      "era": "1",
+      "quantity": 2,
+      "reason": "Information and key-card disruption; delay until information has immediate value, or until opposing payoff approaches.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "113–122",
+      "name": "Hidden Blade",
+      "era": "1",
+      "quantity": 2,
+      "reason": "Removal with opponent card compensation; compare remaining utilization horizon.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "123–132",
+      "name": "Challenge",
+      "era": "1",
+      "quantity": null,
+      "reason": "Use larger body to remove opposing development; verify damage persistence and response.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "133–146",
+      "name": "Call to Glory",
+      "era": "1",
+      "quantity": null,
+      "reason": "Conditional alternate payment using buff; weigh protection and future rescue.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "147–156",
+      "name": "Primal Strength",
+      "era": "1",
+      "quantity": null,
+      "reason": "Large defensive threshold modifier; reserve late when energy budget allows.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "157–164",
+      "name": "Arena Bar",
+      "era": "1",
+      "quantity": 3,
+      "reason": "Recurring buff support; duplicate burden accepted in targeted field.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "169–178",
+      "name": "Sett, Kingpin",
+      "era": "1",
+      "quantity": 1,
+      "reason": "Chosen-only per text; Tank and concentrated defense; exact scaling pending.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "179–188",
+      "name": "Pit Rookie",
+      "era": "1",
+      "quantity": null,
+      "reason": "Early body and buff supply; author recommends maximum copies, no exact quantity shown.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "189–198",
+      "name": "Cithria of Cloudfield",
+      "era": "1",
+      "quantity": null,
+      "reason": "Persistent buff supply and cheap support body.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "199–208",
+      "name": "Daring Poro",
+      "era": "1",
+      "quantity": 1,
+      "reason": "Early attack threshold and later weak draw; extra side copies.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "209–218",
+      "name": "First Mate",
+      "era": "1",
+      "quantity": null,
+      "reason": "Early body or conditional movement/accelerate enabler.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "219–228",
+      "name": "Kinkou Monk",
+      "era": "1",
+      "quantity": null,
+      "reason": "Multiple buff supply versus Power cost; one useful target may justify use.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "229–238",
+      "name": "Qiyana, Victorious",
+      "era": "1",
+      "quantity": null,
+      "reason": "Early conditional resource/card payoff; repayment horizon.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "239–248",
+      "name": "Fiora, Victorious",
+      "era": "1",
+      "quantity": null,
+      "reason": "Mobility and defensive traits dependent on Might increase; protection after rescue.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "249–256",
+      "name": "Sett, Brawler",
+      "era": "1",
+      "quantity": null,
+      "reason": "Offensive breaker, buff dependency, low defensive utility.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "291–304",
+      "name": "Sabotage",
+      "era": "1-side",
+      "quantity": 1,
+      "reason": "Third copy for key-card matchups; duplicate information effect less useful in grind.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "305–314",
+      "name": "Unyielding Spirit",
+      "era": "1-side",
+      "quantity": 2,
+      "reason": "Inferred from two-copy swap; conditional protection against damaging spells.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "315–324",
+      "name": "Hidden Blade",
+      "era": "1-side",
+      "quantity": 1,
+      "reason": "Third copy against finishers and large threats.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "325–334",
+      "name": "Daring Poro",
+      "era": "1-side",
+      "quantity": 2,
+      "reason": "Extra early presence against aggression or ramp.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "335–344",
+      "name": "Vengeance",
+      "era": "1-side",
+      "quantity": 2,
+      "reason": "Inferred from Aurora swap; immediate answer to large threats.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "345–358",
+      "name": "Facebreaker",
+      "era": "1-side",
+      "quantity": 1,
+      "reason": "Alternate finisher answer and concealed option.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2324–2337",
+      "name": "Lucian, Merciless",
+      "era": "2",
+      "quantity": null,
+      "reason": "Hit-and-run scoring and gear synergy; exact title conflict later in guide.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2338–2349",
+      "name": "Sea Monkey",
+      "era": "2",
+      "quantity": null,
+      "reason": "Efficient early replacement for Cithria and later buff supply.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2350–2365",
+      "name": "Fae Dragon",
+      "era": "2",
+      "quantity": null,
+      "reason": "Mass buff and subsequent spending payoff; concentrated investment vulnerable to displacement.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2366–2375",
+      "name": "Akshan, Mischievous",
+      "era": "2",
+      "quantity": null,
+      "reason": "Gear intervention and flexible early deployment.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2376–2387",
+      "name": "Warmog's Armor",
+      "era": "2",
+      "quantity": null,
+      "reason": "Reusable buff supply and attachment persistence hypothesis.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2388–2399",
+      "name": "Punch First",
+      "era": "2",
+      "quantity": null,
+      "reason": "Lower Energy alternative to Primal Strength; verify Power and counter eligibility.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2400–2421",
+      "name": "Deathgrip",
+      "era": "2",
+      "quantity": null,
+      "reason": "Sacrifice and rescue timing/target-legality hypothesis.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2300–2323",
+      "name": "Call to Glory",
+      "era": "2",
+      "quantity": 2,
+      "reason": "Reduced after Cithria removal.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2300–2323",
+      "name": "Kinkou Monk",
+      "era": "2",
+      "quantity": 1,
+      "reason": "Reduced in favor of Fae Dragon.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2268–2287",
+      "name": "Sett, Brawler",
+      "era": "2",
+      "quantity": 1,
+      "reason": "Proposed chosen champion replaces Kingpin; not full inventory.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2300–2323",
+      "name": "Arena Bar",
+      "era": "2-side",
+      "quantity": null,
+      "reason": "Conditional restoration of slow defensive plan.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2300–2323",
+      "name": "Sett, Kingpin",
+      "era": "2-side",
+      "quantity": null,
+      "reason": "Alternate chosen/side configuration; verify tournament procedure.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2422–2434",
+      "name": "Repulse",
+      "era": "3",
+      "quantity": null,
+      "reason": "Proposed answer to displacement; exact legality and effect unresolved.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2422–2434",
+      "name": "Ashe",
+      "era": "3",
+      "quantity": null,
+      "reason": "Unqualified identity; proposed gear-related answer context.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "2422–2434",
+      "name": "Akshan, Mischievous",
+      "era": "3",
+      "quantity": null,
+      "reason": "Gear-related threat coverage across decks.",
+      "status": "source_role_hypothesis_not_effective_text",
+      "snapshot_banned": false
+    }
+  ],
+  "matchups": [
+    {
+      "profile_id": "FT-L24",
+      "opponent": "Kai'Sa",
+      "source_lines": "525–674",
+      "plan": "Establish protected four-cost threats, tax removal, deny repeated scoring/draw access.",
+      "counterplay": "Reserve rescue and counterplay against multi-unit clears; assess actual Might thresholds.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L34 or FT-L35",
+      "opponent": "Yi midrange",
+      "source_lines": "675–800",
+      "plan": "Get ahead then concentrate defense, retain alternate scoring route.",
+      "counterplay": "Repeated displacement or an unusual large modifier may break concentrated defense.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L07",
+      "opponent": "Annie",
+      "source_lines": "801–932",
+      "plan": "Contest early progress, prefer resilient bodies, reserve answer to closing combination.",
+      "counterplay": "Compare one-for-one trades, bounce and clock; six-point threshold only source context.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L34 or FT-L35",
+      "opponent": "Yi Aurora",
+      "source_lines": "933–1064",
+      "plan": "Become proactive; target historical gear engine before large payoff.",
+      "counterplay": "Banned Aurora, dependent exact Legend identity; no modern use of specific list.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L54",
+      "opponent": "Teemo",
+      "source_lines": "1065–1198",
+      "plan": "Establish durable hold after evaluating concealed options.",
+      "counterplay": "Classify possible Hidden effects by role; opponent can choose alternatives, exact effects pending.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    },
+    {
+      "profile_id": "FT-L57",
+      "opponent": "Viktor",
+      "source_lines": "1199–1339",
+      "plan": "Contest early with efficient bodies before wide-board finishers.",
+      "counterplay": "Check token development, legal removals and closing routes; no guaranteed easy win.",
+      "status": "historical_pilot_opinion",
+      "win_rate": null
+    }
+  ],
+  "sideboard_plans": [
+    {
+      "id": "SET-SB01",
+      "era": "1",
+      "opponent": "Kai'Sa",
+      "order": "first",
+      "source_lines": "637–645",
+      "incoming": [
+        {
+          "name": "Unyielding Spirit",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Sett, Brawler",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB02",
+      "era": "1",
+      "opponent": "Kai'Sa",
+      "order": "second",
+      "source_lines": "647–657",
+      "incoming": [
+        {
+          "name": "Unyielding Spirit",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Daring Poro",
+          "count": 1
+        },
+        {
+          "name": "Sett, Brawler",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB03",
+      "era": "1",
+      "opponent": "Yi midrange",
+      "order": "first",
+      "source_lines": "773–781",
+      "incoming": [
+        {
+          "name": "Daring Poro",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Arena Bar",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB04",
+      "era": "1",
+      "opponent": "Yi midrange",
+      "order": "second",
+      "source_lines": "783–785",
+      "incoming": [],
+      "outgoing": [],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB05",
+      "era": "1",
+      "opponent": "Annie",
+      "order": "both",
+      "source_lines": "899–913",
+      "incoming": [
+        {
+          "name": "Daring Poro",
+          "count": 2
+        },
+        {
+          "name": "Hidden Blade",
+          "count": 1
+        },
+        {
+          "name": "Facebreaker",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Arena Bar",
+          "count": 2
+        },
+        {
+          "name": "Sett, Brawler",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB06",
+      "era": "1",
+      "opponent": "Yi Aurora",
+      "order": "both",
+      "source_lines": "1025–1043",
+      "incoming": [
+        {
+          "name": "Hidden Blade",
+          "count": 1
+        },
+        {
+          "name": "Daring Poro",
+          "count": 2
+        },
+        {
+          "name": "Vengeance",
+          "count": 2
+        },
+        {
+          "name": "Facebreaker",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Qiyana, Victorious",
+          "count": 3
+        },
+        {
+          "name": "Arena Bar",
+          "count": 2
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB07",
+      "era": "1",
+      "opponent": "Teemo",
+      "order": "both",
+      "source_lines": "1171–1177",
+      "incoming": [
+        {
+          "name": "Hidden Blade",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Sett, Brawler",
+          "count": 1
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    },
+    {
+      "id": "SET-SB08",
+      "era": "1",
+      "opponent": "Viktor",
+      "order": "both",
+      "source_lines": "1312–1324",
+      "incoming": [
+        {
+          "name": "Daring Poro",
+          "count": 2
+        },
+        {
+          "name": "Unyielding Spirit",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Sett, Brawler",
+          "count": 2
+        },
+        {
+          "name": "Arena Bar",
+          "count": 2
+        }
+      ],
+      "status": "historical_source_plan_not_legal_list_proof"
+    }
+  ],
+  "minimum_incoming_inventory": [
+    {
+      "name": "Unyielding Spirit",
+      "count": 2
+    },
+    {
+      "name": "Daring Poro",
+      "count": 2
+    },
+    {
+      "name": "Hidden Blade",
+      "count": 1
+    },
+    {
+      "name": "Facebreaker",
+      "count": 1
+    },
+    {
+      "name": "Vengeance",
+      "count": 2
+    }
+  ],
+  "additional_named_side_sabotage": 1,
+  "full_sideboard": null,
+  "threats": {
+    "source_lines": "409–524",
+    "era": "Set 1 historical",
+    "domains": {
+      "Body": [
+        "Challenge",
+        "Confront",
+        "First Mate",
+        "Primal Strength"
+      ],
+      "Calm": [
+        "Charm",
+        "Defy",
+        "Discipline",
+        "En Garde",
+        "Last Stand",
+        "Rune Prison",
+        "Wind Wall",
+        "Whiteflame Protector"
+      ],
+      "Chaos": [
+        "Fight or Flight",
+        "Gust",
+        "Rebuke",
+        "Ride the Wind",
+        "Possession"
+      ],
+      "Fury": [
+        "Cleave",
+        "Darius, Trifarian",
+        "Falling Star",
+        "Hextech Ray",
+        "Void Seeker"
+      ],
+      "Mind": [
+        "Singularity",
+        "Smoke Screen",
+        "Stupefy",
+        "Thousand-Tailed Watcher",
+        "Time Warp"
+      ],
+      "Order": [
+        "Call to Glory",
+        "Cull the Weak",
+        "Hidden Blade",
+        "Imperial Decree",
+        "Grand Stratagem"
+      ]
+    },
+    "note": "Source threat labels only, not exhaustive current list. Last Stand explicitly hypothetical. Fight or Flight banned in repo snapshot."
+  },
+  "quiz": {
+    "source_lines": "1469–2267",
+    "questions": 30,
+    "groups": [
+      {
+        "opponent": "Kai'Sa",
+        "first": 5,
+        "second": 5,
+        "source_lines": "1481–1734"
+      },
+      {
+        "opponent": "Annie",
+        "first": 5,
+        "second": 5,
+        "source_lines": "1735–1999"
+      },
+      {
+        "opponent": "Aurora",
+        "first": 5,
+        "second": 5,
+        "source_lines": "2000–2267"
+      }
+    ],
+    "answer_key_available": false,
+    "explanation_fragments": [
+      {
+        "source_lines": "1504–1513",
+        "lesson": "Prioritize actual opening and support access over an attractive later answer."
+      },
+      {
+        "source_lines": "1889–1896",
+        "lesson": "A redundant threat may be returned while preserving a matchup-critical answer."
+      }
+    ],
+    "method": "Do not reproduce the original question bank. Generate original hypothetical hands only after legal deck/rules verification; assess role coverage and explicit alternative decisions.",
+    "board_quiz": {
+      "source_lines": "1340–1368",
+      "status": "image dependent, no state available"
+    },
+    "closing_quiz": {
+      "source_lines": "1369–1406",
+      "status": "image dependent, no executable state or solutions"
+    },
+    "vods": {
+      "source_lines": "1444–1468",
+      "status": "labels only, no footage retrieved"
+    }
+  },
+  "guards": [
+    {
+      "lines": "1–12,675–800",
+      "issue": "40+ power wording in introduction versus 30–40+ Might later; do not equate resource Power and Might."
+    },
+    {
+      "lines": "25–70,359–388",
+      "issue": "70% Kai'Sa claim, 300+ games and four 2–0 Swiss match wins self-reported; no denominator for matchup rate, event identity/date or independent logs. 90% is hypothetical."
+    },
+    {
+      "lines": "257–286,518–524,2300–2323",
+      "issue": "Set 1 battlefield selection differs between sections; retain both instead of silently choosing. Dreaming Tree banned in Nov 23 snapshot."
+    },
+    {
+      "lines": "287–358,637–1324,1407–1420",
+      "issue": "Six named sideboard roles imply nine copies including third Sabotage, but swaps imply only eight incoming minimum; tenth slot unknown. Imperial Decree discussed in Aurora plan but not listed among named swaps. No complete list."
+    },
+    {
+      "lines": "1407–1420,1661–1679",
+      "issue": "Lee Sin appears in older quiz and Houston revision, not the card-role list; do not merge historical versions."
+    },
+    {
+      "lines": "389–408",
+      "issue": "Ignoring unused Falling Star as absent overstates inference. Source 8% and 40% estimates lack deck population and conditioning; use hypothetical calculation only."
+    },
+    {
+      "lines": "1469–1480",
+      "issue": "Claim that returned mulligan cards cannot be seen later depends on historical rules and effects; verify actual procedure."
+    },
+    {
+      "lines": "2268–2421",
+      "issue": "Rebuke over 80% representation is source claim, sample unspecified; regional and event predictions not observed outcomes."
+    },
+    {
+      "lines": "2324–2337,2376–2387",
+      "issue": "Lucian title Merciless in heading, Relentless later; preserve identity ambiguity pending official check."
+    },
+    {
+      "lines": "25–50,933–1064,2268–2434",
+      "issue": "Baited Hook, Dazzling Aurora, Fight or Flight and Dreaming Tree are banned in repository Nov 23 snapshot; historical examples only."
+    },
+    {
+      "lines": "2422–2434",
+      "issue": "Set 3 ends mid-sentence; Ashe identity and exact updated deck unknown; no inferred conclusion."
+    },
+    {
+      "lines": "1340–1406,1469–2267",
+      "issue": "109 image placeholders across source, no underlying images; no board puzzle solution or interactive answer key."
+    },
+    {
+      "lines": "87–164,165–256,2400–2421",
+      "issue": "All named interactions, including rescue, repeated entry, target invalidation, alternate payment and buff spending, require independent dated effective-text and chain verification."
+    }
+  ],
+  "banFlags": [
+    {
+      "name": "Baited Hook",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical_reference_not_current_list"
+    },
+    {
+      "name": "Dazzling Aurora",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical_reference_not_current_list"
+    },
+    {
+      "name": "Fight or Flight",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical_reference_not_current_list"
+    },
+    {
+      "name": "Dreaming Tree",
+      "snapshot_banned": true,
+      "effective_date": "2026-11-23",
+      "status": "historical_reference_not_current_list"
+    }
+  ],
+  "variant_links": [
+    "https://piltoverarchive.com/decks/view/7486ba6b-6ed4-4c8a-b009-90f09b6d2cb0",
+    "https://piltoverarchive.com/decks/view/eb3eab38-a7b6-42c1-a3f0-45df5b1b06b3"
+  ],
+  "links_retrieved": false
+}

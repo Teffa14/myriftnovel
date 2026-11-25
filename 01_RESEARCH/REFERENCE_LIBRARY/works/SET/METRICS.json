@@ -1,0 +1,330 @@
+{
+  "source": "Sett specialist guide, title/author/date not established",
+  "ingest_date": "2026-11-25",
+  "sha256": "2aa6846126a3cd30547cb8b34556476798f8dfc99a88d51822a057166aa8eca8",
+  "bytes": 108733,
+  "lines": 2434,
+  "word_tokens": 19092,
+  "distinct_lowercase_forms": 1774,
+  "blank_line_separated_blocks": 819,
+  "image_placeholders": 109,
+  "quiz_check_answer_markers": 30,
+  "method": "Python UTF-8-sig, Unicode alphabetic regex with optional internal apostrophe/hyphen, headings, links and quiz UI words included; lowercased forms; splitlines and blank-line blocks.",
+  "units": [
+    {
+      "id": "SET-U01",
+      "start": 1,
+      "end": 12,
+      "tokens": 162,
+      "topic": "Legend engine"
+    },
+    {
+      "id": "SET-U02",
+      "start": 13,
+      "end": 24,
+      "tokens": 290,
+      "topic": "Midrange"
+    },
+    {
+      "id": "SET-U03",
+      "start": 25,
+      "end": 50,
+      "tokens": 410,
+      "topic": "Variants and forecast"
+    },
+    {
+      "id": "SET-U04",
+      "start": 51,
+      "end": 70,
+      "tokens": 328,
+      "topic": "Deck purpose and reported results"
+    },
+    {
+      "id": "SET-U05",
+      "start": 71,
+      "end": 82,
+      "tokens": 147,
+      "topic": "Rune balance"
+    },
+    {
+      "id": "SET-U06",
+      "start": 83,
+      "end": 164,
+      "tokens": 2290,
+      "topic": "Spells and recurring buff support"
+    },
+    {
+      "id": "SET-U07",
+      "start": 165,
+      "end": 256,
+      "tokens": 2062,
+      "topic": "Unit roles"
+    },
+    {
+      "id": "SET-U08",
+      "start": 257,
+      "end": 286,
+      "tokens": 563,
+      "topic": "Battlefield selection"
+    },
+    {
+      "id": "SET-U09",
+      "start": 287,
+      "end": 358,
+      "tokens": 745,
+      "topic": "Sideboard roles"
+    },
+    {
+      "id": "SET-U10",
+      "start": 359,
+      "end": 388,
+      "tokens": 845,
+      "topic": "Game phases and defensive configuration"
+    },
+    {
+      "id": "SET-U11",
+      "start": 389,
+      "end": 408,
+      "tokens": 804,
+      "topic": "Counterplay and information decay"
+    },
+    {
+      "id": "SET-U12",
+      "start": 409,
+      "end": 524,
+      "tokens": 249,
+      "topic": "Domain threat inventory"
+    },
+    {
+      "id": "SET-U13",
+      "start": 525,
+      "end": 674,
+      "tokens": 707,
+      "topic": "Kai'Sa"
+    },
+    {
+      "id": "SET-U14",
+      "start": 675,
+      "end": 800,
+      "tokens": 697,
+      "topic": "Midrange Yi"
+    },
+    {
+      "id": "SET-U15",
+      "start": 801,
+      "end": 932,
+      "tokens": 796,
+      "topic": "Annie"
+    },
+    {
+      "id": "SET-U16",
+      "start": 933,
+      "end": 1064,
+      "tokens": 834,
+      "topic": "Aurora Yi"
+    },
+    {
+      "id": "SET-U17",
+      "start": 1065,
+      "end": 1198,
+      "tokens": 966,
+      "topic": "Teemo"
+    },
+    {
+      "id": "SET-U18",
+      "start": 1199,
+      "end": 1339,
+      "tokens": 504,
+      "topic": "Viktor"
+    },
+    {
+      "id": "SET-U19",
+      "start": 1340,
+      "end": 1368,
+      "tokens": 117,
+      "topic": "Board setup exercises"
+    },
+    {
+      "id": "SET-U20",
+      "start": 1369,
+      "end": 1406,
+      "tokens": 261,
+      "topic": "Closing exercises"
+    },
+    {
+      "id": "SET-U21",
+      "start": 1407,
+      "end": 1420,
+      "tokens": 511,
+      "topic": "Houston revision"
+    },
+    {
+      "id": "SET-U22",
+      "start": 1421,
+      "end": 1430,
+      "tokens": 254,
+      "topic": "Set transition forecast"
+    },
+    {
+      "id": "SET-U23",
+      "start": 1431,
+      "end": 1443,
+      "tokens": 360,
+      "topic": "Teaching and community"
+    },
+    {
+      "id": "SET-U24",
+      "start": 1444,
+      "end": 1468,
+      "tokens": 236,
+      "topic": "VOD practice method"
+    },
+    {
+      "id": "SET-U25",
+      "start": 1469,
+      "end": 1480,
+      "tokens": 303,
+      "topic": "Mulligan method"
+    },
+    {
+      "id": "SET-U26",
+      "start": 1481,
+      "end": 1734,
+      "tokens": 302,
+      "topic": "Kai'Sa quiz prompts"
+    },
+    {
+      "id": "SET-U27",
+      "start": 1735,
+      "end": 1999,
+      "tokens": 435,
+      "topic": "Annie quiz prompts"
+    },
+    {
+      "id": "SET-U28",
+      "start": 2000,
+      "end": 2267,
+      "tokens": 365,
+      "topic": "Aurora quiz prompts"
+    },
+    {
+      "id": "SET-U29",
+      "start": 2268,
+      "end": 2287,
+      "tokens": 284,
+      "topic": "Set 2 strategic change"
+    },
+    {
+      "id": "SET-U30",
+      "start": 2288,
+      "end": 2299,
+      "tokens": 358,
+      "topic": "Regional forecast and proactive unknown-meta plan"
+    },
+    {
+      "id": "SET-U31",
+      "start": 2300,
+      "end": 2323,
+      "tokens": 336,
+      "topic": "Set 2 deck revisions"
+    },
+    {
+      "id": "SET-U32",
+      "start": 2324,
+      "end": 2337,
+      "tokens": 145,
+      "topic": "Lucian"
+    },
+    {
+      "id": "SET-U33",
+      "start": 2338,
+      "end": 2349,
+      "tokens": 170,
+      "topic": "Sea Monkey"
+    },
+    {
+      "id": "SET-U34",
+      "start": 2350,
+      "end": 2365,
+      "tokens": 248,
+      "topic": "Fae Dragon"
+    },
+    {
+      "id": "SET-U35",
+      "start": 2366,
+      "end": 2375,
+      "tokens": 141,
+      "topic": "Akshan"
+    },
+    {
+      "id": "SET-U36",
+      "start": 2376,
+      "end": 2387,
+      "tokens": 195,
+      "topic": "Warmog"
+    },
+    {
+      "id": "SET-U37",
+      "start": 2388,
+      "end": 2399,
+      "tokens": 104,
+      "topic": "Punch First"
+    },
+    {
+      "id": "SET-U38",
+      "start": 2400,
+      "end": 2421,
+      "tokens": 185,
+      "topic": "Deathgrip"
+    },
+    {
+      "id": "SET-U39",
+      "start": 2422,
+      "end": 2434,
+      "tokens": 383,
+      "topic": "Partial Set 3 revision"
+    }
+  ],
+  "counts": {
+    "era_layers": 3,
+    "role_contexts": 37,
+    "matchup_variants": 6,
+    "swap_plans": 8,
+    "quiz_prompts": 30,
+    "mechanisms": 52,
+    "exercises": 6,
+    "guards": 13
+  },
+  "synthetic_access_example": {
+    "population": 39,
+    "copies": 3,
+    "sample_without_replacement": [
+      {
+        "draws": 1,
+        "probability": 0.07692307692307687
+      },
+      {
+        "draws": 4,
+        "probability": 0.2838384943648101
+      },
+      {
+        "draws": 5,
+        "probability": 0.34522376627639784
+      }
+    ],
+    "note": "Python math.comb calculation executed. Hypothetical 39-card unknown population containing all three copies; not actual conditional opponent hand odds or mulligan calculation."
+  },
+  "checks": [
+    "39 contiguous source units and 19092 tokens",
+    "eight balanced sideboard configurations including no change",
+    "eight minimum incoming copies from swaps",
+    "37 card-role contexts",
+    "six matchup variants",
+    "FTG references exist",
+    "four ban flags",
+    "30 quiz prompts accounted for",
+    "52 distinct mechanisms",
+    "three chronological layers",
+    "source ID unused"
+  ]
+}

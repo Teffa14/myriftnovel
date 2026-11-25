@@ -1,0 +1,522 @@
+[
+  {
+    "id": "SET-M01",
+    "level": "L4",
+    "name": "Rescue resource ledger",
+    "source_lines": "1–12,359–388",
+    "structure": "Track availability of buff, payment, rescue window and subsequent development.",
+    "acceptance": "No automatic immunity or repeated rescue without actual rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M02",
+    "level": "L4",
+    "name": "Midrange timing",
+    "source_lines": "13–24",
+    "structure": "Trade limited early progress for a stronger middle-game position.",
+    "acceptance": "Evaluate opposing clock and faster or larger competing strategy.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M03",
+    "level": "L4",
+    "name": "Threshold efficiency",
+    "source_lines": "13–24,389–408",
+    "structure": "Compare combat breakpoints against relevant responses rather than total stats alone.",
+    "acceptance": "Verify combat damage and modifiers; one Might does not guarantee a free kill.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M04",
+    "level": "L4",
+    "name": "Forecast-weighted list",
+    "source_lines": "25–50",
+    "structure": "Balance targeted matchup improvement against losses in rest of field.",
+    "acceptance": "Require observed data or clearly labeled assumptions.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M05",
+    "level": "L4",
+    "name": "Local variant selection",
+    "source_lines": "25–50",
+    "structure": "Change role density for actual local opponents and player preference.",
+    "acceptance": "Do not treat Hook/Ramp links as inspected lists.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M06",
+    "level": "L3",
+    "name": "Color reserve",
+    "source_lines": "71–82",
+    "structure": "Balance early access to chosen payoff with later resource costs.",
+    "acceptance": "Verify actual rune procedure and color split.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M07",
+    "level": "L3",
+    "name": "Repeat-entry route",
+    "source_lines": "87–98,209–218",
+    "structure": "Compare another entry with retaining a surviving unit and remaining resources.",
+    "acceptance": "Verify readiness, locations, targets and scoring.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M08",
+    "level": "L4",
+    "name": "Solo-attack constraint",
+    "source_lines": "87–98",
+    "structure": "Check whether an enabling effect restricts group support before committing.",
+    "acceptance": "Verify exact effect, legal companions and counterplay.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M09",
+    "level": "L4",
+    "name": "Information plus immediate conversion",
+    "source_lines": "99–112",
+    "structure": "Use legally acquired hand information when it changes a consequential action.",
+    "acceptance": "Separate known revealed cards from later unknown draws.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M10",
+    "level": "L4",
+    "name": "Disruption window",
+    "source_lines": "99–112",
+    "structure": "Delay key-card disruption until near opposing payoff if clock permits.",
+    "acceptance": "Opponent may have alternate threats or legal response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M11",
+    "level": "L4",
+    "name": "Compensation time horizon",
+    "source_lines": "113–122",
+    "structure": "Evaluate removal by whether opponent can use compensating cards before conclusion.",
+    "acceptance": "Include immediate response access and actual scoring, not automatic no downside.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M12",
+    "level": "L3",
+    "name": "Damage persistence exposure",
+    "source_lines": "123–132",
+    "structure": "Account for remaining damage after using a unit as removal tool.",
+    "acceptance": "Verify timing, damage cleanup and legal responses.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M13",
+    "level": "L4",
+    "name": "Alternate-payment opportunity cost",
+    "source_lines": "133–146",
+    "structure": "Compare spending buff for modifier against retaining it for later rescue.",
+    "acceptance": "Free Energy does not mean zero resource cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M14",
+    "level": "L4",
+    "name": "Defensive reserve",
+    "source_lines": "147–156",
+    "structure": "Delay expensive modifier until board development makes it effective.",
+    "acceptance": "Include opposing alternatives and resource pressure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M15",
+    "level": "L4",
+    "name": "Recurring enabler duplicate tax",
+    "source_lines": "157–164",
+    "structure": "Evaluate engine access versus stranded duplicate draws.",
+    "acceptance": "Use actual deck counts and measured outcomes if available.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M16",
+    "level": "L4",
+    "name": "Chosen-slot redundancy",
+    "source_lines": "169–178",
+    "structure": "Compare guaranteed chosen access with benefit of additional copies.",
+    "acceptance": "Verify chosen zone and legal inventory.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M17",
+    "level": "L3",
+    "name": "Protect distributed bodies",
+    "source_lines": "169–178",
+    "structure": "Compare high-value defensive unit with support bodies and damage allocation.",
+    "acceptance": "Verify Tank, actual combat allocation and modifiers.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M18",
+    "level": "L4",
+    "name": "Expendable support asset",
+    "source_lines": "179–198",
+    "structure": "Use cheap body for scoring or buff supply rather than saving every unit.",
+    "acceptance": "Track independent future roles.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M19",
+    "level": "L4",
+    "name": "Early density decay",
+    "source_lines": "199–208",
+    "structure": "Trade opening consistency against low-impact late draws.",
+    "acceptance": "Calculate access under actual rules; preserve alternative openers.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M20",
+    "level": "L4",
+    "name": "Dual-purpose mobility body",
+    "source_lines": "209–218",
+    "structure": "Compare early deployment with saving a movement enabler for a later turn.",
+    "acceptance": "Verify legal activation and destination.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M21",
+    "level": "L4",
+    "name": "Partial payoff acceptance",
+    "source_lines": "219–228",
+    "structure": "Use a multi-target provider on one valid target when delay is worse.",
+    "acceptance": "Check resource and future payoff tradeoff.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M22",
+    "level": "L4",
+    "name": "Investment repayment horizon",
+    "source_lines": "229–238",
+    "structure": "Compare initial Power expenditure with expected later usable value.",
+    "acceptance": "No guaranteed multiple triggers or repayment.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M23",
+    "level": "L4",
+    "name": "Conditional carry vulnerability",
+    "source_lines": "239–248",
+    "structure": "Track how losing an enabler changes defense, mobility and removal thresholds.",
+    "acceptance": "Verify effective text and exact duration.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M24",
+    "level": "L4",
+    "name": "Breaker versus holder",
+    "source_lines": "249–256",
+    "structure": "Allocate threats by entering contested field versus sustaining defense.",
+    "acceptance": "Do not equate offensive and defensive utility.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M25",
+    "level": "L4",
+    "name": "Net battlefield benefit",
+    "source_lines": "257–286",
+    "structure": "Evaluate own value relative to opponent benefit, not absolute draw alone.",
+    "acceptance": "Verify actual field procedure and symmetry.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M26",
+    "level": "L4",
+    "name": "Recurring payoff abandonment",
+    "source_lines": "271–278",
+    "structure": "Leave valuable position when defending it would destroy future options.",
+    "acceptance": "Compare real score clock and alternate route.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M27",
+    "level": "L4",
+    "name": "Sideboard role overlap",
+    "source_lines": "287–358",
+    "structure": "Select answer copies by distinct target purpose and overlap.",
+    "acceptance": "Require complete list before legality claim.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M28",
+    "level": "L4",
+    "name": "Concealed resource signaling",
+    "source_lines": "305–314",
+    "structure": "Available resource can support several possible responses; opponent interprets uncertainty.",
+    "acceptance": "No certainty from open Energy alone.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M29",
+    "level": "L4",
+    "name": "Board configuration search",
+    "source_lines": "359–388",
+    "structure": "Compare multiple allocations by protection, scoring and removal risk.",
+    "acceptance": "Record viable alternatives and independent rival response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M30",
+    "level": "L4",
+    "name": "Finish-denial horizon",
+    "source_lines": "359–408",
+    "structure": "Evaluate which opposing scoring routes remain attainable rather than defending every point equally.",
+    "acceptance": "Verify official final-point rule and actual score.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M31",
+    "level": "L4",
+    "name": "Avoid unavoidable-threat overfitting",
+    "source_lines": "389–408",
+    "structure": "If every feasible line loses to a particular response, choose by outcomes under other possibilities.",
+    "acceptance": "Prove infeasibility first; preserve potential recovery and uncertain probabilities.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M32",
+    "level": "L4",
+    "name": "Decay of negative hand evidence",
+    "source_lines": "389–408",
+    "structure": "An unused response supplies weak evidence; later draws and changed incentives reduce its relevance.",
+    "acceptance": "No certainty of absence; use conditional model with known deck count only.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M33",
+    "level": "L4",
+    "name": "Threat-class inventory",
+    "source_lines": "409–524",
+    "structure": "Group public candidate answers by domain and functional risk.",
+    "acceptance": "Do not assume exact opposing list or exhaustive current coverage.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M34",
+    "level": "L4",
+    "name": "Mulligan role balance",
+    "source_lines": "525–657,1469–2267",
+    "structure": "Seek opening action, next development and support role; adapt to matchup.",
+    "acceptance": "Verify real sampling and return rules; quiz answer key absent.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M35",
+    "level": "L4",
+    "name": "Defense versus removal race",
+    "source_lines": "658–674",
+    "structure": "Use repeated protection to tax opposing answers without overexposing important bodies.",
+    "acceptance": "No guaranteed attrition win.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M36",
+    "level": "L4",
+    "name": "Concentration risk",
+    "source_lines": "675–800",
+    "structure": "Compare large defensive stack with alternative scoring and displacement exposure.",
+    "acceptance": "Retain escape/fallback; exact Yi variant unresolved.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M37",
+    "level": "L4",
+    "name": "Role inversion",
+    "source_lines": "933–1064",
+    "structure": "Against stronger late-game engine, become proactive rather than wait for inevitability.",
+    "acceptance": "Historical Aurora context; compare actual current horizon.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M38",
+    "level": "L4",
+    "name": "Hidden response equivalence classes",
+    "source_lines": "1065–1198",
+    "structure": "Group possible concealed answers by functional effect, then test representative worst cases.",
+    "acceptance": "Verify each eligible effect and alternatives; not all Hidden effects equivalent.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M39",
+    "level": "L4",
+    "name": "Low-cost probe",
+    "source_lines": "1065–1198",
+    "structure": "Commit only enough to test opposing response when larger investment exposes key threat.",
+    "acceptance": "Opponent may decline; track information gained.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M40",
+    "level": "L4",
+    "name": "Practice pause and compare",
+    "source_lines": "1340–1406,1444–1468",
+    "structure": "Before observing expert decision, propose own sequence and fallback, then compare reasons.",
+    "acceptance": "No video or puzzle solution assumed inspected.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M41",
+    "level": "L4",
+    "name": "Revision based on weak slots",
+    "source_lines": "1407–1420",
+    "structure": "Replace weak role when actual tested conditions suggest better marginal alternative.",
+    "acceptance": "Separate unmeasured pilot opinions from logged outcomes.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M42",
+    "level": "L4",
+    "name": "Adaptation across formats",
+    "source_lines": "2268–2323",
+    "structure": "Change chosen threat and positional plan as common answers and pace change.",
+    "acceptance": "Date every variant; no current legality inference.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M43",
+    "level": "L4",
+    "name": "Proactive unknown-meta baseline",
+    "source_lines": "2288–2299",
+    "structure": "Prefer self-contained pressure when opponent distribution is uncertain; reserve flexible responses.",
+    "acceptance": "Compare actual field and robustness, not universal rule.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M44",
+    "level": "L3",
+    "name": "Reusable gear attachment",
+    "source_lines": "2324–2337,2376–2387",
+    "structure": "Compare repeated payoff and persistence with reduced flexibility of attachment.",
+    "acceptance": "Verify attachment, rescue, movement and ownership.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M45",
+    "level": "L4",
+    "name": "Mass buff investment exposure",
+    "source_lines": "2350–2365",
+    "structure": "Compare broad immediate support with large threat susceptible to displacement.",
+    "acceptance": "Account for surviving support and alternative deploy.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M46",
+    "level": "L4",
+    "name": "Gear answer timing",
+    "source_lines": "2366–2375",
+    "structure": "Compare saving answer for expensive gear against using body now for curve.",
+    "acceptance": "Verify exact target and legal effect; banned Aurora example historical.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M47",
+    "level": "L3",
+    "name": "Resource-type counter coverage",
+    "source_lines": "2388–2399",
+    "structure": "Compare different Energy/Power cost profiles and relevant counter restrictions.",
+    "acceptance": "Verify costs and counter effective text.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M48",
+    "level": "L3",
+    "name": "Replacement-event target validity",
+    "source_lines": "2400–2421",
+    "structure": "Check whether a rescue changes expected zone or target legality in a chain.",
+    "acceptance": "Resolve exact effect and response order; no blanket cancellation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M49",
+    "level": "L4",
+    "name": "Cross-archetype threat coverage",
+    "source_lines": "2422–2434",
+    "structure": "As Legend pool expands, evaluate common problematic effects across decks rather than one opponent label.",
+    "acceptance": "Use dated inclusion evidence and coverage estimates; guide incomplete.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M50",
+    "level": "L6",
+    "name": "Expertise as iterative practice",
+    "source_lines": "359–388,1431–1468",
+    "structure": "Competitor explains why choices work, admits remaining mistakes and compares alternatives.",
+    "acceptance": "No copied persona, self-report as fact or artificial expert certainty.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M51",
+    "level": "L6",
+    "name": "Attachment versus adaptation",
+    "source_lines": "1421–1430,2268–2287",
+    "structure": "A favorite deck can motivate effort while metagame makes switching rational.",
+    "acceptance": "Give independent character motives and budget/time constraints.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  },
+  {
+    "id": "SET-M52",
+    "level": "L6",
+    "name": "Community learning and disagreement",
+    "source_lines": "25–50,1407–1468",
+    "structure": "Players exchange feedback and disagree on ratios, local field and acceptable risk.",
+    "acceptance": "Use original fictional speech, no identifying biography or source phrasing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA; not independently novel or validated."
+  }
+]

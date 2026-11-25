@@ -31,3 +31,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## KSA — conflicting definitions of efficiency
 [KSA analysis](../REFERENCE_LIBRARY/works/KSA/ANALYSIS.md) supports original practice disagreements over temporary point loss, resource conservation and timing of interaction. Different goals and risk tolerances can produce credible independent decisions. No copied guide language or invented pilot biography.
+
+## SET — specialization and adaptation
+[SET analysis](../REFERENCE_LIBRARY/works/SET/ANALYSIS.md) supports original scenes about expertise, choosing practice priorities, disagreements over defensive layouts, favorite-deck attachment and adapting to a changed format. Use independent motives and original expression; no real pilot biography or self-reported statistics as fact.

@@ -92,3 +92,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## KSA — Kai'Sa specialist guide (2026-11-25)
 [Research index](works/KSA/INDEX.md): 3,155 tokens, 31 units, 20 role records, ten matchup variants, fifteen balanced historical swap plans, 32 candidate mechanisms and four exercises. Minimum sideboard inferred as ten; full list missing. Brynhir engine banned in Nov 23 snapshot; no legal replay or current build certified. KAI Kaiji preserved.
+
+## SET — Sett specialist guide (2026-11-25)
+[Research index](works/SET/INDEX.md): 19,092 tokens, 39 units, three historical layers, 37 role contexts, six matchups, eight swap configurations, 30 quiz prompts, 52 candidates and six original exercises. Missing images/key, mixed list versions and four ban flags. No full list or replay certified.

@@ -43,3 +43,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## KSA — delayed conversion and reset
 [KSA research](../../01_RESEARCH/REFERENCE_LIBRARY/works/KSA/INDEX.md) supplements FTG FT-L24 with resource preservation, intentional temporary score concession, damage/threshold ordering, reset recovery and opposing engine interruption. Compare IRE/VEX/EKK/RIV independently. Historical Brynhir, Hourglass, Aurora and Baited Hook references require dated legal context. One-rune-per-turn is a conditional pilot heuristic. No automatic wipe, matchup result or complete deck inferred. Use official dated mechanics and G3-scene.
+
+## SET — adaptive defense and positional allocation
+[SET research](../../01_RESEARCH/REFERENCE_LIBRARY/works/SET/INDEX.md) supplements FTG FT-L51 and NLM/NLD with buff opportunity cost, repeated protection, defensive distribution, information decay, alternate payoff and changing roles across formats. Historical Set 1–3 layers must not be merged; current official effective text required for technical claims. Source quizzes lack images/key; construct original verified exercises. Baited Hook, Dazzling Aurora, Fight or Flight and Dreaming Tree flagged in Nov 23 snapshot.
