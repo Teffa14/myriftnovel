@@ -155,7 +155,54 @@
   },
   "chapter_04": {
     "status": "not_started",
-    "preflight": "Retrieve authoritative archive v4 or verified successor. Validate archive and continuity, load all four approved units, select fresh narrative mechanisms; honor prior commitments. Competitive preflight must distinguish real reference compositions from fictional character decks, establish source-linked versioned decklists before extended technical gameplay, and maintain dated post-ban references. No automatic approval or publication."
+    "preflight": "Retrieve authoritative archive v4 or verified successor. Validate archive and continuity, load all four approved units, select fresh narrative mechanisms; honor prior commitments. Competitive preflight must distinguish real reference compositions from fictional character decks, establish source-linked versioned decklists before extended technical gameplay, and maintain dated post-ban references. No automatic approval or publication.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "0a0901d71d53c7d5fefcd772c5140e0a5a5ca2fc",
+      "repository_inventory": {
+        "entries": 285,
+        "blobs": 239,
+        "truncated": false
+      },
+      "archive_verified": true,
+      "approved_units": 4,
+      "retired_expressions": 168,
+      "usage_records": 62,
+      "continuity_records": 202,
+      "timeline_events": 23,
+      "structural_errors": 0,
+      "open_issue_groups": 6,
+      "python_checks": {
+        "passed": 30,
+        "failed": 0
+      },
+      "ftg_structure_checks": {
+        "passed": 10,
+        "failed": 0,
+        "profiles": 58,
+        "card_contexts": 253,
+        "untested_pairs": 1653
+      },
+      "guard_selftests_passed": 4,
+      "competitive_reference_screen": {
+        "repository_historical_lists": 2,
+        "new_private_historical_reference_lists": 1,
+        "new_private_reference": {
+          "legend": "Vex, Gloomist",
+          "event_date": "2026-11-22",
+          "source": "https://riftbound.org/meta/vex-gloomist/11704-michael-chapman",
+          "rows": 37,
+          "cards": 66,
+          "scope": "section totals, copy-count proxy and name-only ban screen; not current legal deck certification"
+        },
+        "new_postban_full_lists": 0,
+        "assigned_character_lists": 0
+      },
+      "planned_competitive_scope": "L0; upgrade only with verified exact claims; L2 requires full legal decklists and trace",
+      "private_dossier": "/The Last Draw - Private Archive/CH0004_preflight.zip",
+      "dossier_sha256": "a5f5bf6bdb41331631e4be6c03b9fd4442f60aa603ec587b6d6d05dafdefdbda",
+      "limitations": "Provisional brief, no draft, no new canon, no full match, no original FTG 576-test rerun, not all 239 files read exhaustively. Historical source dates override provider post-ban tags."
+    }
   },
   "competitive_registry_status": {
     "historical_complete_reference_lists": 2,
