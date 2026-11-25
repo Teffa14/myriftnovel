@@ -1,0 +1,6 @@
+# 48P — Las 48 leyes del poder: institutional and social dynamics
+Status: extracted; source coverage complete for the supplied condensed guide, not the complete original book. Spanish-language compendium associated with Robert Greene and Joost Elffers; cover names Océano and identifies an abridged guide. Translator, exact edition and publication date not established. PDF 34 pages; EPUB automated OCR duplicate, not a separate source. Source hashes and actual counts in METRICS.json. No protected text committed.
+
+[ANALYSIS.md](ANALYSIS.md) maps all 48 numbered units to transformed fictional applications and limits. [PATTERNS.md](PATTERNS.md) registers 12 grouped candidates and six original noncanonical English exercises. [METRICS.json](METRICS.json) and [measure.py](measure.py) document the executed source segmentation and counts. [QA.md](QA.md) records checks and gaps.
+
+Use as a model of contested social incentives and institutional conflict, not as a universal psychology, moral code, historical authority or writing-style reference. Read alongside [FRY](../FRY/INDEX.md), public character and world bible, continuity, community texture, and competitive integrity. No automatic change to canon, chapter schedule, or approved manuscript.

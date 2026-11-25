@@ -10,3 +10,6 @@ VOD workflow: open indexed video through lawful public access, note actual URL a
 
 ## FRY strategy reference
 See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md) and [strategy candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/PATTERNS.md). For tactical scene planning, select a relevant candidate (initiative, probing, dependency, stalled contest, reassessment, fallback) only where public information, legal windows, cost and opponent agency can be established. The analogy never substitutes for dated rules, card text, G3-scene verification or replay; no inferred hidden hand as fact. Fictional examples are noncanonical and must not be reused verbatim.
+
+## 48P social/institutional complement
+[48P](../../01_RESEARCH/REFERENCE_LIBRARY/works/48P/INDEX.md) complements FRY: M06 and M09 can inform legal initiative and bounded commitment; the other candidates chiefly concern teams, sponsorship and community decisions. All depicted rules remain governed by G3-scene and current official evidence; distinguish legal play from interpersonal pressure, enforce consent and no misconduct, and keep offers separate from actual payments. No fabricated game or empirical result.

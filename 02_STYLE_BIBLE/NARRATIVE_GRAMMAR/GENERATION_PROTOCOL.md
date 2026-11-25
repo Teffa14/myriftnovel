@@ -66,3 +66,6 @@ Competitive policy v2 (2026-11-25): 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md tak
 
 ## Optional competitive strategy selector — FRY
 Consult [FRY strategy candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/PATTERNS.md) for decision-quality review, uncertainty, adaptation and reactive initiative. Select by scene goal, not frequency. Use independently verified legal state and fresh American English expression; do not repeat demonstration prose or impose a martial-arts vocabulary. No change to canon or NDM 2.0 private originality gates. FRY candidates are tracked separately from narrative grammar counts.
+
+## Optional institutional and interpersonal selector — 48P
+Use [48P research candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/48P/PATTERNS.md) for disputed credit, incentives, reputation, hierarchy, sponsorship, collaboration and resource trade-offs. Preserve independent goals, dissent, consent, available alternatives, factual evidence, information boundaries, and consequential choices. Treat the source's claims as contested character beliefs or conflict lenses, never compulsory behavior or verified psychology. No reuse of example prose, new canon, or change to private originality gates.

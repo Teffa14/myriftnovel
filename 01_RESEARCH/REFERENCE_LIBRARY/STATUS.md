@@ -56,3 +56,6 @@ CH0001 author approval and recursive registration (2026-11-25): The Eighth Point
 
 ## FRY — Musashi and Yagyū (2026-11-25)
 Two strategic works from one supplied edition; PDF used as authoritative text over OCR-derived EPUB. Nine argument units (preface and eight scrolls), 34,020 word tokens measured by Python. Twelve strategy candidates and four conceptual exercises in [works/FRY/INDEX.md](works/FRY/INDEX.md), separate from historical narrative grammar totals. No new narrative mechanisms certified, no game or reader testing, no source text committed. Full semantic audit and exhaustive cross-library deduplication remain pending. No changes to chapter approval or private archive status.
+
+## 48P — Robert Greene and Joost Elffers (2026-11-25)
+Complete coverage of the supplied Spanish condensed guide, not the unabridged book. 48 numbered source units, 4,933 word tokens measured in Python, 12 grouped institutional/social candidates and six original noncanonical exercises. [Research index](works/48P/INDEX.md). Separate from FRY's 12 strategy candidates and the historical narrative grammar counts; no certification, reader testing, or new canon. Source not committed. Full semantic deduplication pending.
