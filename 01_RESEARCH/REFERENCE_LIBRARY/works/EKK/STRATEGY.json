@@ -1,0 +1,383 @@
+{
+  "scope": "Source claims only. No full list, official effective text reconciliation, legal replay or observed outcome.",
+  "rune_split_claim": {
+    "Mind": 6,
+    "Fury": 6
+  },
+  "cards": [
+    {
+      "name": "Ekko, Boy Who Shattered Time",
+      "role": "Legend",
+      "source_line": 50,
+      "function": "Conditional discount/empower budget",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Ekko, Ingenious",
+      "role": "chosen",
+      "source_line": 50,
+      "function": "Return and redeploy, preserve board",
+      "claimed_count": 1,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Runeblade Anvil",
+      "role": "engine",
+      "source_line": 54,
+      "function": "Generate card access",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Detonate",
+      "role": "engine",
+      "source_line": 54,
+      "function": "Convert expendable gear into options",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Seal of Rage",
+      "role": "resource",
+      "source_line": 58,
+      "function": "Early resource support, alternate gear target",
+      "claimed_count": 2,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Sprite Fountain",
+      "role": "early/engine",
+      "source_line": 62,
+      "function": "Bodies, gear target, pressure",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Forecaster",
+      "role": "early/filter",
+      "source_line": 66,
+      "function": "Vision selection and information",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Watchful Sentry",
+      "role": "early/value",
+      "source_line": 70,
+      "function": "Potential death payoff and cheap starter",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Lingering Animus",
+      "role": "early/finisher",
+      "source_line": 74,
+      "function": "Conditional ready unit",
+      "claimed_count": 2,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Pyke, Dockside Butcher",
+      "role": "bridge",
+      "source_line": 78,
+      "function": "Accelerate/Hidden/movement",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Noxus Hopeful",
+      "role": "bridge",
+      "source_line": 82,
+      "function": "Conditional early pressure",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Battering Ram",
+      "role": "midgame",
+      "source_line": 86,
+      "function": "Play-count development",
+      "claimed_count": 3,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Thousand Tailed Watcher",
+      "role": "closer",
+      "source_line": 90,
+      "function": "Burst scoring support",
+      "claimed_count": 3,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Stupefy",
+      "role": "interaction",
+      "source_line": 94,
+      "function": "Combat adjustment/cycle",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Blood Rush",
+      "role": "interaction",
+      "source_line": 98,
+      "function": "Might allocation",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Falling Star",
+      "role": "interaction",
+      "source_line": 102,
+      "function": "Removal and softening",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    },
+    {
+      "name": "Shock Blast",
+      "role": "interaction",
+      "source_line": 106,
+      "function": "Removal/claimed discount",
+      "claimed_count": null,
+      "status": "source_claim_effective_text_pending",
+      "verify": "Exact identity, dated effect, payment, target, zone, timing, response, result; distinguish draw from other access."
+    }
+  ],
+  "sideboard": [
+    {
+      "name": "Decree of Rage",
+      "count": 1,
+      "intent": "Riven/green pressure",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Decree of Insight",
+      "count": 2,
+      "intent": "Rengar/Yi combat",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Bellows Breath",
+      "count": 2,
+      "intent": "Kennen, wide/Hidden boards, Watcher",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Unchecked Power",
+      "count": 1,
+      "intent": "Late large holds; banned examples require historical date",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Brittle Steel",
+      "count": 1,
+      "intent": "Gear; Aurora banned in snapshot",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Red Ekko",
+      "count": 1,
+      "intent": "Combat adjustments; likely Revolutionary but unresolved",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    },
+    {
+      "name": "Ferrous Forerunner",
+      "count": 2,
+      "intent": "Kai'Sa and selected domains; 'Breach' identity unresolved",
+      "outgoing_cards": null,
+      "status": "proposed_not_validated"
+    }
+  ],
+  "battlefields": [
+    {
+      "name": "Black Market",
+      "source_lines": "278–283",
+      "role": "Draw and resource conversion"
+    },
+    {
+      "name": "Seat of Power",
+      "source_lines": "285–289",
+      "role": "First-player preference, scoring-linked access"
+    },
+    {
+      "name": "Dusk Rose Lab",
+      "source_lines": "291–296",
+      "role": "Second-player preference, token-related draw hypothesis"
+    }
+  ],
+  "matchups": [
+    {
+      "opponent": "Riven",
+      "source_line": 301,
+      "plan": "Deny early battlefield access; favor Forecaster/Animus over Sentry; consider Falling Star after boarding.",
+      "counter_hypothesis": "Opponent may establish a field before removal; check Broken Blade ban and actual champion.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Kennen",
+      "source_line": 303,
+      "plan": "Prepare for concealed defensive setup; Watcher/Bellows proposed.",
+      "counter_hypothesis": "No automatic early six points or removal of concealed options.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Kai'Sa",
+      "source_line": 305,
+      "plan": "Fountain/Detonate; early removal and bigger threats; maintain scoring lead.",
+      "counter_hypothesis": "Verify resource access, thresholds and Time Warp timing.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Rengar",
+      "source_line": 307,
+      "plan": "Pressure opening misses; Decree of Insight and red Ekko after boarding.",
+      "counter_hypothesis": "No automatic pre-board loss or post-board win; resolve exact Ekko.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Ezreal",
+      "source_line": 309,
+      "plan": "Accelerated pressure; keep reserves against board interaction; remove relevant unit.",
+      "counter_hypothesis": "Identify referenced spirit and actual legal interactions.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Yi",
+      "source_line": 311,
+      "plan": "Race early positions; retain Decree of Insight.",
+      "counter_hypothesis": "Resolve which Yi Legend; no fixed combat outcome.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Rek'Sai",
+      "source_line": 313,
+      "plan": "Prioritize acceleration and reserve rather than unsafe holds.",
+      "counter_hypothesis": "Opponent responses and first point lead are contingent.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    },
+    {
+      "opponent": "Lillia",
+      "source_line": 313,
+      "plan": "Prioritize acceleration, evaluate larger conquest investment against pumps.",
+      "counter_hypothesis": "Compare opportunity cost; not identical to Rek'Sai.",
+      "status": "pilot_opinion_untested",
+      "win_rate": null
+    }
+  ],
+  "branches": [
+    {
+      "stage": "Mulligan",
+      "condition": "No functional opening",
+      "proposal": "Compare returning two versus retaining viable curve and matchup-specific answer.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "Turn 1 first",
+      "condition": "Early unit or miss",
+      "proposal": "Develop immediate board with future value; compare fallback Legend setup.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "Turn 1 second",
+      "condition": "Extra resource claimed",
+      "proposal": "Compare unit plus empower with accelerated pressure into empty field.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "Turn 2 first",
+      "condition": "Opening body can score",
+      "proposal": "Compare two-field progress with preserving early asset and turn-three preparation.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "Turn 2 second",
+      "condition": "Empowered Legend and viable Pyke/Ekko",
+      "proposal": "Compare accelerate, return/redeploy, reinforcement, concealed defense and response reserve.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "Turn 3",
+      "condition": "Engine available",
+      "proposal": "Budget Anvil/Seal/Detonate, accessible cards and Ram development; preserve fallback.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "4 to 6",
+      "condition": "Early lead and defensive interaction",
+      "proposal": "Choose least costly attainable field; retain reserve; test trade for response.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    },
+    {
+      "stage": "6 to 8",
+      "condition": "Closing route or time advantage",
+      "proposal": "Compare Watcher-supported push with further development and alternative finish.",
+      "proof_required": "Exact dated card/rule evidence, legal state, payment, visibility, action order, opponent alternatives, scoring; no actual transition certified."
+    }
+  ],
+  "guards": [
+    {
+      "source_lines": "86–88",
+      "claim": "Star Spring",
+      "guard": "Banned in repository Standard snapshot 2026-11-23; historical only."
+    },
+    {
+      "source_lines": "102–104",
+      "claim": "Stellacorn Herder, Rhasa",
+      "guard": "Stellacorn Herder and Rhasa the Sunderer banned; confirm abbreviated identity."
+    },
+    {
+      "source_lines": "118–120",
+      "claim": "Zhonya's",
+      "guard": "Zhonya’s Hourglass banned; exact identity/date required."
+    },
+    {
+      "source_lines": "120–124",
+      "claim": "Aurora/Breach",
+      "guard": "Dazzling Aurora banned; Breach shorthand unresolved."
+    },
+    {
+      "source_lines": "297–313",
+      "claim": "Yi/red Ekko",
+      "guard": "Two Yi Legends; red Ekko exact identity unresolved."
+    },
+    {
+      "source_lines": "258–270",
+      "claim": "Closing routes",
+      "guard": "Deck-specific preference, not independently checked official scoring rule."
+    },
+    {
+      "source_lines": "54–56,126–179",
+      "claim": "39/40 count",
+      "guard": "Groups sum to 40; may include chosen champion; missing image prevents full deck validation."
+    }
+  ]
+}

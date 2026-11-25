@@ -16,3 +16,6 @@ Read relevant community source observations and abstract profiles before writing
 
 ## Academic evidence complement — MAJ
 Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candidates](../REFERENCE_LIBRARY/works/MAJ/PATTERNS.md). Treat casual/competitive as context-dependent modes, not fixed personalities. Players may value performance, art, personal history, collecting or social contact. Give extras independent goals. Let thematic humor emerge from verified play rather than forced exposition. Findings from 46 invested Finnish MTG players in 2023 do not establish Riftbound demographics or universal attitudes. Existing canon and community gates remain.
+
+## EKK — competitive subculture
+[Aadion guide analysis](../REFERENCE_LIBRARY/works/EKK/ANALYSIS.md) supplies one pilot's insider affiliation, informal technical coaching, self-mockery and preference for fast matches. Abstract social functions only; do not copy distinctive phrases, abuse, stereotypes or persona. Not representative or verified biography. Preserve independent fictional motives.

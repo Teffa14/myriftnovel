@@ -28,3 +28,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## FTG — concrete Riftbound strategy selector
 [FTG profiles](../../01_RESEARCH/REFERENCE_LIBRARY/works/FTG/LEGEND_PROFILES.json) and [card contexts](../../01_RESEARCH/REFERENCE_LIBRARY/works/FTG/CARD_CONTEXTS.json) give primary dated strategic lookup. Keep both Master Yi Legends distinct. Treat both players' plans and counterplay as hypotheses; official effective rules and actual dated deck evidence outrank guide assessments. No fabricated outcomes or prices.
+
+## EKK — rogue pilot case
+[EKK strategy](../../01_RESEARCH/REFERENCE_LIBRARY/works/EKK/STRATEGY.json) supplements FTG FT-L12 with first/second-player hypotheses, gear conversion, point horizons and matchup adaptations. Undated mixed ban references; consult guards, verify official dated effective text and exact state. No automatic wins or inferred complete list. NLM/NLD support alternatives and resource accounting.

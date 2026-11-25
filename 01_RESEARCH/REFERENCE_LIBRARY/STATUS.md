@@ -77,3 +77,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## FTG — primary dated Riftbound strategy reference (2026-11-25)
 [Guide intake](works/FTG/INDEX.md). 62 pages, 14,896 extractable word tokens, 58 Legends, 253 card contexts, 129 distinct champions, 60 signatures, 58 build suggestions, 626 external link occurrences. 576 local structural checks passed. Separate repository ban/catalog screens recorded. 1,653 untested pair identifiers. Official rules prevail; no current legal deck or replay certified. No canon change.
+
+## EKK — Aadion Ekko guide (2026-11-25)
+[Research index](works/EKK/INDEX.md): all 10 supplied sections mapped, 4,726 tokens, 1,055 types, 30 candidates, four original exercises, eight matchup records and eight conditional branches. No simulated results; incomplete main-list evidence and mixed ban references flagged. No canon change.

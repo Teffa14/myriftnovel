@@ -1,0 +1,104 @@
+{
+  "source": "Ketamine Ekko",
+  "author": "Aadion (self-attribution)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "source_sha256": "6da1b95b203439dbb6886a1d0940ced8c1f500902ff1e8af8353b5f90919bf13",
+  "bytes": 27148,
+  "lines": 333,
+  "word_tokens": 4726,
+  "distinct_lowercase_forms": 1055,
+  "paragraph_blocks": 139,
+  "headed_sections": 10,
+  "method": "Python UTF-8-sig splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen; headings and link words included; lowercase types; blank-line-separated nonempty blocks include headings.",
+  "unit_metrics": [
+    {
+      "id": "EKK-META",
+      "start": 1,
+      "end": 3,
+      "tokens": 2
+    },
+    {
+      "id": "EKK-U01",
+      "start": 4,
+      "end": 21,
+      "tokens": 219
+    },
+    {
+      "id": "EKK-U02",
+      "start": 22,
+      "end": 33,
+      "tokens": 250
+    },
+    {
+      "id": "EKK-U03",
+      "start": 34,
+      "end": 125,
+      "tokens": 1117
+    },
+    {
+      "id": "EKK-U04",
+      "start": 126,
+      "end": 179,
+      "tokens": 748
+    },
+    {
+      "id": "EKK-U05",
+      "start": 180,
+      "end": 215,
+      "tokens": 740
+    },
+    {
+      "id": "EKK-U06",
+      "start": 216,
+      "end": 257,
+      "tokens": 711
+    },
+    {
+      "id": "EKK-U07",
+      "start": 258,
+      "end": 271,
+      "tokens": 204
+    },
+    {
+      "id": "EKK-U08",
+      "start": 272,
+      "end": 296,
+      "tokens": 194
+    },
+    {
+      "id": "EKK-U09",
+      "start": 297,
+      "end": 320,
+      "tokens": 398
+    },
+    {
+      "id": "EKK-U10",
+      "start": 321,
+      "end": 333,
+      "tokens": 143
+    }
+  ],
+  "package_counts": [
+    11,
+    6,
+    11,
+    9,
+    3
+  ],
+  "package_sum": 40,
+  "sideboard_sum": 10,
+  "mechanisms": 30,
+  "original_exercises": 4,
+  "card_contexts": 17,
+  "matchup_records": 8,
+  "decision_branches": 8,
+  "claim_guards": 7,
+  "conditional_opening_example": {
+    "population": 39,
+    "qualifying": 11,
+    "sample": 4,
+    "p_at_least_one": 0.7510668563300142,
+    "assumptions": "Synthetic simple sample without replacement; no mulligan, proof of 11 qualifying cards, or claim about real opening odds."
+  }
+}
