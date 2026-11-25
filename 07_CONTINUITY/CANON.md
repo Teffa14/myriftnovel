@@ -6,3 +6,5 @@ Ledger record: event_id, chapter_id, UTC/local timestamp and timezone, POV, loca
  
 No retcon silently. Before chapter: load relevant facts and open threads; after chapter: validate deltas, verify dates/balances/knowledge, update thread states only after acceptance. The database is reference, not fictional canon. Real people and entities may only be described with verified neutral facts, fictional wrongdoing belongs to fictional people. 
 Public repo excludes complete unpublished manuscript, private plot secrets, raw Riot assets and credentials; private drafting workspace or local storage required. No visibility change made.
+
+Approved chapter closure also updates private stylistic memory (NDM 2.0). Commit canon deltas only after acceptance, then verify private archive, distillation, retirement registry and usage ledger before next chapter. Do not put exact manuscript expressions or spoilers in public Git. See ../02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md.

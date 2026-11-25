@@ -8,3 +8,5 @@ Comedy: contrast voice, objective and ordinary inconvenience; specific consequen
 Psychology: desire, fear, habit and constraint; do not diagnose casually. Give every secondary a life beyond Nico. Romance slow and optional. Avoid melodrama, forced misunderstandings, author praise, repetitive smiles or gasps.
  
 NDM selection: TKA competitive architecture and pacing; MSC experimentation and economy; GED humor/relationships; CFA competing perspectives and anticipation. Library 190 entries/75 original blocks; mechanisms are candidates not tested requirements. Use by function, never recycle example prose. GENERATION_PROTOCOL.md remains applicable; superseded earlier sample names are noncanon.
+
+NDM 2.0: distinctive textual realizations are one-use resources; retire after approval. Abstract functions remain reusable with fresh expression and distinct execution. Necessary terminology, ordinary language and deliberate motifs remain allowed; avoid synonym churn. Consult ORIGINALITY/PROTOCOL.md before every chapter.

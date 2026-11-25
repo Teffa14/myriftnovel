@@ -1,0 +1,19 @@
+{
+  "version": "2.0",
+  "approved_chapters_registered": 0,
+  "retired_resources_registered": 0,
+  "manuscript_audits": 0,
+  "reference_library": {
+    "works": 4,
+    "candidate_entries": 190,
+    "original_blocks": 75
+  },
+  "tests": {
+    "synthetic_cases": 5,
+    "passed": 5,
+    "scope": "local lexical checker smoke tests; no production chapters"
+  },
+  "private_archive": "not initialized in current session",
+  "semantic_detector": "editorial review required; no automated semantic validation claimed",
+  "thresholds": "provisional"
+}
