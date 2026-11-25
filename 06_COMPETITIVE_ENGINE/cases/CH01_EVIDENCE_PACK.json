@@ -1,0 +1,758 @@
+{
+  "story_date": "2026-11-28",
+  "deck_candidates": [
+    {
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "legend": "Azir, Emperor of the Sands",
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "validation": "section counts and snapshot identity lookup; name-based ban screen only, no legality certification; event predates formal ban effective Nov 23; exact event rules and all interactions pending"
+    },
+    {
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "legend": "Rek'Sai, Void Burrower",
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "validation": "section counts and snapshot identity lookup; name-based ban screen only, no legality certification; event predates formal ban effective Nov 23; exact event rules and all interactions pending"
+    }
+  ],
+  "price_references": [
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-12",
+      "currency": "USD",
+      "amount": 71.83,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-13",
+      "currency": "USD",
+      "amount": 75.69,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-14",
+      "currency": "USD",
+      "amount": 93.14,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-15",
+      "currency": "USD",
+      "amount": 92.17,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-16",
+      "currency": "USD",
+      "amount": 94.68,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-17",
+      "currency": "USD",
+      "amount": 91.56,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-18",
+      "currency": "USD",
+      "amount": 93.13,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-19",
+      "currency": "USD",
+      "amount": 93.4,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-20",
+      "currency": "USD",
+      "amount": 93.35,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-21",
+      "currency": "USD",
+      "amount": 91.91,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-22",
+      "currency": "USD",
+      "amount": 92.86,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-23",
+      "currency": "USD",
+      "amount": 94.12,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-24",
+      "currency": "USD",
+      "amount": 93.71,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-AZIR-01",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 93.71,
+      "source": "https://riftbound.org/meta/azir-emperor-of-the-sands/11777-g-sensi",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-12",
+      "currency": "USD",
+      "amount": 82.35,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-13",
+      "currency": "USD",
+      "amount": 87.39,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-14",
+      "currency": "USD",
+      "amount": 88.7,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-15",
+      "currency": "USD",
+      "amount": 88.67,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-16",
+      "currency": "USD",
+      "amount": 91.1,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-17",
+      "currency": "USD",
+      "amount": 86.28,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-18",
+      "currency": "USD",
+      "amount": 101.37,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-19",
+      "currency": "USD",
+      "amount": 102.06,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-20",
+      "currency": "USD",
+      "amount": 91.38,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-21",
+      "currency": "USD",
+      "amount": 83.29,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-22",
+      "currency": "USD",
+      "amount": 76.48,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-23",
+      "currency": "USD",
+      "amount": 66.04,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-24",
+      "currency": "USD",
+      "amount": 77.71,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "deck_market_reference",
+      "id": "BOLOGNA-20261121-REKSAI-04",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 77.71,
+      "source": "https://riftbound.org/meta/reksai-void-burrower/11780-d-cattin",
+      "provider": "TCGplayer via Riftbound.org",
+      "method": "reported deck total; no shipping/tax; provider valuation scope not independently audited"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "OGN-221",
+      "name": "Imperial Decree",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 4.09,
+      "prior_comparison": 0.55,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "SFD-051",
+      "name": "Guardian Angel",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 3.34,
+      "prior_comparison": 0.61,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "RAD-137",
+      "name": "Mordekaiser, Dominating",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 6.5,
+      "prior_comparison": 1.48,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "OGN-270",
+      "name": "Showstopper, Sett",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 18.5,
+      "prior_comparison": 4.03,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "UNL-145",
+      "name": "Pyke, Returned",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 5.31,
+      "prior_comparison": 0.91,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "UNL-078",
+      "name": "Sprite Fountain",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 6.53,
+      "prior_comparison": 2.26,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "RAD-SP5",
+      "name": "Seraphine, Not Alone",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 7.67,
+      "prior_comparison": 56.61,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "OGN-242",
+      "name": "Baited Hook",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 7.1,
+      "prior_comparison": 47.99,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "RAD-043a",
+      "name": "Riven, Broken Blade",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 3.25,
+      "prior_comparison": 17.86,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "RAD-138a",
+      "name": "Seraphine, Not Alone",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 2.89,
+      "prior_comparison": 12.62,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "OGN-160",
+      "name": "Dazzling Aurora",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 5.75,
+      "prior_comparison": 25.8,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    },
+    {
+      "kind": "printing_market_reference",
+      "id": "RAD-SP3",
+      "name": "Evelynn, In Control",
+      "observed_date": "2026-11-25",
+      "currency": "USD",
+      "amount": 12.86,
+      "prior_comparison": 44.15,
+      "source": "https://runeweave.com/prices",
+      "provider": "TCGplayer via Runeweave",
+      "method": "displayed 30-day mover price; comparison uses median windows, not a dated transaction; printing/finish mapping pending"
+    }
+  ],
+  "tactical_candidates": [
+    {
+      "id": "MOVE-01",
+      "kind": "move",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "144.1",
+        "144.2",
+        "144.4",
+        "810.1"
+      ],
+      "premises": {
+        "own_turn": true,
+        "main": true,
+        "open": true,
+        "showdown": false,
+        "combat": false,
+        "ready": true,
+        "from": "base",
+        "to": "A",
+        "ganking": false,
+        "extra_cost_paid": true,
+        "other_restrictions": false
+      },
+      "expected": {
+        "allowed": true,
+        "exhausted": true
+      },
+      "story_use": "A player commits a ready unit from base; movement costs readiness. Do not infer combat or scoring."
+    },
+    {
+      "id": "MOVE-02",
+      "kind": "move",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "144.4.c",
+        "810.1"
+      ],
+      "premises": {
+        "own_turn": true,
+        "main": true,
+        "open": true,
+        "showdown": false,
+        "combat": false,
+        "ready": true,
+        "from": "A",
+        "to": "B",
+        "ganking": false,
+        "extra_cost_paid": true,
+        "other_restrictions": false
+      },
+      "expected": {
+        "allowed": false,
+        "exhausted": false
+      },
+      "story_use": "A unit without Ganking or other applicable permission cannot use a normal move to cross battlefields."
+    },
+    {
+      "id": "MOVE-03",
+      "kind": "move",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "144.4.c",
+        "810.1"
+      ],
+      "premises": {
+        "own_turn": true,
+        "main": true,
+        "open": true,
+        "showdown": false,
+        "combat": false,
+        "ready": true,
+        "from": "A",
+        "to": "B",
+        "ganking": true,
+        "extra_cost_paid": true,
+        "other_restrictions": false
+      },
+      "expected": {
+        "allowed": true,
+        "exhausted": true
+      },
+      "story_use": "A unit with Ganking can cross between battlefields when the normal movement conditions hold."
+    },
+    {
+      "id": "GRAVITY-01",
+      "kind": "move",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "rules": [
+        "Radiance FAQ: Standard Move / Gravity Field"
+      ],
+      "premises": {
+        "own_turn": true,
+        "main": true,
+        "open": true,
+        "showdown": false,
+        "combat": false,
+        "ready": true,
+        "from": "base",
+        "to": "A",
+        "ganking": false,
+        "extra_cost_paid": false,
+        "other_restrictions": false
+      },
+      "expected": {
+        "allowed": false,
+        "exhausted": false
+      },
+      "story_use": "Declining the required movement cost cancels the attempted move; the unit does not become exhausted. Exact card context remains necessary."
+    },
+    {
+      "id": "STUN-01",
+      "kind": "stun",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "424.1.b",
+        "424.1.c"
+      ],
+      "premises": {
+        "might": 5,
+        "damage": 4,
+        "stunned": true,
+        "no_other_effects": true
+      },
+      "expected": {
+        "combat_contribution": 0,
+        "lethal": false
+      },
+      "story_use": "A stunned five-Might unit contributes no combat damage but four damage is insufficient to kill it."
+    },
+    {
+      "id": "STUN-02",
+      "kind": "stun",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "424.1.b",
+        "424.1.c"
+      ],
+      "premises": {
+        "might": 5,
+        "damage": 5,
+        "stunned": true,
+        "no_other_effects": true
+      },
+      "expected": {
+        "combat_contribution": 0,
+        "lethal": true
+      },
+      "story_use": "Stun does not lower the amount of damage needed to kill the unit."
+    },
+    {
+      "id": "DISCARD-01",
+      "kind": "discard",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "423.3",
+        "423.4"
+      ],
+      "premises": {
+        "hand": 1,
+        "requested": 2,
+        "as_cost": true,
+        "no_other_effects": true
+      },
+      "expected": {
+        "payable": false,
+        "discarded": 0,
+        "hand_after": 1
+      },
+      "story_use": "A player cannot pay a discard-two cost with only one card."
+    },
+    {
+      "id": "DISCARD-02",
+      "kind": "discard",
+      "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+      "rules": [
+        "423.4"
+      ],
+      "premises": {
+        "hand": 1,
+        "requested": 2,
+        "as_cost": false,
+        "no_other_effects": true
+      },
+      "expected": {
+        "payable": true,
+        "discarded": 1,
+        "hand_after": 0
+      },
+      "story_use": "An instruction to discard two as an effect discards only the available card, absent other effects."
+    },
+    {
+      "id": "ATAKHAN-01",
+      "kind": "cost_order",
+      "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+      "rules": [
+        "357.1",
+        "357.2"
+      ],
+      "premises": {
+        "unit_already_in_trash": false,
+        "killed_by_later_additional_cost": true
+      },
+      "expected": {
+        "later_sacrifice_supplies_earlier_power": false
+      },
+      "story_use": "In Riot's Atakhan/Mordekaiser example, the later sacrifice cannot fund the earlier power payment; no complete play or deck legality implied."
+    }
+  ],
+  "chapter1": {
+    "status": "conditional_scoring_checked; editorial candidate; no full replay or card effects validated",
+    "premises": {
+      "no_point_modifiers": true,
+      "no_unresolved_effects": true,
+      "draw_available": true,
+      "no_other_scoring": true,
+      "notes": "A and B are abstract placeholders; resolved control change at A, June controls B continuously until her scoring step. Earlier legal reachability and decklists not established. No claim of optimal alternative."
+    },
+    "events": [
+      {
+        "kind": "conquer",
+        "player": "Nico",
+        "field": "A",
+        "phase": "resolved_control",
+        "control_established_or_maintained": true
+      },
+      {
+        "kind": "cleanup"
+      },
+      {
+        "kind": "next_scoring_step",
+        "player": "June",
+        "phase": "beginning_scoring",
+        "intervening_events_abstracted": true
+      },
+      {
+        "kind": "hold",
+        "player": "June",
+        "field": "B",
+        "phase": "beginning_scoring",
+        "control_established_or_maintained": true
+      },
+      {
+        "kind": "cleanup"
+      }
+    ],
+    "result": {
+      "status": "conditional_scoring_checked",
+      "scope": "1v1 scoring arithmetic only; asserted controls, no card effects, no legal deck or full replay certified",
+      "scores": {
+        "Nico": 7,
+        "June": 8
+      },
+      "winner": "June",
+      "trace": [
+        {
+          "kind": "conquer",
+          "player": "Nico",
+          "field": "A",
+          "points_gained": 0,
+          "cards_drawn": 1,
+          "scores": {
+            "Nico": 7,
+            "June": 7
+          },
+          "scored": [
+            "A"
+          ]
+        },
+        {
+          "kind": "cleanup",
+          "scores": {
+            "Nico": 7,
+            "June": 7
+          },
+          "winner": null
+        },
+        {
+          "kind": "next_scoring_step",
+          "player": "June",
+          "scope": "asserted boundary; earlier actions not replayed"
+        },
+        {
+          "kind": "hold",
+          "player": "June",
+          "field": "B",
+          "points_gained": 1,
+          "cards_drawn": 0,
+          "scores": {
+            "Nico": 7,
+            "June": 8
+          },
+          "scored": [
+            "B"
+          ]
+        },
+        {
+          "kind": "cleanup",
+          "scores": {
+            "Nico": 7,
+            "June": 8
+          },
+          "winner": "June"
+        }
+      ],
+      "full_replay": false
+    }
+  },
+  "video_required": false,
+  "author_rules_review_required": false,
+  "limitations": [
+    "Candidate evidence, not verified deck legality or full game.",
+    "Recheck effective dates and rules for scene; evidence window known through 2026-11-25 only.",
+    "No arbitrary card effects or outcome reachability certified."
+  ]
+}

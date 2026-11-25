@@ -1,0 +1,238 @@
+{
+  "source": "author-owned instructional scenarios; exact source locator retained in private research, no narration or source code copied",
+  "source_blob": "372410705b3b19e07348018866747d789d2aadad",
+  "count": 9,
+  "examples": [
+    {
+      "id": "scenarios/abcd",
+      "title": "ABCD",
+      "concept": "Turn sequence",
+      "cards": [
+        "Adaptatron",
+        "Ahri, Inquisitive",
+        "Ahri, Nine-Tailed Fox",
+        "Bandle Tree",
+        "Kaisa, Daughter of the Void",
+        "Kaisa, Survivor",
+        "Pouty Poro"
+      ],
+      "choice_types": [],
+      "effect_types": [],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/simple-combat",
+      "title": "Simple Combat",
+      "concept": "Combat basics",
+      "cards": [
+        "Adaptatron",
+        "Ahri, Inquisitive",
+        "Ahri, Nine-Tailed Fox",
+        "Charm",
+        "Defy",
+        "Kaisa, Daughter of the Void",
+        "Kaisa, Survivor",
+        "Pouty Poro",
+        "Shattered Wastes",
+        "Thousand-Tailed Watcher"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "move_to_battlefield"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/multi-unit-combat",
+      "title": "Multi-Unit Combat",
+      "concept": "Multi-unit combat",
+      "cards": [
+        "Ahri Alluring",
+        "Ahri, Nine-Tailed Fox",
+        "Darius Trifarian",
+        "Defy",
+        "Find Your Center",
+        "Kaisa, Daughter of the Void",
+        "Kaisa, Survivor",
+        "Ravenbloom Student",
+        "Shattered Wastes"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "move_to_battlefield",
+        "remove_unit"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/damage-assignment",
+      "title": "Damage Assignment",
+      "concept": "Damage assignment",
+      "cards": [
+        "Defy",
+        "Find Your Center",
+        "Kai'Sa Survivor",
+        "Kaisa, Daughter of the Void",
+        "Noxus Hopeful",
+        "Shattered Wastes",
+        "Yasuo Remorseful",
+        "Yasuo, Unforgiven"
+      ],
+      "choice_types": [],
+      "effect_types": [
+        "add_to_hand",
+        "remove_unit"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/using-a-spell",
+      "title": "Using a Spell",
+      "concept": "Playing spells",
+      "cards": [
+        "Ahri, Nine-Tailed Fox",
+        "Find Your Center",
+        "Kai'Sa Survivor",
+        "Kaisa, Daughter of the Void",
+        "Noxus Hopeful",
+        "Shattered Wastes",
+        "Singularity",
+        "Spell",
+        "Spirit Refuge",
+        "Stalwart Poro"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "add_to_hand",
+        "exhaust",
+        "move_to_battlefield",
+        "remove_from_hand",
+        "remove_rune"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/floating",
+      "title": "Floating Runes",
+      "concept": "Floating energy",
+      "cards": [
+        "Kaisa, Daughter of the Void",
+        "Kaisa, Survivor",
+        "Seal of Unity",
+        "Shattered Wastes",
+        "Viktor Leader",
+        "Viktor, Herald of the Arcane"
+      ],
+      "choice_types": [],
+      "effect_types": [],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/when-i-move",
+      "title": "When I Move",
+      "concept": "When I Move",
+      "cards": [
+        "Annie, Dark Child",
+        "Annie, Stubborn",
+        "Darius Trifarian",
+        "Flash",
+        "Kai'Sa Survivor",
+        "Kaisa, Daughter of the Void",
+        "Noxus Hopeful",
+        "Sneaky Deckhand",
+        "Traveling Merchant",
+        "Trifarian War Camp"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "add_to_hand",
+        "move_to_battlefield"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/when-i-attack-when-i-defend",
+      "title": "When I Attack, When I Defend",
+      "concept": "When I Attack / When I Defend",
+      "cards": [
+        "Adaptatron",
+        "Ahri, Inquisitive",
+        "Ahri, Nine-Tailed Fox",
+        "Leona, Determined",
+        "Leona, Radiant Dawn",
+        "Noxus",
+        "Vanguard Sergeant"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "modify_might",
+        "move_to_base",
+        "move_to_battlefield",
+        "remove_unit"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    },
+    {
+      "id": "scenarios/actions-and-reactions",
+      "title": "Actions and Reactions",
+      "concept": "Actions and Reactions",
+      "cards": [
+        "Ahri, Inquisitive",
+        "Ahri, Nine-Tailed Fox",
+        "Charm",
+        "Cleave",
+        "Defy",
+        "Discipline",
+        "Kaisa, Daughter of the Void",
+        "Kaisa, Survivor",
+        "Retreat",
+        "Rune Prison",
+        "Shattered Wastes",
+        "Smoke Screen",
+        "Stupefy",
+        "Tasty Faefolk",
+        "Thousand-Tailed Watcher",
+        "Time Warp",
+        "Void Seeker"
+      ],
+      "choice_types": [
+        "move",
+        "pass",
+        "react"
+      ],
+      "effect_types": [
+        "add_to_hand",
+        "bounce",
+        "deal_damage",
+        "exhaust",
+        "modify_might",
+        "move_to_base",
+        "move_to_battlefield",
+        "remove_rune",
+        "remove_unit",
+        "stun"
+      ],
+      "status": "tutorial candidate, not rules verified; UI abstractions not game actions"
+    }
+  ]
+}

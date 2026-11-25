@@ -1,0 +1,101 @@
+{
+  "executed": true,
+  "environment": "JavaScript execution current session; exported functions identical; Node CLI not separately run",
+  "passed": 15,
+  "cases": [
+    {
+      "id": "MOVE-01",
+      "actual": {
+        "allowed": true,
+        "exhausted": true
+      },
+      "pass": true
+    },
+    {
+      "id": "MOVE-02",
+      "actual": {
+        "allowed": false,
+        "exhausted": false
+      },
+      "pass": true
+    },
+    {
+      "id": "MOVE-03",
+      "actual": {
+        "allowed": true,
+        "exhausted": true
+      },
+      "pass": true
+    },
+    {
+      "id": "GRAVITY-01",
+      "actual": {
+        "allowed": false,
+        "exhausted": false
+      },
+      "pass": true
+    },
+    {
+      "id": "STUN-01",
+      "actual": {
+        "combat_contribution": 0,
+        "lethal": false
+      },
+      "pass": true
+    },
+    {
+      "id": "STUN-02",
+      "actual": {
+        "combat_contribution": 0,
+        "lethal": true
+      },
+      "pass": true
+    },
+    {
+      "id": "DISCARD-01",
+      "actual": {
+        "payable": false,
+        "discarded": 0,
+        "hand_after": 1
+      },
+      "pass": true
+    },
+    {
+      "id": "DISCARD-02",
+      "actual": {
+        "payable": true,
+        "discarded": 1,
+        "hand_after": 0
+      },
+      "pass": true
+    },
+    {
+      "id": "ATAKHAN-01",
+      "actual": {
+        "later_sacrifice_supplies_earlier_power": false
+      },
+      "pass": true
+    },
+    {
+      "id": "unknown action",
+      "pass": true
+    },
+    {
+      "id": "unmodeled effect",
+      "pass": true
+    },
+    {
+      "id": "missing premise",
+      "pass": true
+    },
+    {
+      "id": "bad hand size",
+      "pass": true
+    }
+  ],
+  "pack_tests": [
+    "Nov 28 pack: 2 decks, 40 prices, 9 tactical cases, no video requirement",
+    "Nov 1 pack excludes future price observations"
+  ],
+  "limitations": "conditional rule checks, not full legal replay, no independent judge"
+}

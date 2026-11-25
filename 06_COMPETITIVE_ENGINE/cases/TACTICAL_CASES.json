@@ -1,0 +1,209 @@
+[
+  {
+    "id": "MOVE-01",
+    "kind": "move",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "144.1",
+      "144.2",
+      "144.4",
+      "810.1"
+    ],
+    "premises": {
+      "own_turn": true,
+      "main": true,
+      "open": true,
+      "showdown": false,
+      "combat": false,
+      "ready": true,
+      "from": "base",
+      "to": "A",
+      "ganking": false,
+      "extra_cost_paid": true,
+      "other_restrictions": false
+    },
+    "expected": {
+      "allowed": true,
+      "exhausted": true
+    },
+    "story_use": "A player commits a ready unit from base; movement costs readiness. Do not infer combat or scoring."
+  },
+  {
+    "id": "MOVE-02",
+    "kind": "move",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "144.4.c",
+      "810.1"
+    ],
+    "premises": {
+      "own_turn": true,
+      "main": true,
+      "open": true,
+      "showdown": false,
+      "combat": false,
+      "ready": true,
+      "from": "A",
+      "to": "B",
+      "ganking": false,
+      "extra_cost_paid": true,
+      "other_restrictions": false
+    },
+    "expected": {
+      "allowed": false,
+      "exhausted": false
+    },
+    "story_use": "A unit without Ganking or other applicable permission cannot use a normal move to cross battlefields."
+  },
+  {
+    "id": "MOVE-03",
+    "kind": "move",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "144.4.c",
+      "810.1"
+    ],
+    "premises": {
+      "own_turn": true,
+      "main": true,
+      "open": true,
+      "showdown": false,
+      "combat": false,
+      "ready": true,
+      "from": "A",
+      "to": "B",
+      "ganking": true,
+      "extra_cost_paid": true,
+      "other_restrictions": false
+    },
+    "expected": {
+      "allowed": true,
+      "exhausted": true
+    },
+    "story_use": "A unit with Ganking can cross between battlefields when the normal movement conditions hold."
+  },
+  {
+    "id": "GRAVITY-01",
+    "kind": "move",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "rules": [
+      "Radiance FAQ: Standard Move / Gravity Field"
+    ],
+    "premises": {
+      "own_turn": true,
+      "main": true,
+      "open": true,
+      "showdown": false,
+      "combat": false,
+      "ready": true,
+      "from": "base",
+      "to": "A",
+      "ganking": false,
+      "extra_cost_paid": false,
+      "other_restrictions": false
+    },
+    "expected": {
+      "allowed": false,
+      "exhausted": false
+    },
+    "story_use": "Declining the required movement cost cancels the attempted move; the unit does not become exhausted. Exact card context remains necessary."
+  },
+  {
+    "id": "STUN-01",
+    "kind": "stun",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "424.1.b",
+      "424.1.c"
+    ],
+    "premises": {
+      "might": 5,
+      "damage": 4,
+      "stunned": true,
+      "no_other_effects": true
+    },
+    "expected": {
+      "combat_contribution": 0,
+      "lethal": false
+    },
+    "story_use": "A stunned five-Might unit contributes no combat damage but four damage is insufficient to kill it."
+  },
+  {
+    "id": "STUN-02",
+    "kind": "stun",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "424.1.b",
+      "424.1.c"
+    ],
+    "premises": {
+      "might": 5,
+      "damage": 5,
+      "stunned": true,
+      "no_other_effects": true
+    },
+    "expected": {
+      "combat_contribution": 0,
+      "lethal": true
+    },
+    "story_use": "Stun does not lower the amount of damage needed to kill the unit."
+  },
+  {
+    "id": "DISCARD-01",
+    "kind": "discard",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "423.3",
+      "423.4"
+    ],
+    "premises": {
+      "hand": 1,
+      "requested": 2,
+      "as_cost": true,
+      "no_other_effects": true
+    },
+    "expected": {
+      "payable": false,
+      "discarded": 0,
+      "hand_after": 1
+    },
+    "story_use": "A player cannot pay a discard-two cost with only one card."
+  },
+  {
+    "id": "DISCARD-02",
+    "kind": "discard",
+    "source": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "423.4"
+    ],
+    "premises": {
+      "hand": 1,
+      "requested": 2,
+      "as_cost": false,
+      "no_other_effects": true
+    },
+    "expected": {
+      "payable": true,
+      "discarded": 1,
+      "hand_after": 0
+    },
+    "story_use": "An instruction to discard two as an effect discards only the available card, absent other effects."
+  },
+  {
+    "id": "ATAKHAN-01",
+    "kind": "cost_order",
+    "source": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "rules": [
+      "357.1",
+      "357.2"
+    ],
+    "premises": {
+      "unit_already_in_trash": false,
+      "killed_by_later_additional_cost": true
+    },
+    "expected": {
+      "later_sacrifice_supplies_earlier_power": false
+    },
+    "story_use": "In Riot's Atakhan/Mordekaiser example, the later sacrifice cannot fund the earlier power payment; no complete play or deck legality implied."
+  }
+]
