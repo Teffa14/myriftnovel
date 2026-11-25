@@ -1,0 +1,183 @@
+{
+  "source": "Viktor in Set 4",
+  "author": null,
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "74bdbdf49df03bfac5e309ec1a1aa009e4b9ad7e898caf602c4e07901be1568a",
+  "bytes": 12440,
+  "lines": 266,
+  "word_tokens": 2230,
+  "distinct_lowercase_forms": 599,
+  "blocks": 80,
+  "linked_images": 9,
+  "method": "Python UTF-8-sig splitlines; Unicode alphabetic regex with optional internal apostrophe/hyphen; includes headings and URL text; lowercase types and blank-line-separated blocks.",
+  "units": [
+    {
+      "id": "VIK-U01",
+      "start": 1,
+      "end": 3,
+      "tokens": 2,
+      "topic": "Front matter"
+    },
+    {
+      "id": "VIK-U02",
+      "start": 4,
+      "end": 25,
+      "tokens": 218,
+      "topic": "Specialist motivation"
+    },
+    {
+      "id": "VIK-U03",
+      "start": 26,
+      "end": 37,
+      "tokens": 193,
+      "topic": "Slot revisions"
+    },
+    {
+      "id": "VIK-U04",
+      "start": 38,
+      "end": 55,
+      "tokens": 113,
+      "topic": "5k results"
+    },
+    {
+      "id": "VIK-U05",
+      "start": 56,
+      "end": 59,
+      "tokens": 53,
+      "topic": "Skirmish context"
+    },
+    {
+      "id": "VIK-U06",
+      "start": 60,
+      "end": 71,
+      "tokens": 9,
+      "topic": "First skirmish"
+    },
+    {
+      "id": "VIK-U07",
+      "start": 72,
+      "end": 85,
+      "tokens": 11,
+      "topic": "Second skirmish"
+    },
+    {
+      "id": "VIK-U08",
+      "start": 86,
+      "end": 117,
+      "tokens": 170,
+      "topic": "Third skirmish and variants"
+    },
+    {
+      "id": "VIK-U09",
+      "start": 118,
+      "end": 121,
+      "tokens": 58,
+      "topic": "Set additions"
+    },
+    {
+      "id": "VIK-U10",
+      "start": 122,
+      "end": 135,
+      "tokens": 153,
+      "topic": "Dragon Form"
+    },
+    {
+      "id": "VIK-U11",
+      "start": 136,
+      "end": 149,
+      "tokens": 163,
+      "topic": "Decree of Unity"
+    },
+    {
+      "id": "VIK-U12",
+      "start": 150,
+      "end": 153,
+      "tokens": 13,
+      "topic": "Optional roles"
+    },
+    {
+      "id": "VIK-U13",
+      "start": 154,
+      "end": 167,
+      "tokens": 120,
+      "topic": "Escaped Grayback"
+    },
+    {
+      "id": "VIK-U14",
+      "start": 168,
+      "end": 183,
+      "tokens": 131,
+      "topic": "Decree of Insight"
+    },
+    {
+      "id": "VIK-U15",
+      "start": 184,
+      "end": 199,
+      "tokens": 272,
+      "topic": "Kennen strategy"
+    },
+    {
+      "id": "VIK-U16",
+      "start": 200,
+      "end": 209,
+      "tokens": 43,
+      "topic": "Kennen setup"
+    },
+    {
+      "id": "VIK-U17",
+      "start": 210,
+      "end": 225,
+      "tokens": 37,
+      "topic": "Kennen swaps"
+    },
+    {
+      "id": "VIK-U18",
+      "start": 226,
+      "end": 239,
+      "tokens": 226,
+      "topic": "Ornn strategy"
+    },
+    {
+      "id": "VIK-U19",
+      "start": 240,
+      "end": 247,
+      "tokens": 39,
+      "topic": "Ornn setup"
+    },
+    {
+      "id": "VIK-U20",
+      "start": 248,
+      "end": 263,
+      "tokens": 13,
+      "topic": "Ornn swaps"
+    },
+    {
+      "id": "VIK-U21",
+      "start": 264,
+      "end": 266,
+      "tokens": 193,
+      "topic": "Conclusion"
+    }
+  ],
+  "counts": {
+    "role_records": 20,
+    "matchup_contexts": 2,
+    "balanced_swaps": 2,
+    "reported_events": 4,
+    "mechanisms": 22,
+    "exercises": 5
+  },
+  "checks": [
+    "21 contiguous units, 266 lines, 2230 tokens",
+    "four reported events and 17-3-3 aggregate",
+    "13 explicitly listed played skirmish matches and 25-7 games",
+    "two balanced three-card swaps",
+    "20 role records",
+    "five historical ban flags",
+    "FTG anchor and matchup links",
+    "22 unique mechanisms and resolved overlap IDs",
+    "five exercise links",
+    "unused VIK identifier"
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "VIK-X01",
+    "mechanisms": [
+      "VIK-M02",
+      "VIK-M04",
+      "VIK-M06"
+    ],
+    "task": "A local testing group changes one answer after rivals change their early development. Freeze two legal baseline lists, vary the target setup and record failures.",
+    "status": "original noncanonical exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "VIK-X02",
+    "mechanisms": [
+      "VIK-M11",
+      "VIK-M12",
+      "VIK-M15"
+    ],
+    "task": "Compare retaining a small scoring body with exchanging it for larger pressure, including a rival choosing an alternate field.",
+    "status": "original noncanonical exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "VIK-X03",
+    "mechanisms": [
+      "VIK-M13",
+      "VIK-M16",
+      "VIK-M21"
+    ],
+    "task": "Record only visible spent effects and build three plausible opposing hands. Compare what a response, nonresponse or alternate action actually establishes.",
+    "status": "original noncanonical exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "VIK-X04",
+    "mechanisms": [
+      "VIK-M18",
+      "VIK-M19",
+      "VIK-M20"
+    ],
+    "task": "Construct a bounded response-order exercise using verified effects; require feasible branches when opponent counters first, ignores first or answers differently.",
+    "status": "original noncanonical exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "VIK-X05",
+    "mechanisms": [
+      "VIK-M01",
+      "VIK-M05",
+      "VIK-M22"
+    ],
+    "task": "Two fictional specialists interpret the same mixed event record differently. Distinguish personal motivation, observed outcome, execution and list changes.",
+    "status": "original noncanonical exercise, untested",
+    "canon_status": "noncanon"
+  }
+]

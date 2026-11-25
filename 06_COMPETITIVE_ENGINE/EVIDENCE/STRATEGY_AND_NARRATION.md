@@ -76,3 +76,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## FIO — alternate payoff and conditional transformation
 [FIO research](../../01_RESEARCH/REFERENCE_LIBRARY/works/FIO/INDEX.md) supplements FTG FT-L15, AYI and MAC with engine-independent fallback, second-order metagame effects, response reserves and play-order transformation. [Sideboard audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/FIO/SIDEBOARD_AUDIT.json) preserves Rengar and Azir quantity errors. Historical Aurora banned. Replacement-cost claims require dated official text and G3-scene; probability model is distinct sampling only.
+
+## VIK — public response inference and tempo-control
+[VIK research](../../01_RESEARCH/REFERENCE_LIBRARY/works/VIK/INDEX.md) supplements FTG FT-L57, EZR and MAC with selective engine denial, token/hold tradeoffs, rival response inference and conditional removal sequences. Keep public spent effects distinct from hidden possibilities. Both swaps count-balance but list images absent; historical ban references and exact mechanics require dated official text and G3-scene. No replay or population win rate.

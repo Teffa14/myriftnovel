@@ -58,3 +58,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## FIO — learning across local fields
 [FIO analysis](../REFERENCE_LIBRARY/works/FIO/ANALYSIS.md) supports original discussions about regional strategy discovery, forecast uncertainty, pilot errors versus list quality and reconsideration of narrow slots. Avoid geographic stereotypes, copied anecdotes or unverified real-world results.
+
+## VIK — local specialist testing
+[VIK analysis](../REFERENCE_LIBRARY/works/VIK/ANALYSIS.md) supports original peer discussions of slot changes, renewed interest in familiar decks and outcome versus decision quality. Self-reported results across changing builds cannot establish causal performance; no copied pilot anecdotes or persona.

@@ -1,0 +1,512 @@
+{
+  "legend": {
+    "name": "Viktor, Herald of the Arcane",
+    "profile_id": "FT-L57"
+  },
+  "main_inventory": null,
+  "chosen": null,
+  "side_inventory": null,
+  "runes": null,
+  "roles": [
+    {
+      "id": "VIK-C01",
+      "name": "Wages of Pain",
+      "source_lines": "28,236",
+      "role": "Early/combat interaction; preference changes with expected opposing development.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C02",
+      "name": "Thousand-Tailed Watcher",
+      "source_lines": "30,258",
+      "role": "Late threshold payoff and additional pressure against wider boards.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C03",
+      "name": "Singularity",
+      "source_lines": "32,36,96,196,250",
+      "role": "Answer to selected large threats or base development; alternatives depend on local field.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C04",
+      "name": "Vi (subtitle unknown)",
+      "source_lines": "36",
+      "role": "Alternative to Singularity, exact identity unresolved.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C05",
+      "name": "Decree of Insight",
+      "source_lines": "96,168–178",
+      "role": "Conditional modifier or interaction coverage versus selected domains; opponents can choose different recipients.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C06",
+      "name": "Sprite Burst",
+      "source_lines": "96",
+      "role": "Potential recovery and closing route after removal; Vex interaction unverified.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C07",
+      "name": "Dragon Form",
+      "source_lines": "122–132,214",
+      "role": "Recruit support and access/reuse hypothesis; two cuts against Kennen.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C08",
+      "name": "Decree of Unity",
+      "source_lines": "136–146,222",
+      "role": "Narrow domain-targeted answer package; at least two side copies recommended.",
+      "explicit_recommended_quantity": 2,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C09",
+      "name": "Escaped Grayback",
+      "source_lines": "154–164",
+      "role": "Candidate body that may exchange token presence for immediate size; author excludes from tested list.",
+      "explicit_recommended_quantity": 0,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C10",
+      "name": "B.F. Sword",
+      "source_lines": "132,240",
+      "role": "Persistent modifier role; exact thresholds require effective text.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C11",
+      "name": "Hidden Blade",
+      "source_lines": "196,204–206",
+      "role": "Removal despite potential opposing compensation when engine disruption matters.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C12",
+      "name": "Bellows Breath",
+      "source_lines": "196,204–206,236,240",
+      "role": "Multi-target removal and conditional response pressure.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C13",
+      "name": "Imperial Decree",
+      "source_lines": "196,204–206",
+      "role": "Alternative removal coverage; anticipate relevant counters.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C14",
+      "name": "Cull the Weak",
+      "source_lines": "196,236",
+      "role": "Conditional removal; potential expendable opposing target matters.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C15",
+      "name": "Salvage",
+      "source_lines": "196,220,236,240,260",
+      "role": "Gear answer reserve; one side copy incoming in both plans.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C16",
+      "name": "Safety Inspector",
+      "source_lines": "212,252",
+      "role": "One outgoing slot in both plans; no full count or effect inferred.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C17",
+      "name": "Pickpocket",
+      "source_lines": "236",
+      "role": "Three-copy proposal if gear-based opposition grows; not verified inclusion.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C18",
+      "name": "Deadly Flourish",
+      "source_lines": "28,96,236",
+      "role": "Alternative early base answer; absence reported in revised skirmish list.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C19",
+      "name": "Stupefy",
+      "source_lines": "240",
+      "role": "Opening keep against Ornn, precise role unverified.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    },
+    {
+      "id": "VIK-C20",
+      "name": "Sprite Fountain",
+      "source_lines": "240",
+      "role": "Opening development candidate against Ornn.",
+      "explicit_recommended_quantity": null,
+      "quantity_scope": "recommendation/exclusion in described version, not full list",
+      "effective_text_verified": false
+    }
+  ],
+  "events": [
+    {
+      "label": "5k",
+      "source_lines": "38–55",
+      "wins": 5,
+      "losses": 2,
+      "draws": 0,
+      "attendance": 109,
+      "reported_lillia_players": 3,
+      "known_losses": [
+        "Lillia",
+        "Rengar"
+      ],
+      "other_opponents": null,
+      "game_counts": null,
+      "date": null,
+      "status": "self-reported; match sequence incomplete; only-out claim unverified"
+    },
+    {
+      "label": "Skirmish 1",
+      "source_lines": "60–71",
+      "results": [
+        {
+          "opponent": "Jayce Aurora",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Ornn",
+          "game_wins": 2,
+          "game_losses": 1,
+          "result": "win"
+        },
+        {
+          "opponent": "Kai'Sa",
+          "game_wins": 2,
+          "game_losses": 1,
+          "result": "win"
+        }
+      ],
+      "intentional_draws": 1,
+      "split": "top 4 (inferred from overview order; not explicitly assigned)",
+      "date": null,
+      "status": "self-reported; exact list variant and independent logs unavailable",
+      "wins": 3,
+      "losses": 0,
+      "draws": 1,
+      "game_counts": {
+        "wins": 6,
+        "losses": 2
+      }
+    },
+    {
+      "label": "Skirmish 2",
+      "source_lines": "72–85",
+      "results": [
+        {
+          "opponent": "Pyke",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Draven",
+          "game_wins": 2,
+          "game_losses": 1,
+          "result": "win"
+        },
+        {
+          "opponent": "Irelia",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Irelia",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        }
+      ],
+      "intentional_draws": 1,
+      "split": "top 2 (inferred from overview order; not explicitly assigned)",
+      "date": null,
+      "status": "self-reported; exact list variant and independent logs unavailable",
+      "wins": 4,
+      "losses": 0,
+      "draws": 1,
+      "game_counts": {
+        "wins": 8,
+        "losses": 1
+      }
+    },
+    {
+      "label": "Skirmish 3",
+      "source_lines": "86–117",
+      "results": [
+        {
+          "opponent": "LeBlanc",
+          "game_wins": 2,
+          "game_losses": 1,
+          "result": "win"
+        },
+        {
+          "opponent": "Diana",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Ezreal",
+          "game_wins": 1,
+          "game_losses": 2,
+          "result": "loss"
+        },
+        {
+          "opponent": "Akali",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Kennen",
+          "game_wins": 2,
+          "game_losses": 0,
+          "result": "win"
+        },
+        {
+          "opponent": "Irelia",
+          "game_wins": 2,
+          "game_losses": 1,
+          "result": "win"
+        }
+      ],
+      "intentional_draws": 1,
+      "split": "top 2 (explicit)",
+      "date": null,
+      "status": "self-reported; exact list variant and independent logs unavailable",
+      "wins": 5,
+      "losses": 1,
+      "draws": 1,
+      "game_counts": {
+        "wins": 11,
+        "losses": 4
+      }
+    }
+  ],
+  "aggregate": {
+    "wins": 17,
+    "losses": 3,
+    "intentional_draws": 3,
+    "game_counts_skirmishes_only": {
+      "wins": 25,
+      "losses": 7
+    },
+    "scope": "Descriptive arithmetic assuming complete reported match counts, pooled across changing lists, not estimated archetype win rate."
+  },
+  "matchup_plans": [
+    {
+      "opponent": "Kennen",
+      "profile_id": "FT-L25",
+      "source_lines": "184–225",
+      "estimate": "strongly favored (subjective)",
+      "fields": {
+        "blind": "Seat of Power",
+        "first": "Treasure Hoard",
+        "second": "Forbidding Waste"
+      },
+      "mulligan": [
+        "two-drop (unqualified)",
+        "Hidden Blade",
+        "Singularity",
+        "Bellows Breath",
+        "Imperial Decree with Bellows Breath"
+      ],
+      "postboard_additional_keep": "Decree of Unity",
+      "incoming": [
+        {
+          "name": "Salvage",
+          "count": 1
+        },
+        {
+          "name": "Decree of Unity",
+          "count": 2
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Safety Inspector",
+          "count": 1
+        },
+        {
+          "name": "Dragon Form",
+          "count": 2
+        }
+      ],
+      "strategy": "Prioritize interruption of recurring engine and count publicly spent movement options; reserve relevant gear interaction. Compare compensation to disruption value.",
+      "counterplay": "Rival may replace engine, preserve movement, counter removal, score elsewhere or select another route.",
+      "id": "VIK-SB01",
+      "counts": {
+        "incoming": 3,
+        "outgoing": 3
+      },
+      "inventory_verified": false,
+      "legality_certified": false,
+      "win_rate": null
+    },
+    {
+      "opponent": "Ornn",
+      "profile_id": "FT-L41",
+      "source_lines": "226–263",
+      "estimate": "50/50 (subjective)",
+      "fields": {
+        "blind": "Treasure Hoard",
+        "first": "Seat of Power",
+        "second": "Forbidding Waste"
+      },
+      "mulligan": [
+        "Wages of Pain",
+        "two-drop (unqualified)",
+        "B.F. Sword",
+        "Bellows Breath",
+        "Stupefy",
+        "Salvage",
+        "Sprite Fountain"
+      ],
+      "incoming": [
+        {
+          "name": "Thousand-Tailed Watcher",
+          "count": 2
+        },
+        {
+          "name": "Salvage",
+          "count": 1
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Singularity",
+          "count": 2
+        },
+        {
+          "name": "Safety Inspector",
+          "count": 1
+        }
+      ],
+      "strategy": "Compare denying early gear-support development with pressure on score; choose gear or unit answer by effect on opponent's next action.",
+      "counterplay": "Rival may decline counter, protect different target, choose alternate development or close before delayed payoff.",
+      "id": "VIK-SB02",
+      "counts": {
+        "incoming": 3,
+        "outgoing": 3
+      },
+      "inventory_verified": false,
+      "legality_certified": false,
+      "win_rate": null
+    }
+  ],
+  "flags": [
+    {
+      "source_label": "Rhasa",
+      "name": "Rhasa the Sunderer",
+      "identity": "candidate shorthand",
+      "snapshot_banned": true,
+      "scope": "historical reference or opponent label; no proof of own inclusion"
+    },
+    {
+      "source_label": "Nocturnes",
+      "name": "Nocturne, Horrifying",
+      "identity": "candidate shorthand",
+      "snapshot_banned": true,
+      "scope": "historical reference or opponent label; no proof of own inclusion"
+    },
+    {
+      "source_label": "stella",
+      "name": "Stellacorn Herder",
+      "identity": "candidate shorthand",
+      "snapshot_banned": true,
+      "scope": "historical reference or opponent label; no proof of own inclusion"
+    },
+    {
+      "source_label": "Stacked Deck",
+      "name": "Stacked Deck",
+      "identity": "explicit",
+      "snapshot_banned": true,
+      "scope": "historical reference or opponent label; no proof of own inclusion"
+    },
+    {
+      "source_label": "Jayce Aurora",
+      "name": "Dazzling Aurora",
+      "identity": "archetype label; exact inventory not supplied",
+      "snapshot_banned": true,
+      "scope": "historical reference or opponent label; no proof of own inclusion"
+    }
+  ],
+  "guards": [
+    "Nine linked images uninspected; image-only lists and prior Set 3 guide not supplied. No full main, chosen, rune or side inventory inferred.",
+    "Author and publication date unknown; Set 4 historical context inferred from title, exact dates of four events unknown. All results self-reported.",
+    "First two skirmish split assignments inferred from order of overview, not explicit. One ID each is intentional draw, not a played win. 5k exact match sequence and opponent identities incomplete.",
+    "Aggregate 17–3–3 is conditional on listed events being complete and different list variants are pooled. 25–7 game score excludes 5k. No measured population win rate or causal list comparison.",
+    "Only-out Pyke claim and unfavorable Lillia assertions not verified; exact opponent deck and reachable scoring unavailable. Ornn 50/50 and Kennen favorable are opinions.",
+    "Two swaps balance 3/3, full inventory not visible. Watcher shorthand normalized to Thousand-Tailed Watcher from source, Vi and two-drop unspecified. Decree of Unity quantity is recommendation; optional 3 Pickpocket not a confirmed list.",
+    "Five historical ban references include provisional identities. Do not assume present deck contains banned cards; current legality unknown.",
+    "Dragon Form Flow after counter, Decree target classes, nine-rune Ornn sequence, movement reuse and cost/reward require official dated verification; no tactical replay or rules ruling established.",
+    "No certainty of hidden hand from pressure or visible spent cards. Rival agency and alternate responses required."
+  ],
+  "tactical_hypotheses": [
+    {
+      "source_lines": "122–132",
+      "subject": "Dragon Form reuse after counter",
+      "status": "unverified"
+    },
+    {
+      "source_lines": "236",
+      "subject": "Nine-rune Bellows Breath, opposing Defy, second Bellows Breath, Watcher sequence",
+      "status": "unverified",
+      "required": "exact dated card text, resource ledger, priority and independent answer branches"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+[
+  {
+    "id": "VIK-M01",
+    "level": "L4",
+    "source_lines": "14–26",
+    "name": "Reevaluate archetype after incentive change",
+    "structure": "Separate competitive motivation from whether a list remains effective after award or format changes.",
+    "acceptance": "Use dated evidence, not sentiment as proof.",
+    "related_ids": [
+      "EZR-M01"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M02",
+    "level": "L4",
+    "source_lines": "28",
+    "name": "Respect-induced change in target value",
+    "structure": "When rivals avoid a known early answer, compare alternatives against their revised development.",
+    "acceptance": "No assumption every opponent adapts identically.",
+    "related_ids": [
+      "EZR-M26"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M03",
+    "level": "L4",
+    "source_lines": "30,96",
+    "name": "Recovery slot under wide-board pressure",
+    "structure": "Retain a late option that may rebuild or convert score after removal.",
+    "acceptance": "Check actual cost, timing, opposing restrictions and viable clock.",
+    "related_ids": [
+      "EZR-M22"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M04",
+    "level": "L4",
+    "source_lines": "30–36",
+    "name": "Local field interaction selection",
+    "structure": "Choose answer coverage from expected threats and alternative use.",
+    "acceptance": "Test actual lists, no universal preference.",
+    "related_ids": [
+      "EZR-M21"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M05",
+    "level": "L4",
+    "source_lines": "44–52",
+    "name": "Outcome and matchup attribution",
+    "structure": "Separate event result, plausible cause and claimed sole out.",
+    "acceptance": "No certainty of hidden deck or only-out claim without full state.",
+    "related_ids": [
+      "MAC-M10"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M06",
+    "level": "L4",
+    "source_lines": "56–114",
+    "name": "Repeated list experimentation",
+    "structure": "Change a limited slot package and log baseline, conditions and results.",
+    "acceptance": "Changing lists confounds pooled comparison; no causal inference.",
+    "related_ids": [
+      "EZR-M26",
+      "EZR-M46"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M07",
+    "level": "L4",
+    "source_lines": "96,178",
+    "name": "Domain-dependent answer avoidance",
+    "structure": "Rival can route modifiers to different legal recipients to reduce answer utility.",
+    "acceptance": "Verify exact recipient eligibility and alternative costs.",
+    "related_ids": [
+      "EZR-M11"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M08",
+    "level": "L4",
+    "source_lines": "122–132",
+    "name": "Reinforce disposable pressure",
+    "structure": "Compare adding temporary strength to available body with deploying new one.",
+    "acceptance": "Verify exact modifiers, duration and card access.",
+    "related_ids": [
+      "EZR-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M09",
+    "level": "L3",
+    "source_lines": "132",
+    "name": "Countering reusable effect",
+    "structure": "Evaluate immediate disruption despite possible later reuse.",
+    "acceptance": "Verify Flow, counter and zone rules; no automatic replay.",
+    "related_ids": [
+      "EZR-M17"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M10",
+    "level": "L4",
+    "source_lines": "136–146",
+    "name": "Narrow answer with multiple roles",
+    "structure": "Compare domain-specific answer across gear, engines and bodies if eligible.",
+    "acceptance": "Verify targets and effects; not universal removal.",
+    "related_ids": [
+      "EZR-M11"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M11",
+    "level": "L4",
+    "source_lines": "154–164",
+    "name": "Token conversion versus hold",
+    "structure": "Compare exchanging small body for larger threat with preserving its scoring pressure.",
+    "acceptance": "Include rival removal and score clock.",
+    "related_ids": [
+      "MAC-M01",
+      "EZR-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M12",
+    "level": "L4",
+    "source_lines": "184–196",
+    "name": "Engine-first disruption",
+    "structure": "Prioritize repeatable payoff enabler over expendable residual bodies.",
+    "acceptance": "Do not ignore imminent scoring or alternative engine.",
+    "related_ids": [
+      "EZR-M36"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M13",
+    "level": "L4",
+    "source_lines": "196",
+    "name": "Public copy ledger",
+    "structure": "Track visibly spent movement and response cards to bound remaining possibilities.",
+    "acceptance": "Unknown deck counts, reuse and later draws prevent certainty.",
+    "related_ids": [
+      "EZR-M38"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M14",
+    "level": "L4",
+    "source_lines": "196",
+    "name": "Base interaction as setup denial",
+    "structure": "Compare removing an enabler before payoff versus later removal.",
+    "acceptance": "Verify actual timing and target eligibility.",
+    "related_ids": [
+      "EZR-M08"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M15",
+    "level": "L4",
+    "source_lines": "196",
+    "name": "Compensated removal",
+    "structure": "Accept rival card compensation when interruption prevents a more valuable route.",
+    "acceptance": "Rival may use those cards; account for time and access.",
+    "related_ids": [
+      "MAC-M05"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M16",
+    "level": "L4",
+    "source_lines": "196",
+    "name": "Threat sequencing to consume mobility",
+    "structure": "Use credible pressure to make opposing movement resources valuable to spend before engine removal.",
+    "acceptance": "Opponent can decline or move elsewhere; not forced exhaustion.",
+    "related_ids": [
+      "MAC-M08"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M17",
+    "level": "L4",
+    "source_lines": "200–222,240–260",
+    "name": "Matchup-dependent field and opener",
+    "structure": "Match starting-order field and opening roles to opposing clock and dependencies.",
+    "acceptance": "Verify field selection and actual mulligan rules.",
+    "related_ids": [
+      "EZR-M23",
+      "EZR-M31"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M18",
+    "level": "L4",
+    "source_lines": "236",
+    "name": "Gear and unit answer ordering",
+    "structure": "Compare removing a disposable support asset before narrow removal.",
+    "acceptance": "Verify target and resolution sequence.",
+    "related_ids": [
+      "EZR-M25"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M19",
+    "level": "L4",
+    "source_lines": "236",
+    "name": "Counter bait with alternate payoff",
+    "structure": "A first credible threat may draw response and leave another line available.",
+    "acceptance": "Model answer and ignore branches and other legal responses.",
+    "related_ids": [
+      "MAC-M08",
+      "MAC-M16"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M20",
+    "level": "L3",
+    "source_lines": "236",
+    "name": "Multi-action threshold audit",
+    "structure": "Check all resources and windows for proposed removal-counter-removal-payoff sequence.",
+    "acceptance": "Nine-rune source sequence is unverified; no invented successful trace.",
+    "related_ids": [
+      "EZR-M33"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M21",
+    "level": "L4",
+    "source_lines": "266",
+    "name": "Pressure as information acquisition",
+    "structure": "Use actual rival responses to update hypotheses about remaining options.",
+    "acceptance": "Nonresponse is ambiguous, no certainty of hidden hand.",
+    "related_ids": [
+      "MAC-M17",
+      "EZR-M38"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  },
+  {
+    "id": "VIK-M22",
+    "level": "L6",
+    "source_lines": "14,96,266",
+    "name": "Specialist identity under revision",
+    "structure": "Show a competitor balancing familiarity, results, local field and future preparation.",
+    "acceptance": "Independent character motives, no copied anecdotes or biography.",
+    "related_ids": [
+      "EZR-M46"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlapping candidate refinement, not independent discovery."
+  }
+]

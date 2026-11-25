@@ -125,3 +125,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## FIO — September Fiora (2026-11-25)
 [Research index](works/FIO/INDEX.md): 4,338 tokens, 32 units, written 66-card historical inventory, 10 matchup groups, 20 counted baseline swaps (16 inventory passes, four failures), 32 linked mechanism candidates, six exercises. Three Aurora copies banned in Nov 23 snapshot. No current list or replay certified.
+
+## VIK — Viktor in Set 4 (2026-11-25)
+[Research index](works/VIK/INDEX.md): 2,230 tokens, 21 units, 20 role records, two matchups, two count-balanced policies, four self-reported events, 22 linked mechanism refinements and five exercises. Conditional aggregate 17–3–3 across changing lists; no current legal list, population rate or replay certified.
