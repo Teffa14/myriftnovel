@@ -1,19 +1,46 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 0,
-  "retired_resources_registered": 0,
-  "manuscript_audits": 0,
+  "approved_chapters_registered": 1,
+  "retired_resources_registered": 52,
+  "manuscript_audits": 1,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
-    "original_blocks": 75
+    "original_blocks": 75,
+    "own_approved_units": 1,
+    "new_variant_candidates": 3
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "not initialized in current session",
+  "private_archive": "verified local archive and successfully uploaded to user's private ChatGPT Library; retrieve by exact filename before new production",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
-  "thresholds": "provisional"
+  "thresholds": "provisional",
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_CH0001_PRIVATE_ARCHIVE.zip",
+  "usage_records": 16,
+  "lexical_fingerprints_registered": 2457,
+  "chapter_1": {
+    "revision": "V4.1",
+    "literary_approval": "explicit author approval 2026-11-25",
+    "words": 2464,
+    "paragraphs": 81,
+    "distinctive_retired_spans": 52,
+    "beats": 20,
+    "scenes": 4,
+    "usage_records": 16,
+    "abstract_variants": 3,
+    "archive_integrity": "verified",
+    "lexical_internal_flags": 0,
+    "source_exact_8gram_matches": 0,
+    "source_scope": "1729 matching TKA XHTML members; 17 CFA narrative XHTML members; one GED text; 21 full pattern documents; no raw complete MSC corpus or exhaustive semantic source audit",
+    "g3": "L1 scoped, no full match replay",
+    "g6": "approved archive and distillation registered and verified; lexical and scoped semantic review executed; exhaustive source-semantic comparison not certified"
+  },
+  "executed_chapter_checks": {
+    "passed": 18,
+    "failed": 0,
+    "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
+  }
 }

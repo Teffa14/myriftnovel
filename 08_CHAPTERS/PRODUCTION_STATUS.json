@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-11-25",
+  "chapter_01": {
+    "status": "author_approved_and_distilled",
+    "revision": "V4.1",
+    "title": "The Eighth Point",
+    "word_count": 2464,
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_CH0001_PRIVATE_ARCHIVE.zip",
+    "private_archive_integrity_verified": true,
+    "retired_resources": 52,
+    "abstract_usage_records": 16,
+    "variant_candidates": 3,
+    "competitive_scope": "L1 conditional; full replay remains unverified",
+    "literary_review": "author accepted; no independent reader certification"
+  },
+  "chapter_02": {
+    "status": "not_started",
+    "preflight": "ChatGPT retrieve private archive from Library, verify manifest and hashes with private tools/check_future.py --verify-only; load private continuity and abstract usage summaries, complete any outstanding scoped reference review, write without retrieving retired wording for generation; screen candidate and conduct semantic review before approval"
+  },
+  "publication": "not published by this work; rights gate separate"
+}
