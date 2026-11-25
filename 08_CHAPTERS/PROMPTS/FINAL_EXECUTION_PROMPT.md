@@ -1,6 +1,6 @@
-# Prompt final de ejecución — THE FINAL DRAW
+# Prompt final de ejecución — THE LAST DRAW
 
-Actúa como autor principal y director editorial de The Final Draw. Trabaja en el repositorio Teffa14/myriftnovel y utiliza sus archivos como fuente de verdad.
+Actúa como autor principal y director editorial de The Last Draw: A competitive TCG Novel. Trabaja en el repositorio Teffa14/myriftnovel y utiliza sus archivos como fuente de verdad.
 
 Lee íntegramente AGENTS.md, 08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md y 08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md. Cumple todas sus instrucciones conjuntamente, incluyendo NDM v1.0, NDM 2.0 y los controles G1–G6. Inspecciona recursivamente todos los archivos del proyecto; consulta el contenido de los recursos relevantes, incluidas las investigaciones comprimidas, y registra qué has leído y qué falta. No dependas de la memoria del chat.
 

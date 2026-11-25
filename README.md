@@ -1,10 +1,12 @@
-# THE FINAL DRAW
+# THE LAST DRAW: A competitive TCG Novel
 Canon editorial v1.0 — 2026-11-25. Decisiones delegadas por el autor; reemplaza fundamentos provisionales. Novela original de ficción deportiva contemporánea en inglés, situada en Los Ángeles, con Riftbound como juego de referencia real. El desarrollo literario no implica autorización para vender una obra derivada de Riot. La ruta de publicación comercial queda bloqueada hasta clearance; si no se obtiene, adaptar la capa competitiva a IP original sin cambiar trama humana ni realizar clon digital.
  
 Start here: 03_STORY_BIBLE/IDENTITY_AND_SETTING.md, PREMISE.md, WORLD.md; 04_CHARACTERS/CHARACTER_SYSTEM.md, RELATIONSHIPS.md; 05_PLOT_ARCHITECTURE/ARCS.md, SUBPLOTS.md; 08_CHAPTERS/PILOT_20.md; 07_CONTINUITY/CANON.md. 06_COMPETITIVE_ENGINE/RIFTBOUND/ contiene registro de fuentes, banlists, catálogo factual inicial, importador de referencia privada. STYLE.md and NARRATIVE_GRAMMAR/ define the writing system (190 candidate entries, 75 original blocks, four works). No copy of third-party novels, cards' artwork or complete card text committed.
  
-Production: finalize pilot briefs → validate legal match logs → write and edit 20 chapters → private reader test → rights and publishing gates. Do not create real future tournament outcomes or guarantee sales. No complete manuscript or decisive late-saga spoilers in this public repository; protect private material locally. The title remains subject to clearance (existing homonym). No external publishing, paid account or license granted by this commit.
+Production: finalize pilot briefs → validate legal match logs → write and edit 20 chapters → private reader test → rights and publishing gates. Do not create real future tournament outcomes or guarantee sales. No complete manuscript or decisive late-saga spoilers in this public repository; protect private material locally. The new title remains subject to independent title and rights clearance. No external publishing, paid account or license granted by this commit.
 
 Permanent agent instructions: [AGENTS.md](AGENTS.md). Author-mandated recursive originality system: [NDM 2.0 protocol](02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md). Every approved chapter becomes a private source and retires its distinctive prose; no next chapter before originality and distillation gate. Zero approved production chapters registered at initialization.
 
 Production prompts: [master author](08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md), [recursive distillation](08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md), [final execution](08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md). Use final execution prompt in Codex.
+
+Author-supplied WebNovel identity: [brand record](10_PUBLICATION/BRAND_IDENTITY.md). Former title The Final Draw is historical only; the repository URL remains unchanged.

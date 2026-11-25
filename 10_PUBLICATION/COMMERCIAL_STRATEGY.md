@@ -5,3 +5,5 @@ Positioning: English serial focused on competitive drama with high accessibility
 Model after rights: free entry → optional paid early access → ebook volumes, then audio. At 10,000 active readers, illustrative 2% at $10 = $2,000 gross/month (not forecast), expenses and conversion unknown. Goal 10,000 active unique in 30-day period; checkpoints 100, 1,000, 10,000. Acquisition through consent-based relevant communities, no spam; share genuine original discussion and tactical content without copying Riot assets.
  
 No public manuscript or definitive spoilers in public Git. No monetization without legal clearance. Do not promise sales. Market validation thresholds in MARKET_VALIDATION.md; revisit before launch.
+
+WebNovel is the current author-selected platform identity as reported by the author. Exact title and supplied cover recorded in BRAND_IDENTITY.md. Do not overwrite cover/listing or infer publication/monetization status. Rights clearance remains unresolved; existing image is not evidence of authorization. Other platforms are contingency options only.

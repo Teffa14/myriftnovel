@@ -8,3 +8,5 @@ No retcon silently. Before chapter: load relevant facts and open threads; after 
 Public repo excludes complete unpublished manuscript, private plot secrets, raw Riot assets and credentials; private drafting workspace or local storage required. No visibility change made.
 
 Approved chapter closure also updates private stylistic memory (NDM 2.0). Commit canon deltas only after acceptance, then verify private archive, distillation, retirement registry and usage ledger before next chapter. Do not put exact manuscript expressions or spoilers in public Git. See ../02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md.
+
+Author decision 2026-11-25: official listing title The Last Draw: A competitive TCG Novel; short title The Last Draw. Supersedes The Final Draw. Supplied cover reads THE LAST DRAW / A RIFTBOUND NOVEL. Branding revision only; no change to world, cast, chronology, arcs or competitive gates.
