@@ -15,3 +15,6 @@ Community ruling intake 2026-11-25: consult 06_COMPETITIVE_ENGINE/EVIDENCE/JUDGE
 NLM strategy integration: consult ../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md for material competitive decisions. Record objective, options, state, unknowns, role, opportunity cost, evidence and resulting consequence in private scoped match evidence. Apply four perspectives when useful. The source is not a rules authority, no new gate or full replay requirement; G3-scene still governs verified claims.
 
 NLD complement: use ../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md when constructing/changing lists. Privately preserve roles, constraints, baselines, hypotheses, evidence and unresolved uncertainties. No new gate; G3-scene remains mandatory for mechanical claims. Recalculate probabilities from actual population and procedure.
+
+## FTG primary strategy extension
+Before a material competitive scene consult ../01_RESEARCH/REFERENCE_LIBRARY/works/FTG/SOURCE_PRIORITY.md and select relevant dated FT-L profile. Verify card identity, exact effect, format, date and state before depicting material mechanics. Record independent player plans and alternatives; apply NLM/NLD reasoning. Guide is not an executable game engine. Existing G3-scene remains binding.

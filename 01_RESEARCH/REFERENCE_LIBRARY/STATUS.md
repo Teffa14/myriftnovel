@@ -74,3 +74,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## WNG — Webnovel author and editor guidance (2026-11-25)
 [Research index](works/WNG/INDEX.md): six supplied articles, 20 candidate editorial/commercial controls, distinct from fiction and competitive research counts. All supplied text considered; two TXT files measured at 5,342 word tokens (inline articles not counted). S06 practical Part 3 missing; linked images and live policies not checked. Genre-specific advice and conflicting dated contract deadlines retained with caveats. No reader validation, actual application, canon or approved chapter change.
+
+## FTG — primary dated Riftbound strategy reference (2026-11-25)
+[Guide intake](works/FTG/INDEX.md). 62 pages, 14,896 extractable word tokens, 58 Legends, 253 card contexts, 129 distinct champions, 60 signatures, 58 build suggestions, 626 external link occurrences. 576 local structural checks passed. Separate repository ban/catalog screens recorded. 1,653 untested pair identifiers. Official rules prevail; no current legal deck or replay certified. No canon change.

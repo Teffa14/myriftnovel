@@ -25,3 +25,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## NLD — strategic design and matchup evidence
 [NLD](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/INDEX.md) adds card-role analysis, rate versus synergy, sequential resource access, threat/answer coverage, sideboard accounting and 16 MTG macroarchetypes. Map only functions supported by actual Riftbound rules. No forced taxonomy or fabricated win rates. Source p.21 figures require [arithmetic correction](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/PROBABILITY_AUDIT.json). Distinguish construction flaws, piloting errors and variance.
+
+## FTG — concrete Riftbound strategy selector
+[FTG profiles](../../01_RESEARCH/REFERENCE_LIBRARY/works/FTG/LEGEND_PROFILES.json) and [card contexts](../../01_RESEARCH/REFERENCE_LIBRARY/works/FTG/CARD_CONTEXTS.json) give primary dated strategic lookup. Keep both Master Yi Legends distinct. Treat both players' plans and counterplay as hypotheses; official effective rules and actual dated deck evidence outrank guide assessments. No fabricated outcomes or prices.

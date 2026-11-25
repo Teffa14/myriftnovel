@@ -1,0 +1,1566 @@
+[
+  {
+    "id": "FT-L4",
+    "page": 4,
+    "name": "Ahri",
+    "title": "Nine-Tailed Fox",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "complexity": 3,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Smoke Screen",
+    "tags": [
+      "DEFENSE",
+      "MIGHT_REDUCTION"
+    ],
+    "family": "Hold conversion",
+    "engine_hypothesis": "Protect scoring field; compare separate reductions and concentrated reductions.",
+    "counterplay_hypothesis": "Pressure another field or remove the holder.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L5",
+    "page": 5,
+    "name": "Akali",
+    "title": "Rogue Assassin",
+    "domains": [
+      "Calm",
+      "Fury"
+    ],
+    "complexity": 9,
+    "meta_outlook": 5,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Long Sword",
+    "tags": [
+      "MOVEMENT",
+      "REPLAY"
+    ],
+    "family": "Mobility tempo",
+    "engine_hypothesis": "Reserve exit and reentry resources; compare movement and Flow.",
+    "counterplay_hypothesis": "Force early escape or make initial movement costly.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L6",
+    "page": 6,
+    "name": "Ambessa",
+    "title": "Matriarch of War",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 5,
+    "meta_outlook": 4,
+    "legend_fit": 5,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Punch First",
+    "tags": [
+      "EMPOWER",
+      "READY",
+      "TALL"
+    ],
+    "family": "Attacker reuse",
+    "engine_hypothesis": "Develop a threat and retain means for another action.",
+    "counterplay_hypothesis": "Remove or isolate the invested unit.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L7",
+    "page": 7,
+    "name": "Annie",
+    "title": "Dark Child",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 5,
+    "meta_outlook": 3,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 1,
+    "build_around": "Falling Star",
+    "tags": [
+      "DAMAGE",
+      "SPELLS",
+      "REPLAY"
+    ],
+    "family": "Reactive spell engine",
+    "engine_hypothesis": "Plan usable reactions and damage distribution.",
+    "counterplay_hypothesis": "Make spells inefficient; split pressure; check friendly damage.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L8",
+    "page": 8,
+    "name": "Azir",
+    "title": "Emperor of the Sands",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 9,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 6,
+    "build_around": "B.F. Sword",
+    "tags": [
+      "GEAR",
+      "TOKENS",
+      "MOVEMENT"
+    ],
+    "family": "Equipment swarm",
+    "engine_hypothesis": "Build gear, generate units, convert coordinated movement to scoring.",
+    "counterplay_hypothesis": "Disrupt equipment supply or the unit carrying allies.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L9",
+    "page": 9,
+    "name": "Darius",
+    "title": "Hand of Noxus",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "complexity": 4,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "archive",
+    "sample_n": 4,
+    "build_around": "Vanguard Captain",
+    "tags": [
+      "LEGION",
+      "READY",
+      "TOKENS"
+    ],
+    "family": "Second-play tempo",
+    "engine_hypothesis": "Budget a cheap opener and meaningful second action.",
+    "counterplay_hypothesis": "Test missing starter or an unprofitable follow-up.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L10",
+    "page": 10,
+    "name": "Diana",
+    "title": "Scorn of the Moon",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "complexity": 7,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Stupefy",
+    "tags": [
+      "SPELLS",
+      "REACTION",
+      "MOVEMENT"
+    ],
+    "family": "Showdown control",
+    "engine_hypothesis": "Budget contested-field spell windows and available targets.",
+    "counterplay_hypothesis": "Choose a location that denies champion payoff.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L11",
+    "page": 11,
+    "name": "Draven",
+    "title": "Glorious Executioner",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 5,
+    "meta_outlook": 5,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 1,
+    "build_around": "Cleave",
+    "tags": [
+      "COMBAT",
+      "DRAW",
+      "SCORING"
+    ],
+    "family": "Combat-value tempo",
+    "engine_hypothesis": "Seek winnable fights with useful resource and point consequences.",
+    "counterplay_hypothesis": "Avoid needless trades; account for score drawbacks.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L12",
+    "page": 12,
+    "name": "Ekko",
+    "title": "Boy Who Shattered Time",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "complexity": 9,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Ferrous Forerunner",
+    "tags": [
+      "EMPOWER",
+      "REPLAY",
+      "DEATHKNELL"
+    ],
+    "family": "Temporary unit value",
+    "engine_hypothesis": "Compare entry value, death payoff and replay opportunity.",
+    "counterplay_hypothesis": "Disrupt dependencies; verify identity after replay.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L13",
+    "page": 13,
+    "name": "Evelynn",
+    "title": "Agony's Embrace",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "complexity": 8,
+    "meta_outlook": 8,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 4,
+    "build_around": "Bedeviling Stranger",
+    "tags": [
+      "HIDDEN",
+      "MOVEMENT",
+      "HOLD"
+    ],
+    "family": "Hidden tempo",
+    "engine_hypothesis": "Reserve reveal options and model positional consequences.",
+    "counterplay_hypothesis": "Separate known board state from hidden information.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L14",
+    "page": 14,
+    "name": "Ezreal",
+    "title": "Prodigal Explorer",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "complexity": 8,
+    "meta_outlook": 8,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 4,
+    "build_around": "Bellows Breath",
+    "tags": [
+      "TARGETING",
+      "SPELLS",
+      "DRAW"
+    ],
+    "family": "Target-value engine",
+    "engine_hypothesis": "Maintain efficient target choices and optional-cost budget.",
+    "counterplay_hypothesis": "Reduce useful targets; compare champion removal.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L15",
+    "page": 15,
+    "name": "Fiora",
+    "title": "Grand Duelist",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 5,
+    "meta_outlook": 5,
+    "legend_fit": 7,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Punch First",
+    "tags": [
+      "THRESHOLD",
+      "READY",
+      "TALL"
+    ],
+    "family": "Mighty threshold tempo",
+    "engine_hypothesis": "Convert threshold crossing into usable further actions.",
+    "counterplay_hypothesis": "Test already-qualified units or insufficient Power.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L16",
+    "page": 16,
+    "name": "Garen",
+    "title": "Might of Demacia",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 3,
+    "meta_outlook": 3,
+    "legend_fit": 4,
+    "sample_era": "archive",
+    "sample_n": 3,
+    "build_around": "Vanguard Armory",
+    "tags": [
+      "TOKENS",
+      "WIDE",
+      "SCORING"
+    ],
+    "family": "Wide conquest",
+    "engine_hypothesis": "Collect bodies without neglecting other locations.",
+    "counterplay_hypothesis": "Disrupt necessary count or race the formation.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L17",
+    "page": 17,
+    "name": "Irelia",
+    "title": "Blade Dancer",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "complexity": 9,
+    "meta_outlook": 7,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 2,
+    "build_around": "Discipline",
+    "tags": [
+      "TARGETING",
+      "READY",
+      "TALL"
+    ],
+    "family": "Self-target chain",
+    "engine_hypothesis": "Balance friendly-target spells and reserves for more actions.",
+    "counterplay_hypothesis": "Interrupt central threat; test failed conquest.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L18",
+    "page": 18,
+    "name": "Ivern",
+    "title": "Green Father",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 3,
+    "legend_fit": 5,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Frisky Hunter",
+    "tags": [
+      "TAGS",
+      "TOKENS",
+      "HOLD"
+    ],
+    "family": "Tag-diverse engine",
+    "engine_hypothesis": "Track tag diversity and slot costs.",
+    "counterplay_hypothesis": "Contest before required mix or deny one tag.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L19",
+    "page": 19,
+    "name": "Jarvan IV",
+    "title": "Exemplar of Demacia",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 8,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Concert Poster",
+    "tags": [
+      "GEAR",
+      "DEPLOY",
+      "MOVEMENT"
+    ],
+    "family": "Deploy position engine",
+    "engine_hypothesis": "Plan gear location, available ally and conquest payoff.",
+    "counterplay_hypothesis": "Deny destination or useful attacker.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L20",
+    "page": 20,
+    "name": "Jax",
+    "title": "Grandmaster at Arms",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 1,
+    "build_around": "Brutalizer",
+    "tags": [
+      "GEAR",
+      "REACTION",
+      "DRAW"
+    ],
+    "family": "Equipment tempo",
+    "engine_hypothesis": "Track attachment costs and transfer options.",
+    "counterplay_hypothesis": "Force protective resources before key combat.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L21",
+    "page": 21,
+    "name": "Jayce",
+    "title": "Defender of Tomorrow",
+    "domains": [
+      "Body",
+      "Mind"
+    ],
+    "complexity": 10,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Platewyrm Egg",
+    "tags": [
+      "GEAR",
+      "READY",
+      "RESOURCE"
+    ],
+    "family": "Gear-resource engine",
+    "engine_hypothesis": "Value the next use of each exhausted resource.",
+    "counterplay_hypothesis": "Test missing ready target and engine disruption.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L22",
+    "page": 22,
+    "name": "Jhin",
+    "title": "Virtuoso",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "complexity": 9,
+    "meta_outlook": 4,
+    "legend_fit": 5,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Deadly Flourish",
+    "tags": [
+      "SPELLS",
+      "THRESHOLD",
+      "RESOURCE"
+    ],
+    "family": "Expensive-spell threshold",
+    "engine_hypothesis": "Track actual Energy expenditure, not printed cost alone.",
+    "counterplay_hypothesis": "Check discounts, timing and insufficient expenditure.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L23",
+    "page": 23,
+    "name": "Jinx",
+    "title": "Loose Cannon",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 5,
+    "meta_outlook": 3,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 1,
+    "build_around": "Flame Chompers",
+    "tags": [
+      "DISCARD",
+      "READY",
+      "DRAW"
+    ],
+    "family": "Low-hand aggression",
+    "engine_hypothesis": "Convert discards into action while retaining future options.",
+    "counterplay_hypothesis": "Pressure empty-hand transition; distinguish event from count.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L24",
+    "page": 24,
+    "name": "Kai'Sa",
+    "title": "Daughter of the Void",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "complexity": 8,
+    "meta_outlook": 9,
+    "legend_fit": 10,
+    "sample_era": "new_rules",
+    "sample_n": 6,
+    "build_around": "Falling Star",
+    "tags": [
+      "SPELLS",
+      "CONQUEST",
+      "REACTION"
+    ],
+    "family": "Spell-supported scoring",
+    "engine_hypothesis": "Reserve Power and clear a route to meaningful points.",
+    "counterplay_hypothesis": "Compare attacker removal against resource disruption.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L25",
+    "page": 25,
+    "name": "Kennen",
+    "title": "Heart of the Tempest",
+    "domains": [
+      "Chaos",
+      "Order"
+    ],
+    "complexity": 9,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Drag Under",
+    "tags": [
+      "TRASH",
+      "HIDDEN",
+      "FLOW"
+    ],
+    "family": "Zone-reuse tempo",
+    "engine_hypothesis": "Preserve non-hand play options and Flow cost.",
+    "counterplay_hypothesis": "Test absent targets and unaffordable second use.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L26",
+    "page": 26,
+    "name": "Kha'Zix",
+    "title": "Voidreaver",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "complexity": 8,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Irresistible Faefolk",
+    "tags": [
+      "XP",
+      "MOVEMENT",
+      "ISOLATION"
+    ],
+    "family": "Isolated combat",
+    "engine_hypothesis": "Separate XP budget, isolation and reinforcement timing.",
+    "counterplay_hypothesis": "Deny isolated targets or intended position.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L27",
+    "page": 27,
+    "name": "K'Sante",
+    "title": "Pride of Nazumah",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "complexity": 5,
+    "meta_outlook": 4,
+    "legend_fit": 5,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Consult the Heavens",
+    "tags": [
+      "SHIELD",
+      "ASSAULT",
+      "TALL"
+    ],
+    "family": "Defensive-stat conversion",
+    "engine_hypothesis": "Compare defensive investment with attack or damage payoff.",
+    "counterplay_hypothesis": "Pressure other locations; test infeasible attack.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L28",
+    "page": 28,
+    "name": "LeBlanc",
+    "title": "Deceiver",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "complexity": 9,
+    "meta_outlook": 6,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Ruined Rex",
+    "tags": [
+      "COPY",
+      "TEMPORARY",
+      "DEATHKNELL"
+    ],
+    "family": "Reflection value",
+    "engine_hypothesis": "Compare preserving a copy with obtaining expiry value.",
+    "counterplay_hypothesis": "Test different locations and removal of preservation effect.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L29",
+    "page": 29,
+    "name": "Lee Sin",
+    "title": "Blind Monk",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "complexity": 3,
+    "meta_outlook": 3,
+    "legend_fit": 6,
+    "sample_era": "archive",
+    "sample_n": 3,
+    "build_around": "Pit Rookie",
+    "tags": [
+      "BUFF",
+      "WIDE",
+      "TALL"
+    ],
+    "family": "Buff distribution",
+    "engine_hypothesis": "Compare distributed investment with concentration.",
+    "counterplay_hypothesis": "Test targeted removal and lost formation payoff.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L30",
+    "page": 30,
+    "name": "Leona",
+    "title": "Radiant Dawn",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "complexity": 3,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Kennen, Keeper of Balance",
+    "tags": [
+      "STUN",
+      "BUFF",
+      "MOVEMENT"
+    ],
+    "family": "Stun-to-buff tempo",
+    "engine_hypothesis": "Make stun affect both current fight and later unit value.",
+    "counterplay_hypothesis": "Test no follow-up and a second field.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L31",
+    "page": 31,
+    "name": "Lillia",
+    "title": "Bashful Bloom",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "complexity": 5,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Smoke and Mirrors",
+    "tags": [
+      "TOKENS",
+      "TEMPORARY",
+      "MOVEMENT"
+    ],
+    "family": "Sprite mobility",
+    "engine_hypothesis": "Preserve swap targets and relevant expiry windows.",
+    "counterplay_hypothesis": "Remove a target or force early counter use.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L32",
+    "page": 32,
+    "name": "Lucian",
+    "title": "Purifier",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "complexity": 6,
+    "meta_outlook": 5,
+    "legend_fit": 7,
+    "sample_era": "pre_ban",
+    "sample_n": 2,
+    "build_around": "Long Sword",
+    "tags": [
+      "GEAR",
+      "ASSAULT",
+      "READY"
+    ],
+    "family": "Weapon pressure",
+    "engine_hypothesis": "Track attachment and subsequent attack timing.",
+    "counterplay_hypothesis": "Disrupt the bearer or force early investment.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L33",
+    "page": 33,
+    "name": "Lux",
+    "title": "Lady of Luminosity",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "complexity": 5,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Progress Day",
+    "tags": [
+      "SPELLS",
+      "RESOURCE",
+      "DRAW"
+    ],
+    "family": "Large-spell value",
+    "engine_hypothesis": "Budget spell-only resources and earlier board presence.",
+    "counterplay_hypothesis": "Pressure before large plays; offer inefficient targets.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L34",
+    "page": 34,
+    "name": "Master Yi",
+    "title": "Wuju Bladesman",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "complexity": 5,
+    "meta_outlook": 8,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 4,
+    "build_around": "Mask of Foresight",
+    "tags": [
+      "SOLO",
+      "DEFENSE",
+      "XP"
+    ],
+    "family": "Solo defense",
+    "engine_hypothesis": "Separate lone-defense reward from XP generation.",
+    "counterplay_hypothesis": "Challenge multiple locations; test second friendly unit.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L35",
+    "page": 35,
+    "name": "Master Yi",
+    "title": "Wuju Master",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 3,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Scuttle Crab",
+    "tags": [
+      "XP",
+      "THRESHOLD",
+      "READY"
+    ],
+    "family": "XP progression",
+    "engine_hypothesis": "Track levels independently from rune access.",
+    "counterplay_hypothesis": "Race thresholds or disrupt Hunt units.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L36",
+    "page": 36,
+    "name": "Mel",
+    "title": "Soul's Reflection",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "complexity": 8,
+    "meta_outlook": 4,
+    "legend_fit": 4,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Applied Researchers",
+    "tags": [
+      "EMPOWER",
+      "SPELLS",
+      "REACTION"
+    ],
+    "family": "Reactive empowerment",
+    "engine_hypothesis": "Compare reduction with preserved response resources.",
+    "counterplay_hypothesis": "Present multiple threats; check protection scope.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L37",
+    "page": 37,
+    "name": "Miss Fortune",
+    "title": "Bounty Hunter",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "complexity": 6,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "First Mate",
+    "tags": [
+      "MOVEMENT",
+      "READY",
+      "RESOURCE"
+    ],
+    "family": "Multi-field mobility",
+    "engine_hypothesis": "Compare readying a unit with readying another resource.",
+    "counterplay_hypothesis": "Contest the next route or first field after departure.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L38",
+    "page": 38,
+    "name": "Mordekaiser",
+    "title": "Iron Revenant",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "complexity": 7,
+    "meta_outlook": 5,
+    "legend_fit": 8,
+    "sample_era": "new_rules",
+    "sample_n": 2,
+    "build_around": "Glasc Mixologist",
+    "tags": [
+      "TRASH",
+      "SACRIFICE",
+      "REMOVAL"
+    ],
+    "family": "Recursion economy",
+    "engine_hypothesis": "Account for fuel and future recursion targets.",
+    "counterplay_hypothesis": "Test no fodder, unavailable trash and resource exhaustion.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L39",
+    "page": 39,
+    "name": "Nasus",
+    "title": "Curator of the Sands",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 5,
+    "legend_fit": 7,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Find Your Center",
+    "tags": [
+      "RESOURCE",
+      "THRESHOLD",
+      "SCORING"
+    ],
+    "family": "Large-play economy",
+    "engine_hypothesis": "Compare large play plus defense with cheaper alternative.",
+    "counterplay_hypothesis": "Pressure before threshold; verify scoring restrictions.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L40",
+    "page": 40,
+    "name": "Orianna",
+    "title": "Lady of Clockwork",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "complexity": 8,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 2,
+    "build_around": "Blossoming Dreamroot",
+    "tags": [
+      "GEAR",
+      "ANIMATE",
+      "MOVEMENT"
+    ],
+    "family": "Gear as board presence",
+    "engine_hypothesis": "Track gear type, current location and temporary animation.",
+    "counterplay_hypothesis": "Test absent target and lost protection after movement.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L41",
+    "page": 41,
+    "name": "Ornn",
+    "title": "Fire Below the Mountain",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 7,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 4,
+    "build_around": "Poro Snax",
+    "tags": [
+      "GEAR",
+      "RESOURCE",
+      "SEARCH"
+    ],
+    "family": "Equipment toolbox",
+    "engine_hypothesis": "Balance search density, units and distinct signature functions.",
+    "counterplay_hypothesis": "Test search failure and removal of holder.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L42",
+    "page": 42,
+    "name": "Poppy",
+    "title": "Keeper of the Hammer",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 5,
+    "meta_outlook": 3,
+    "legend_fit": 5,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Vanguard Armory",
+    "tags": [
+      "XP",
+      "HOLD",
+      "REACTION"
+    ],
+    "family": "XP reserve control",
+    "engine_hypothesis": "Compare spending XP now and reserving it for interaction.",
+    "counterplay_hypothesis": "Deny holds; force premature expenditure.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L43",
+    "page": 43,
+    "name": "Pyke",
+    "title": "Bloodharbor Ripper",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 8,
+    "meta_outlook": 5,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "The List",
+    "tags": [
+      "REPLAY",
+      "GOLD",
+      "REMOVAL"
+    ],
+    "family": "Replay removal tempo",
+    "engine_hypothesis": "Compare repeated play value with retained board; budget follow-up removal.",
+    "counterplay_hypothesis": "Deny second target and repeat payoff.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L44",
+    "page": 44,
+    "name": "Rek'Sai",
+    "title": "Void Burrower",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "complexity": 4,
+    "meta_outlook": 9,
+    "legend_fit": 10,
+    "sample_era": "new_rules",
+    "sample_n": 3,
+    "build_around": "Undertitan",
+    "tags": [
+      "CONQUEST",
+      "REVEAL",
+      "RESOURCE"
+    ],
+    "family": "Conquest snowball",
+    "engine_hypothesis": "Preserve resources for reveal-based follow-up; assess hit quality.",
+    "counterplay_hypothesis": "Contest early scoring; test misses and unaffordable hits.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L45",
+    "page": 45,
+    "name": "Renata Glasc",
+    "title": "Chem-Baroness",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "complexity": 6,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "archive",
+    "sample_n": 6,
+    "build_around": "Vanguard Armory",
+    "tags": [
+      "GOLD",
+      "HOLD",
+      "TOKENS"
+    ],
+    "family": "Banked-resource engine",
+    "engine_hypothesis": "Compare banking Gold with immediate use and token pressure.",
+    "counterplay_hypothesis": "Deny holds or force early resource use.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L46",
+    "page": 46,
+    "name": "Renekton",
+    "title": "Butcher of the Sands",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "complexity": 6,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Punch First",
+    "tags": [
+      "RESOURCE",
+      "THRESHOLD",
+      "TALL"
+    ],
+    "family": "Rune trade tempo",
+    "engine_hypothesis": "Compare immediate resources against future rune count.",
+    "counterplay_hypothesis": "Test threshold boundaries and alternate fields.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L47",
+    "page": 47,
+    "name": "Rengar",
+    "title": "Pridestalker",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "complexity": 6,
+    "meta_outlook": 8,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Grim Apothecary",
+    "tags": [
+      "REACTION",
+      "AMBUSH",
+      "COMBAT"
+    ],
+    "family": "Combat reinforcement",
+    "engine_hypothesis": "Account separately for added unit and resulting modifier.",
+    "counterplay_hypothesis": "Force reinforcement elsewhere or into inefficient combat.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L48",
+    "page": 48,
+    "name": "Riven",
+    "title": "The Exile",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "complexity": 7,
+    "meta_outlook": 5,
+    "legend_fit": 8,
+    "sample_era": "new_rules",
+    "sample_n": 3,
+    "build_around": "Boots of Swiftness",
+    "tags": [
+      "CONQUEST",
+      "READY",
+      "GEAR"
+    ],
+    "family": "Reinforcement tempo",
+    "engine_hypothesis": "Secure initial field and compare reinforcement with defense.",
+    "counterplay_hypothesis": "Deny conquest; exclude Broken Blade post-ban.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L49",
+    "page": 49,
+    "name": "Rumble",
+    "title": "Mechanized Menace",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "complexity": 5,
+    "meta_outlook": 3,
+    "legend_fit": 5,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Bubble Bot",
+    "tags": [
+      "TOKENS",
+      "TRASH",
+      "HOLD"
+    ],
+    "family": "Mech recursion",
+    "engine_hypothesis": "Compare sacrifice value with holding for more bodies.",
+    "counterplay_hypothesis": "Deny holder or replay target.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L50",
+    "page": 50,
+    "name": "Seraphine",
+    "title": "Starry-Eyed Songstress",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "complexity": 7,
+    "meta_outlook": 4,
+    "legend_fit": 4,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "High Note",
+    "tags": [
+      "EXHAUST",
+      "TOKENS",
+      "SPELLS"
+    ],
+    "family": "Board-to-spell conversion",
+    "engine_hypothesis": "Choose exhausted bodies by opportunity cost.",
+    "counterplay_hypothesis": "Pressure exhausted board or remove required third unit.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L51",
+    "page": 51,
+    "name": "Sett",
+    "title": "The Boss",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "complexity": 5,
+    "meta_outlook": 7,
+    "legend_fit": 8,
+    "sample_era": "new_rules",
+    "sample_n": 2,
+    "build_around": "Pit Rookie",
+    "tags": [
+      "BUFF",
+      "RECALL",
+      "MOVEMENT"
+    ],
+    "family": "Resilient buff tempo",
+    "engine_hypothesis": "Compare buff expenditure with retained rescue option.",
+    "counterplay_hypothesis": "Force premature expenditure or unavailable rescue.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L52",
+    "page": 52,
+    "name": "Shen",
+    "title": "Eye of Twilight",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "complexity": 5,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Ki Barrier",
+    "tags": [
+      "PAIR",
+      "DEFENSE",
+      "HOLD"
+    ],
+    "family": "Paired defense",
+    "engine_hypothesis": "Track exact pair condition and protection allocation.",
+    "counterplay_hypothesis": "Change count or contest other location.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L53",
+    "page": 53,
+    "name": "Sivir",
+    "title": "Battle Mistress",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "complexity": 7,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "archive",
+    "sample_n": 7,
+    "build_around": "Punch First",
+    "tags": [
+      "GOLD",
+      "EXCESS_DAMAGE",
+      "READY"
+    ],
+    "family": "Resource-to-mobility tempo",
+    "engine_hypothesis": "Track Power, excess damage and useful next actions separately.",
+    "counterplay_hypothesis": "Deny damage threshold or second destination.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L54",
+    "page": 54,
+    "name": "Teemo",
+    "title": "Swift Scout",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "complexity": 7,
+    "meta_outlook": 5,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Switcheroo",
+    "tags": [
+      "HIDDEN",
+      "REVEAL",
+      "TRASH"
+    ],
+    "family": "Hidden option engine",
+    "engine_hypothesis": "Assess Hidden density and distinct reveal windows.",
+    "counterplay_hypothesis": "Challenge where Hidden cannot profitably resolve.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L55",
+    "page": 55,
+    "name": "Vex",
+    "title": "Gloomist",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "complexity": 6,
+    "meta_outlook": 9,
+    "legend_fit": 9,
+    "sample_era": "new_rules",
+    "sample_n": 4,
+    "build_around": "Switcheroo",
+    "tags": [
+      "HOLD",
+      "STUN",
+      "TAX"
+    ],
+    "family": "Hold-disruption control",
+    "engine_hypothesis": "Preserve hold and use restricted movement to gain time.",
+    "counterplay_hypothesis": "Compare removal of holder with other-field pressure.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L56",
+    "page": 56,
+    "name": "Vi",
+    "title": "Piltover Enforcer",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "complexity": 5,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Long Sword",
+    "tags": [
+      "EXCESS_DAMAGE",
+      "READY",
+      "GEAR"
+    ],
+    "family": "Excess-damage tempo",
+    "engine_hypothesis": "Convert surplus damage into a usable action only if legal.",
+    "counterplay_hypothesis": "Deny threshold or second route.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L57",
+    "page": 57,
+    "name": "Viktor",
+    "title": "Herald of the Arcane",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "complexity": 6,
+    "meta_outlook": 6,
+    "legend_fit": 8,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Imperial Decree",
+    "tags": [
+      "TOKENS",
+      "DEATHKNELL",
+      "REACTION"
+    ],
+    "family": "Recruit value",
+    "engine_hypothesis": "Distinguish Recruit loss from non-Recruit death and new bodies.",
+    "counterplay_hypothesis": "Test missing non-Recruit source and wide-board disruption.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L58",
+    "page": 58,
+    "name": "Volibear",
+    "title": "Relentless Storm",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "complexity": 2,
+    "meta_outlook": 3,
+    "legend_fit": 6,
+    "sample_era": "new_rules",
+    "sample_n": 1,
+    "build_around": "Mobilize",
+    "tags": [
+      "THRESHOLD",
+      "RESOURCE",
+      "TALL"
+    ],
+    "family": "Mighty ramp",
+    "engine_hypothesis": "Develop qualifying units without sacrificing all early scoring.",
+    "counterplay_hypothesis": "Race before expensive payoff or force defense.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L59",
+    "page": 59,
+    "name": "Yasuo",
+    "title": "Unforgiven",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "complexity": 7,
+    "meta_outlook": 4,
+    "legend_fit": 7,
+    "sample_era": "archive",
+    "sample_n": 3,
+    "build_around": "Ride The Wind",
+    "tags": [
+      "MOVEMENT",
+      "READY",
+      "SCORING"
+    ],
+    "family": "Movement-count scoring",
+    "engine_hypothesis": "Track actual movement and available destinations.",
+    "counterplay_hypothesis": "Deny final route; verify final-point legality.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L60",
+    "page": 60,
+    "name": "Zed",
+    "title": "Master of Shadows",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 7,
+    "meta_outlook": 3,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Shadow Order Disciple",
+    "tags": [
+      "TRASH",
+      "BANISH",
+      "TOKENS"
+    ],
+    "family": "Clone fuel engine",
+    "engine_hypothesis": "Budget eligible trash for present and future Clone attacks.",
+    "counterplay_hypothesis": "Test depleted trash and unavailable fuel.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  },
+  {
+    "id": "FT-L61",
+    "page": 61,
+    "name": "Ziggs",
+    "title": "Hexplosives Expert",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "complexity": 7,
+    "meta_outlook": 4,
+    "legend_fit": 6,
+    "sample_era": "pre_ban",
+    "sample_n": 3,
+    "build_around": "Detonation Amplifier",
+    "tags": [
+      "GEAR",
+      "DEATHKNELL",
+      "DAMAGE"
+    ],
+    "family": "Localized detonation",
+    "engine_hypothesis": "Track bomb location, destruction count and replacement.",
+    "counterplay_hypothesis": "Pressure other field or force inefficient detonation.",
+    "format": "standard_constructed_1v1",
+    "source_date": "2026-11-24",
+    "status": "dated_editorial_hypothesis"
+  }
+]

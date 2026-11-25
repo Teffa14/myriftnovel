@@ -72,3 +72,6 @@ For meaningful deckbuilding scenes use 01_RESEARCH/REFERENCE_LIBRARY/works/NLD/D
 
 ## WNG serial craft extension
 Consult 01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md for early reader promise, stage objectives, earned escalation, three-perspective review and feedback. Use current canon, independent character goals and genuine consequences. Do not force cliffhangers, romance, cheats, arbitrary conflicts or rewrite approved chapters. Separate reader-response hypotheses from actual panel evidence. Keep private editorial outline separate from reader blurb; no public spoilers. Existing gates prevail.
+
+## FTG source-of-truth strategic extension
+Use 01_RESEARCH/REFERENCE_LIBRARY/works/FTG/INDEX.md as the primary dated practical Riftbound strategy reference. Confirm actual official mechanics and scoped evidence. Guide sample counts/ratings are context, not future meta facts or proof of outcome. Preserve character agency and originality; no canon deck assignment or changes to approved chapters.

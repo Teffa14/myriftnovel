@@ -1,0 +1,5267 @@
+[
+  {
+    "id": "FT-L4-C00",
+    "profile_id": "FT-L4",
+    "page": 4,
+    "role": "legend",
+    "name": "Ahri, Nine-Tailed Fox",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L4-C01",
+    "profile_id": "FT-L4",
+    "page": 4,
+    "role": "champion",
+    "name": "Ahri, Alluring",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L4-C02",
+    "profile_id": "FT-L4",
+    "page": 4,
+    "role": "champion",
+    "name": "Ahri, Confident",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 2,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L4-C03",
+    "profile_id": "FT-L4",
+    "page": 4,
+    "role": "champion",
+    "name": "Ahri, Inquisitive",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 0,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L4-C04",
+    "profile_id": "FT-L4",
+    "page": 4,
+    "role": "signature_spell",
+    "name": "Fox-Fire",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L5-C00",
+    "profile_id": "FT-L5",
+    "page": 5,
+    "role": "legend",
+    "name": "Akali, Rogue Assassin",
+    "domains": [
+      "Calm",
+      "Fury"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L5-C01",
+    "profile_id": "FT-L5",
+    "page": 5,
+    "role": "champion",
+    "name": "Akali, Brash",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L5-C02",
+    "profile_id": "FT-L5",
+    "page": 5,
+    "role": "champion",
+    "name": "Akali, Deadly Weapon",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L5-C03",
+    "profile_id": "FT-L5",
+    "page": 5,
+    "role": "champion",
+    "name": "Akali, Silent",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L5-C04",
+    "profile_id": "FT-L5",
+    "page": 5,
+    "role": "signature_spell",
+    "name": "Shuriken Flip",
+    "domains": [
+      "Calm",
+      "Fury"
+    ],
+    "energy": 1,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L6-C00",
+    "profile_id": "FT-L6",
+    "page": 6,
+    "role": "legend",
+    "name": "Ambessa, Matriarch of War",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L6-C01",
+    "profile_id": "FT-L6",
+    "page": 6,
+    "role": "champion",
+    "name": "Ambessa, The Wolf",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 3,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L6-C02",
+    "profile_id": "FT-L6",
+    "page": 6,
+    "role": "champion",
+    "name": "Ambessa, Respected and Feared",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L6-C03",
+    "profile_id": "FT-L6",
+    "page": 6,
+    "role": "signature_spell",
+    "name": "Public Execution",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L7-C00",
+    "profile_id": "FT-L7",
+    "page": 7,
+    "role": "legend",
+    "name": "Annie, Dark Child",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L7-C01",
+    "profile_id": "FT-L7",
+    "page": 7,
+    "role": "champion",
+    "name": "Annie, Fiery",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L7-C02",
+    "profile_id": "FT-L7",
+    "page": 7,
+    "role": "champion",
+    "name": "Annie, Stubborn",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L7-C03",
+    "profile_id": "FT-L7",
+    "page": 7,
+    "role": "signature_unit",
+    "name": "Tibbers",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 8,
+    "power": 2,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L8-C00",
+    "profile_id": "FT-L8",
+    "page": 8,
+    "role": "legend",
+    "name": "Azir, Emperor of the Sands",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L8-C01",
+    "profile_id": "FT-L8",
+    "page": 8,
+    "role": "champion",
+    "name": "Azir, Ascendant",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L8-C02",
+    "profile_id": "FT-L8",
+    "page": 8,
+    "role": "champion",
+    "name": "Azir, Sovereign",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 10,
+    "chosen_lists": 6,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L8-C03",
+    "profile_id": "FT-L8",
+    "page": 8,
+    "role": "signature_spell",
+    "name": "Arise!",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 6,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Arise!",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L9-C00",
+    "profile_id": "FT-L9",
+    "page": 9,
+    "role": "legend",
+    "name": "Darius, Hand of Noxus",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L9-C01",
+    "profile_id": "FT-L9",
+    "page": 9,
+    "role": "champion",
+    "name": "Darius, Trifarian",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 4,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L9-C02",
+    "profile_id": "FT-L9",
+    "page": 9,
+    "role": "champion",
+    "name": "Darius, Executioner",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L9-C03",
+    "profile_id": "FT-L9",
+    "page": 9,
+    "role": "signature_spell",
+    "name": "Noxian Guillotine",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L10-C00",
+    "profile_id": "FT-L10",
+    "page": 10,
+    "role": "legend",
+    "name": "Diana, Scorn of the Moon",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L10-C01",
+    "profile_id": "FT-L10",
+    "page": 10,
+    "role": "champion",
+    "name": "Diana, Lunari",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Diana, Lunari",
+        "article": "https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L10-C02",
+    "profile_id": "FT-L10",
+    "page": 10,
+    "role": "champion",
+    "name": "Diana, No Longer Human",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L10-C03",
+    "profile_id": "FT-L10",
+    "page": 10,
+    "role": "signature_spell",
+    "name": "Moonfall",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L11-C00",
+    "profile_id": "FT-L11",
+    "page": 11,
+    "role": "legend",
+    "name": "Draven, Glorious Executioner",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L11-C01",
+    "profile_id": "FT-L11",
+    "page": 11,
+    "role": "champion",
+    "name": "Draven, Showboat",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L11-C02",
+    "profile_id": "FT-L11",
+    "page": 11,
+    "role": "champion",
+    "name": "Draven, Vanquisher",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": true,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Draven, Vanquisher",
+        "article": "https://playriftbound.com/en-us/news/announcements/vendetta-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L11-C03",
+    "profile_id": "FT-L11",
+    "page": 11,
+    "role": "champion",
+    "name": "Draven, Audacious",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L11-C04",
+    "profile_id": "FT-L11",
+    "page": 11,
+    "role": "signature_gear",
+    "name": "Spinning Axe",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L12-C00",
+    "profile_id": "FT-L12",
+    "page": 12,
+    "role": "legend",
+    "name": "Ekko, Boy Who Shattered Time",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L12-C01",
+    "profile_id": "FT-L12",
+    "page": 12,
+    "role": "champion",
+    "name": "Ekko, Revolutionary",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L12-C02",
+    "profile_id": "FT-L12",
+    "page": 12,
+    "role": "champion",
+    "name": "Ekko, Ingenious",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L12-C03",
+    "profile_id": "FT-L12",
+    "page": 12,
+    "role": "champion",
+    "name": "Ekko, Recurrent",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": true,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L12-C04",
+    "profile_id": "FT-L12",
+    "page": 12,
+    "role": "signature_spell",
+    "name": "Chronobreak",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L13-C00",
+    "profile_id": "FT-L13",
+    "page": 13,
+    "role": "legend",
+    "name": "Evelynn, Agony's Embrace",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L13-C01",
+    "profile_id": "FT-L13",
+    "page": 13,
+    "role": "champion",
+    "name": "Evelynn, Consuming",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L13-C02",
+    "profile_id": "FT-L13",
+    "page": 13,
+    "role": "champion",
+    "name": "Evelynn, Entrancing",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 2,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 4,
+    "main_lists": 1,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L13-C03",
+    "profile_id": "FT-L13",
+    "page": 13,
+    "role": "champion",
+    "name": "Evelynn, In Control",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L13-C04",
+    "profile_id": "FT-L13",
+    "page": 13,
+    "role": "signature_spell",
+    "name": "Last Caress",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Last Caress",
+        "article": "https://playriftbound.com/en-us/news/announcements/radiance-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L14-C00",
+    "profile_id": "FT-L14",
+    "page": 14,
+    "role": "legend",
+    "name": "Ezreal, Prodigal Explorer",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L14-C01",
+    "profile_id": "FT-L14",
+    "page": 14,
+    "role": "champion",
+    "name": "Ezreal, Dashing",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L14-C02",
+    "profile_id": "FT-L14",
+    "page": 14,
+    "role": "champion",
+    "name": "Ezreal, Prodigy",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 4,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L14-C03",
+    "profile_id": "FT-L14",
+    "page": 14,
+    "role": "signature_spell",
+    "name": "Arcane Shift",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L15-C00",
+    "profile_id": "FT-L15",
+    "page": 15,
+    "role": "legend",
+    "name": "Fiora, Grand Duelist",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L15-C01",
+    "profile_id": "FT-L15",
+    "page": 15,
+    "role": "champion",
+    "name": "Fiora, Peerless",
+    "domains": [
+      "Body"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L15-C02",
+    "profile_id": "FT-L15",
+    "page": 15,
+    "role": "champion",
+    "name": "Fiora, Victorious",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L15-C03",
+    "profile_id": "FT-L15",
+    "page": 15,
+    "role": "champion",
+    "name": "Fiora, Worthy",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L15-C04",
+    "profile_id": "FT-L15",
+    "page": 15,
+    "role": "signature_spell",
+    "name": "Riposte",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 2,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L16-C00",
+    "profile_id": "FT-L16",
+    "page": 16,
+    "role": "legend",
+    "name": "Garen, Might of Demacia",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 4,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L16-C01",
+    "profile_id": "FT-L16",
+    "page": 16,
+    "role": "champion",
+    "name": "Garen, Rugged",
+    "domains": [
+      "Body"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L16-C02",
+    "profile_id": "FT-L16",
+    "page": 16,
+    "role": "champion",
+    "name": "Garen, Commander",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L16-C03",
+    "profile_id": "FT-L16",
+    "page": 16,
+    "role": "signature_spell",
+    "name": "Decisive Strike",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L17-C00",
+    "profile_id": "FT-L17",
+    "page": 17,
+    "role": "legend",
+    "name": "Irelia, Blade Dancer",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L17-C01",
+    "profile_id": "FT-L17",
+    "page": 17,
+    "role": "champion",
+    "name": "Irelia, Fervent",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L17-C02",
+    "profile_id": "FT-L17",
+    "page": 17,
+    "role": "champion",
+    "name": "Irelia, Graceful",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L17-C03",
+    "profile_id": "FT-L17",
+    "page": 17,
+    "role": "signature_spell",
+    "name": "Defiant Dance",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "energy": 1,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L18-C00",
+    "profile_id": "FT-L18",
+    "page": 18,
+    "role": "legend",
+    "name": "Ivern, Green Father",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L18-C01",
+    "profile_id": "FT-L18",
+    "page": 18,
+    "role": "champion",
+    "name": "Ivern, Nurturer",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L18-C02",
+    "profile_id": "FT-L18",
+    "page": 18,
+    "role": "champion",
+    "name": "Ivern, Friend to All",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L18-C03",
+    "profile_id": "FT-L18",
+    "page": 18,
+    "role": "signature_unit",
+    "name": "Daisy!",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "energy": 9,
+    "power": 2,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L19-C00",
+    "profile_id": "FT-L19",
+    "page": 19,
+    "role": "legend",
+    "name": "Jarvan IV, Exemplar of Demacia",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L19-C01",
+    "profile_id": "FT-L19",
+    "page": 19,
+    "role": "champion",
+    "name": "Jarvan IV, Martial Paragon",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L19-C02",
+    "profile_id": "FT-L19",
+    "page": 19,
+    "role": "champion",
+    "name": "Jarvan IV, Royal Heir",
+    "domains": [
+      "Order"
+    ],
+    "energy": 7,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L19-C03",
+    "profile_id": "FT-L19",
+    "page": 19,
+    "role": "signature_gear",
+    "name": "Demacian Standard",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L20-C00",
+    "profile_id": "FT-L20",
+    "page": 20,
+    "role": "legend",
+    "name": "Jax, Grandmaster at Arms",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L20-C01",
+    "profile_id": "FT-L20",
+    "page": 20,
+    "role": "champion",
+    "name": "Jax, Unmatched",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Jax, Unmatched",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L20-C02",
+    "profile_id": "FT-L20",
+    "page": 20,
+    "role": "champion",
+    "name": "Jax, Unrelenting",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L20-C03",
+    "profile_id": "FT-L20",
+    "page": 20,
+    "role": "signature_spell",
+    "name": "Counter Strike",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L21-C00",
+    "profile_id": "FT-L21",
+    "page": 21,
+    "role": "legend",
+    "name": "Jayce, Defender of Tomorrow",
+    "domains": [
+      "Body",
+      "Mind"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L21-C01",
+    "profile_id": "FT-L21",
+    "page": 21,
+    "role": "champion",
+    "name": "Jayce, Brilliant Inventor",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L21-C02",
+    "profile_id": "FT-L21",
+    "page": 21,
+    "role": "champion",
+    "name": "Jayce, Man of Progress",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L21-C03",
+    "profile_id": "FT-L21",
+    "page": 21,
+    "role": "champion",
+    "name": "Jayce, Hammer in Hand",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L21-C04",
+    "profile_id": "FT-L21",
+    "page": 21,
+    "role": "signature_spell",
+    "name": "Acceleration Gate",
+    "domains": [
+      "Body",
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L22-C00",
+    "profile_id": "FT-L22",
+    "page": 22,
+    "role": "legend",
+    "name": "Jhin, Virtuoso",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L22-C01",
+    "profile_id": "FT-L22",
+    "page": 22,
+    "role": "champion",
+    "name": "Jhin, Murderous Artist",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L22-C02",
+    "profile_id": "FT-L22",
+    "page": 22,
+    "role": "champion",
+    "name": "Jhin, Meticulous Killer",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L22-C03",
+    "profile_id": "FT-L22",
+    "page": 22,
+    "role": "signature_spell",
+    "name": "Curtain Call",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L23-C00",
+    "profile_id": "FT-L23",
+    "page": 23,
+    "role": "legend",
+    "name": "Jinx, Loose Cannon",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L23-C01",
+    "profile_id": "FT-L23",
+    "page": 23,
+    "role": "champion",
+    "name": "Jinx, Demolitionist",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L23-C02",
+    "profile_id": "FT-L23",
+    "page": 23,
+    "role": "champion",
+    "name": "Jinx, Rebel",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L23-C03",
+    "profile_id": "FT-L23",
+    "page": 23,
+    "role": "signature_spell",
+    "name": "Super Mega Death Rocket!",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L24-C00",
+    "profile_id": "FT-L24",
+    "page": 24,
+    "role": "legend",
+    "name": "Kai'Sa, Daughter of the Void",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "fit": 10,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L24-C01",
+    "profile_id": "FT-L24",
+    "page": 24,
+    "role": "champion",
+    "name": "Kai'Sa, Survivor",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 6,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L24-C02",
+    "profile_id": "FT-L24",
+    "page": 24,
+    "role": "champion",
+    "name": "Kai'Sa, Evolutionary",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L24-C03",
+    "profile_id": "FT-L24",
+    "page": 24,
+    "role": "champion",
+    "name": "Kai'Sa, Rebel",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L24-C04",
+    "profile_id": "FT-L24",
+    "page": 24,
+    "role": "signature_spell",
+    "name": "Icathian Rain",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "energy": 7,
+    "power": 3,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Icathian Rain",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L25-C00",
+    "profile_id": "FT-L25",
+    "page": 25,
+    "role": "legend",
+    "name": "Kennen, Heart of the Tempest",
+    "domains": [
+      "Chaos",
+      "Order"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L25-C01",
+    "profile_id": "FT-L25",
+    "page": 25,
+    "role": "champion",
+    "name": "Kennen, Keeper of Balance",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L25-C02",
+    "profile_id": "FT-L25",
+    "page": 25,
+    "role": "champion",
+    "name": "Kennen, Storm of Shuriken",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L25-C03",
+    "profile_id": "FT-L25",
+    "page": 25,
+    "role": "signature_spell",
+    "name": "Lightning Rush",
+    "domains": [
+      "Chaos",
+      "Order"
+    ],
+    "energy": 1,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L26-C00",
+    "profile_id": "FT-L26",
+    "page": 26,
+    "role": "legend",
+    "name": "Kha'Zix, Voidreaver",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L26-C01",
+    "profile_id": "FT-L26",
+    "page": 26,
+    "role": "champion",
+    "name": "Kha'Zix, Evolving Hunter",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L26-C02",
+    "profile_id": "FT-L26",
+    "page": 26,
+    "role": "champion",
+    "name": "Kha'Zix, Mutating Horror",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L26-C03",
+    "profile_id": "FT-L26",
+    "page": 26,
+    "role": "signature_spell",
+    "name": "Void Assault",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L27-C00",
+    "profile_id": "FT-L27",
+    "page": 27,
+    "role": "legend",
+    "name": "K'Sante, Pride of Nazumah",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L27-C01",
+    "profile_id": "FT-L27",
+    "page": 27,
+    "role": "champion",
+    "name": "K'Sante, Dauntless",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L27-C02",
+    "profile_id": "FT-L27",
+    "page": 27,
+    "role": "champion",
+    "name": "K'Sante, Courageous",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L27-C03",
+    "profile_id": "FT-L27",
+    "page": 27,
+    "role": "signature_spell",
+    "name": "Ntofo Strikes",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L28-C00",
+    "profile_id": "FT-L28",
+    "page": 28,
+    "role": "legend",
+    "name": "LeBlanc, Deceiver",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Leblanc, Deceiver",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L28-C01",
+    "profile_id": "FT-L28",
+    "page": 28,
+    "role": "champion",
+    "name": "LeBlanc, Everywhere At Once",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 0,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L28-C02",
+    "profile_id": "FT-L28",
+    "page": 28,
+    "role": "champion",
+    "name": "LeBlanc, Fragmented",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L28-C03",
+    "profile_id": "FT-L28",
+    "page": 28,
+    "role": "signature_spell",
+    "name": "Mirror Image",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 2,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Mirror Image",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L29-C00",
+    "profile_id": "FT-L29",
+    "page": 29,
+    "role": "legend",
+    "name": "Lee Sin, Blind Monk",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L29-C01",
+    "profile_id": "FT-L29",
+    "page": 29,
+    "role": "champion",
+    "name": "Lee Sin, Ascetic",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L29-C02",
+    "profile_id": "FT-L29",
+    "page": 29,
+    "role": "champion",
+    "name": "Lee Sin, Centered",
+    "domains": [
+      "Body"
+    ],
+    "energy": 6,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L29-C03",
+    "profile_id": "FT-L29",
+    "page": 29,
+    "role": "signature_spell",
+    "name": "Dragon's Rage",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Dragon's Rage",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L30-C00",
+    "profile_id": "FT-L30",
+    "page": 30,
+    "role": "legend",
+    "name": "Leona, Radiant Dawn",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L30-C01",
+    "profile_id": "FT-L30",
+    "page": 30,
+    "role": "champion",
+    "name": "Leona, Zealot",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L30-C02",
+    "profile_id": "FT-L30",
+    "page": 30,
+    "role": "champion",
+    "name": "Leona, Determined",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L30-C03",
+    "profile_id": "FT-L30",
+    "page": 30,
+    "role": "signature_spell",
+    "name": "Zenith Blade",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 2,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L31-C00",
+    "profile_id": "FT-L31",
+    "page": 31,
+    "role": "legend",
+    "name": "Lillia, Bashful Bloom",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L31-C01",
+    "profile_id": "FT-L31",
+    "page": 31,
+    "role": "champion",
+    "name": "Lillia, Protector of Dreams",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L31-C02",
+    "profile_id": "FT-L31",
+    "page": 31,
+    "role": "champion",
+    "name": "Lillia, Fae Fawn",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L31-C03",
+    "profile_id": "FT-L31",
+    "page": 31,
+    "role": "signature_spell",
+    "name": "Lilting Lullaby",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 2,
+    "power": 2,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L32-C00",
+    "profile_id": "FT-L32",
+    "page": 32,
+    "role": "legend",
+    "name": "Lucian, Purifier",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L32-C01",
+    "profile_id": "FT-L32",
+    "page": 32,
+    "role": "champion",
+    "name": "Lucian, Gunslinger",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L32-C02",
+    "profile_id": "FT-L32",
+    "page": 32,
+    "role": "champion",
+    "name": "Lucian, Merciless",
+    "domains": [
+      "Body"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 2,
+    "main_lists": 1,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L32-C03",
+    "profile_id": "FT-L32",
+    "page": 32,
+    "role": "signature_spell",
+    "name": "Relentless Pursuit",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Relentless Pursuit",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L33-C00",
+    "profile_id": "FT-L33",
+    "page": 33,
+    "role": "legend",
+    "name": "Lux, Lady of Luminosity",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L33-C01",
+    "profile_id": "FT-L33",
+    "page": 33,
+    "role": "champion",
+    "name": "Lux, Illuminated",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L33-C02",
+    "profile_id": "FT-L33",
+    "page": 33,
+    "role": "champion",
+    "name": "Lux, Crownguard",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L33-C03",
+    "profile_id": "FT-L33",
+    "page": 33,
+    "role": "signature_spell",
+    "name": "Final Spark",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "energy": 8,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C00",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "legend",
+    "name": "Master Yi, Wuju Bladesman",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": true,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C01",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "champion",
+    "name": "Master Yi, Meditative",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C02",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "champion",
+    "name": "Master Yi, Unstoppable",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 12,
+    "power": 3,
+    "fit": 4,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C03",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "champion",
+    "name": "Master Yi, Honed",
+    "domains": [
+      "Body"
+    ],
+    "energy": 7,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C04",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "champion",
+    "name": "Master Yi, Tempered",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 4,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C05",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "signature_spell",
+    "name": "Alpha Strike",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L34-C06",
+    "profile_id": "FT-L34",
+    "page": 34,
+    "role": "signature_spell",
+    "name": "Highlander",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Highlander",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C00",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "legend",
+    "name": "Master Yi, Wuju Master",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C01",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "champion",
+    "name": "Master Yi, Meditative",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C02",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "champion",
+    "name": "Master Yi, Unstoppable",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 12,
+    "power": 3,
+    "fit": 8,
+    "chosen_lists": 0,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C03",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "champion",
+    "name": "Master Yi, Honed",
+    "domains": [
+      "Body"
+    ],
+    "energy": 7,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C04",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "champion",
+    "name": "Master Yi, Tempered",
+    "domains": [
+      "Body"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C05",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "signature_spell",
+    "name": "Alpha Strike",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L35-C06",
+    "profile_id": "FT-L35",
+    "page": 35,
+    "role": "signature_spell",
+    "name": "Highlander",
+    "domains": [
+      "Body",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Highlander",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L36-C00",
+    "profile_id": "FT-L36",
+    "page": 36,
+    "role": "legend",
+    "name": "Mel, Soul's Reflection",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "fit": 4,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L36-C01",
+    "profile_id": "FT-L36",
+    "page": 36,
+    "role": "champion",
+    "name": "Mel, Newly Awakened",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L36-C02",
+    "profile_id": "FT-L36",
+    "page": 36,
+    "role": "champion",
+    "name": "Mel, Defiant Soul",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L36-C03",
+    "profile_id": "FT-L36",
+    "page": 36,
+    "role": "signature_spell",
+    "name": "Rebuttal",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "energy": 1,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L37-C00",
+    "profile_id": "FT-L37",
+    "page": 37,
+    "role": "legend",
+    "name": "Miss Fortune, Bounty Hunter",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L37-C01",
+    "profile_id": "FT-L37",
+    "page": 37,
+    "role": "champion",
+    "name": "Miss Fortune, Captain",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L37-C02",
+    "profile_id": "FT-L37",
+    "page": 37,
+    "role": "champion",
+    "name": "Miss Fortune, Buccaneer",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L37-C03",
+    "profile_id": "FT-L37",
+    "page": 37,
+    "role": "signature_spell",
+    "name": "Bullet Time",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "energy": 1,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L38-C00",
+    "profile_id": "FT-L38",
+    "page": 38,
+    "role": "legend",
+    "name": "Mordekaiser, Iron Revenant",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L38-C01",
+    "profile_id": "FT-L38",
+    "page": 38,
+    "role": "champion",
+    "name": "Mordekaiser, Twice Slain",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 7,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L38-C02",
+    "profile_id": "FT-L38",
+    "page": 38,
+    "role": "champion",
+    "name": "Mordekaiser, Dominating",
+    "domains": [
+      "Order"
+    ],
+    "energy": 9,
+    "power": 2,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L38-C03",
+    "profile_id": "FT-L38",
+    "page": 38,
+    "role": "signature_spell",
+    "name": "Realm of Death",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L39-C00",
+    "profile_id": "FT-L39",
+    "page": 39,
+    "role": "legend",
+    "name": "Nasus, Curator of the Sands",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L39-C01",
+    "profile_id": "FT-L39",
+    "page": 39,
+    "role": "champion",
+    "name": "Nasus, Ascended",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 8,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L39-C02",
+    "profile_id": "FT-L39",
+    "page": 39,
+    "role": "champion",
+    "name": "Nasus, Guardian of Knowledge",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L39-C03",
+    "profile_id": "FT-L39",
+    "page": 39,
+    "role": "signature_spell",
+    "name": "Siphoning Strike",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L40-C00",
+    "profile_id": "FT-L40",
+    "page": 40,
+    "role": "legend",
+    "name": "Orianna, Lady of Clockwork",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L40-C01",
+    "profile_id": "FT-L40",
+    "page": 40,
+    "role": "champion",
+    "name": "Orianna, Exquisite",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L40-C02",
+    "profile_id": "FT-L40",
+    "page": 40,
+    "role": "champion",
+    "name": "Orianna, Mechanical Marvel",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L40-C03",
+    "profile_id": "FT-L40",
+    "page": 40,
+    "role": "signature_gear",
+    "name": "The Ball",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C00",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "legend",
+    "name": "Ornn, Fire Below the Mountain",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C01",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "champion",
+    "name": "Ornn, Blacksmith",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C02",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "champion",
+    "name": "Ornn, Forge God",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 6,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C03",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "signature_gear",
+    "name": "Forgefire Cape",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 2,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C04",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "signature_gear",
+    "name": "Rabadon's Deathcrown",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 2,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L41-C05",
+    "profile_id": "FT-L41",
+    "page": 41,
+    "role": "signature_gear",
+    "name": "Shurelya's Requiem",
+    "domains": [
+      "Mind",
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 2,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L42-C00",
+    "profile_id": "FT-L42",
+    "page": 42,
+    "role": "legend",
+    "name": "Poppy, Keeper of the Hammer",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L42-C01",
+    "profile_id": "FT-L42",
+    "page": 42,
+    "role": "champion",
+    "name": "Poppy, Paragon",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L42-C02",
+    "profile_id": "FT-L42",
+    "page": 42,
+    "role": "champion",
+    "name": "Poppy, Defender of the Meek",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L42-C03",
+    "profile_id": "FT-L42",
+    "page": 42,
+    "role": "signature_spell",
+    "name": "Keeper's Verdict",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 2,
+    "power": 2,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L43-C00",
+    "profile_id": "FT-L43",
+    "page": 43,
+    "role": "legend",
+    "name": "Pyke, Bloodharbor Ripper",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L43-C01",
+    "profile_id": "FT-L43",
+    "page": 43,
+    "role": "champion",
+    "name": "Pyke, Dockside Butcher",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L43-C02",
+    "profile_id": "FT-L43",
+    "page": 43,
+    "role": "champion",
+    "name": "Pyke, Returned",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L43-C03",
+    "profile_id": "FT-L43",
+    "page": 43,
+    "role": "signature_spell",
+    "name": "Death from Below",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Death from Below",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L44-C00",
+    "profile_id": "FT-L44",
+    "page": 44,
+    "role": "legend",
+    "name": "Rek'Sai, Void Burrower",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "fit": 10,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L44-C01",
+    "profile_id": "FT-L44",
+    "page": 44,
+    "role": "champion",
+    "name": "Rek'Sai, Breacher",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L44-C02",
+    "profile_id": "FT-L44",
+    "page": 44,
+    "role": "champion",
+    "name": "Rek'Sai, Swarm Queen",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Rek’Sai, Swarm Queen",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L44-C03",
+    "profile_id": "FT-L44",
+    "page": 44,
+    "role": "signature_spell",
+    "name": "Void Rush",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Void Rush",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-spiritforged-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L45-C00",
+    "profile_id": "FT-L45",
+    "page": 45,
+    "role": "legend",
+    "name": "Renata Glasc, Chem-Baroness",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L45-C01",
+    "profile_id": "FT-L45",
+    "page": 45,
+    "role": "champion",
+    "name": "Renata Glasc, Mastermind",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 5,
+    "main_lists": 1,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L45-C02",
+    "profile_id": "FT-L45",
+    "page": 45,
+    "role": "champion",
+    "name": "Renata Glasc, Industrialist",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L45-C03",
+    "profile_id": "FT-L45",
+    "page": 45,
+    "role": "signature_spell",
+    "name": "Hostile Takeover",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 2,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 6,
+    "sample_n": 6,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L46-C00",
+    "profile_id": "FT-L46",
+    "page": 46,
+    "role": "legend",
+    "name": "Renekton, Butcher of the Sands",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L46-C01",
+    "profile_id": "FT-L46",
+    "page": 46,
+    "role": "champion",
+    "name": "Renekton, Rage Fueled",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 6,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L46-C02",
+    "profile_id": "FT-L46",
+    "page": 46,
+    "role": "champion",
+    "name": "Renekton, Brute",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L46-C03",
+    "profile_id": "FT-L46",
+    "page": 46,
+    "role": "signature_spell",
+    "name": "Dominus",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L47-C00",
+    "profile_id": "FT-L47",
+    "page": 47,
+    "role": "legend",
+    "name": "Rengar, Pridestalker",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L47-C01",
+    "profile_id": "FT-L47",
+    "page": 47,
+    "role": "champion",
+    "name": "Rengar, Pouncing",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L47-C02",
+    "profile_id": "FT-L47",
+    "page": 47,
+    "role": "champion",
+    "name": "Rengar, Unseen",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L47-C03",
+    "profile_id": "FT-L47",
+    "page": 47,
+    "role": "champion",
+    "name": "Rengar, Trophy Hunter",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Rengar, Trophy Hunter",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/unleashed-errata-updates/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L47-C04",
+    "profile_id": "FT-L47",
+    "page": 47,
+    "role": "signature_spell",
+    "name": "Thrill of the Hunt",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L48-C00",
+    "profile_id": "FT-L48",
+    "page": 48,
+    "role": "legend",
+    "name": "Riven, The Exile",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L48-C01",
+    "profile_id": "FT-L48",
+    "page": 48,
+    "role": "champion",
+    "name": "Riven, Broken Blade",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": true,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L48-C02",
+    "profile_id": "FT-L48",
+    "page": 48,
+    "role": "champion",
+    "name": "Riven, Shattered",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L48-C03",
+    "profile_id": "FT-L48",
+    "page": 48,
+    "role": "champion",
+    "name": "Riven, Deserter",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L48-C04",
+    "profile_id": "FT-L48",
+    "page": 48,
+    "role": "signature_gear",
+    "name": "Blade of the Exile",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L49-C00",
+    "profile_id": "FT-L49",
+    "page": 49,
+    "role": "legend",
+    "name": "Rumble, Mechanized Menace",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "fit": 5,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L49-C01",
+    "profile_id": "FT-L49",
+    "page": 49,
+    "role": "champion",
+    "name": "Rumble, Hotheaded",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L49-C02",
+    "profile_id": "FT-L49",
+    "page": 49,
+    "role": "champion",
+    "name": "Rumble, Scrapper",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 0,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L49-C03",
+    "profile_id": "FT-L49",
+    "page": 49,
+    "role": "signature_spell",
+    "name": "Danger Zone",
+    "domains": [
+      "Mind",
+      "Fury"
+    ],
+    "energy": 1,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L50-C00",
+    "profile_id": "FT-L50",
+    "page": 50,
+    "role": "legend",
+    "name": "Seraphine, Starry-Eyed Songstress",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "fit": 4,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L50-C01",
+    "profile_id": "FT-L50",
+    "page": 50,
+    "role": "champion",
+    "name": "Seraphine, Inspiring",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L50-C02",
+    "profile_id": "FT-L50",
+    "page": 50,
+    "role": "champion",
+    "name": "Seraphine, Not Alone",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L50-C03",
+    "profile_id": "FT-L50",
+    "page": 50,
+    "role": "signature_spell",
+    "name": "Encore",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L51-C00",
+    "profile_id": "FT-L51",
+    "page": 51,
+    "role": "legend",
+    "name": "Sett, The Boss",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L51-C01",
+    "profile_id": "FT-L51",
+    "page": 51,
+    "role": "champion",
+    "name": "Sett, Brawler",
+    "domains": [
+      "Body"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L51-C02",
+    "profile_id": "FT-L51",
+    "page": 51,
+    "role": "champion",
+    "name": "Sett, Kingpin",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L51-C03",
+    "profile_id": "FT-L51",
+    "page": 51,
+    "role": "signature_spell",
+    "name": "Showstopper",
+    "domains": [
+      "Order",
+      "Body"
+    ],
+    "energy": 1,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 2,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L52-C00",
+    "profile_id": "FT-L52",
+    "page": 52,
+    "role": "legend",
+    "name": "Shen, Eye of Twilight",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L52-C01",
+    "profile_id": "FT-L52",
+    "page": 52,
+    "role": "champion",
+    "name": "Shen, Scourge of Shadows",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L52-C02",
+    "profile_id": "FT-L52",
+    "page": 52,
+    "role": "champion",
+    "name": "Shen, Kinkou",
+    "domains": [
+      "Order"
+    ],
+    "energy": 3,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L52-C03",
+    "profile_id": "FT-L52",
+    "page": 52,
+    "role": "champion",
+    "name": "Shen, Leader of the Kinkou Order",
+    "domains": [
+      "Order"
+    ],
+    "energy": 6,
+    "power": 2,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L52-C04",
+    "profile_id": "FT-L52",
+    "page": 52,
+    "role": "signature_spell",
+    "name": "Shadow Dash",
+    "domains": [
+      "Order",
+      "Calm"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L53-C00",
+    "profile_id": "FT-L53",
+    "page": 53,
+    "role": "legend",
+    "name": "Sivir, Battle Mistress",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 7,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L53-C01",
+    "profile_id": "FT-L53",
+    "page": 53,
+    "role": "champion",
+    "name": "Sivir, Ambitious",
+    "domains": [
+      "Body"
+    ],
+    "energy": 6,
+    "power": 3,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 7,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L53-C02",
+    "profile_id": "FT-L53",
+    "page": 53,
+    "role": "champion",
+    "name": "Sivir, Mercenary",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 7,
+    "main_lists": 1,
+    "sample_n": 7,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L53-C03",
+    "profile_id": "FT-L53",
+    "page": 53,
+    "role": "signature_spell",
+    "name": "On the Hunt",
+    "domains": [
+      "Chaos",
+      "Body"
+    ],
+    "energy": 1,
+    "power": 2,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 7,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L54-C00",
+    "profile_id": "FT-L54",
+    "page": 54,
+    "role": "legend",
+    "name": "Teemo, Swift Scout",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L54-C01",
+    "profile_id": "FT-L54",
+    "page": 54,
+    "role": "champion",
+    "name": "Teemo, Strategist",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [
+      {
+        "name": "Teemo, Strategist",
+        "article": "https://playriftbound.com/en-us/news/rules-and-releases/riftbound-origins-card-errata/"
+      }
+    ],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L54-C02",
+    "profile_id": "FT-L54",
+    "page": 54,
+    "role": "champion",
+    "name": "Teemo, Scout",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 2,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 0,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L54-C03",
+    "profile_id": "FT-L54",
+    "page": 54,
+    "role": "signature_spell",
+    "name": "Guerilla Warfare",
+    "domains": [
+      "Chaos",
+      "Mind"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 2,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L55-C00",
+    "profile_id": "FT-L55",
+    "page": 55,
+    "role": "legend",
+    "name": "Vex, Gloomist",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "fit": 9,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L55-C01",
+    "profile_id": "FT-L55",
+    "page": 55,
+    "role": "champion",
+    "name": "Vex, Mocking",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L55-C02",
+    "profile_id": "FT-L55",
+    "page": 55,
+    "role": "champion",
+    "name": "Vex, Apathetic",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 9,
+    "chosen_lists": 4,
+    "main_lists": 1,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L55-C03",
+    "profile_id": "FT-L55",
+    "page": 55,
+    "role": "champion",
+    "name": "Vex, Cheerless",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L55-C04",
+    "profile_id": "FT-L55",
+    "page": 55,
+    "role": "signature_unit",
+    "name": "Shadow",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 4,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 4,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L56-C00",
+    "profile_id": "FT-L56",
+    "page": 56,
+    "role": "legend",
+    "name": "Vi, Piltover Enforcer",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L56-C01",
+    "profile_id": "FT-L56",
+    "page": 56,
+    "role": "champion",
+    "name": "Vi, Destructive",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L56-C02",
+    "profile_id": "FT-L56",
+    "page": 56,
+    "role": "champion",
+    "name": "Vi, Hotheaded",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L56-C03",
+    "profile_id": "FT-L56",
+    "page": 56,
+    "role": "champion",
+    "name": "Vi, Peacekeeper",
+    "domains": [
+      "Order"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L56-C04",
+    "profile_id": "FT-L56",
+    "page": 56,
+    "role": "signature_gear",
+    "name": "Hextech Gauntlets",
+    "domains": [
+      "Order",
+      "Fury"
+    ],
+    "energy": 3,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": null,
+    "main_lists": 3,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L57-C00",
+    "profile_id": "FT-L57",
+    "page": 57,
+    "role": "legend",
+    "name": "Viktor, Herald of the Arcane",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "fit": 8,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L57-C01",
+    "profile_id": "FT-L57",
+    "page": 57,
+    "role": "champion",
+    "name": "Viktor, Innovator",
+    "domains": [
+      "Mind"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L57-C02",
+    "profile_id": "FT-L57",
+    "page": 57,
+    "role": "champion",
+    "name": "Viktor, Leader",
+    "domains": [
+      "Order"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 9,
+    "chosen_lists": 3,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L57-C03",
+    "profile_id": "FT-L57",
+    "page": 57,
+    "role": "signature_spell",
+    "name": "Siphon Power",
+    "domains": [
+      "Order",
+      "Mind"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L58-C00",
+    "profile_id": "FT-L58",
+    "page": 58,
+    "role": "legend",
+    "name": "Volibear, Relentless Storm",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L58-C01",
+    "profile_id": "FT-L58",
+    "page": 58,
+    "role": "champion",
+    "name": "Volibear, Furious",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 10,
+    "power": 2,
+    "fit": 8,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L58-C02",
+    "profile_id": "FT-L58",
+    "page": 58,
+    "role": "champion",
+    "name": "Volibear, Imposing",
+    "domains": [
+      "Body"
+    ],
+    "energy": 12,
+    "power": 2,
+    "fit": 5,
+    "chosen_lists": 0,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L58-C03",
+    "profile_id": "FT-L58",
+    "page": 58,
+    "role": "signature_spell",
+    "name": "Stormbringer",
+    "domains": [
+      "Body",
+      "Fury"
+    ],
+    "energy": 6,
+    "power": 2,
+    "fit": 6,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 1,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L59-C00",
+    "profile_id": "FT-L59",
+    "page": 59,
+    "role": "legend",
+    "name": "Yasuo, Unforgiven",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "fit": 7,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L59-C01",
+    "profile_id": "FT-L59",
+    "page": 59,
+    "role": "champion",
+    "name": "Yasuo, Remorseful",
+    "domains": [
+      "Calm"
+    ],
+    "energy": 6,
+    "power": 2,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L59-C02",
+    "profile_id": "FT-L59",
+    "page": 59,
+    "role": "champion",
+    "name": "Yasuo, Windrider",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 8,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L59-C03",
+    "profile_id": "FT-L59",
+    "page": 59,
+    "role": "signature_spell",
+    "name": "Last Breath",
+    "domains": [
+      "Chaos",
+      "Calm"
+    ],
+    "energy": 3,
+    "power": 2,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L60-C00",
+    "profile_id": "FT-L60",
+    "page": 60,
+    "role": "legend",
+    "name": "Zed, Master of Shadows",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L60-C01",
+    "profile_id": "FT-L60",
+    "page": 60,
+    "role": "champion",
+    "name": "Zed, From the Shadows",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 4,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": 2,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L60-C02",
+    "profile_id": "FT-L60",
+    "page": 60,
+    "role": "champion",
+    "name": "Zed, Without a Sound",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 5,
+    "power": 0,
+    "fit": 7,
+    "chosen_lists": 1,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L60-C03",
+    "profile_id": "FT-L60",
+    "page": 60,
+    "role": "signature_spell",
+    "name": "Death Mark",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 7,
+    "chosen_lists": null,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L61-C00",
+    "profile_id": "FT-L61",
+    "page": 61,
+    "role": "legend",
+    "name": "Ziggs, Hexplosives Expert",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "fit": 6,
+    "energy": null,
+    "power": null,
+    "chosen_lists": null,
+    "main_lists": null,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L61-C01",
+    "profile_id": "FT-L61",
+    "page": 61,
+    "role": "champion",
+    "name": "Ziggs, Short-Fused",
+    "domains": [
+      "Fury"
+    ],
+    "energy": 5,
+    "power": 1,
+    "fit": 6,
+    "chosen_lists": 0,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L61-C02",
+    "profile_id": "FT-L61",
+    "page": 61,
+    "role": "champion",
+    "name": "Ziggs, Explosive",
+    "domains": [
+      "Chaos"
+    ],
+    "energy": 4,
+    "power": 0,
+    "fit": 8,
+    "chosen_lists": 3,
+    "main_lists": 1,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  },
+  {
+    "id": "FT-L61-C03",
+    "profile_id": "FT-L61",
+    "page": 61,
+    "role": "signature_spell",
+    "name": "Hexplosive Minefield",
+    "domains": [
+      "Chaos",
+      "Fury"
+    ],
+    "energy": 2,
+    "power": 1,
+    "fit": 5,
+    "chosen_lists": null,
+    "main_lists": 0,
+    "sample_n": 3,
+    "standard_ban_flag": false,
+    "two_v_two_only_ban": false,
+    "errata_name_hits": [],
+    "verification": "guide_printed_context; effective_text_pending"
+  }
+]

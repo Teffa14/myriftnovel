@@ -1,0 +1,54 @@
+{
+  "source": "Family Tabletops Starter Guide to Riftbound",
+  "source_date": "2026-11-24",
+  "sha256": "702d83faceb04d9b019645dac97cd575d77267ff91dc733b499da15db8da6427",
+  "bytes": 35236686,
+  "pages": 62,
+  "word_tokens": 14896,
+  "distinct_word_types": 1732,
+  "profiles": 58,
+  "card_contexts": 253,
+  "distinct_champions": 129,
+  "distinct_signatures": 60,
+  "build_contexts": 58,
+  "distinct_build_names": 48,
+  "external_link_occurrences": 626,
+  "unique_external_links": 379,
+  "sample_profiles": {
+    "new_rules": 23,
+    "pre_ban": 29,
+    "archive": 6
+  },
+  "sample_list_occurrences": {
+    "new_rules": 55,
+    "pre_ban": 77,
+    "archive": 26
+  },
+  "explicit_forecast_profiles": 40,
+  "local_checks_passed": 576,
+  "local_checks_failed": 0,
+  "local_untested_pairings": 1653,
+  "repository_checks": [
+    "58 profiles",
+    "pages 4 through 61",
+    "253 card contexts",
+    "129 champion identities",
+    "60 signature identities",
+    "58 distinct build contexts",
+    "sample bounds",
+    "domain containment",
+    "Guide ban flags agree with repository ban snapshot",
+    "1653 non-mirror pair identifiers"
+  ],
+  "ban_snapshot_mismatches": [],
+  "errata_exact_name_hits_contexts": 17,
+  "catalog_audit": {
+    "rows_read": 1408,
+    "complete": false,
+    "matched_contexts": null,
+    "unmatched": null,
+    "metadata_discrepancies": null,
+    "error": null
+  },
+  "scope": "Printed metadata and dated editorial assessments only; no verified image-text transcription, actual matchup outcomes, current deck legality or full game replays."
+}
