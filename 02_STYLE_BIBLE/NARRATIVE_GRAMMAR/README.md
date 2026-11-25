@@ -30,3 +30,6 @@
 
 ## Extensiones MSC-EX11–EX13
 [EX11](MSC_EX11_PATTERNS.md), [EX12](MSC_EX12_PATTERNS.md), [EX13](MSC_EX13_PATTERNS.md): 24 entradas y 9 bloques originales. Total acumulado 146 entradas y 56 bloques, con mecanismos relacionados. Trece muestras MSC, cero capítulos completos certificados; estas tres cualitativas.
+
+## MSC-EX14–EX15
+[EX14](MSC_EX14_PATTERNS.md), [EX15](MSC_EX15_PATTERNS.md): 16 entradas y 6 bloques. Total 162 entradas y 62 bloques; 15 muestras MSC parciales. [Método portable NDM v1.0](../../01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/README.md), formalización retrospectiva y controles nuevos prospectivos.

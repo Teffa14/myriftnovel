@@ -1,0 +1,26 @@
+# MSC-EX14–EX15 — negociación de derechos y búsqueda experta
+Fecha 2026-11-25. Dos fragmentos distintos separados por divisor, créditos Star River/Rhith; edición y capítulo sin confirmar. Lectura cualitativa; no se ejecutó Python para estas unidades. No guardar prosa íntegra fuente.
+ 
+## EX14
+1. Xie evalúa dos propuestas: 300.000 crystal coins por derechos de Wu Song y trabajo como diseñador por 20.000 mensuales más comisión prometida. Reconoce posible infravaloración previa y compara alcance contra tigres frente a Lin Daiyu contra flores/plantas. Estas valoraciones no prueban rendimiento ni precio universal.
+2. Decide vender derechos, pero solicita tiempo para considerar empleo. Can Yang interpreta demora como falta de gratitud; Shan Lan explica beneficios; Huan mantiene acceso y canal de contacto. Xie usa consulta familiar como pretexto, según narración; no presentar engaño como norma de negociación.
+3. En perspectiva privada los directivos interpretan mejora de probabilidad como señal de potencial y continúan reclutamiento. No consta aceptación laboral.
+4. Centro de servicios verifica autoría y transfiere derechos de Wu Song a Adjudication. La pérdida de facultad de producción de esa carta es consecuencia explícita; conserva Lin Daiyu. No se conocen derechos adicionales, vigencia ni condiciones; no extrapolar a derecho real.
+5. Recibe tres millones de monedas virtuales. Banco indica 10:1 y mecanismo de venta a otros jugadores, no conversión automática garantizada. Divide oferta en diez partes; diez transferencias de 30.000, saldo de 300.200. Saldo inicial implícito 200 si no hubo otros movimientos, primera notificación confirma 30.200. Venta de derechos ejecutada; empleo pendiente. No se informan comisiones/impuestos; no inferir ganancia neta.
+6. Aviso de uso prolongado, dolor de cabeza y desconexión. El texto dice 6:30 p.m. tras almuerzo, casi medianoche; posible inconsistencia con cena de EX09, no reconciliar. Consecuencia física y recompensa económica coexisten. 
+Función: separar decisiones, convertir oferta en consecuencia irreversible, proceso institucional, recompensa cuantificada y límite físico. Cierre con confirmación bancaria.
+ 
+## EX15
+1. Tang entra con cuenta secundaria 7456789; texto revela que la utilizó para publicar tarea de fragmentos y probar cartas en arena. Conecta con EX04 (cliente anónimo), pero el vínculo exacto con cada encargo no se detalla más allá de esta revelación. No suponer conocimiento de Xie. Cuenta principal creada seis años antes; EX10 habla de fama hace cinco, compatibles como eventos distintos.
+2. Hong no localiza creador; Tang distingue vendedores profesionales de coleccionistas por sus incentivos. Hipótesis: dos cartas no localizadas podrían estar en colecciones, pues comerciante informado tendría incentivo de venderlas. No es certeza; no descalificar coleccionistas por el lenguaje del narrador.
+3. Observa otros clubes buscando, recuerda su propio ascenso y errores de precio. Selecciona puestos pequeños, pregunta tras más de doce intentos sin éxito.
+4. Coleccionista muestra dos Lin Daiyu, rechaza 500 por unidad, acepta 1.000 por unidad tras haber pagado 50. Total pagado 2.000, relación 20x precio original; diferencia bruta de la coleccionista 1.900 antes de costes. No afirmar procedencia completa ni que sean inequívocamente las dos de EX10 sin registro de IDs, aunque encaja.
+5. Tang pregunta nombre del vendedor, recibe Uncle Chubby, relaciona marca y alias, comunica hallazgo a Hong. La búsqueda especializada consigue información que la búsqueda masiva no logró. Pide email y vigilancia de subastas; no se muestra respuesta de Xie a Fenghua.
+6. Tang decide ir a arena; hábito de energía nocturna recupera EX06. No se muestra prueba de combate.
+Función: expertise demostrado por segmentación de actores, hipótesis falsable, búsqueda acotada con intentos fallidos, negociación y recuperación de un hilo anterior.
+ 
+## Continuidad
+EX04 cliente anónimo → EX15 cuenta secundaria ligada a una tarea de fragmentos. EX08 primera venta → EX10 búsqueda → EX11 competencia por reclutar → EX13 encuentro → EX14 transferencia y pago, empleo pendiente. EX10 dos cartas no localizadas → EX15 adquisición de dos, relación plausible no trazada individualmente. EX06 hábitos de Tang → EX15 continuidad. Protagonista desconoce búsqueda de Fenghua descrita aquí.
+ 
+## Voz, composición y transferencia
+EX14 alterna preguntas internas, valoración, diálogo de negociación, reacción privada, trámite y cierre numérico. EX15 usa clasificación, retrospección, deducción, repetición comprimida, conversación y confirmación. La competencia de Tang se evidencia por método y resultado local, no por el elogio posterior. En The Final Draw trasladar a contratos independientes, patrocinio, préstamos, colaboración, scouting público y segmentación de fuentes; no a transferencia de derechos de cartas oficiales. Verificar legislación y reglas cuando sean reales. No usar engaño o espionaje como requisito; preservar privacidad y fuentes autorizadas. M115–M130, MB45–MB50. Quince muestras parciales, cero capítulos completos certificados; no se demuestra rendimiento PvP ni aceptación laboral.

@@ -36,3 +36,6 @@ Diez muestras distintas analizadas; el texto duplicado de EX09 se cuenta una sol
 
 ## MSC-EX11–EX13
 Trece muestras únicas; cero capítulos completos certificados. Tres nuevas muestras cualitativas: scouting y reclutamiento, práctica y especialización, optimización y reunión. 24 entradas y 9 bloques añadidos; total 146 entradas y 56 bloques. No se ejecutó Python en estas tres muestras. No se observó validación competitiva de cartas modificadas ni acuerdo comercial. Edición y capítulos sin confirmar.
+
+## MSC-EX14–EX15 y método NDM v1.0
+15 muestras distintas MSC, cero capítulos completos certificados. Dos nuevas lecturas cualitativas: venta de derechos y pago, empleo pendiente, búsqueda experta y conexiones retrospectivas. 16 entradas y 6 bloques nuevos; total 162 entradas y 62 bloques, con solapamientos pendientes. No se ejecutó Python sobre estos dos fragmentos. Método portable documentado en DISTILLATION_METHOD/; controles nuevos prospectivos, no certificación retroactiva.

@@ -6,3 +6,6 @@ Actualizado 2026-11-25. Repositorio público. Este corpus guarda fichas, referen
 Orden: TKA, DAH, HAI, HNG y JMK primero por aplicabilidad. Después MSC, YGO, BLU, CHI, MCL, KAI, AKA, END, ATS. La selección es editorial, no canon. Para estudiar prosa inglesa, usar novelas en inglés y distinguir decisiones del traductor. Manga: extraer secuencias, montaje y subtexto visual; no medir estilo de prosa como si fuera novela.
 
 Ver CATALOG.tsv, CHAPTER_PROTOCOL.md, TECHNIQUES.md y fichas en works/. Registrar cada capítulo consultado con edición, localizador y evidencia breve para auditoría; guardar análisis transformativos y no resúmenes exhaustivos sustitutivos.
+
+## Método portable vigente
+[DISTILLATION_METHOD/README.md](DISTILLATION_METHOD/README.md) y [prompt maestro](DISTILLATION_METHOD/MASTER_PROMPT.md). Formaliza el procedimiento histórico y añade controles explícitos para futuras unidades; STATUS.md prevalece sobre cifras históricas de esta introducción.

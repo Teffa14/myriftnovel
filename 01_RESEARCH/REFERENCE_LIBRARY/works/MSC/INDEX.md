@@ -38,3 +38,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX11–EX13
 [Análisis conjunto](RECRUITMENT_PRACTICE_OPTIMIZATION_ANALYSIS.md): tres muestras distintas, reclutamiento, ejecución de combinación aprendida, especialización, optimización y encuentro profesional. 24 entradas y nueve bloques originales. Créditos Star River/Rhith; capítulo no confirmado.
+
+## MSC-EX14–EX15
+[Análisis](NEGOTIATION_AND_TARGETED_SEARCH_ANALYSIS.md): negociación de derechos, conversión y pago, empleo pendiente, búsqueda especializada, identidad y recuperación causal. 16 entradas y 6 bloques nuevos. Cobertura parcial.
