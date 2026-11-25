@@ -1,0 +1,190 @@
+[
+  {
+    "id": "V01",
+    "name": "Favorite-champion loyalist",
+    "goal": "Wants to play a champion they loved in League; may know lore better than the meta.",
+    "register": "Names champions first; talks in matchups and personal affection; sometimes jokes about awful results.",
+    "variation": "May switch temporarily when they need a specific prize.",
+    "source_ids": [
+      "COM-004",
+      "COM-009",
+      "COM-010"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V02",
+    "name": "Budget optimizer",
+    "goal": "Needs deck upgrades to survive bills and shipping costs.",
+    "register": "Concrete totals, spare copies, condition, trade offers; distinguishes cheap from affordable.",
+    "variation": "Can own one premium card as a gift without being hypocritical.",
+    "source_ids": [
+      "COM-004",
+      "COM-006",
+      "COM-018",
+      "COM-024"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V03",
+    "name": "Binder collector",
+    "goal": "Wants a particular art, foil, language or theme, independent of winning.",
+    "register": "Notices printing, corners, glare and binder gaps; asks to see rather than borrow.",
+    "variation": "May play one favorite deck casually and know obscure rules.",
+    "source_ids": [
+      "COM-006",
+      "COM-013",
+      "COM-016",
+      "COM-017"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V04",
+    "name": "Competitive grinder",
+    "goal": "Wants repetitions and preparation for a larger event.",
+    "register": "Compressed matchup vocabulary, quantities, results, time; can be blunt.",
+    "variation": "Can help a newcomer after beating them; keeps some prep private.",
+    "source_ids": [
+      "COM-005",
+      "COM-009",
+      "COM-020",
+      "COM-021"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V05",
+    "name": "First-TCG newcomer",
+    "goal": "Wants to know whether they can attend without embarrassment.",
+    "register": "Hedges, asks practical questions, confuses familiar concepts, uses League references.",
+    "variation": "Learns independently and may beat veterans; do not use perpetual novice.",
+    "source_ids": [
+      "COM-002",
+      "COM-014",
+      "COM-020",
+      "COM-022"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V06",
+    "name": "Returning veteran",
+    "goal": "Wants familiar competitive pleasures but is learning different mechanics.",
+    "register": "Cross-game comparisons; strong intuitions, some incorrect carryover.",
+    "variation": "Can admit prior game knowledge did not transfer.",
+    "source_ids": [
+      "COM-015",
+      "COM-018",
+      "COM-022",
+      "COM-024"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V07",
+    "name": "Jank brewer",
+    "goal": "Wants an unconventional interaction to work in a real match.",
+    "register": "Conditional excitement, recounts a single test, sometimes overgeneralizes.",
+    "variation": "Can have a valid discovery or quietly shelve an idea.",
+    "source_ids": [
+      "COM-004",
+      "COM-005",
+      "COM-009",
+      "COM-014"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V08",
+    "name": "Salted regular",
+    "goal": "Wants to vent after a frustrating match or ban.",
+    "register": "Hyperbole, selective memory, brief profanity, changes topic after venting.",
+    "variation": "May be generous in trades and never hostile to an opponent.",
+    "source_ids": [
+      "COM-001",
+      "COM-004",
+      "COM-009",
+      "COM-023"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V09",
+    "name": "Rules stickler",
+    "goal": "Wants the same ruling applied to everyone.",
+    "register": "Distinguishes exact wording from memory, asks for source, calls judge.",
+    "variation": "May be wrong and accept correction without humiliation.",
+    "source_ids": [
+      "COM-015",
+      "COM-021"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V10",
+    "name": "Shop steward",
+    "goal": "Wants sustainable turnout and workable event logistics.",
+    "register": "Tables, fees, staff shifts, kit inventory; practical constraints.",
+    "variation": "Can be sympathetic without granting every request.",
+    "source_ids": [
+      "COM-001",
+      "COM-002",
+      "COM-007"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V11",
+    "name": "Casual social regular",
+    "goal": "Wants a predictable evening with friends or an enjoyable game.",
+    "register": "Talks food, work, rides, favorite deck, simple results.",
+    "variation": "Can be strong when motivated; not defined by losing.",
+    "source_ids": [
+      "COM-009",
+      "COM-018",
+      "COM-020"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V12",
+    "name": "Hardware and art tinkerer",
+    "goal": "Enjoys accessories, fan tools, custom art and presentation.",
+    "register": "Materials, fit, usability, delivery; hands-on demonstration.",
+    "variation": "Not every project becomes a business; respect card legality.",
+    "source_ids": [
+      "COM-008",
+      "COM-011",
+      "COM-016",
+      "COM-019"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V13",
+    "name": "Rumor relay",
+    "goal": "Wants to be first with a reveal or prediction.",
+    "register": "Uncertain attribution, hearsay, screenshots, speculative domains.",
+    "variation": "Can retract a claim; never narrate rumor as fact.",
+    "source_ids": [
+      "COM-003",
+      "COM-010",
+      "COM-023"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  },
+  {
+    "id": "V14",
+    "name": "Nonplayer companion",
+    "goal": "Wants to support a friend or partner without knowing all card jargon.",
+    "register": "Asks what gift is useful, when the event ends, what the cards are for.",
+    "variation": "Has an independent schedule and interests.",
+    "source_ids": [
+      "COM-019",
+      "COM-002"
+    ],
+    "status": "fictional composite; not a real person or canon character"
+  }
+]

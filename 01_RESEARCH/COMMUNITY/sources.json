@@ -1,0 +1,413 @@
+[
+  {
+    "id": "COM-001",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xvcfa6/radiance_ban_list_updates_effective_november_23/",
+    "topic": "Ban response",
+    "tags": [
+      "ban",
+      "identity",
+      "store",
+      "debate"
+    ],
+    "observation": "Players welcome restrictions, question Baited Hook, appreciate freed deck slots, or fear collateral damage and future viability. A self-described shop operator worries that favorite-champion players may avoid larger events; replies disagree about how much early design mistakes predict future releases.",
+    "published_date": "2026-11-13",
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-002",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1qy5hcd/toxicity/",
+    "topic": "Local community conduct",
+    "tags": [
+      "belonging",
+      "conflict",
+      "store"
+    ],
+    "observation": "A reported bad prerelease experience prompts contrasting accounts of kind and hostile shops; posters discuss reporting behavior, changing venues, whether staff witnessed it, and helping beginners. Do not turn reports into verified allegations.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-003",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1y1k85t/why_hasnt_riot_released_an_official_digital/",
+    "topic": "Digital client speculation",
+    "tags": [
+      "technology",
+      "rumor",
+      "debate"
+    ],
+    "observation": "Players dispute why no official client exists; some invoke development time, paper play and product overlap, others speculate about surveys or hiring. Claims about internal plans are unconfirmed.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-004",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xwcju0/when_bans_dont_affect_your_deck/",
+    "topic": "Ban-proof deck humor",
+    "tags": [
+      "ban",
+      "budget",
+      "identity",
+      "humor"
+    ],
+    "observation": "Some celebrate keeping an inexpensive or unfashionable list; others resent losing shared cards because stronger decks exploited them. Champion loyalties and teasing cross-color predictions appear alongside relief at avoiding expensive purchases.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-005",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1y0w4dz/which_deck_teach_you_the_most_transferable_skills/",
+    "topic": "Learning through decks",
+    "tags": [
+      "learning",
+      "brewing",
+      "identity"
+    ],
+    "observation": "A player wants useful habits and reusable staples, not merely an easy deck. Replies propose learning attack, hold and timing from different legends; these are personal recommendations, not proven teaching outcomes.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-006",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xwa713/prices_keep_falling_and_i_love_it/",
+    "topic": "Collecting and prices",
+    "tags": [
+      "collector",
+      "budget",
+      "market"
+    ],
+    "observation": "Collecting goals differ: master sets, themed art, foiling a playable list, or waiting for an overnumber to become affordable. Players distinguish premium printings from game-piece demand, and compare costs to other TCGs.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-007",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xwghvm/won_a_skirmish_today_but/",
+    "topic": "Prize expectations",
+    "tags": [
+      "prizing",
+      "store",
+      "conflict"
+    ],
+    "observation": "A reported missing prize sparks conflicting price estimates, reports of other stores giving prizes with small attendance, and suggestions to contact organizers. Do not treat speculation about seller motives as fact or use Reddit to certify policy.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-008",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1wqkej9/made_a_daily_riftbound_guessing_game_riftle_guess/",
+    "topic": "Fan puzzle",
+    "tags": [
+      "technology",
+      "humor",
+      "leisure"
+    ],
+    "observation": "A community member advertises a daily card-identification puzzle. Hobby activity extends beyond matches; no visible comment sample in retrieved page.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post text; comments not inspected",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-009",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xngf5r/attend_your_local_events/",
+    "topic": "Why attend locals",
+    "tags": [
+      "locals",
+      "casual",
+      "meta",
+      "belonging"
+    ],
+    "observation": "Some complain about repetitive top decks, while others report varied small events, experiment with lists, enjoy meeting people or play for fun despite losses. Differences of opinion about drinking at an event and local availability appear.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-010",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1y0oz1a/nunu_willump_possible_legend_domains/",
+    "topic": "Champion speculation",
+    "tags": [
+      "lore",
+      "rumor",
+      "leisure"
+    ],
+    "observation": "Fans predict future domains from personality, video-game roles and unused combinations; others simply wish for a favored pair. None of these predictions are confirmed releases.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-011",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1y03mlv/completed_the_kda_set_since_i_didnt_win_the_raffle/",
+    "topic": "Custom art",
+    "tags": [
+      "collector",
+      "craft",
+      "availability"
+    ],
+    "observation": "A raffle miss prompts a fan-made set; replies discuss textures, printing, finish and aesthetics. Treat custom art as such; never imply tournament legality.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-012",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xyqqtb/8_top_32_decks_that_dont_lose_a_single_card_to/",
+    "topic": "Ban survival and deck budget",
+    "tags": [
+      "ban",
+      "market",
+      "brewing"
+    ],
+    "observation": "A community post compares historical high-placing lists reportedly untouched by bans and build prices without sideboards. These are leads for separately sourced deck research, not verified current quotes.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post text; comments not inspected",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-013",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xwhlfn/favorite_card_lets_see_yours/",
+    "topic": "Favorite art",
+    "tags": [
+      "collector",
+      "identity",
+      "lore"
+    ],
+    "observation": "Players discuss favorite artwork, poro collecting, region-exclusive printings, grading and affordability; affection for an illustration can matter independently of gameplay.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-014",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xlznod/just_recently_got_into_riftbound_and_built_my/",
+    "topic": "First deck advice",
+    "tags": [
+      "learning",
+      "brewing",
+      "collection"
+    ],
+    "observation": "A beginner asks what to replace using cards already owned. Replies suggest changing battlefields and slots; the beginner offers a collection list. No proposed card interaction is independently certified here.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-015",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1v7awje/can_we_finally_get_the_official_result_regarding/",
+    "topic": "Ruling confusion",
+    "tags": [
+      "rules",
+      "debate",
+      "frustration"
+    ],
+    "observation": "Players disagree about interpretation and alleged official social-media answers. The emotional response to unclear wording can itself be part of table culture; use official rulings for mechanics.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-016",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xup2ck/the_cards_from_the_kda_bundle_are_gorgeous/",
+    "topic": "Premium product arrival",
+    "tags": [
+      "collector",
+      "shipping",
+      "craft"
+    ],
+    "observation": "Comments shift from aesthetics to delivery labels, shipment batches, protective sleeves and shape preferences; people compare arrival status with others.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-017",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1xggyu8/aaaaa_i_pulled_a_signature/",
+    "topic": "Rare pull celebration",
+    "tags": [
+      "collector",
+      "humor",
+      "envy"
+    ],
+    "observation": "Congratulations coexist with envy, jokes about exhausted luck, chase-card wishes and grading plans. Do not infer pull rates from highlight posts.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-018",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1wkv46r/is_every_riftbound_scene_competitive/",
+    "topic": "Budget and competitive expectations",
+    "tags": [
+      "budget",
+      "casual",
+      "debate"
+    ],
+    "observation": "Players dispute what counts as affordable, invoke other games and formats, and disagree about whether low-budget play is realistic. Personal budget and local environment matter more than universal conclusions.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-019",
+    "subreddit": "r/Riftbound",
+    "url": "https://www.reddit.com/r/Riftbound/comments/1relig0/small_gift_suggestion_for_someone_who_is_really/",
+    "topic": "Gifts and accessories",
+    "tags": [
+      "accessories",
+      "relationships",
+      "leisure"
+    ],
+    "observation": "People suggest sleeves, binders, boxes, playmats, dice and tokens to gift-givers who do not know a decklist. Accessories and presentation have emotional value.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": true
+  },
+  {
+    "id": "COM-020",
+    "subreddit": "r/riftboundtcg",
+    "url": "https://www.reddit.com/r/riftboundtcg/comments/1vnkeia/are_people_nice_to_beginners/",
+    "topic": "First event anxiety",
+    "tags": [
+      "learning",
+      "belonging",
+      "locals"
+    ],
+    "observation": "Newcomer anxiety about errors, cost and belonging prompts reassurance, pragmatic expectations of losses and recognition that friendly opponents still play to win.",
+    "published_date": "2026-08-13",
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": false
+  },
+  {
+    "id": "COM-021",
+    "subreddit": "r/riftboundtcg",
+    "url": "https://www.reddit.com/r/riftboundtcg/comments/1wbea2r/anyone_experienced_pro_players_slow_play_during_rq/",
+    "topic": "Pace and judge capacity",
+    "tags": [
+      "rules",
+      "clock",
+      "conflict"
+    ],
+    "observation": "Players discuss calling judges, difference between slow decisions and intentional delay, competing demands on officials and difficulty witnessing pace. Treat policy comments as unverified.",
+    "published_date": "2026-09-09",
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": false
+  },
+  {
+    "id": "COM-022",
+    "subreddit": "r/riftboundtcg",
+    "url": "https://www.reddit.com/r/riftboundtcg/comments/1ow1eb0/feeling_discouraged_from_going_to_locals_again/",
+    "topic": "Discouragement despite kindness",
+    "tags": [
+      "learning",
+      "budget",
+      "belonging"
+    ],
+    "observation": "A returning player reports losing heavily despite friendly opponents; responses propose budget lists, practice and different expectations. Earlier Origins-era claims must not be projected onto Radiance.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": false
+  },
+  {
+    "id": "COM-023",
+    "subreddit": "r/riftboundtcg",
+    "url": "https://www.reddit.com/r/riftboundtcg/comments/1xvbs6h/radiance_ban_list_updates_effective_november_23/",
+    "topic": "Parallel ban discussion",
+    "tags": [
+      "ban",
+      "rumor",
+      "debate"
+    ],
+    "observation": "Comments dispute collateral effects, speculate about replacement decks and staple prices, and criticize reading headlines without rationale. Parallel discussion of the same announcement is not independent event evidence.",
+    "published_date": "2026-11-13",
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": false
+  },
+  {
+    "id": "COM-024",
+    "subreddit": "r/riftboundtcg",
+    "url": "https://www.reddit.com/r/riftboundtcg/comments/1ql4mn8/singles_are_cheaper_than_ever_right_now_whats_the/",
+    "topic": "Singles versus packs",
+    "tags": [
+      "market",
+      "budget",
+      "collection"
+    ],
+    "observation": "One side recommends buying targeted singles; others compare shipping costs, starter-deck scarcity and prices in other games. Reports are historical anecdotes, not current pricing.",
+    "published_date": null,
+    "accessed_date": "2026-11-25",
+    "coverage": "post and accessible comment excerpts",
+    "evidence_type": "public community discussion; anecdotal, not representative or official",
+    "primary": false
+  }
+]

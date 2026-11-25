@@ -1,0 +1,27 @@
+{
+  "date": "2026-11-25",
+  "scope": "structural reference checks executed in JavaScript; not a statistical or semantic validation of Reddit",
+  "threads": 24,
+  "primary": 19,
+  "supplementary": 5,
+  "voices": 14,
+  "dialogue_exercises": 36,
+  "situations": 16,
+  "checks": {
+    "unique_threads": true,
+    "unique_source_ids": true,
+    "all_voice_sources": true,
+    "all_dialogue_sources": true,
+    "all_dialogue_voices": true,
+    "all_scene_sources": true,
+    "all_original_samples": true,
+    "primary_separation": true,
+    "unique_dialogues": true
+  },
+  "limitations": [
+    "Purposive sample of public web-indexed threads and visible comment excerpts, not exhaustive crawl; collapsed replies and failed pages excluded.",
+    "No account handles, raw comments, profile histories, or private data retained.",
+    "Publication dates not inferred from inconsistent relative labels. Recheck dated claim before use in story.",
+    "No frequency claims, no word-level corpus metrics, no verified policy conclusions from Reddit."
+  ]
+}

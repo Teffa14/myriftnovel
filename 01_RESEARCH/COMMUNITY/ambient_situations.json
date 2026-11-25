@@ -1,0 +1,223 @@
+[
+  {
+    "id": "S01",
+    "where": "Between rounds",
+    "setup": "A regular asks about a match while their friend is trying to find a power outlet. They abandon the conversation when pairings appear.",
+    "tags": [
+      "locals",
+      "ordinary"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-021"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S02",
+    "where": "Binder counter",
+    "setup": "A collector and a budget player value the same card differently. They decline a trade amicably and leave with different purchases.",
+    "tags": [
+      "collector",
+      "market"
+    ],
+    "source_ids": [
+      "COM-006",
+      "COM-013"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S03",
+    "where": "Pack opening",
+    "setup": "A spectator celebrates a rare pull, then remembers they have not registered. The store employee keeps the queue moving.",
+    "tags": [
+      "collector",
+      "store"
+    ],
+    "source_ids": [
+      "COM-017",
+      "COM-007"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S04",
+    "where": "Group chat",
+    "setup": "Someone posts a confidently wrong prediction, another asks for a source, a third replies with a meme. No final consensus.",
+    "tags": [
+      "rumor",
+      "ban"
+    ],
+    "source_ids": [
+      "COM-001",
+      "COM-023"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S05",
+    "where": "Lunch break",
+    "setup": "Two players discuss what they dislike about an archetype, then one interrupts to call a family member about pickup.",
+    "tags": [
+      "locals",
+      "ordinary"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-018"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S06",
+    "where": "After a loss",
+    "setup": "One player complains about their draw; their friend asks if they want food rather than offering advice. The player later requests a review.",
+    "tags": [
+      "results",
+      "belonging"
+    ],
+    "source_ids": [
+      "COM-022",
+      "COM-020"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S07",
+    "where": "Event entry",
+    "setup": "A novice asks about an accessory and pairings; an experienced player provides a small practical answer, then returns to their own game.",
+    "tags": [
+      "learning",
+      "accessories"
+    ],
+    "source_ids": [
+      "COM-019",
+      "COM-020"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S08",
+    "where": "Store dispute",
+    "setup": "Players disagree about a posted prize. Staff check the written announcement and avoid guessing about organizer intent.",
+    "tags": [
+      "prizing",
+      "conflict"
+    ],
+    "source_ids": [
+      "COM-007"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S09",
+    "where": "Ruling wait",
+    "setup": "A judge settles a question; one player realizes their remembered wording was outdated. Others at nearby tables remain focused on their own matches.",
+    "tags": [
+      "rules",
+      "clock"
+    ],
+    "source_ids": [
+      "COM-015",
+      "COM-021"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S10",
+    "where": "Practice",
+    "setup": "A brewer offers an experiment; the other player wants to finish a test they planned. They negotiate one game later rather than instantly helping.",
+    "tags": [
+      "brewing",
+      "learning"
+    ],
+    "source_ids": [
+      "COM-005",
+      "COM-014"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S11",
+    "where": "Unrelated visit",
+    "setup": "A nonplayer arrives to buy a gift; their companion has to leave early for a household commitment.",
+    "tags": [
+      "gift",
+      "ordinary"
+    ],
+    "source_ids": [
+      "COM-019"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S12",
+    "where": "Collection delivery",
+    "setup": "A player checks package tracking while someone else compares deck sleeves. Neither topic is relevant to the tournament.",
+    "tags": [
+      "shipping",
+      "accessories"
+    ],
+    "source_ids": [
+      "COM-016",
+      "COM-019"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S13",
+    "where": "Independent regular",
+    "setup": "A returning player recognizes a newcomer from another shop and asks how their earlier deck turned out. No protagonist intervention.",
+    "tags": [
+      "belonging",
+      "locals"
+    ],
+    "source_ids": [
+      "COM-002",
+      "COM-009"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S14",
+    "where": "Fan speculation",
+    "setup": "Several players assign imagined domains to a favorite unreleased champion and move on without agreeing.",
+    "tags": [
+      "lore",
+      "rumor"
+    ],
+    "source_ids": [
+      "COM-010"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S15",
+    "where": "Leaving early",
+    "setup": "A strong player drops out because of a shift or a ride. Others disagree whether to stay for casual games.",
+    "tags": [
+      "casual",
+      "work"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-018"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  },
+  {
+    "id": "S16",
+    "where": "Repair after friction",
+    "setup": "A regular makes an ill-considered joke; another objects, the regular apologizes, and they return to the mundane problem of finding a seat.",
+    "tags": [
+      "belonging",
+      "conflict"
+    ],
+    "source_ids": [
+      "COM-002",
+      "COM-020"
+    ],
+    "status": "noncanonical fictional scene seed; change goals, surfaces and sequence for actual use"
+  }
+]

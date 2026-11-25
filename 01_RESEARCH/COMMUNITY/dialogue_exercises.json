@@ -1,0 +1,532 @@
+[
+  {
+    "id": "D001",
+    "theme": "ban",
+    "voices": [
+      "V01",
+      "V08"
+    ],
+    "source_ids": [
+      "COM-001",
+      "COM-004"
+    ],
+    "dialogue": "“I lost two cards.” “You lost your whole deck last week.” “That was unrelated.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D002",
+    "theme": "ban",
+    "voices": [
+      "V02",
+      "V07"
+    ],
+    "source_ids": [
+      "COM-004",
+      "COM-023"
+    ],
+    "dialogue": "“I was gonna order the expensive version on Friday.” “You didn't?” “My car made a noise.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D003",
+    "theme": "ban",
+    "voices": [
+      "V04",
+      "V13"
+    ],
+    "source_ids": [
+      "COM-001",
+      "COM-023"
+    ],
+    "dialogue": "“Everyone's on the new best deck.” “It's Tuesday. You've played three people.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D004",
+    "theme": "market",
+    "voices": [
+      "V02",
+      "V03"
+    ],
+    "source_ids": [
+      "COM-006",
+      "COM-024"
+    ],
+    "dialogue": "“You want the shiny one?” “I want the one that costs less than lunch.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D005",
+    "theme": "market",
+    "voices": [
+      "V02",
+      "V06"
+    ],
+    "source_ids": [
+      "COM-018",
+      "COM-024"
+    ],
+    "dialogue": "“It's a dollar online.” “From four different sellers, plus shipping. That's twelve dollars of cardboard arriving separately.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D006",
+    "theme": "collector",
+    "voices": [
+      "V03",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-013",
+      "COM-017"
+    ],
+    "dialogue": "“Don't put it in the deck. Look at the corner.” “I'm not taking it out of the sleeve, relax.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D007",
+    "theme": "collector",
+    "voices": [
+      "V03",
+      "V12"
+    ],
+    "source_ids": [
+      "COM-006",
+      "COM-016"
+    ],
+    "dialogue": "“I only need the last two in foil.” “You said that about the last set.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D008",
+    "theme": "collector",
+    "voices": [
+      "V03",
+      "V08"
+    ],
+    "source_ids": [
+      "COM-017"
+    ],
+    "dialogue": "“Nice pull.” A beat. “I would like to be happy for you somewhere else.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D009",
+    "theme": "leisure",
+    "voices": [
+      "V12",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-008"
+    ],
+    "dialogue": "“You got today's puzzle?” “I guessed five units before realizing it wasn't a unit.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D010",
+    "theme": "lore",
+    "voices": [
+      "V01",
+      "V13"
+    ],
+    "source_ids": [
+      "COM-010"
+    ],
+    "dialogue": "“If they ever print my main, I'm buying the deck.” “You don't even know the colors.” “I know the champion.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D011",
+    "theme": "shipping",
+    "voices": [
+      "V03",
+      "V12"
+    ],
+    "source_ids": [
+      "COM-016"
+    ],
+    "dialogue": "“Mine says label created.” “Mine's been saying that since I had a different haircut.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D012",
+    "theme": "accessories",
+    "voices": [
+      "V12",
+      "V14"
+    ],
+    "source_ids": [
+      "COM-019"
+    ],
+    "dialogue": "“Are these counters a gift?” “Yeah. I figured he'd have the cards already.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D013",
+    "theme": "accessories",
+    "voices": [
+      "V11",
+      "V12"
+    ],
+    "source_ids": [
+      "COM-019"
+    ],
+    "dialogue": "“Anyone got a spare die? Mine went under the vending machine.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D014",
+    "theme": "learning",
+    "voices": [
+      "V05",
+      "V04"
+    ],
+    "source_ids": [
+      "COM-020",
+      "COM-014"
+    ],
+    "dialogue": "“Can you tell me when I'm about to do something illegal?” “Sure. I'll still try to win.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D015",
+    "theme": "learning",
+    "voices": [
+      "V05",
+      "V06"
+    ],
+    "source_ids": [
+      "COM-015",
+      "COM-020"
+    ],
+    "dialogue": "“Wait, that's not how it worked in Magic.” “Okay. Let's read this one.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D016",
+    "theme": "learning",
+    "voices": [
+      "V05",
+      "V07"
+    ],
+    "source_ids": [
+      "COM-005",
+      "COM-014"
+    ],
+    "dialogue": "“Do I need a second deck?” “You need someone to play the first one against.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D017",
+    "theme": "casual",
+    "voices": [
+      "V11",
+      "V04"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-018"
+    ],
+    "dialogue": "“Are you testing for anything?” “No, man. I got out of the house.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D018",
+    "theme": "locals",
+    "voices": [
+      "V11",
+      "V08"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-022"
+    ],
+    "dialogue": "“Same matchup again.” “At least this guy brought snacks.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D019",
+    "theme": "clock",
+    "voices": [
+      "V04",
+      "V09"
+    ],
+    "source_ids": [
+      "COM-021"
+    ],
+    "dialogue": "“How much time?” “Six minutes.” “Right. Let's get a judge over here.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D020",
+    "theme": "rules",
+    "voices": [
+      "V09",
+      "V06"
+    ],
+    "source_ids": [
+      "COM-015",
+      "COM-021"
+    ],
+    "dialogue": "“Show me where it says that.” “I thought I saw it in the FAQ.” “Okay, let's find it.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D021",
+    "theme": "prizing",
+    "voices": [
+      "V10",
+      "V04"
+    ],
+    "source_ids": [
+      "COM-007"
+    ],
+    "dialogue": "“Is the mat for first place or the raffle?” “I'll check the event announcement before we start.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D022",
+    "theme": "store",
+    "voices": [
+      "V10",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-001",
+      "COM-007"
+    ],
+    "dialogue": "“Can we fit one more table?” “Not if we want anyone to get to the register.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D023",
+    "theme": "belonging",
+    "voices": [
+      "V05",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-002",
+      "COM-020"
+    ],
+    "dialogue": "“Is this seat taken?” “No. Are you here to play or waiting for someone?”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D024",
+    "theme": "belonging",
+    "voices": [
+      "V11",
+      "V09"
+    ],
+    "source_ids": [
+      "COM-002"
+    ],
+    "dialogue": "“He asked a question. Let him finish.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D025",
+    "theme": "technology",
+    "voices": [
+      "V13",
+      "V06"
+    ],
+    "source_ids": [
+      "COM-003"
+    ],
+    "dialogue": "“They've gotta be making a client.” “You said that last set.” “I remain consistent.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D026",
+    "theme": "brewing",
+    "voices": [
+      "V07",
+      "V04"
+    ],
+    "source_ids": [
+      "COM-005",
+      "COM-014"
+    ],
+    "dialogue": "“It's pretty good if they don't interact.” “What are they doing while you're setting that up?”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D027",
+    "theme": "brewing",
+    "voices": [
+      "V07",
+      "V02"
+    ],
+    "source_ids": [
+      "COM-014",
+      "COM-024"
+    ],
+    "dialogue": "“I have two copies already. I'm testing two.” “The list runs three.” “Then the list can buy me one.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D028",
+    "theme": "results",
+    "voices": [
+      "V08",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-022"
+    ],
+    "dialogue": "“I went one-three.” “You staying for another game?” “Yeah. I paid for parking.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D029",
+    "theme": "work",
+    "voices": [
+      "V11",
+      "V04"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-019"
+    ],
+    "dialogue": "“I can do one more. My ride's outside in twenty.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D030",
+    "theme": "gift",
+    "voices": [
+      "V14",
+      "V03"
+    ],
+    "source_ids": [
+      "COM-019",
+      "COM-013"
+    ],
+    "dialogue": "“She likes the pink one. Is that enough information?” “For sleeves, yes. For cards, probably not.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D031",
+    "theme": "rumor",
+    "voices": [
+      "V13",
+      "V09"
+    ],
+    "source_ids": [
+      "COM-003",
+      "COM-010"
+    ],
+    "dialogue": "“Wait, is that actually confirmed?” “No. It's a picture somebody sent me.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D032",
+    "theme": "ordinary",
+    "voices": [
+      "V11",
+      "V10"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-019"
+    ],
+    "dialogue": "“You guys still have the good chips?” “They were gone before round two.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D033",
+    "theme": "ordinary",
+    "voices": [
+      "V05",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-020",
+      "COM-009"
+    ],
+    "dialogue": "“Is the bathroom through here?” “Other door. Watch the bags.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D034",
+    "theme": "ordinary",
+    "voices": [
+      "V03",
+      "V02"
+    ],
+    "source_ids": [
+      "COM-006",
+      "COM-013"
+    ],
+    "dialogue": "“I put your trade in the front pocket. The rest of that binder isn't for sale.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D035",
+    "theme": "ordinary",
+    "voices": [
+      "V04",
+      "V11"
+    ],
+    "source_ids": [
+      "COM-009",
+      "COM-021"
+    ],
+    "dialogue": "“Did you report?” “Not yet. My opponent's buying a drink.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  },
+  {
+    "id": "D036",
+    "theme": "ordinary",
+    "voices": [
+      "V12",
+      "V05"
+    ],
+    "source_ids": [
+      "COM-019",
+      "COM-011"
+    ],
+    "dialogue": "“This box holds double sleeves.” “Does it fit in my bag?” “That's a different problem.”",
+    "origin": "original fictional exercise inspired by abstract themes; not a quotation; not canon; regenerate distinct expression for actual chapter",
+    "technical_claim": "none certified; validate any actual gameplay or event claim independently"
+  }
+]
