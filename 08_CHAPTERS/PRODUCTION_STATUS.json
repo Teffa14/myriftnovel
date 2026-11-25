@@ -14,7 +14,7 @@
     "literary_review": "author accepted; no independent reader certification"
   },
   "chapter_02": {
-    "status": "not_started",
+    "status": "complete_private_candidate_pending_full_archive_review_and_author_approval",
     "preflight": "Retrieve latest authoritative archive v2 or its verified successor; verify manifest with tools/check_future.py --verify-only, validate continuity_registry.json with tools/validate_continuity.py, consult chronology, knowledge, obligations, abstract usage summaries and NDM 2.0 before drafting. Screen candidate against both approved units; never use retired expressions as a generation source.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -37,6 +37,19 @@
       "planned_competitive_scope": "L0, narrative-only; no new mechanical claims planned",
       "private_brief": "Delivered privately in conversation; no plot or manuscript content committed.",
       "limitations": "Applicable source review scoped; some long guides retrieved in excerpts and research archives not exhaustively reprocessed. Finish remaining applicable guide review before drafting. Draft-specific QA, originality screening, author approval and distillation not yet applicable."
+    },
+    "candidate": {
+      "words": 2033,
+      "scenes": 2,
+      "competitive_scope": "L0",
+      "scripted_checks_passed": 14,
+      "scripted_checks_failed": 0,
+      "archive_guard_smoke_tests_passed": 4,
+      "lexical_flags_against_available_texts": 0,
+      "chapter_01_registered_retired_spans_screened": 52,
+      "chapter_01_retired_span_matches": 0,
+      "limitations": "Historical CH0001 V4.1 verified; local CH0001.1 final candidate hash matches local report; current session cannot retrieve authoritative v2 archive, 39 supplement retired spans, or full 101-record continuity registry. G6 not certified, no independent literary rating, no author approval, no canon promotion.",
+      "manuscript_storage": "private conversation delivery only; no text or provisional plot details committed"
     }
   },
   "publication": "not published by this work; rights gate separate",
