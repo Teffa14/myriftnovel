@@ -1,26 +1,26 @@
 {
   "version": "2.0",
   "approved_chapters_registered": 5,
-  "retired_resources_registered": 242,
-  "manuscript_audits": 6,
+  "retired_resources_registered": 278,
+  "manuscript_audits": 7,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 6,
-    "new_variant_candidates": 17
+    "own_approved_units": 7,
+    "new_variant_candidates": 20
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "authoritative v6 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "authoritative v7 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
-  "usage_records": 95,
-  "lexical_fingerprints_registered": 12551,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
+  "usage_records": 110,
+  "lexical_fingerprints_registered": 14403,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -43,8 +43,8 @@
     "failed": 0,
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
-  "approved_supplements_registered": 1,
-  "approved_units_registered": 6,
+  "approved_supplements_registered": 2,
+  "approved_units_registered": 7,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -144,5 +144,26 @@
     "passed": 39,
     "failed": 0,
     "scope": "named local closeout checks; tactical block and guard tests nested; separate persistent readback"
+  },
+  "chapter_5_1": {
+    "display_number": "5.5",
+    "revision": "V2",
+    "words": 1859,
+    "paragraphs": 103,
+    "scenes": 6,
+    "distinctive_retired_spans": 36,
+    "usage_records": 15,
+    "abstract_variants": 3,
+    "lexical_fingerprints": 1852,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0",
+    "g6": "explicitly approved, distilled, persisted and verified; supplement order and negative fixtures passed"
+  },
+  "chapter_5_1_registration_checks": {
+    "passed": 42,
+    "failed": 0,
+    "scope": "named closeout checks; guard tests nested; separate persistent readback"
   }
 }

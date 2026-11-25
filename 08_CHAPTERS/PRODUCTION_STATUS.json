@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 319,
-    "events": 39,
-    "approved_records": 319,
-    "open_issue_groups": 8,
+    "records": 378,
+    "events": 45,
+    "approved_records": 378,
+    "open_issue_groups": 9,
     "structural_validation": "fresh Library readback passed; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v6.zip",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 39,
+    "passed": 42,
     "failed": 0,
-    "scope": "CH5 closeout, plus fresh persistent archive/continuity/guard readback"
+    "scope": "CH0005.1 closeout, plus fresh persistent archive/continuity/guard readback"
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -303,7 +303,7 @@
   },
   "chapter_06": {
     "status": "not_started",
-    "preflight": "CH0005.1 (display 5.5) optional supplement requested and preflighted. Resolve its approval/closeout or explicit deferral before drafting CH6. Retrieve authoritative v6 or verified successor; run validators, read private payoff ledger, preserve unresolved practice and chronology."
+    "preflight": "CH0005.1 (display 5.5) closed. Retrieve verified v7 or successor, full approved history, source-linked continuity and private pilot/payoff ledger; preserve unresolved practice chronology, verify next chapter scope, run fresh originality and competitive checks as applicable. No automatic draft or publication."
   },
   "chapter_05_1": {
     "id": "CH0005.1",
@@ -311,7 +311,7 @@
     "parent_number": 5,
     "supplement_index": 1,
     "format": "optional supplement; excluded from 20 main chapters",
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight_result": {
       "status": "scoped_preflight_completed",
       "source_commit": "5cbccfef5b50833bf780b06af01a7aec44aec045",
@@ -338,6 +338,28 @@
       "planned_scope": "L0",
       "limitations": "No manuscript or new canon. Selected repository files/excerpts only. No literary score or gameplay certification.",
       "next_gate": "Draft when authorized; separate approval and closeout before main CH6; keep display label separate from sequential internal supplement ID."
-    }
+    },
+    "revision": "V2",
+    "title": "Away from the Table",
+    "words_excluding_headings": 1859,
+    "paragraphs": 103,
+    "scenes": 6,
+    "retired_resources": 36,
+    "abstract_usage_records": 15,
+    "variant_candidates": 3,
+    "lexical_fingerprints": 1852,
+    "competitive_scope": "L0; no new card interaction or match result",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "a0d955c1158437c0beb0ccb672f9c32962ed32549d9d0fc32e506a4db92df95d",
+    "archive_storage": "Library exact byte readback verified; fresh manifest, continuity and four guard checks passed",
+    "checks": {
+      "passed": 42,
+      "failed": 0,
+      "scope": "named closeout checks include nested guard tests and supplement order negative controls; separately verified persistent archive"
+    },
+    "approval": "Explicit author approval of V2; Markdown chapter heading marker only; prose, date, cast headings and separators preserved",
+    "literary_review": "Prior editorial means retained: 8.8777777778 literary, 8.55625 serial; no independent reader data",
+    "publication": "not published"
   }
 }
