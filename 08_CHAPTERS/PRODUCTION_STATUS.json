@@ -17,5 +17,23 @@
     "status": "not_started",
     "preflight": "ChatGPT retrieve private archive from Library, verify manifest and hashes with private tools/check_future.py --verify-only; load private continuity and abstract usage summaries, complete any outstanding scoped reference review, write without retrieving retired wording for generation; screen candidate and conduct semantic review before approval"
   },
-  "publication": "not published by this work; rights gate separate"
+  "publication": "not published by this work; rights gate separate",
+  "chapter_01_1": {
+    "id": "CH0001.1",
+    "title": "Faces at the Table",
+    "status": "draft_pending_author_approval",
+    "format": "optional reader-facing character interlude, separate from numbered main chapters",
+    "words_excluding_headings": 884,
+    "profiles": 6,
+    "originality": {
+      "prior_archive_verified": true,
+      "retired_expression_matches": 0,
+      "body_lexical_flags": 0,
+      "heading_only_matches": 2,
+      "scope": "Python lexical screening and same-agent editorial comparison; no exhaustive source-semantic certification"
+    },
+    "character_details": "proposed; do not treat as locked until approval",
+    "publication": "not published",
+    "archive_requirement": "On approval extend the private manifest and checker to include interlude as an ordered supplementary unit without changing CH0001 or counting it as CH0002; distill and retire its expressive resources before subsequent drafting."
+  }
 }
