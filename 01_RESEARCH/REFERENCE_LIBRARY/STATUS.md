@@ -116,3 +116,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## EZR — Backpack Ezreal (2026-11-25)
 [Research index](works/EZR/INDEX.md): 10,276 tokens, 50 units, 24 role records, six matchup contexts, six conditional sideboard policies, 46 candidate mechanisms and six exercises. Mixed historical versions, eight ban references, missing image inventory and unverified loops. No current legal list or replay certified.
+
+## AYI — historical Aurora Yi (2026-11-25)
+[Research index](works/AYI/INDEX.md): 24,135 tokens, 77 units, 29 card-role records, 14 matchup contexts, 20 count-balanced swap policies (two inferred branches), 60 candidate mechanisms and eight exercises. 12 distinct resource curves and 495 color-subset checks. Main and Vegas retired versions separate; no current legal list or replay certified.

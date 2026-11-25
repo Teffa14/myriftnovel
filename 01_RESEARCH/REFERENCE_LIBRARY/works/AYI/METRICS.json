@@ -1,0 +1,599 @@
+{
+  "source": "Aurora Master Yi guide (Villionaire / Antyn Vejil, Challenger TCG sign-off)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "c869dac3a011f84abdc4fb377153b4bc30c9c35074413964db2a41ad0b37d53e",
+  "bytes": 134607,
+  "lines": 1995,
+  "word_tokens": 24135,
+  "distinct_lowercase_forms": 2045,
+  "blocks": 750,
+  "image_placeholders": 67,
+  "method": "Python UTF-8-sig; Unicode alphabetic tokens with internal apostrophe/hyphen; includes labels, headings, URLs and repeated passages. Blank-line-delimited blocks. 77 heading-defined units; four layer ranges. Repeated strategic passages retained as version occurrences, not independent corroboration.",
+  "units": [
+    {
+      "id": "AYI-U01",
+      "start": 1,
+      "end": 18,
+      "tokens": 603,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U02",
+      "start": 19,
+      "end": 35,
+      "tokens": 474,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U03",
+      "start": 36,
+      "end": 43,
+      "tokens": 9,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U04",
+      "start": 44,
+      "end": 45,
+      "tokens": 4,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U05",
+      "start": 46,
+      "end": 51,
+      "tokens": 295,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U06",
+      "start": 52,
+      "end": 57,
+      "tokens": 258,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U07",
+      "start": 58,
+      "end": 61,
+      "tokens": 96,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U08",
+      "start": 62,
+      "end": 69,
+      "tokens": 214,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U09",
+      "start": 70,
+      "end": 80,
+      "tokens": 184,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U10",
+      "start": 81,
+      "end": 88,
+      "tokens": 231,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U11",
+      "start": 89,
+      "end": 95,
+      "tokens": 361,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U12",
+      "start": 96,
+      "end": 101,
+      "tokens": 119,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U13",
+      "start": 102,
+      "end": 103,
+      "tokens": 1,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U14",
+      "start": 104,
+      "end": 113,
+      "tokens": 226,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U15",
+      "start": 114,
+      "end": 119,
+      "tokens": 204,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U16",
+      "start": 120,
+      "end": 125,
+      "tokens": 381,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U17",
+      "start": 126,
+      "end": 131,
+      "tokens": 215,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U18",
+      "start": 132,
+      "end": 139,
+      "tokens": 136,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U19",
+      "start": 140,
+      "end": 147,
+      "tokens": 166,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U20",
+      "start": 148,
+      "end": 155,
+      "tokens": 142,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U21",
+      "start": 156,
+      "end": 163,
+      "tokens": 192,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U22",
+      "start": 164,
+      "end": 173,
+      "tokens": 266,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U23",
+      "start": 174,
+      "end": 175,
+      "tokens": 1,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U24",
+      "start": 176,
+      "end": 181,
+      "tokens": 432,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U25",
+      "start": 182,
+      "end": 191,
+      "tokens": 388,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U26",
+      "start": 192,
+      "end": 197,
+      "tokens": 290,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U27",
+      "start": 198,
+      "end": 205,
+      "tokens": 201,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U28",
+      "start": 206,
+      "end": 207,
+      "tokens": 1,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U29",
+      "start": 208,
+      "end": 213,
+      "tokens": 397,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U30",
+      "start": 214,
+      "end": 227,
+      "tokens": 521,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U31",
+      "start": 228,
+      "end": 239,
+      "tokens": 399,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U32",
+      "start": 240,
+      "end": 245,
+      "tokens": 108,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U33",
+      "start": 246,
+      "end": 251,
+      "tokens": 68,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U34",
+      "start": 252,
+      "end": 259,
+      "tokens": 62,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U35",
+      "start": 260,
+      "end": 267,
+      "tokens": 76,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U36",
+      "start": 268,
+      "end": 275,
+      "tokens": 141,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U37",
+      "start": 276,
+      "end": 283,
+      "tokens": 135,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U38",
+      "start": 284,
+      "end": 291,
+      "tokens": 155,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U39",
+      "start": 292,
+      "end": 293,
+      "tokens": 2,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U40",
+      "start": 294,
+      "end": 307,
+      "tokens": 587,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U41",
+      "start": 308,
+      "end": 315,
+      "tokens": 238,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U42",
+      "start": 316,
+      "end": 326,
+      "tokens": 256,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U43",
+      "start": 327,
+      "end": 334,
+      "tokens": 183,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U44",
+      "start": 335,
+      "end": 344,
+      "tokens": 256,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U45",
+      "start": 345,
+      "end": 354,
+      "tokens": 312,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U46",
+      "start": 355,
+      "end": 362,
+      "tokens": 144,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U47",
+      "start": 363,
+      "end": 372,
+      "tokens": 114,
+      "layer": "retired slots"
+    },
+    {
+      "id": "AYI-U48",
+      "start": 373,
+      "end": 411,
+      "tokens": 1158,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U49",
+      "start": 412,
+      "end": 419,
+      "tokens": 362,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U50",
+      "start": 420,
+      "end": 425,
+      "tokens": 185,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U51",
+      "start": 426,
+      "end": 507,
+      "tokens": 1023,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U52",
+      "start": 508,
+      "end": 597,
+      "tokens": 535,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U53",
+      "start": 598,
+      "end": 709,
+      "tokens": 551,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U54",
+      "start": 710,
+      "end": 794,
+      "tokens": 711,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U55",
+      "start": 795,
+      "end": 880,
+      "tokens": 957,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U56",
+      "start": 881,
+      "end": 965,
+      "tokens": 420,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U57",
+      "start": 966,
+      "end": 1052,
+      "tokens": 567,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U58",
+      "start": 1053,
+      "end": 1189,
+      "tokens": 861,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U59",
+      "start": 1190,
+      "end": 1213,
+      "tokens": 1,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U60",
+      "start": 1214,
+      "end": 1221,
+      "tokens": 8,
+      "layer": "main"
+    },
+    {
+      "id": "AYI-U61",
+      "start": 1222,
+      "end": 1229,
+      "tokens": 119,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U62",
+      "start": 1230,
+      "end": 1247,
+      "tokens": 473,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U63",
+      "start": 1248,
+      "end": 1257,
+      "tokens": 215,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U64",
+      "start": 1258,
+      "end": 1263,
+      "tokens": 355,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U65",
+      "start": 1264,
+      "end": 1269,
+      "tokens": 131,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U66",
+      "start": 1270,
+      "end": 1275,
+      "tokens": 242,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U67",
+      "start": 1276,
+      "end": 1281,
+      "tokens": 226,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U68",
+      "start": 1282,
+      "end": 1287,
+      "tokens": 97,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U69",
+      "start": 1288,
+      "end": 1313,
+      "tokens": 265,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U70",
+      "start": 1314,
+      "end": 1405,
+      "tokens": 742,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U71",
+      "start": 1406,
+      "end": 1492,
+      "tokens": 4,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U72",
+      "start": 1493,
+      "end": 1597,
+      "tokens": 708,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U73",
+      "start": 1598,
+      "end": 1690,
+      "tokens": 969,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U74",
+      "start": 1691,
+      "end": 1798,
+      "tokens": 843,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U75",
+      "start": 1799,
+      "end": 1891,
+      "tokens": 469,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U76",
+      "start": 1892,
+      "end": 1986,
+      "tokens": 510,
+      "layer": "retired Vegas"
+    },
+    {
+      "id": "AYI-U77",
+      "start": 1987,
+      "end": 1995,
+      "tokens": 184,
+      "layer": "retired Vegas"
+    }
+  ],
+  "layer_counts": [
+    {
+      "start": 1,
+      "end": 291,
+      "tokens": 8152
+    },
+    {
+      "start": 292,
+      "end": 372,
+      "tokens": 2092
+    },
+    {
+      "start": 373,
+      "end": 1221,
+      "tokens": 7339
+    },
+    {
+      "start": 1222,
+      "end": 1995,
+      "tokens": 6552
+    }
+  ],
+  "counts": {
+    "role_records": 29,
+    "fields": 5,
+    "matchup_contexts": 14,
+    "sideboard_policies": 20,
+    "mechanisms": 60,
+    "exercises": 8,
+    "curve_cases_distinct": 12,
+    "python_color_subsets": 495
+  },
+  "checks": [
+    "77 contiguous units, 1995 lines, 24135 tokens",
+    "29 role records",
+    "20 count-balanced policies with two inferred branches",
+    "eight-card transform",
+    "14 matchup contexts",
+    "FTG references exist",
+    "10 historical ban flags",
+    "12 distinct curve cases",
+    "60 unique mechanisms",
+    "eight exercise references",
+    "unused source ID"
+  ]
+}

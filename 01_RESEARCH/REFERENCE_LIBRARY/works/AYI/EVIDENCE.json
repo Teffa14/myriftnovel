@@ -1,0 +1,474 @@
+{
+  "legend": {
+    "name": "Master Yi, Wuju Bladesman",
+    "profile_id": "FT-L34",
+    "chosen": "Master Yi, Honed",
+    "chosen_context": "FT-L34-C03"
+  },
+  "runes": {
+    "Body": 6,
+    "Calm": 6
+  },
+  "roles": [
+    {
+      "id": "AYI-C01",
+      "name": "Master Yi, Wuju Bladesman",
+      "source_lines": "46–51",
+      "role": "legend",
+      "quantity": 1,
+      "reason": "Solo defending modifier conditional on combat; FT-L34.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C02",
+      "name": "Master Yi, Honed",
+      "source_lines": "52–57",
+      "role": "chosen",
+      "quantity": 1,
+      "reason": "Ready deployment and cross-field pressure; FT-L34-C03 metadata match, not effective text.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C03",
+      "name": "Mobilize",
+      "source_lines": "104–113",
+      "role": "ramp",
+      "quantity": 3,
+      "reason": "Early resource threshold; three copies inferred from full transformation cuts.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C04",
+      "name": "Defy",
+      "source_lines": "114–119",
+      "role": "interaction",
+      "quantity": 3,
+      "reason": "Limited counter coverage; source sideboard discussion indicates three.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C05",
+      "name": "Charm",
+      "source_lines": "120–125",
+      "role": "interaction",
+      "quantity": null,
+      "reason": "Forced positional change and combat or scoring access; verify actual movement rules.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C06",
+      "name": "Sabotage",
+      "source_lines": "126–131,246–251",
+      "role": "interaction",
+      "quantity": 2,
+      "reason": "Hand interference and information; two main inferred from third copy in side.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C07",
+      "name": "Not So Fast",
+      "source_lines": "132–139,260–267",
+      "role": "interaction",
+      "quantity": 2,
+      "reason": "Protection against targeted effects; two main inferred from third in side.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C08",
+      "name": "Punch First",
+      "source_lines": "140–147,252–259",
+      "role": "modifier",
+      "quantity": 2,
+      "reason": "Threat of combat modifier and resource tradeoff; two main inferred from third side.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C09",
+      "name": "Desert's Call",
+      "source_lines": "148–155",
+      "role": "early development",
+      "quantity": 3,
+      "reason": "Early token pressure without changing unit pool as source claims.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C10",
+      "name": "Find Your Center",
+      "source_lines": "156–163",
+      "role": "ramp/access",
+      "quantity": null,
+      "reason": "Conditional resource and card access.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C11",
+      "name": "Catalyst of Aeons",
+      "source_lines": "164–173",
+      "role": "ramp",
+      "quantity": 3,
+      "reason": "Threshold acceleration.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C12",
+      "name": "Tasty Faefolk",
+      "source_lines": "176–181",
+      "role": "fallback body",
+      "quantity": null,
+      "reason": "Alternative curve and resource recovery.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C13",
+      "name": "Deadbloom Predator",
+      "source_lines": "182–191",
+      "role": "large threat",
+      "quantity": null,
+      "reason": "Immediate positional contest; distinguish deployment from moving.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C14",
+      "name": "Whiteflame Protector",
+      "source_lines": "192–197",
+      "role": "large threat",
+      "quantity": null,
+      "reason": "Temporary modifier may be wasted by late trigger.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C15",
+      "name": "Mountain Drake",
+      "source_lines": "198–205",
+      "role": "large threat",
+      "quantity": 2,
+      "reason": "Hard-castable fallback; two main inferred from transformation cuts.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C16",
+      "name": "Zhonya's Hourglass",
+      "source_lines": "208–213",
+      "role": "protection",
+      "quantity": null,
+      "reason": "Historical banned; multiple replacement-effect claims unverified.",
+      "snapshot_banned": true,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C17",
+      "name": "Dazzling Aurora",
+      "source_lines": "214–227",
+      "role": "engine",
+      "quantity": 3,
+      "reason": "Historical banned recurring deployment payoff.",
+      "snapshot_banned": true,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C18",
+      "name": "Wind Wall",
+      "source_lines": "240–245",
+      "role": "side",
+      "quantity": 1,
+      "reason": "Broader counter coverage; one in explicit side plan.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C19",
+      "name": "Akshan, Mischievous",
+      "source_lines": "268–275",
+      "role": "side",
+      "quantity": 1,
+      "reason": "Gear interference and alternative midrange role.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C20",
+      "name": "Lonely Poro",
+      "source_lines": "276–283",
+      "role": "side",
+      "quantity": 3,
+      "reason": "Early body with replacement access; transformation.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C21",
+      "name": "Unyielding Spirit",
+      "source_lines": "284–291",
+      "role": "flex side",
+      "quantity": null,
+      "reason": "Alternative answer coverage against expensive interaction.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C22",
+      "name": "Obelisk of Power",
+      "source_lines": "294–307",
+      "role": "retired field",
+      "quantity": 0,
+      "reason": "Banned early resource acceleration.",
+      "snapshot_banned": true,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C23",
+      "name": "Discipline",
+      "source_lines": "308–315",
+      "role": "retired",
+      "quantity": 0,
+      "reason": "Earlier selection/modifier slot.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C24",
+      "name": "Rune Prison",
+      "source_lines": "316–326",
+      "role": "retired",
+      "quantity": 0,
+      "reason": "Earlier response to concentrated threat; still appears in Annie mulligan.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C25",
+      "name": "Challenge",
+      "source_lines": "327–334",
+      "role": "retired main",
+      "quantity": 0,
+      "reason": "Alternative interaction timing; Vegas revision later uses side copies.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C26",
+      "name": "Volibear, Imposing",
+      "source_lines": "345–354",
+      "role": "retired",
+      "quantity": 0,
+      "reason": "High ceiling, hard-cast constraint.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C27",
+      "name": "Stalwart Poro",
+      "source_lines": "355–362",
+      "role": "retired side",
+      "quantity": 0,
+      "reason": "Prior transformation early body.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C28",
+      "name": "Clockwork Keeper",
+      "source_lines": "363–372",
+      "role": "retired side",
+      "quantity": 0,
+      "reason": "Prior transformation access body.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    },
+    {
+      "id": "AYI-C29",
+      "name": "Thwonk!",
+      "source_lines": "1264–1269",
+      "role": "retired Vegas",
+      "quantity": null,
+      "reason": "Flexible stun; source describes one slot, exact list absent.",
+      "snapshot_banned": false,
+      "quantity_status": "source statement or explicitly noted inference; not full inventory",
+      "effective_text_verified": false
+    }
+  ],
+  "fields": [
+    {
+      "name": "Aspirant’s Climb",
+      "source_lines": "62–69",
+      "role": "preferred blind field; historical ban",
+      "snapshot_banned": true,
+      "effective_text_verified": false
+    },
+    {
+      "name": "The Papertree",
+      "source_lines": "70–80",
+      "role": "resource bridge; main guide replaces Obelisk",
+      "snapshot_banned": false,
+      "effective_text_verified": false
+    },
+    {
+      "name": "Vilemaw’s Lair",
+      "source_lines": "81–88",
+      "role": "positional restriction; main flex",
+      "snapshot_banned": false,
+      "effective_text_verified": false
+    },
+    {
+      "name": "Sigil of the Storm",
+      "source_lines": "89–95",
+      "role": "resource taxation; alternate flex",
+      "snapshot_banned": false,
+      "effective_text_verified": false
+    },
+    {
+      "name": "Obelisk of Power",
+      "source_lines": "294–307,1298–1313",
+      "role": "retired resource accelerator",
+      "snapshot_banned": true,
+      "effective_text_verified": false
+    }
+  ],
+  "history": [
+    {
+      "source_lines": "1–18",
+      "event": "First NA 2k",
+      "result": "First place with Kai'Sa",
+      "event_date": null,
+      "status": "self-reported; no independent event verification"
+    },
+    {
+      "source_lines": "1–18",
+      "event": "Star City Games 10k",
+      "result": "9th with Aurora",
+      "event_date": null,
+      "status": "self-reported; no independent event verification"
+    },
+    {
+      "source_lines": "1–18",
+      "event": "Houston regional",
+      "result": "Teammate Daniel reported finalist",
+      "event_date": null,
+      "status": "self-reported; no independent event verification"
+    },
+    {
+      "source_lines": "1–18",
+      "event": "PPG Orlando main 10k",
+      "result": "Top 16; teammates reported top 8 in 5k events",
+      "event_date": null,
+      "status": "self-reported; no independent event verification"
+    },
+    {
+      "source_lines": "1230–1247",
+      "event": "Las Vegas RQ",
+      "result": "Best-Of Master Yi, 27th, 10–3 (intro), $250 and invite",
+      "event_date": null,
+      "status": "self-reported; no independent event verification"
+    }
+  ],
+  "main_inventory": null,
+  "vegas_inventory": null,
+  "retired_list_url": "https://piltoverarchive.com/decks/view/b68b9968-9258-4210-a2b9-06839e40689a",
+  "linked_list_retrieved": false,
+  "flags": [
+    {
+      "name": "Dazzling Aurora",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Zhonya’s Hourglass",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Aspirant’s Climb",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Obelisk of Power",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Stellacorn Herder",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Draven, Vanquisher",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Fight or Flight",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Called Shot",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    },
+    {
+      "name": "Dreaming Tree",
+      "snapshot_banned": true,
+      "scope": "own or opposing historical reference, not complete inventory"
+    }
+  ],
+  "guards": [
+    "67 image placeholders, empty VOD area and absent gameplay example. Full decklists unavailable; current TCGPlayer label has no URL. Retired Piltover Archive link not retrieved.",
+    "Main guide and retired card sections differ from explicit Las Vegas revision; main uses eight-slot transformation, Vegas removed switchboard. Do not merge.",
+    "Main Viktor says everything; explicit eight incoming inferred from Annie package. Retired Chaos Obelisk branch contains mislabeled Discipline cut; grouping inferred. Both count-balance only.",
+    "Retired main Rune Prison listed as removed but still present in Annie game-one mulligan. Main Not So Fast/Punch First/Sabotage third-copy descriptions support inferred two copies main, not entire list.",
+    "Dazzling Aurora, Zhonya's Hourglass and Aspirant's Climb directly conflict with November 23 snapshot; Obelisk retired and banned; other historical opposing references flagged. Wuju Bladesman is FT-L34, distinct from FT-L35, guide's anchor has 2v2-only ban; no new rule conclusion.",
+    "Source says nine ramp spells and six first-turn options; no full main inventory. Some main quantity inferences from swaps; no invented remainder.",
+    "4/12 notes have no resolved calendar convention/year. Exact publication and event dates unknown; outcomes self-reported. 60/40 Kai'Sa and Annie historical share estimates lack denominator. Do not repeat tie-break accusation as established fact.",
+    "12 distinct abstract curves and exhaustive 495 eight-resource subsets validate arithmetic assumptions, not actual game timing, legality or opening probability. Resource availability distinct from ready and spent resources.",
+    "All named mechanics, movement, combat, countered-play triggers, Hidden and replacement effects require dated official verification. No guaranteed win, exact matchup rates or full replay."
+  ]
+}

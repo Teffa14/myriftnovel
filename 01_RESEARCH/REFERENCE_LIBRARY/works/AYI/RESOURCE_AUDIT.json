@@ -1,0 +1,265 @@
+{
+  "scope": "Synthetic accounting under source assumptions, not official card legality.",
+  "formula": "R_next=min(12,R_current+2+net_change); net_change includes assumed ramp minus permanent resource loss. Initial values supplied, not ready Energy.",
+  "cases": [
+    {
+      "id": "AYI-T01",
+      "initial": 2,
+      "net": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "actual": [
+        2,
+        4,
+        6,
+        8,
+        10
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T02",
+      "initial": 3,
+      "net": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "actual": [
+        3,
+        5,
+        7,
+        9,
+        11
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T03",
+      "initial": 2,
+      "net": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        2,
+        5,
+        7,
+        9,
+        11
+      ],
+      "actual": [
+        2,
+        5,
+        7,
+        9,
+        11
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T04",
+      "initial": 3,
+      "net": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "expected": [
+        3,
+        6,
+        8,
+        10,
+        12
+      ],
+      "actual": [
+        3,
+        6,
+        8,
+        10,
+        12
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T05",
+      "initial": 2,
+      "net": [
+        0,
+        2,
+        0,
+        0
+      ],
+      "expected": [
+        2,
+        4,
+        8,
+        10,
+        12
+      ],
+      "actual": [
+        2,
+        4,
+        8,
+        10,
+        12
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T06",
+      "initial": 3,
+      "net": [
+        0,
+        2,
+        0,
+        0
+      ],
+      "expected": [
+        3,
+        5,
+        9,
+        11,
+        12
+      ],
+      "actual": [
+        3,
+        5,
+        9,
+        11,
+        12
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T07",
+      "initial": 2,
+      "net": [
+        1,
+        2
+      ],
+      "expected": [
+        2,
+        5,
+        9
+      ],
+      "actual": [
+        2,
+        5,
+        9
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T08",
+      "initial": 4,
+      "net": [
+        2
+      ],
+      "expected": [
+        4,
+        8
+      ],
+      "actual": [
+        4,
+        8
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T09",
+      "initial": 8,
+      "net": [
+        -1
+      ],
+      "expected": [
+        8,
+        9
+      ],
+      "actual": [
+        8,
+        9
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T10",
+      "initial": 8,
+      "net": [
+        -2
+      ],
+      "expected": [
+        8,
+        8
+      ],
+      "actual": [
+        8,
+        8
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T11",
+      "initial": 8,
+      "net": [
+        -3
+      ],
+      "expected": [
+        8,
+        7
+      ],
+      "actual": [
+        8,
+        7
+      ],
+      "pass": true
+    },
+    {
+      "id": "AYI-T12",
+      "initial": 9,
+      "net": [
+        -3
+      ],
+      "expected": [
+        9,
+        8
+      ],
+      "actual": [
+        9,
+        8
+      ],
+      "pass": true
+    }
+  ],
+  "python_executed": "13 assertions including one duplicate sequence (12 distinct), all passed; exhaustive itertools.combinations(range(12),8) 495 subsets, each has 2–6 of either color.",
+  "color_bound": {
+    "total": 12,
+    "body": 6,
+    "calm": 6,
+    "distinct_resources": 8,
+    "minimum_each": 2,
+    "maximum_each": 6
+  },
+  "limits": "Does not verify card payment, timing, rune channeling, recycling, draw, cap, tournament legality or actual probability. No multiple resources beyond stated population assumed."
+}

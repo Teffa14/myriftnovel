@@ -1,0 +1,602 @@
+[
+  {
+    "id": "AYI-M01",
+    "level": "L4",
+    "source_lines": "19–35",
+    "name": "Format-specific archetype translation",
+    "structure": "Evaluate control by actual scoring objective, not borrowed life-total assumptions.",
+    "acceptance": "Do not import Magic rules or claim board wipes cannot exist in later sets.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M02",
+    "level": "L4",
+    "source_lines": "19–35",
+    "name": "Conversion of resource lead",
+    "structure": "Distinguish exhausting threats from achieving legal winning score.",
+    "acceptance": "Keep rival recovery and score deadline explicit.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M03",
+    "level": "L4",
+    "source_lines": "46–57",
+    "name": "Solo defense threshold",
+    "structure": "Compare single defender with multiple bodies under conditional modifier.",
+    "acceptance": "Verify actual combat and current card text.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M04",
+    "level": "L4",
+    "source_lines": "46–57",
+    "name": "Fallback-compatible legend",
+    "structure": "Choose engine strategy whose baseline remains playable without engine.",
+    "acceptance": "Test failed opening and denied engine separately.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M05",
+    "level": "L4",
+    "source_lines": "52–57",
+    "name": "Guaranteed access as bridge",
+    "structure": "Use accessible champion to contest before drawn payoff arrives.",
+    "acceptance": "Verify costs, timing and movement.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M06",
+    "level": "L4",
+    "source_lines": "58–69",
+    "name": "Field selection by clock",
+    "structure": "Prefer field that changes available time when strategy needs setup.",
+    "acceptance": "Historical banned Aspirant; no universal extra turn.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M07",
+    "level": "L4",
+    "source_lines": "70–80",
+    "name": "Asymmetric resource benefit",
+    "structure": "Compare identical resource gain by each player's actual utilization.",
+    "acceptance": "Opponent may take advantage; verify effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M08",
+    "level": "L4",
+    "source_lines": "70–80",
+    "name": "Resource bridge through temporary presence",
+    "structure": "Evaluate low-investment body as route to resource payoff.",
+    "acceptance": "Verify actual trigger, holding and conquest.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M09",
+    "level": "L4",
+    "source_lines": "81–88",
+    "name": "Restricted movement as interaction",
+    "structure": "Use positional restriction to limit rival retreat or forced movement.",
+    "acceptance": "Verify standard movement versus effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M10",
+    "level": "L4",
+    "source_lines": "89–95",
+    "name": "Symmetric tax downside",
+    "structure": "A tax may harm own fallback more than rival's main plan.",
+    "acceptance": "Track next-turn thresholds before commitment.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M11",
+    "level": "L4",
+    "source_lines": "96–101",
+    "name": "Color coverage lower bound",
+    "structure": "Evaluate minimum available color under fixed six-six population.",
+    "acceptance": "Proved for any eight distinct resources, not actual ready/color allocation.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M12",
+    "level": "L4",
+    "source_lines": "96–101",
+    "name": "Neutral payment allocation",
+    "structure": "Preserve scarce color for expected future cost when paying neutral cost.",
+    "acceptance": "Verify cost and resource rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M13",
+    "level": "L4",
+    "source_lines": "104–113",
+    "name": "Play-order ramp asymmetry",
+    "structure": "Compare acceleration by starting resource level and deadline.",
+    "acceptance": "Use dated channel and cost rules; curves are arithmetic assumptions.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M14",
+    "level": "L4",
+    "source_lines": "104–113",
+    "name": "Late ramp opportunity cost",
+    "structure": "Compare extra resource now with later cycling or response reserve.",
+    "acceptance": "Verify actual draw effect and urgency.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M15",
+    "level": "L4",
+    "source_lines": "114–119",
+    "name": "Protect threshold from premature interaction",
+    "structure": "Avoid expenditure that delays critical development unless it prevents worse outcome.",
+    "acceptance": "Compare delay and rival close.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M16",
+    "level": "L3",
+    "source_lines": "114–119",
+    "name": "Countered action versus payoff",
+    "structure": "Dependent trigger may distinguish attempted and resolved card.",
+    "acceptance": "Official effective rules required.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M17",
+    "level": "L3",
+    "source_lines": "120–125",
+    "name": "Forced positional route",
+    "structure": "Evaluate legal forced movement as removal, score opening or contest.",
+    "acceptance": "Verify destination, timing and designation.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M18",
+    "level": "L4",
+    "source_lines": "120–125",
+    "name": "Conditional synergy magnification",
+    "structure": "A small interaction gains value with strong existing defender.",
+    "acceptance": "No free universal removal claim.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M19",
+    "level": "L4",
+    "source_lines": "126–131",
+    "name": "Hand information and interference",
+    "structure": "Compare denying opponent's engine with preserving own acceleration.",
+    "acceptance": "Verify eligibility and available information.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M20",
+    "level": "L4",
+    "source_lines": "126–131",
+    "name": "Preemptive protection",
+    "structure": "Remove likely answer before investing in key payoff.",
+    "acceptance": "Opponent may draw another answer or respond differently.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M21",
+    "level": "L4",
+    "source_lines": "132–139",
+    "name": "Protection suite by answer class",
+    "structure": "Distribute responses across different opposing effects.",
+    "acceptance": "Verify exact legal coverage, not all-target guarantee.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M22",
+    "level": "L4",
+    "source_lines": "140–147",
+    "name": "Represented threat value",
+    "structure": "Open resources can change rival willingness to commit even without actual card.",
+    "acceptance": "Do not assume rival knows hidden hand.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M23",
+    "level": "L4",
+    "source_lines": "140–147,1276–1281",
+    "name": "Modifier risk against displacement",
+    "structure": "Compare high combat payoff with losing investment to removal or return.",
+    "acceptance": "Separate historical version counts and actual costs.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M24",
+    "level": "L4",
+    "source_lines": "148–155",
+    "name": "Early bridge without pool dilution",
+    "structure": "Choose early role that does not undermine later engine sampling.",
+    "acceptance": "Verify card type and actual draw/engine rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M25",
+    "level": "L4",
+    "source_lines": "148–155",
+    "name": "Expendable protection body",
+    "structure": "A small body may absorb or divert threat-specific interaction.",
+    "acceptance": "Verify targeting and independent rival choice.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M26",
+    "level": "L4",
+    "source_lines": "156–173",
+    "name": "Joint access and acceleration",
+    "structure": "Combine card access with resource progression to reach key threshold.",
+    "acceptance": "No measured turn-three odds without complete list and sampling model.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M27",
+    "level": "L4",
+    "source_lines": "176–181",
+    "name": "Curve-gap filler",
+    "structure": "Choose intermediate threat when exact engine threshold missed.",
+    "acceptance": "Track future resource losses and next action.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M28",
+    "level": "L4",
+    "source_lines": "176–181",
+    "name": "Loss-linked recovery",
+    "structure": "Compare body exchange with later resource benefit.",
+    "acceptance": "Verify trigger, opponent choice and actual readiness.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M29",
+    "level": "L3",
+    "source_lines": "182–191",
+    "name": "Deployment versus move distinction",
+    "structure": "A ready or directly deployed body may have different contest options.",
+    "acceptance": "Verify exact game action and legal participants.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M30",
+    "level": "L4",
+    "source_lines": "182–191",
+    "name": "Partial combat as removal",
+    "structure": "A losing contest may remove sufficient opposing material for next route.",
+    "acceptance": "Compare actual damage, cost and score.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M31",
+    "level": "L4",
+    "source_lines": "192–197",
+    "name": "Timing-dependent engine hit",
+    "structure": "A temporary effect may expire before useful action if accessed late.",
+    "acceptance": "Verify duration and legal window.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M32",
+    "level": "L4",
+    "source_lines": "198–205",
+    "name": "Castability versus ceiling",
+    "structure": "Prefer threat whose fallback cost is realistic over larger engine-only payoff.",
+    "acceptance": "Measure actual hand congestion and hit quality.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M33",
+    "level": "L3",
+    "source_lines": "208–213",
+    "name": "Protection timing and replacement",
+    "structure": "Compare banked protection with deployment cost and forced activation risk.",
+    "acceptance": "Historical banned Hourglass; no replacement ruling certified.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M34",
+    "level": "L4",
+    "source_lines": "214–227",
+    "name": "Engine density and payoff quality",
+    "structure": "Evaluate both chance of access and distribution of useful engine outcomes.",
+    "acceptance": "Do not infer universal win or random-hit odds.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M35",
+    "level": "L4",
+    "source_lines": "214–227",
+    "name": "Second engine versus stabilization",
+    "structure": "Compare compounding investment with urgent board development.",
+    "acceptance": "Check opponent clock and failure if gear removed.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M36",
+    "level": "L4",
+    "source_lines": "214–227",
+    "name": "Base versus exposed investment",
+    "structure": "Allocate new threat by current score, reserve, mobility and rival removal.",
+    "acceptance": "Do not assume safe base or invulnerable field.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M37",
+    "level": "L4",
+    "source_lines": "228–239",
+    "name": "Transformation opportunity cost",
+    "structure": "Compare generic toolbox and alternate deck identity by expected matchup coverage.",
+    "acceptance": "Require legal complete configurations and testing.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M38",
+    "level": "L4",
+    "source_lines": "228–239",
+    "name": "Opponent sideboard misalignment",
+    "structure": "Alternate plan may reduce utility of narrow answers opponent brings.",
+    "acceptance": "Opponent adapts independently; open lists and rules matter.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M39",
+    "level": "L4",
+    "source_lines": "228–239",
+    "name": "Main-deck bridge reduces side cost",
+    "structure": "Move compatible early roles into baseline to reduce dedicated transformation slots.",
+    "acceptance": "Check actual deck balance, no guaranteed improvement.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M40",
+    "level": "L4",
+    "source_lines": "240–267",
+    "name": "Complementary response coverage",
+    "structure": "Assign broader expensive answers and cheaper restricted answers by effect class.",
+    "acceptance": "Verify legal targeting and thresholds.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M41",
+    "level": "L4",
+    "source_lines": "268–275",
+    "name": "Dual-purpose transformation slot",
+    "structure": "A side threat may serve mirror-specific payoff and generic development.",
+    "acceptance": "Compare target absence and opportunity cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M42",
+    "level": "L4",
+    "source_lines": "276–283",
+    "name": "Early defense versus replacement card",
+    "structure": "Compare slightly higher threshold against future access.",
+    "acceptance": "Use actual likely opponents and legal state.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M43",
+    "level": "L4",
+    "source_lines": "294–372",
+    "name": "Retire old assumptions after bans",
+    "structure": "Keep prior versions available for historical analysis without current recommendations.",
+    "acceptance": "Do not silently merge lists.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M44",
+    "level": "L6",
+    "source_lines": "373–411",
+    "name": "Routine opening under clock",
+    "structure": "Practice repeated early choices to preserve reasonable pace for difficult later decisions.",
+    "acceptance": "No slow play or evasion of tournament policy.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M45",
+    "level": "L4",
+    "source_lines": "373–411",
+    "name": "Missed-engine skill differentiation",
+    "structure": "Evaluate pilot competence when default opener fails.",
+    "acceptance": "Give real fallback and failure branch.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M46",
+    "level": "L4",
+    "source_lines": "412–419",
+    "name": "Joint mulligan prerequisites",
+    "structure": "Seek engine, acceleration and relevant early bridge by play order.",
+    "acceptance": "Verify legal mulligan, not guaranteed opener.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M47",
+    "level": "L4",
+    "source_lines": "426–507",
+    "name": "Avoid clustered threshold exposure",
+    "structure": "Compare multiple weak bodies with single stronger conditional defense and reserve.",
+    "acceptance": "Check exact effects and alternative attacks.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M48",
+    "level": "L4",
+    "source_lines": "426–507",
+    "name": "Reserve against decisive exception",
+    "structure": "When near losing score, retain answer to credible closing threat even at development cost.",
+    "acceptance": "Do not assume answer sufficient or known hand.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M49",
+    "level": "L4",
+    "source_lines": "508–597",
+    "name": "Four-state mirror analysis",
+    "structure": "Compare both engines, neither, own only, opponent only separately.",
+    "acceptance": "No chance or inevitability inferred without sample.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M50",
+    "level": "L4",
+    "source_lines": "598–709",
+    "name": "Transform under adverse matchup",
+    "structure": "Adopt earlier development when narrow late plan vulnerable.",
+    "acceptance": "Eight-count balance only; legality not proven.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M51",
+    "level": "L4",
+    "source_lines": "710–794",
+    "name": "Decline tempting immediate contest",
+    "structure": "Delay action when exposed to costly response and clock allows.",
+    "acceptance": "Opponent may score; compare urgent contest.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M52",
+    "level": "L4",
+    "source_lines": "795–880",
+    "name": "Repeated protection tax",
+    "structure": "Evaluate whether rival can afford multiple modifiers to defeat repeated defender.",
+    "acceptance": "Verify legal reuse, response and actual resources.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M53",
+    "level": "L4",
+    "source_lines": "881–1052",
+    "name": "Distributed force versus rescue capacity",
+    "structure": "Compare concentrated defender and wider pressure against limited rescue.",
+    "acceptance": "Rival may choose different position or response.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M54",
+    "level": "L4",
+    "source_lines": "1053–1189",
+    "name": "Open-list strategic adaptation",
+    "structure": "Alternate strategy can remain viable even when rival knows it.",
+    "acceptance": "No deception outside rules; independent testing.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M55",
+    "level": "L6",
+    "source_lines": "1230–1257",
+    "name": "Selection floor versus ceiling",
+    "structure": "After disappointing event compare archetype fallback and attainable placement objectives.",
+    "acceptance": "Separate reported result, emotion and causal hypothesis.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M56",
+    "level": "L4",
+    "source_lines": "1258–1287",
+    "name": "Revision under changed card pool",
+    "structure": "Reevaluate early pressure, counter coverage and modifier counts by version.",
+    "acceptance": "Retired Vegas differs from main transformation.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M57",
+    "level": "L4",
+    "source_lines": "1314–1986",
+    "name": "Field-conditioned sideboard swap",
+    "structure": "Different field resource effects can alter ramp and interaction needs.",
+    "acceptance": "Preserve branch labels and unresolved Chaos ambiguity.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M58",
+    "level": "L4",
+    "source_lines": "1493–1597",
+    "name": "Role reversal against stronger engine",
+    "structure": "A slow deck may need to pressure a rival whose late payoff exceeds its own.",
+    "acceptance": "Compare clock and interruption; no universal aggression.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M59",
+    "level": "L3",
+    "source_lines": "1691–1798",
+    "name": "Protection activation exposure",
+    "structure": "Expendable own bodies can create unintended protection costs.",
+    "acceptance": "Verify exact replacement and targeting; no historical rule imported.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  },
+  {
+    "id": "AYI-M60",
+    "level": "L6",
+    "source_lines": "1–18,1230–1247",
+    "name": "Competitive identity and event goals",
+    "structure": "Distinguish personal archetype preference, prize pursuit and result review.",
+    "acceptance": "No copied biography, allegations or actual persona assigned to fiction.",
+    "status": "candidate_untested",
+    "overlap": "Compare FTG, NLM/NLD, AZI, SET, AHR, OUT, EZR; no independent novelty claim."
+  }
+]

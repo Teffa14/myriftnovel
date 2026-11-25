@@ -52,3 +52,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## EZR — complex-deck mastery and team testing
 [EZR analysis](../REFERENCE_LIBRARY/works/EZR/ANALYSIS.md) supports original scenes about practice, branch overload, review under tournament pace, shared experimentation and disagreement over slot value. No copied biography, source phrasing or assumed result.
+
+## AYI — tournament preparation and changing deck identity
+[AYI analysis](../REFERENCE_LIBRARY/works/AYI/ANALYSIS.md) supports original discussions of experimental deck identity, balancing payoff ceiling with fallback, efficient pace, event goals and teammate disagreement. Keep self-reported results separate from verified events; no copied persona or anecdote.

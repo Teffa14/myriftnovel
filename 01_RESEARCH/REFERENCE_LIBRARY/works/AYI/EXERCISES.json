@@ -1,0 +1,93 @@
+[
+  {
+    "id": "AYI-X01",
+    "mechanisms": [
+      "AYI-M10",
+      "AYI-M11",
+      "AYI-M12",
+      "AYI-M13"
+    ],
+    "task": "Compute resource progression for two competing actions with explicit net loss, cap and color distribution. State assumptions and reject unaffordable follow-up.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X02",
+    "mechanisms": [
+      "AYI-M04",
+      "AYI-M27",
+      "AYI-M32",
+      "AYI-M45"
+    ],
+    "task": "Two legal candidate builds differ in fallback threat cost. Compare opening without engine and with engine removed; record both failure branches.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X03",
+    "mechanisms": [
+      "AYI-M35",
+      "AYI-M36",
+      "AYI-M48"
+    ],
+    "task": "A trailing player chooses second engine or urgent defense. Include rival earliest closing route and removal.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X04",
+    "mechanisms": [
+      "AYI-M37",
+      "AYI-M38",
+      "AYI-M39",
+      "AYI-M50"
+    ],
+    "task": "Build a hypothetical alternate eight-slot package. Compare opponent answer coverage before and after transformation under open information.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X05",
+    "mechanisms": [
+      "AYI-M49",
+      "AYI-M19",
+      "AYI-M20"
+    ],
+    "task": "Construct four mirror scenarios with different engine availability and test hand interference against independent rival choices.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X06",
+    "mechanisms": [
+      "AYI-M03",
+      "AYI-M47",
+      "AYI-M53"
+    ],
+    "task": "Compare concentrated defense, distributed defense and base reserve under a specified rival response; verify exact mechanics before assigning score.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X07",
+    "mechanisms": [
+      "AYI-M44",
+      "AYI-M55",
+      "AYI-M60"
+    ],
+    "task": "Two teammates review a disappointing event and disagree about adopting a lower-variance list. Give both independent motives, evidence limits and a practice test.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AYI-X08",
+    "mechanisms": [
+      "AYI-M57",
+      "AYI-M58",
+      "AYI-M59"
+    ],
+    "task": "Compare a historical field-conditioned resource plan and a legal substitute under a stronger rival engine. Record what must be verified rather than transplanting banned cards.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  }
+]

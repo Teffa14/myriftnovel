@@ -67,3 +67,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## EZR — finite resource ledger and recursive control
 [EZR research](../../01_RESEARCH/REFERENCE_LIBRARY/works/EZR/INDEX.md) supplements FTG FT-L14 with finite reuse accounting, conditional score concession, alternate winning routes, response reserves, trash-based opponent resources and timed practice. Do not treat infinite-value language as a proven loop. Mixed versions, banned Stacked Deck and other historical references require dated effective-text and G3-scene verification. Preserve fair pace and independent opponent choices.
+
+## AYI — ramp thresholds and transformational sideboard
+[AYI research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AYI/INDEX.md) supplements FTG FT-L34 with fallback castability, position allocation, resource thresholds, versioned transformation and independent opposing adaptation. [Resource audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/AYI/RESOURCE_AUDIT.json) is arithmetic only. Historical Dazzling Aurora and fields conflict with Nov 23 ban snapshot. Verify actual dated official mechanics and G3-scene; no historical list transplanted into current Standard.
