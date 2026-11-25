@@ -1,0 +1,27 @@
+{
+  "source_id": "JUDGE_CHAT_20261125",
+  "source_type": "user-supplied private discussion export",
+  "source_date_range": [
+    "2026-11-13",
+    "2026-11-24"
+  ],
+  "source_members": [
+    "chat.txt",
+    "chat.md"
+  ],
+  "analysis_basis": "chat.txt, all 583 lines; Markdown is alternate presentation not counted again",
+  "source_text_sha256": "deb8080b4dbb195f4cc59a37627806cf80c8939c38c873e70961c89bb675f8fa",
+  "timestamped_entries": 496,
+  "omitted_image_markers": 19,
+  "case_count": 56,
+  "counts": {
+    "pending": 37,
+    "missing_identity": 4,
+    "principle_checked": 12,
+    "disputed": 1,
+    "historical_or_pending": 1,
+    "corrected_pending": 1
+  },
+  "official_crosscheck_scope": "general rule principles only, no fully adjudicated complete named-card sequence",
+  "privacy": "No chat transcript, contacts, sender IDs, participant quotes or attachments committed; abstract technical paraphrases only."
+}

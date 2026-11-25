@@ -1,0 +1,842 @@
+[
+  {
+    "id": "JCR-001",
+    "discussion_date": "2026-11-13",
+    "source_line_range": [
+      5,
+      10
+    ],
+    "category": "Deflect",
+    "interaction": "Teemo / Vex",
+    "community_claim": "Teemo selects the damage target before revealing Hidden cards; one targeting event rather than one per reveal.",
+    "status": "pending",
+    "verification_note": "Identify Teemo printing and exact erratum.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-002",
+    "discussion_date": "2026-11-15",
+    "source_line_range": [
+      12,
+      16
+    ],
+    "category": "Combat",
+    "interaction": "Ahri legend / Vi Ambush",
+    "community_claim": "Vi entering the attacking side during combat is assigned attacker status; chat says Ahri's modifier applies.",
+    "status": "pending",
+    "verification_note": "Confirm exact Ahri wording and combat designation timing.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-003",
+    "discussion_date": "2026-11-15",
+    "source_line_range": [
+      18,
+      20
+    ],
+    "category": "Ready",
+    "interaction": "Firebrand / unidentified unit",
+    "community_claim": "Entering ready differs from becoming ready; chat rejects cancelling Firebrand using the unidentified unit.",
+    "status": "missing_identity",
+    "verification_note": "Image omitted; cannot identify the other card.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-004",
+    "discussion_date": "2026-11-15",
+    "source_line_range": [
+      22,
+      28
+    ],
+    "category": "Chain",
+    "interaction": "Cloth Armor / Ezreal",
+    "community_claim": "Chat allows a Reaction to a defending trigger, with Shield affecting the value when Ezreal's ability resolves.",
+    "status": "pending",
+    "verification_note": "Verify exact Ezreal, Armor and Shield text.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-005",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      30,
+      32
+    ],
+    "category": "Scoring",
+    "interaction": "Sunken Temple / Assault",
+    "community_claim": "Chat distinguishes conquering during combat while Assault applies from conquering an open field without attacker designation.",
+    "status": "pending",
+    "verification_note": "Verify Mighty threshold and continuous effect timing.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-006",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      33,
+      35
+    ],
+    "category": "Deflect",
+    "interaction": "Unidentified unit",
+    "community_claim": "Chat says two copies of an unnamed source can grant cumulative Deflect.",
+    "status": "missing_identity",
+    "verification_note": "Missing card image; no named implementation.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-007",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      38,
+      65
+    ],
+    "category": "Triggers",
+    "interaction": "Unnamed battlefield",
+    "community_claim": "An unconditional beginning-phase trigger can occur even on an empty field; distinguish trigger condition from effect.",
+    "status": "principle_checked",
+    "verification_note": "383.1–383.3; exact field identity remains unknown.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-008",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      43,
+      66
+    ],
+    "category": "Tournament",
+    "interaction": "Judge appeal",
+    "community_claim": "A player disputes a ruling and asks for the applicable rule; chat suggests appeal.",
+    "status": "pending",
+    "verification_note": "Confirm event procedure and head judge authority under Tournament Rules.",
+    "official_reference": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-009",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      69,
+      81
+    ],
+    "category": "Tournament",
+    "interaction": "Rewind / OPL",
+    "community_claim": "Participants describe stricter reversals after information is revealed at high OPL and greater flexibility in casual play.",
+    "status": "pending",
+    "verification_note": "Verify actual tournament policy; consent alone is not a universal permission.",
+    "official_reference": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-010",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      82,
+      90
+    ],
+    "category": "Triggers",
+    "interaction": "Unidentified discard unit",
+    "community_claim": "One batch of three discards is distinguished from three separate discard events for the unnamed unit's bonus.",
+    "status": "missing_identity",
+    "verification_note": "Exact unit and wording absent.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-011",
+    "discussion_date": "2026-11-16",
+    "source_line_range": [
+      91,
+      99
+    ],
+    "category": "Chain",
+    "interaction": "Attack / defend triggers",
+    "community_claim": "Chat places attack triggers before defend triggers and expects reverse resolution.",
+    "status": "pending",
+    "verification_note": "Verify combat-specific trigger ordering and priority.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-012",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      100,
+      103
+    ],
+    "category": "Combat",
+    "interaction": "Ganking / Stun / Recall",
+    "community_claim": "Surviving losing attackers are reported recalled to base, not the original battlefield.",
+    "status": "pending",
+    "verification_note": "Check combat resolution and recall rules.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-013",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      104,
+      108
+    ],
+    "category": "Replacement",
+    "interaction": "Imperial Decree / Bellows Breath / Mordekaiser",
+    "community_claim": "Chat initially permits sacrificing tokens to save Mordekaiser; a follow-up questions whether tokens are already dead.",
+    "status": "disputed",
+    "verification_note": "Reconstruct damage, cleanup and token survival; exact Mordekaiser printing needed.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-014",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      109,
+      136
+    ],
+    "category": "Triggers",
+    "interaction": "Imperial Decree / Bellows Breath / Mordekaiser",
+    "community_claim": "Repeated damage may generate two separate Imperial triggers. Later clarification says the spell completes before triggers resolve; a saved unit may still be subject to the second trigger.",
+    "status": "principle_checked",
+    "verification_note": "158.3–158.3.a support completion before other resolutions; precise damage, replacement and target handling still unverified.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-015",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      112,
+      136
+    ],
+    "category": "Replacement",
+    "interaction": "Guardian Angel / Zhonya’s Hourglass",
+    "community_claim": "Chat proposes two kill triggers to overcome a single rescue effect.",
+    "status": "historical_or_pending",
+    "verification_note": "Zhonya's Hourglass is banned from Standard effective Nov 23; other card contexts need checking.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-016",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      137,
+      142
+    ],
+    "category": "Hidden",
+    "interaction": "Teemo / When you play me",
+    "community_claim": "Chat distinguishes unit finalization from the resulting triggered ability and says the latter can be reacted to.",
+    "status": "pending",
+    "verification_note": "Check exact chain sequence and Hidden restrictions.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-017",
+    "discussion_date": "2026-11-17",
+    "source_line_range": [
+      143,
+      152
+    ],
+    "category": "Show Off",
+    "interaction": "Chosen Champion / sideboard",
+    "community_claim": "Chat rejects showing a champion still in its special zone, a sideboard card or another table's card.",
+    "status": "pending",
+    "verification_note": "Check Show Off permitted zones and characteristics.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-018",
+    "discussion_date": "2026-11-18",
+    "source_line_range": [
+      153,
+      165
+    ],
+    "category": "Scoring",
+    "interaction": "Void Rush / Kha'Zix or Rek'Sai",
+    "community_claim": "Moving an enemy unit into a vacated field can allow it to gain control and score during the opponent's turn, subject to its scoring history.",
+    "status": "principle_checked",
+    "verification_note": "471–472 support scoring per player per battlefield per turn; original champion identification corrected but still uncertain.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-019",
+    "discussion_date": "2026-11-18",
+    "source_line_range": [
+      166,
+      169
+    ],
+    "category": "Costs",
+    "interaction": "Astral Heron / Accelerate / Watcher",
+    "community_claim": "Chat says additional costs are combined before applying discounts.",
+    "status": "pending",
+    "verification_note": "Check cost calculation rule and exact Watcher identity.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-020",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      170,
+      196
+    ],
+    "category": "Ending Phase",
+    "interaction": "Runeblade Anvil candidate",
+    "community_claim": "Permission to play the banished card expires at the relevant Ending Phase boundary; playing it does not automatically end the turn.",
+    "status": "principle_checked",
+    "verification_note": "Official FAQ on Runeblade Anvil confirms expiration; unnamed image means identity is inferred, not proven.",
+    "official_reference": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-021",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      201,
+      205
+    ],
+    "category": "Targeting",
+    "interaction": "Thrill",
+    "community_claim": "Chat distinguishes target choice at play from destination choice at resolution.",
+    "status": "pending",
+    "verification_note": "Check exact spell and destination legality.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-022",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      206,
+      208
+    ],
+    "category": "Copy",
+    "interaction": "Copying a unit",
+    "community_claim": "Chat says a copy uses printed characteristics rather than temporary buffs.",
+    "status": "pending",
+    "verification_note": "Check copy rules and exact copy effect; not a universal rule for every effect.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-023",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      209,
+      214
+    ],
+    "category": "Targeting",
+    "interaction": "Ahri legend / Twilight Shroud",
+    "community_claim": "Chat says Ahri’s effect is not targeted and therefore avoids the stated targeting restriction.",
+    "status": "pending",
+    "verification_note": "Verify effective card text and distinguish passive versus trigger.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-024",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      215,
+      234
+    ],
+    "category": "Hidden",
+    "interaction": "Stun / Tide Turner / Smoke and Mirrors",
+    "community_claim": "Chat discusses target location limits when played from Hidden versus ordinary casting and examples of exceptions.",
+    "status": "pending",
+    "verification_note": "Verify 811 and each effect; do not generalize all effects to battlefield-only.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-025",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      236,
+      242
+    ],
+    "category": "Costs",
+    "interaction": "Jinx Fury / discard",
+    "community_claim": "Chat allows playing the unit with zero cards left if discard is an effect rather than cost; with one remaining card, discard one.",
+    "status": "principle_checked",
+    "verification_note": "423.3–423.4 support discard distinction; exact Jinx identity/text still needs check.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-026",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      243,
+      270
+    ],
+    "category": "Movement",
+    "interaction": "Vex / Charm",
+    "community_claim": "Chat distinguishes controller-specific movement restriction from a universal prohibition; Vex player may move the enemy unit with Charm under stated wording.",
+    "status": "pending",
+    "verification_note": "Verify exact Vex and Charm text, control and timing.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-027",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      271,
+      275
+    ],
+    "category": "Copy",
+    "interaction": "Shady Spectacles / Fiora",
+    "community_claim": "Chat says transforming the existing object can trigger Fiora when its resulting Might meets threshold.",
+    "status": "pending",
+    "verification_note": "Check layer effects, prior state, threshold and modifier interactions.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-028",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      276,
+      281
+    ],
+    "category": "Counter",
+    "interaction": "Repulse / Falling Star",
+    "community_claim": "Chat distinguishes multiple target choices of the same unit from targeting distinct units.",
+    "status": "pending",
+    "verification_note": "Check current errata and Repulse wording.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-029",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      282,
+      287
+    ],
+    "category": "Deckbuilding",
+    "interaction": "Sideboard",
+    "community_claim": "Chat reports sideboard can contain zero through ten cards.",
+    "status": "pending",
+    "verification_note": "Verify current Tournament Rules and format.",
+    "official_reference": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-030",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      302,
+      304
+    ],
+    "category": "Modes",
+    "interaction": "Encore",
+    "community_claim": "Chat rejects selecting the same mode twice.",
+    "status": "pending",
+    "verification_note": "Check effective text and mode-selection rules.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-031",
+    "discussion_date": "2026-11-19",
+    "source_line_range": [
+      305,
+      309
+    ],
+    "category": "Targeting",
+    "interaction": "Vex / Akali",
+    "community_claim": "Chat distinguishes immunity to targeting from immunity to non-targeted effects.",
+    "status": "pending",
+    "verification_note": "Check specific Vex and Akali identities.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-032",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      310,
+      312
+    ],
+    "category": "Counter",
+    "interaction": "Not So Fast / Falling Star",
+    "community_claim": "Chat permits countering an effect selecting multiple distinct friendly units if conditions match.",
+    "status": "pending",
+    "verification_note": "Check effective wording and eligible targets.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-033",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      313,
+      314
+    ],
+    "category": "Timing",
+    "interaction": "Unidentified card",
+    "community_claim": "Chat places selection in Main Phase rather than Hold.",
+    "status": "missing_identity",
+    "verification_note": "No card image; no generalization.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-034",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      315,
+      320
+    ],
+    "category": "Might",
+    "interaction": "Irelia / Discipline / Abandoned Hall",
+    "community_claim": "Chat proposes total +5 Might from spell, Irelia selection bonus and battlefield interaction.",
+    "status": "pending",
+    "verification_note": "Check exact Irelia printing, triggers, stacking and state.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-035",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      327,
+      330
+    ],
+    "category": "Banish",
+    "interaction": "Dockside Lock Up",
+    "community_claim": "Chat says the opponent's hold destroys the gear without returning the banished unit.",
+    "status": "pending",
+    "verification_note": "Verify exact return and kill conditions.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-036",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      333,
+      337
+    ],
+    "category": "Movement",
+    "interaction": "Void Assault",
+    "community_claim": "Chat requires both units and distinct legal destinations; discusses order if two showdowns arise.",
+    "status": "pending",
+    "verification_note": "Check target and simultaneous movement rules.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-037",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      338,
+      340
+    ],
+    "category": "Costs",
+    "interaction": "Kharox / Kai'Sa / Accelerate",
+    "community_claim": "Chat says optional additional Accelerate power still must be paid when playing another card via Kharox.",
+    "status": "pending",
+    "verification_note": "Identify chosen Kai'Sa; verify Kharox permission and cost rules.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-038",
+    "discussion_date": "2026-11-20",
+    "source_line_range": [
+      341,
+      344
+    ],
+    "category": "Combat",
+    "interaction": "Graves / Punch First / Tide Turner",
+    "community_claim": "Chat says Graves entering during combat may gain defender designation and trigger.",
+    "status": "pending",
+    "verification_note": "Check actual play permission and defender designation.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-039",
+    "discussion_date": "2026-11-21",
+    "source_line_range": [
+      345,
+      349
+    ],
+    "category": "Might",
+    "interaction": "Blood Rush / Switcheroo",
+    "community_claim": "Chat says already-resolved Might modifiers are included in values used by Switcheroo.",
+    "status": "pending",
+    "verification_note": "Check resolution snapshot, Assault, and duration.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-040",
+    "discussion_date": "2026-11-21",
+    "source_line_range": [
+      350,
+      355
+    ],
+    "category": "Tournament",
+    "interaction": "Rewind after passing",
+    "community_claim": "Chat considers information revealed and event context; no automatic takeback after turn pass.",
+    "status": "pending",
+    "verification_note": "Check high OPL tournament policy.",
+    "official_reference": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-041",
+    "discussion_date": "2026-11-22",
+    "source_line_range": [
+      361,
+      364
+    ],
+    "category": "Hidden",
+    "interaction": "Hidden played on current turn",
+    "community_claim": "Chat rejects using newly hidden card's normal Hidden permission during same turn.",
+    "status": "principle_checked",
+    "verification_note": "811.6 grants Reaction on the following turn; exceptions require explicit permission.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-042",
+    "discussion_date": "2026-11-22",
+    "source_line_range": [
+      365,
+      408
+    ],
+    "category": "Ending Phase",
+    "interaction": "Temporal Breach / Watcher",
+    "community_claim": "Chat initially disagrees whether Watcher's temporary modifier carries forward; later distinguishes Ending Step from Expiration Step and rejects carrying ordinary this-turn modifier into next turn.",
+    "status": "principle_checked",
+    "verification_note": "317.1–317.3 corroborate expiration; exact replay, stacking and re-entry still unverified.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-043",
+    "discussion_date": "2026-11-22",
+    "source_line_range": [
+      383,
+      399
+    ],
+    "category": "Replacement",
+    "interaction": "Sett legend / Stupefy / Bellows Breath",
+    "community_claim": "Chat concludes the spell resolves before Sett's rescue, rather than interleaving a rescue between its instructions.",
+    "status": "principle_checked",
+    "verification_note": "158.3–158.3.a support non-interleaving; exact Sett effect and lethal cleanup need checking.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-044",
+    "discussion_date": "2026-11-23",
+    "source_line_range": [
+      415,
+      423
+    ],
+    "category": "Costs",
+    "interaction": "Seraphine legend",
+    "community_claim": "Chat treats exhausting legend as an additional cost tied to playing a spell, not a freely bankable resource; may be paid when playing an eligible Reaction.",
+    "status": "pending",
+    "verification_note": "Verify exact legend wording, costs and timing.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-045",
+    "discussion_date": "2026-11-23",
+    "source_line_range": [
+      424,
+      473
+    ],
+    "category": "Chain",
+    "interaction": "Double Astral Heron",
+    "community_claim": "Chat proposes accumulating both discounts or spending the first resolved discount on a Reaction before remaining trigger resolves.",
+    "status": "principle_checked",
+    "verification_note": "Official Vendetta FAQ confirms discount applies to next card played after trigger resolves. Double-Heron initial trigger eligibility, discount stacking and card costs remain unverified.",
+    "official_reference": "https://playriftbound.com/en-us/news/rules-and-releases/vendetta-rules-faq-and-clarifications/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-046",
+    "discussion_date": "2026-11-23",
+    "source_line_range": [
+      474,
+      480
+    ],
+    "category": "Chain",
+    "interaction": "Reaction between items",
+    "community_claim": "Chat describes adding a reaction at a legal window between separate chain items, not inserting into an already resolving item.",
+    "status": "principle_checked",
+    "verification_note": "158.3 and 159.2 distinguish atomic resolution and Reaction permissions. Exact priority window still requires chain procedure.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-047",
+    "discussion_date": "2026-11-23",
+    "source_line_range": [
+      483,
+      485
+    ],
+    "category": "Might",
+    "interaction": "Irelia / Hunker Down",
+    "community_claim": "Chat reports +2 when an exhausted Irelia is chosen under stated circumstances.",
+    "status": "pending",
+    "verification_note": "Check text and prerequisites.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-048",
+    "discussion_date": "2026-11-23",
+    "source_line_range": [
+      486,
+      497
+    ],
+    "category": "Movement",
+    "interaction": "Hunker Down / Charm",
+    "community_claim": "Initial answer treats restriction like Vex; later correction says Hunker Down prevents movement by either player.",
+    "status": "corrected_pending",
+    "verification_note": "Do not use retracted first answer. Official Radiance FAQ confirms a Hunker Down unit is ineligible for Angler Wyrm's forced move, but not every alternate movement effect.",
+    "official_reference": "https://playriftbound.com/en-us/news/organizedplay/radiance-rules-faq-and-clarifications/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-049",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      498,
+      501
+    ],
+    "category": "Triggers",
+    "interaction": "Temporal Breach / Astral Heron",
+    "community_claim": "Tentative chat answer says re-playing Heron does not create another first-card event.",
+    "status": "pending",
+    "verification_note": "Check first-card condition and zone changes; source answer tentative.",
+    "official_reference": "https://playriftbound.com/en-us/news/rules-and-releases/vendetta-rules-faq-and-clarifications/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-050",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      502,
+      517
+    ],
+    "category": "Extra turn",
+    "interaction": "Clocktower Guardian / Time Warp",
+    "community_claim": "Chat says a banished Time Warp can be played immediately after the relevant Deathknell if costs payable; may create extra turn before regular turn.",
+    "status": "pending",
+    "verification_note": "Verify exact play permission, costs and turn queue.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-051",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      519,
+      554
+    ],
+    "category": "Tournament",
+    "interaction": "Time extensions / slow play / Nexus Night",
+    "community_claim": "Chat distinguishes learning-focused local events from higher OPL and suggests judge assessment of delay/time extension.",
+    "status": "pending",
+    "verification_note": "Verify official OPL, extension, warning and adjudication policy; do not encode categorical exemption.",
+    "official_reference": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-052",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      555,
+      566
+    ],
+    "category": "Combat",
+    "interaction": "Graves / defend damage",
+    "community_claim": "Chat says defend trigger can kill an attacker within showdown before combat damage; cleanup and Deathknell may intervene.",
+    "status": "pending",
+    "verification_note": "Verify exact Graves, lethal damage and chain procedure.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-053",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      567,
+      575
+    ],
+    "category": "Triggers",
+    "interaction": "Deathknell",
+    "community_claim": "Chat says Deathknell can arise during different portions of combat. Its claim about waiting for an empty chain should not be encoded literally.",
+    "status": "principle_checked",
+    "verification_note": "383.2.c.3–383.3 place death trigger on chain before zone change, after replacement checks; distinguish placement, finalization and resolution.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-054",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      572,
+      577
+    ],
+    "category": "Hidden",
+    "interaction": "Evelynn / mutual lethal / Deathknell",
+    "community_claim": "Chat permits responding to opponent's death trigger with a previously hidden unit after both combatants die.",
+    "status": "pending",
+    "verification_note": "Check battlefield control, Hidden placement and eligibility.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-055",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      578,
+      579
+    ],
+    "category": "Chain",
+    "interaction": "Diana / defend trigger",
+    "community_claim": "Chat says blue Diana's ability is on same chain and resolves last.",
+    "status": "pending",
+    "verification_note": "Identify exact Diana and trigger timing.",
+    "official_reference": null,
+    "eligible_as_standalone_verified_play": false
+  },
+  {
+    "id": "JCR-056",
+    "discussion_date": "2026-11-24",
+    "source_line_range": [
+      580,
+      583
+    ],
+    "category": "Combat",
+    "interaction": "Lonely Poro / Shen Reaction",
+    "community_claim": "Initial reply denies playing Shen at empty field; correction says control persists during death-trigger window and Reaction Shen can enter there.",
+    "status": "principle_checked",
+    "verification_note": "468.5.b and 813.3.a support importance of control and placement; exact timing and Shen printing require further check.",
+    "official_reference": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "eligible_as_standalone_verified_play": false
+  }
+]
