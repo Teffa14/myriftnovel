@@ -75,3 +75,6 @@ Consult 01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md for early rea
 
 ## FTG source-of-truth strategic extension
 Use 01_RESEARCH/REFERENCE_LIBRARY/works/FTG/INDEX.md as the primary dated practical Riftbound strategy reference. Confirm actual official mechanics and scoped evidence. Guide sample counts/ratings are context, not future meta facts or proof of outcome. Preserve character agency and originality; no canon deck assignment or changes to approved chapters.
+
+## Serial-quality and payoff audit
+Before drafting and after each revision, apply 09_EDITORIAL_QA/SERIAL_QUALITY_PROTOCOL.md. Examine cumulative reader experience, deliver concrete competitive or character rewards, and maintain the private pilot/payoff ledger. Do not advance to a new chapter with pending approval or validation; no approved prose or canon is altered by this protocol.

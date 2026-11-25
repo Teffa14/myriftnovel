@@ -17,3 +17,6 @@ Mandatory exact-version editorial protocol: ../08_CHAPTERS/CHAPTER_PRODUCTION_PL
 
 ## WNG review supplement
 Use [editorial controls](../01_RESEARCH/REFERENCE_LIBRARY/works/WNG/EDITORIAL_MECHANISMS.md) when checking opening promise, causal goals, scene consequences, exposition and earned anticipation; use reader/editor/author passes, with actual reader evidence clearly distinct from editorial inference. No new score, certification, fixed cliffhanger quota or change to G1–G6. Contract readiness remains separate from literary acceptance.
+
+## Mandatory serial-quality review
+Apply [SERIAL_QUALITY_PROTOCOL.md](SERIAL_QUALITY_PROTOCOL.md) to each candidate and rolling arc before editorial acceptance. This extends the existing rubric; G1–G6 and explicit approval remain unchanged. Maintain the detailed pilot/payoff map privately and distinguish editorial hypotheses from observed reader response.
