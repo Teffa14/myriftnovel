@@ -12,3 +12,6 @@ TKA: análisis contextual 1728 archivos, 14069 candidatos, 28 auditados manualme
 
 ## MSC-EX02
 Dos muestras parciales distintas leídas cualitativamente; ninguna unidad completa certificada. Segunda muestra: tutorial, roles de cartas, economía de progresión, restricción de recursos, acción inicial sin resultado. 10 patrones y 4 bloques añadidos; total gramática: 50 patrones y 19 bloques. No se ha ejecutado Python sobre MSC ni confirmado la edición o capítulos exactos.
+
+## MSC-EX03
+Tres muestras parciales distintas analizadas cualitativamente; cero capítulos completos certificados. Tercera: integración al equipo, derrota de cartas iniciales, limpieza coordinada de enemigos menores, instrucción y comprensión de mecánica de jefe, resolución del jefe pendiente. 10 patrones y 4 bloques originales añadidos; total 60 patrones y 23 bloques. No se ejecutó Python sobre MSC. Edición y capítulos sin confirmar.

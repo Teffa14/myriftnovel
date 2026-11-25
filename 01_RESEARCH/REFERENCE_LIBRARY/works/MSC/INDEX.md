@@ -11,3 +11,6 @@ Se analizó directamente un fragmento inicial en inglés (capítulo, edición y 
 
 ## MSC-EX02 — muestra de tutorial y cartas
 [Análisis](TUTORIAL_EXCERPT_ANALYSIS.md): segunda muestra parcial, ingreso al juego, progresión, fichas de cartas, recursos e inicio de combate. No incluye resolución, deckbuilding competitivo ni metagame. Diez patrones y cuatro bloques originales adicionales. Capítulos completos certificados: 0.
+
+## MSC-EX03 — equipo, coordinación y reputación
+[Análisis](TEAM_COMBAT_EXCERPT_ANALYSIS.md): tercera muestra parcial, presentación del estudio, fracaso inicial, coordinación contra enemigos menores, explicación y reformulación de mecánica del jefe. La ejecución contra el jefe no aparece. Diez patrones y cuatro bloques originales adicionales. Cero capítulos completos certificados.
