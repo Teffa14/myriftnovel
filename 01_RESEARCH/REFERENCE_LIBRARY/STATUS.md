@@ -42,3 +42,6 @@ Trece muestras únicas; cero capítulos completos certificados. Tres nuevas mues
 
 ## MSC-EX16–EX18
 18 unique partial units; 0 complete chapters certified. EX17 visible Chapter 22 heading. Hybrid analysis latest 3: 3509 tokens, 101 paragraphs, 1362 quoted tokens from manual narrative transcription; POS unavailable. 6 candidate entries and 3 blocks added, 168 entries/65 blocks total; equivalent mechanisms linked, not inflated. Continuity correction: Lin Daiyu targets flowers only; fee, probability indexing and inventory gaps documented. No competitive validation or reader testing.
+
+## GED-CH01
+Third work; first supplied unit labeled Chapter 1. Python executed on mounted file: 3499 tokens, 156 paragraphs, 629 quoted tokens; excluded Wattpad UI/recommendations. Ten candidate variants and four original blocks, totals 178 entries and 69 blocks across three works; not independent certified techniques. No chapter certification or reader tests; POS not run. Source not committed.

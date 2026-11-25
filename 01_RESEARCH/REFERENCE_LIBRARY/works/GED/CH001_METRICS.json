@@ -1,0 +1,194 @@
+{
+  "source": "Pasted text(20261125-173045).txt",
+  "tokens": 3499,
+  "paragraphs": 156,
+  "quote_spans": 80,
+  "quote_tokens": 629,
+  "quote_pct": 17.98,
+  "sentence_proxy": 398,
+  "median_sentence_tokens": 8,
+  "median_paragraph_tokens": 12,
+  "questions": 62,
+  "exclamations": 3,
+  "raw_sha256": "d73ed3cf838a314308ade1350d355ac759502a0c8f1999785087b7fc4f3d31bd",
+  "normalized_sha256": "0cccd34c8289c532acc12acc9919c67c7e2bd62b8de8fd9673965d1a119665a2",
+  "top_forms": [
+    [
+      "the",
+      183
+    ],
+    [
+      "a",
+      113
+    ],
+    [
+      "of",
+      93
+    ],
+    [
+      "was",
+      88
+    ],
+    [
+      "he",
+      88
+    ],
+    [
+      "his",
+      76
+    ],
+    [
+      "to",
+      64
+    ],
+    [
+      "it",
+      62
+    ],
+    [
+      "and",
+      57
+    ],
+    [
+      "that",
+      53
+    ],
+    [
+      "in",
+      53
+    ],
+    [
+      "this",
+      31
+    ],
+    [
+      "you",
+      31
+    ],
+    [
+      "i",
+      30
+    ],
+    [
+      "lloyd",
+      29
+    ],
+    [
+      "is",
+      26
+    ],
+    [
+      "javier",
+      21
+    ],
+    [
+      "but",
+      21
+    ],
+    [
+      "him",
+      20
+    ],
+    [
+      "be",
+      19
+    ]
+  ],
+  "connectors": {
+    "but": 21,
+    "however": 6,
+    "because": 3,
+    "so": 18,
+    "then": 15,
+    "if": 9,
+    "although": 1,
+    "instead": 1,
+    "after": 3,
+    "before": 1,
+    "yet": 7,
+    "actually": 5
+  },
+  "starts": [
+    [
+      "he",
+      33
+    ],
+    [
+      "it",
+      21
+    ],
+    [
+      "the",
+      21
+    ],
+    [
+      "but",
+      15
+    ],
+    [
+      "so",
+      13
+    ],
+    [
+      "his",
+      13
+    ],
+    [
+      "that",
+      13
+    ],
+    [
+      "a",
+      11
+    ],
+    [
+      "you",
+      10
+    ],
+    [
+      "i",
+      9
+    ]
+  ],
+  "selected_forms": {
+    "said": 3,
+    "asked": 2,
+    "replied": 2,
+    "thought": 3,
+    "wondered": 2,
+    "looked": 5,
+    "could": 11,
+    "would": 15,
+    "had": 17,
+    "was": 88
+  },
+  "quintiles": [
+    {
+      "tokens": 699,
+      "contrast": 12,
+      "causal": 4
+    },
+    {
+      "tokens": 700,
+      "contrast": 9,
+      "causal": 6
+    },
+    {
+      "tokens": 700,
+      "contrast": 4,
+      "causal": 7
+    },
+    {
+      "tokens": 700,
+      "contrast": 6,
+      "causal": 6
+    },
+    {
+      "tokens": 700,
+      "contrast": 4,
+      "causal": 7
+    }
+  ],
+  "pos": "not_run",
+  "coverage": "unknown; heading supplied"
+}

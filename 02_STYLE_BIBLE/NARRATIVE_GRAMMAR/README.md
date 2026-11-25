@@ -36,3 +36,6 @@
 
 ## MSC-EX16–EX18
 [Patterns](MSC_EX16_18_PATTERNS.md): 6 new candidate entries, 3 blocks; reuse earlier IDs for equivalent functions. Total 168 entries and 65 blocks, not distinct certified mechanisms. 18 unique partial units MSC. Python metrics executed on narrative-only transcription of latest 3; POS not measured.
+
+## GED-CH01
+[GED_CH01_PATTERNS.md](GED_CH01_PATTERNS.md): 10 candidate entries G01–G10 and 4 original blocks GB01–GB04, total 178 entries and 69 blocks. Third work, humor and relationship dynamics. Python metrics in GED research folder; chapter completeness unverified.

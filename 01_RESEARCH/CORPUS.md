@@ -21,3 +21,6 @@ Objetivos preliminares: 8 obras principales, 12 complementarias, 400 capítulos,
 
 ## Biblioteca de referencias
 Consultar [REFERENCE_LIBRARY](REFERENCE_LIBRARY/README.md) para catálogo de 14 obras, protocolo y progreso. Hay una unidad parcial consultada directamente y tres técnicas candidatas; no hay capítulos completos analizados ni texto íntegro de terceros almacenado.
+
+## GED — third work chosen by author
+The Greatest Estate Developer: humor, contrasting voices, relationship dynamics, responsibility, technical problem solving. First supplied chapter analyzed hybrid; see REFERENCE_LIBRARY/works/GED/INDEX.md. Coverage unverified.
