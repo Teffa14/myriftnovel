@@ -14,43 +14,33 @@
     "literary_review": "author accepted; no independent reader certification"
   },
   "chapter_02": {
-    "status": "complete_private_candidate_pending_full_archive_review_and_author_approval",
-    "preflight": "Retrieve latest authoritative archive v2 or its verified successor; verify manifest with tools/check_future.py --verify-only, validate continuity_registry.json with tools/validate_continuity.py, consult chronology, knowledge, obligations, abstract usage summaries and NDM 2.0 before drafting. Screen candidate against both approved units; never use retired expressions as a generation source.",
-    "preflight_result": {
-      "status": "scoped_preflight_completed; manuscript_not_started",
-      "source_commit": "cf853bcd2e318c03c0d5f5f4edbf0852e58dbbc4",
-      "repository_inventory": {
-        "entries": 214,
-        "truncated": false
-      },
-      "archive_verified": true,
+    "status": "author_approved_and_distilled",
+    "revision": "V5",
+    "title": "An Hour and a Half",
+    "words_excluding_headings": 1911,
+    "paragraphs": 87,
+    "scenes": 2,
+    "retired_resources": 36,
+    "abstract_usage_records": 15,
+    "variant_candidates": 3,
+    "lexical_fingerprints": 1904,
+    "competitive_scope": "L0 narrative only; prior Azir identity verified against approved CH0001; no new card interaction or replay",
+    "prior_screening": {
       "approved_units": 2,
-      "retired_expressions": 91,
-      "usage_records": 32,
-      "continuity_records": 101,
-      "timeline_events": 8,
-      "structural_errors": 0,
-      "intentional_unknown_groups": 4,
-      "guard_tests_passed": 4,
-      "additional_source_timeline_finance_checks_passed": 10,
-      "competitive_evidence_pack": "equivalent date-filtered execution; 2 candidate decks, 40 price references, 9 scoped cases; 2 pack assertions passed",
-      "planned_competitive_scope": "L0, narrative-only; no new mechanical claims planned",
-      "private_brief": "Delivered privately in conversation; no plot or manuscript content committed.",
-      "limitations": "Applicable source review scoped; some long guides retrieved in excerpts and research archives not exhaustively reprocessed. Finish remaining applicable guide review before drafting. Draft-specific QA, originality screening, author approval and distillation not yet applicable."
+      "retired_spans_screened": 91,
+      "lexical_flags": 0,
+      "retired_matches": 0,
+      "internal_5grams_ge2": 0
     },
-    "candidate": {
-      "words": 2033,
-      "scenes": 2,
-      "competitive_scope": "L0",
-      "scripted_checks_passed": 14,
-      "scripted_checks_failed": 0,
-      "archive_guard_smoke_tests_passed": 4,
-      "lexical_flags_against_available_texts": 0,
-      "chapter_01_registered_retired_spans_screened": 52,
-      "chapter_01_retired_span_matches": 0,
-      "limitations": "Historical CH0001 V4.1 verified; local CH0001.1 final candidate hash matches local report; current session cannot retrieve authoritative v2 archive, 39 supplement retired spans, or full 101-record continuity registry. G6 not certified, no independent literary rating, no author approval, no canon promotion.",
-      "manuscript_storage": "private conversation delivery only; no text or provisional plot details committed"
-    }
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip",
+    "approval": "author requested full close-out of V5; formatting-only heading and scene break, page numeral removed; prose unchanged",
+    "literary_review": "author accepted; no new numerical literary score or reader certification",
+    "checks": {
+      "passed": 32,
+      "failed": 0,
+      "scope": "named archive, exact source, lexical, structural, financial/calendar and negative controls; guard self-test separately reports 4 passed"
+    },
+    "publication": "not published"
   },
   "publication": "not published by this work; rights gate separate",
   "chapter_01_1": {
@@ -75,19 +65,23 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 101,
-    "events": 8,
-    "approved_records": 101,
-    "open_intentional_unknowns": 4,
-    "structural_validation": "passed; semantic review same-agent",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip"
+    "records": 152,
+    "events": 14,
+    "approved_records": 152,
+    "open_issue_groups": 5,
+    "structural_validation": "passed; same-agent semantic review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip"
   },
   "archive_checks": {
-    "passed": 26,
+    "passed": 32,
     "failed": 0,
-    "scope": "source integrity, supplement order and regression tests, lexical screening, continuity validation and negative controls"
+    "scope": "Chapter 2 close-out, all prior approved hashes, exact source, lexical screening, continuity and negative controls"
+  },
+  "chapter_03": {
+    "status": "not_started",
+    "preflight": "Retrieve authoritative archive v3, run archive and continuity validators, load all three approved units and relevant abstract usage and continuity records. Compare candidate against all three before approval; honor previously established commitments and knowledge boundaries."
   }
 }

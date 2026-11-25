@@ -1,26 +1,26 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 1,
-  "retired_resources_registered": 91,
-  "manuscript_audits": 2,
+  "approved_chapters_registered": 2,
+  "retired_resources_registered": 127,
+  "manuscript_audits": 3,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 2,
-    "new_variant_candidates": 6
+    "own_approved_units": 3,
+    "new_variant_candidates": 9
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "authoritative v2 verified locally and uploaded to private ChatGPT Library; original Chapter 1 archive retained as history",
+  "private_archive": "authoritative v3 verified locally and uploaded to private ChatGPT Library; prior archives retained",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v2.zip",
-  "usage_records": 32,
-  "lexical_fingerprints_registered": 4636,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v3.zip",
+  "usage_records": 47,
+  "lexical_fingerprints_registered": 6540,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 1,
-  "approved_units_registered": 2,
+  "approved_units_registered": 3,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -64,5 +64,25 @@
     "passed": 26,
     "failed": 0,
     "scope": "local archive integrity, migration, continuity and lexical checks"
+  },
+  "chapter_2": {
+    "revision": "V5",
+    "words": 1911,
+    "paragraphs": 87,
+    "scenes": 2,
+    "distinctive_retired_spans": 36,
+    "usage_records": 15,
+    "abstract_variants": 3,
+    "lexical_fingerprints": 1904,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0",
+    "g6": "approved, distilled, registered and verified within scoped lexical and same-agent semantic review; no exhaustive external corpus certification"
+  },
+  "chapter_2_registration_checks": {
+    "passed": 32,
+    "failed": 0,
+    "scope": "exact source, prior integrity, continuity, lexical and negative controls"
   }
 }
