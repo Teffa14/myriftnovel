@@ -119,3 +119,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## AYI — historical Aurora Yi (2026-11-25)
 [Research index](works/AYI/INDEX.md): 24,135 tokens, 77 units, 29 card-role records, 14 matchup contexts, 20 count-balanced swap policies (two inferred branches), 60 candidate mechanisms and eight exercises. 12 distinct resource curves and 495 color-subset checks. Main and Vegas retired versions separate; no current legal list or replay certified.
+
+## MAC — purposeful action (2026-11-25)
+[Research index](works/MAC/INDEX.md): 2,203 tokens, 14 units, five historical alternatives, 18 linked candidate refinements, four exercises, eight structural and eight synthetic budget checks. Overlaps OUT/RIV; no independently novel count or verified legal replay. Historical ban conflicts recorded.

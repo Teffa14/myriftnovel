@@ -70,3 +70,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## AYI — ramp thresholds and transformational sideboard
 [AYI research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AYI/INDEX.md) supplements FTG FT-L34 with fallback castability, position allocation, resource thresholds, versioned transformation and independent opposing adaptation. [Resource audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/AYI/RESOURCE_AUDIT.json) is arithmetic only. Historical Dazzling Aurora and fields conflict with Nov 23 ban snapshot. Verify actual dated official mechanics and G3-scene; no historical list transplanted into current Standard.
+
+## MAC — opponent response cost diagnostic
+[MAC research](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAC/INDEX.md) complements OUT and RIV through marginal action value, alternative response costs, deferred contest and retained flexibility. Compare immediate score against feasible later routes and rival independent choices. The five source branches are historical and incomplete, with banned references; verify dated official mechanics and G3-scene. No general win probability or dominance established.

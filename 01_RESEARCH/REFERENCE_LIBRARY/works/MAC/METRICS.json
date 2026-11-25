@@ -1,0 +1,131 @@
+{
+  "source": "TCG 300: a brief overview of macrostrategy / TCG 301: You don't always need to click the button",
+  "author": "Mara (sign-off)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "7b92d0ca1c7eefebf13053d58b5d7fd7592352336349b3a50c2b3fbbed1d485f",
+  "bytes": 12777,
+  "lines": 346,
+  "word_tokens": 2203,
+  "distinct_lowercase_forms": 577,
+  "blocks": 111,
+  "linked_images": 25,
+  "method": "Python UTF-8-sig splitlines, Unicode alphabetic tokens with optional internal apostrophe or hyphen; headings, URLs and markup labels included; lowercase forms and blank-line blocks.",
+  "units": [
+    {
+      "id": "MAC-U01",
+      "start": 1,
+      "end": 1,
+      "tokens": 0,
+      "topic": "markup"
+    },
+    {
+      "id": "MAC-U02",
+      "start": 2,
+      "end": 3,
+      "tokens": 6,
+      "topic": "series title"
+    },
+    {
+      "id": "MAC-U03",
+      "start": 4,
+      "end": 9,
+      "tokens": 52,
+      "topic": "series introduction"
+    },
+    {
+      "id": "MAC-U04",
+      "start": 10,
+      "end": 11,
+      "tokens": 9,
+      "topic": "article title"
+    },
+    {
+      "id": "MAC-U05",
+      "start": 12,
+      "end": 45,
+      "tokens": 310,
+      "topic": "unnecessary action"
+    },
+    {
+      "id": "MAC-U06",
+      "start": 46,
+      "end": 59,
+      "tokens": 106,
+      "topic": "decision objectives"
+    },
+    {
+      "id": "MAC-U07",
+      "start": 60,
+      "end": 113,
+      "tokens": 299,
+      "topic": "opponent restriction and illustrative opening"
+    },
+    {
+      "id": "MAC-U08",
+      "start": 114,
+      "end": 125,
+      "tokens": 152,
+      "topic": "compare alternatives"
+    },
+    {
+      "id": "MAC-U09",
+      "start": 126,
+      "end": 163,
+      "tokens": 156,
+      "topic": "line 1"
+    },
+    {
+      "id": "MAC-U10",
+      "start": 164,
+      "end": 205,
+      "tokens": 210,
+      "topic": "line 2"
+    },
+    {
+      "id": "MAC-U11",
+      "start": 206,
+      "end": 257,
+      "tokens": 249,
+      "topic": "line 3"
+    },
+    {
+      "id": "MAC-U12",
+      "start": 258,
+      "end": 279,
+      "tokens": 109,
+      "topic": "line 4"
+    },
+    {
+      "id": "MAC-U13",
+      "start": 280,
+      "end": 337,
+      "tokens": 475,
+      "topic": "line 5 and author comparison"
+    },
+    {
+      "id": "MAC-U14",
+      "start": 338,
+      "end": 346,
+      "tokens": 70,
+      "topic": "conclusion"
+    }
+  ],
+  "counts": {
+    "branches": 5,
+    "mechanism_refinements": 18,
+    "exercises": 4,
+    "abstract_budget_tests": 8,
+    "structural_checks": 8
+  },
+  "checks": [
+    "14 contiguous units, 346 lines, 2203 tokens",
+    "five distinct branches",
+    "four historical ban matches including three candidate aliases",
+    "18 unique mechanism IDs",
+    "all overlap links resolve",
+    "four exercise references",
+    "eight abstract budget predicates",
+    "unused source ID"
+  ]
+}

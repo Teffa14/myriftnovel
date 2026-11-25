@@ -1,0 +1,246 @@
+{
+  "context": {
+    "profiles": [
+      "FT-L48",
+      "FT-L24"
+    ],
+    "source_lines": "64–106",
+    "opening_cards": [
+      "Tideturner",
+      "Blade of the Exile",
+      "Stella",
+      "Blitzcrank",
+      "Defy"
+    ],
+    "later_draw": "Heron",
+    "source_opponent_next_turn": {
+      "energy": 5,
+      "cards": 5
+    },
+    "actual_complete_state": null
+  },
+  "branches": [
+    {
+      "id": "MAC-B01",
+      "source_lines": "126–163",
+      "strategy": "Early contest plus champion development and withdrawal",
+      "source_nominal_outcome": {
+        "points": 1,
+        "base_might": [
+          2,
+          5
+        ]
+      },
+      "own_power_cost": null,
+      "opposing_response_classes": [
+        "early removal of initial body",
+        "combined size reduction and damage against champion"
+      ],
+      "source_opposing_power_range": [
+        1,
+        3
+      ],
+      "followup": "Possible opposing inexpensive unit development if response sequence affordable.",
+      "guard": "No point or body survival guaranteed; named champion and field historical.",
+      "status": "historical illustrative hypothesis",
+      "legal_replay": false,
+      "measured_probability": null
+    },
+    {
+      "id": "MAC-B02",
+      "source_lines": "164–205",
+      "strategy": "Protect initial contest, then develop equipment",
+      "source_nominal_outcome": {
+        "points": 1,
+        "body_might": 2,
+        "equipment": true
+      },
+      "own_power_cost": {
+        "unequipped": 2,
+        "equipped": 3
+      },
+      "opposing_response_classes": [
+        "combat or targeted removal",
+        "additional opposing unit development"
+      ],
+      "guard": "CC abbreviation unresolved; response sequencing and payment unverified.",
+      "status": "historical illustrative hypothesis",
+      "legal_replay": false,
+      "measured_probability": null
+    },
+    {
+      "id": "MAC-B03",
+      "source_lines": "206–257",
+      "strategy": "Attempt contest, develop equipment without counter commitment",
+      "source_nominal_outcome": {
+        "points": 1,
+        "body_might_unequipped": 2,
+        "body_might_equipped": 5
+      },
+      "own_power_cost": {
+        "unequipped": 1,
+        "equipped": 2
+      },
+      "opposing_response_classes": [
+        "early removal",
+        "accelerated opposing champion",
+        "size reduction or damage"
+      ],
+      "guard": "Point conditional; if initial removal prevents conquest, nominal outcome fails.",
+      "status": "historical illustrative hypothesis",
+      "legal_replay": false,
+      "measured_probability": null
+    },
+    {
+      "id": "MAC-B04",
+      "source_lines": "258–279",
+      "strategy": "Develop champion in base, defer contest",
+      "source_nominal_outcome": {
+        "points": 0,
+        "base_might": [
+          2,
+          4
+        ]
+      },
+      "own_power_cost": null,
+      "opposing_response_classes": [
+        "combined reduction and damage"
+      ],
+      "guard": "Unused opposing energy is a source assumption; additional actions may be possible.",
+      "status": "historical illustrative hypothesis",
+      "legal_replay": false,
+      "measured_probability": null
+    },
+    {
+      "id": "MAC-B05",
+      "source_lines": "280–337",
+      "strategy": "Invest equipment on existing body in base, retain future flexibility",
+      "source_nominal_outcome": {
+        "points": 0,
+        "base_might": [
+          5
+        ],
+        "equipment": true
+      },
+      "own_power_cost": null,
+      "opposing_response_classes": [
+        "larger removal investment on initial body",
+        "follow-up answer to champion despite potential counter"
+      ],
+      "guard": "Author preference, not proven dominance. Opponent may ignore, score elsewhere or take other legal action. Represented En Garde not established in actual deck.",
+      "status": "historical illustrative hypothesis",
+      "legal_replay": false,
+      "measured_probability": null
+    }
+  ],
+  "flags": [
+    {
+      "label": "Star Spring",
+      "name": "Star Spring",
+      "identity": "explicit",
+      "snapshot_banned": true
+    },
+    {
+      "label": "Riven 4",
+      "name": "Riven, Broken Blade",
+      "identity": "candidate supported by FT-L48-C01 energy 4; not exact printing confirmation",
+      "snapshot_banned": true
+    },
+    {
+      "label": "Stella / Stellacorn",
+      "name": "Stellacorn Herder",
+      "identity": "probable shorthand; identity not certified",
+      "snapshot_banned": true
+    },
+    {
+      "label": "Zhonya's",
+      "name": "Zhonya’s Hourglass",
+      "identity": "probable shorthand; identity not certified",
+      "snapshot_banned": true
+    }
+  ],
+  "guards": [
+    "No empirical denominator for average nine turns or fourteen cards. No exact deck or match record; opening five cards and subsequent draw are given but setup/mulligan state not independently established.",
+    "25 linked image references not retrieved; board, zones, hand, resources, legality and exact resolution incomplete.",
+    "Source's five lines are alternatives, not observed matches. Nominal point/Might outcomes conditional. Author preference for branch five is opinion; no comparison probability or dominance proof.",
+    "Star Spring explicit ban, Riven 4/Stella/Zhonya shorthand candidates correspond to other banned names. Exact printing and effective rules not verified.",
+    "Potential En Garde is hypothetical, not confirmed list inclusion; opponent has independent options beyond listed punishments.",
+    "No assumption that unused opposing energy is necessarily wasted. Resource cost ranges and five-energy next turn source assumptions. Keep Energy and Power separate in actual play.",
+    "Unknown publication date, Mara credited by sign-off. No later TCG 300 articles supplied."
+  ],
+  "budget_tests": [
+    {
+      "id": "MAC-T01",
+      "budget": 5,
+      "response": 2,
+      "development": 2,
+      "expected": true,
+      "actual": true,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T02",
+      "budget": 5,
+      "response": 4,
+      "development": 2,
+      "expected": false,
+      "actual": false,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T03",
+      "budget": 5,
+      "response": 5,
+      "development": 0,
+      "expected": true,
+      "actual": true,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T04",
+      "budget": 5,
+      "response": 5,
+      "development": 1,
+      "expected": false,
+      "actual": false,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T05",
+      "budget": 3,
+      "response": 1,
+      "development": 2,
+      "expected": true,
+      "actual": true,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T06",
+      "budget": 3,
+      "response": 2,
+      "development": 2,
+      "expected": false,
+      "actual": false,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T07",
+      "budget": 4,
+      "response": 0,
+      "development": 4,
+      "expected": true,
+      "actual": true,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    },
+    {
+      "id": "MAC-T08",
+      "budget": 4,
+      "response": 0,
+      "development": 5,
+      "expected": false,
+      "actual": false,
+      "scope": "invented single fungible resource budget, not Riftbound rules"
+    }
+  ],
+  "scope": "Historical hypotheses and invented scalar arithmetic only; no legality or probability certification."
+}

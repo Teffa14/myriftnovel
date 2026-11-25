@@ -1,0 +1,254 @@
+[
+  {
+    "id": "MAC-M01",
+    "level": "L4",
+    "source_lines": "12–45",
+    "name": "Marginal action value",
+    "structure": "Evaluate whether an additional action changes attainable victory or survival.",
+    "acceptance": "Reject redundant payoff only after checking relevant rival threats.",
+    "related_ids": [
+      "OUT-M11",
+      "OUT-M19"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M02",
+    "level": "L4",
+    "source_lines": "14–38",
+    "name": "Output bias",
+    "structure": "Separate impressive visible resource growth from useful progress.",
+    "acceptance": "Avoid equating bigger board or hand with higher win probability.",
+    "related_ids": [
+      "OUT-M02",
+      "RIV-M13"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M03",
+    "level": "L4",
+    "source_lines": "30–38",
+    "name": "Train intuitive choices",
+    "structure": "Use postgame comparison to improve rapid decision recognition.",
+    "acceptance": "Record failed intuitive choices and successful exceptions; no claim of universal heuristics.",
+    "related_ids": [
+      "OUT-M20",
+      "OUT-M22"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M04",
+    "level": "L4",
+    "source_lines": "34–38",
+    "name": "Finite utilization budget",
+    "structure": "Compare drawn cards and developed assets with capacity to use them before the game ends.",
+    "acceptance": "Nine-turn and fourteen-card figures are unverified illustrative assumptions.",
+    "related_ids": [
+      "OUT-M04",
+      "OUT-M14"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M05",
+    "level": "L4",
+    "source_lines": "46–59",
+    "name": "Two-player objective alignment",
+    "structure": "Assess own progress and rival access to winning routes together.",
+    "acceptance": "Include opponent independent objectives and legal choices.",
+    "related_ids": [
+      "OUT-M02",
+      "OUT-M18"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M06",
+    "level": "L4",
+    "source_lines": "54–59",
+    "name": "Opposing response cost",
+    "structure": "Estimate which responses a credible threat requires and what each consumes.",
+    "acceptance": "Use actual costs and legal response windows; no invented exact hand.",
+    "related_ids": [
+      "OUT-M12",
+      "RIV-M05"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M07",
+    "level": "L4",
+    "source_lines": "56–59",
+    "name": "Competing expenditure",
+    "structure": "Compare rival response cost with their ability to make a second consequential play.",
+    "acceptance": "Separate resource types, timing and alternative funding.",
+    "related_ids": [
+      "OUT-M10",
+      "RIV-M31"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M08",
+    "level": "L4",
+    "source_lines": "58–60",
+    "name": "Reactive role induction",
+    "structure": "Create a threat that can redirect rival resources away from preferred development.",
+    "acceptance": "Opponent may decline to react; include consequences if ignored.",
+    "related_ids": [
+      "OUT-M17",
+      "OUT-M18"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M09",
+    "level": "L4",
+    "source_lines": "60–113",
+    "name": "Unspent opposing capacity",
+    "structure": "Compare entering a contest with delaying exposure when a rival has response capacity.",
+    "acceptance": "Unused energy may have other applications; check scoring cost of waiting.",
+    "related_ids": [
+      "RIV-M19",
+      "OUT-M11"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M10",
+    "level": "L4",
+    "source_lines": "114–163",
+    "name": "Punishment-set comparison",
+    "structure": "Compare candidate lines by classes of legal answers and follow-up options.",
+    "acceptance": "No probabilities from counting named answers without deck/hand evidence.",
+    "related_ids": [
+      "OUT-M12",
+      "RIV-M05"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M11",
+    "level": "L4",
+    "source_lines": "126–163",
+    "name": "Maximum output versus resilience",
+    "structure": "Compare favorable-case development with loss under credible response combinations.",
+    "acceptance": "Include failure state and alternative actions; no deterministic best line.",
+    "related_ids": [
+      "OUT-M13",
+      "RIV-M35"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M12",
+    "level": "L4",
+    "source_lines": "164–205",
+    "name": "Escalating rescue commitment",
+    "structure": "Reassess after initial threat fails rather than automatically spending protection and support.",
+    "acceptance": "Earlier investment is sunk; preserve feasible future plan.",
+    "related_ids": [
+      "OUT-M01",
+      "OUT-M05"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M13",
+    "level": "L4",
+    "source_lines": "206–257",
+    "name": "Equipment exposure choice",
+    "structure": "Compare equipped and unequipped states and where resources remain.",
+    "acceptance": "Verify actual attachment and payment; equipment may be removed.",
+    "related_ids": [
+      "RIV-M23",
+      "RIV-M32"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M14",
+    "level": "L4",
+    "source_lines": "258–279",
+    "name": "Deferred scoring as development",
+    "structure": "Compare accepting zero immediate points with retaining later board capacity.",
+    "acceptance": "Reject if opponent can reach decisive score before conversion.",
+    "related_ids": [
+      "OUT-M15",
+      "RIV-M17"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M15",
+    "level": "L4",
+    "source_lines": "280–337",
+    "name": "Threat persistence in reserve",
+    "structure": "Develop a credible later contest while preserving multiple future placements or support options.",
+    "acceptance": "Verify position, readiness and legal timing; rival can attack another route.",
+    "related_ids": [
+      "OUT-M14",
+      "RIV-M14"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M16",
+    "level": "L4",
+    "source_lines": "318–328",
+    "name": "Response-combination burden",
+    "structure": "Evaluate whether opposing answers must be combined at cost of development.",
+    "acceptance": "Do not infer inability to act from incomplete hand or rules.",
+    "related_ids": [
+      "OUT-M12",
+      "RIV-M34"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M17",
+    "level": "L4",
+    "source_lines": "322–328",
+    "name": "Represented interaction",
+    "structure": "Account for plausible hidden options signaled by retained resources.",
+    "acceptance": "Distinguish actual card, common inclusion and theoretical possibility; no perfect information.",
+    "related_ids": [
+      "RIV-M07",
+      "OUT-M13"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  },
+  {
+    "id": "MAC-M18",
+    "level": "L6",
+    "source_lines": "318–346",
+    "name": "Practice outside tournament clock",
+    "structure": "Explore counterfactual branches after games to improve reasonable-paced decisions.",
+    "acceptance": "No unauthorized pauses, rewinds or slow play.",
+    "related_ids": [
+      "OUT-M22",
+      "OUT-M24"
+    ],
+    "status": "candidate_refinement_untested",
+    "novelty": "Related strategic abstractions; not independent discoveries."
+  }
+]

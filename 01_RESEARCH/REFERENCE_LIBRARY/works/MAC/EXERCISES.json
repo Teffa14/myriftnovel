@@ -1,0 +1,49 @@
+[
+  {
+    "id": "MAC-X01",
+    "mechanisms": [
+      "MAC-M01",
+      "MAC-M02",
+      "MAC-M05"
+    ],
+    "task": "A practice player has a safe closing route and an optional extra development. Compare spending and saving against an independently chosen rival response.",
+    "status": "original abstract exercise, not playtested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "MAC-X02",
+    "mechanisms": [
+      "MAC-M06",
+      "MAC-M07",
+      "MAC-M08",
+      "MAC-M16"
+    ],
+    "task": "Use an invented resource ledger to compare a threat answered cheaply with one requiring two responses. Record the rival's remaining development options and the ignore branch.",
+    "status": "original abstract exercise, not playtested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "MAC-X03",
+    "mechanisms": [
+      "MAC-M09",
+      "MAC-M12",
+      "MAC-M13",
+      "MAC-M14"
+    ],
+    "task": "Compare an exposed early contest with a protected development line. After the first action fails, re-evaluate rather than automatically rescuing it.",
+    "status": "original abstract exercise, not playtested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "MAC-X04",
+    "mechanisms": [
+      "MAC-M10",
+      "MAC-M11",
+      "MAC-M17",
+      "MAC-M18"
+    ],
+    "task": "After a practice game, freeze information available at the choice and compare two alternative lines with different hypothetical opposing hands. Separate probability assumptions from legal possibilities.",
+    "status": "original abstract exercise, not playtested",
+    "canon_status": "noncanon"
+  }
+]

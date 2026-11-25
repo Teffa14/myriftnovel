@@ -81,3 +81,6 @@ Before drafting and after each revision, apply 09_EDITORIAL_QA/SERIAL_QUALITY_PR
 
 ## OUT — optional decision-scene diagnostic
 For a consequential comeback, failed opener or closing choice consult [OUT](../01_RESEARCH/REFERENCE_LIBRARY/works/OUT/INDEX.md) alongside NLM and competitive evidence. Record initial plan, reason to revise, prerequisites, alternative actions and actual response; distinguish choice quality from later outcome. Optional selector, not a mandatory monologue, new canon or substitute for G3-scene. Preserve rival agency and failure branches.
+
+## MAC — optional restraint and response-cost diagnostic
+Use [MAC](../01_RESEARCH/REFERENCE_LIBRARY/works/MAC/INDEX.md) with OUT for scenes where an appealing optional action competes with a more durable route. Show the chosen action, rival response and actual consequence; avoid retrospective omniscience or a repeated coaching maxim. Historical branches are research only, not ready-to-use match scripts.
