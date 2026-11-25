@@ -1,0 +1,626 @@
+{
+  "archetypes": [
+    {
+      "id": "VEX-A01",
+      "name": "Heron",
+      "lines": "196–235",
+      "engine": "Second-card economy supporting larger threats and prolonged holds",
+      "dependencies": [
+        "safe legal deployment location",
+        "surviving payoff",
+        "usable second-card costs"
+      ],
+      "source_config": "3 Heron; heavier top-end; excludes core Empower package in this variant",
+      "advantages": "Later resource/value conversion and fewer weak early package dependencies",
+      "weakness": "Clunky hands, fast pressure, efficient bounce/removal after large investment",
+      "selection": "Test when slower opponents allow deployment and when bounce punishes the Empower variant more severely.",
+      "status": "pilot_hypothesis"
+    },
+    {
+      "id": "VEX-A02",
+      "name": "Empower/Kharox",
+      "lines": "236–284",
+      "engine": "Steel Paws/Tornado Warrior early defense and Kharox conditional opposing-trash access",
+      "dependencies": [
+        "eligible Empower target",
+        "correct location and Hidden timing",
+        "useful eligible opposing trash",
+        "sufficient interaction"
+      ],
+      "source_config": "3 Steel Paws and 3 Tornado Warrior advocated together; 1–2 Kharox; hybrid 2 Heron possible",
+      "advantages": "Early board potential and flexible midgame",
+      "weakness": "Bounce, missing targets, poor opposing trash, predictable setup",
+      "selection": "Test against early pressure and valuable unit-based decks; compare against gear-focused and bounce-heavy opponents.",
+      "status": "pilot_hypothesis"
+    },
+    {
+      "id": "VEX-A03",
+      "name": "Illaoi tokens",
+      "lines": "285–331",
+      "engine": "Token generation, distributed presence and payoff scaling",
+      "dependencies": [
+        "token generators and surviving payoff",
+        "legal scoring route",
+        "opponent wide-board answers"
+      ],
+      "source_config": "Illaoi and Zed as payoffs, Baron proposed later; not classic concentrated hold",
+      "advantages": "Multiple bodies and reduced exposure to single-target answers",
+      "weakness": "Generator/payoff mismatch, low standalone bodies, wide-board removal and costly late draws",
+      "selection": "Test when distribution is useful and opposing answers are disproportionately single-target.",
+      "status": "pilot_hypothesis"
+    }
+  ],
+  "decks": [
+    {
+      "id": "VEX-D01",
+      "lines": "832–935",
+      "url": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-322577",
+      "era": "historical_Vendetta",
+      "main": [
+        {
+          "count": 1,
+          "name": "Abandon"
+        },
+        {
+          "count": 2,
+          "name": "Astral Heron"
+        },
+        {
+          "count": 1,
+          "name": "Back Off"
+        },
+        {
+          "count": 1,
+          "name": "Block"
+        },
+        {
+          "count": 2,
+          "name": "Boots of Swiftness"
+        },
+        {
+          "count": 1,
+          "name": "Charm"
+        },
+        {
+          "count": 3,
+          "name": "Defy"
+        },
+        {
+          "count": 3,
+          "name": "Discipline"
+        },
+        {
+          "count": 1,
+          "name": "Edge of Night"
+        },
+        {
+          "count": 1,
+          "name": "Gust"
+        },
+        {
+          "count": 1,
+          "name": "Irelia, Fervent"
+        },
+        {
+          "count": 1,
+          "name": "Kharox"
+        },
+        {
+          "count": 3,
+          "name": "Mutated Mouser"
+        },
+        {
+          "count": 1,
+          "name": "Pyke, Returned"
+        },
+        {
+          "count": 1,
+          "name": "Rebuke"
+        },
+        {
+          "count": 1,
+          "name": "Ride the Wind"
+        },
+        {
+          "count": 2,
+          "name": "Scuttle Crab"
+        },
+        {
+          "count": 1,
+          "name": "Star-Crossed"
+        },
+        {
+          "count": 3,
+          "name": "Steel Paws"
+        },
+        {
+          "count": 2,
+          "name": "Switcheroo"
+        },
+        {
+          "count": 2,
+          "name": "Tideturner"
+        },
+        {
+          "count": 3,
+          "name": "Tornado Warrior"
+        },
+        {
+          "count": 2,
+          "name": "Zhonya's Hourglass"
+        }
+      ],
+      "side": [
+        {
+          "count": 1,
+          "name": "Blitzcrank, Impassive"
+        },
+        {
+          "count": 1,
+          "name": "Decree of Focus"
+        },
+        {
+          "count": 2,
+          "name": "Disarming Rake"
+        },
+        {
+          "count": 1,
+          "name": "Gust"
+        },
+        {
+          "count": 1,
+          "name": "Janna, Savior"
+        },
+        {
+          "count": 2,
+          "name": "Ravenbloom Prefect"
+        },
+        {
+          "count": 1,
+          "name": "Star-Crossed"
+        },
+        {
+          "count": 1,
+          "name": "Vex, Cheerless"
+        }
+      ],
+      "legend": "Vex, Gloomist",
+      "chosen": "Vex, Apathetic",
+      "runes": {
+        "Calm": 5,
+        "Chaos": 7
+      },
+      "battlefields": [
+        "Bandle Tree",
+        "Fortified Position",
+        "Startipped Peak"
+      ],
+      "counts": {
+        "listed_main": 39,
+        "chosen": 1,
+        "combined_main": 40,
+        "side": 10,
+        "battlefields": 3,
+        "runes": 12
+      },
+      "snapshot_banned": [
+        {
+          "count": 2,
+          "name": "Zhonya's Hourglass"
+        }
+      ],
+      "legal_list_certified": false,
+      "count_note": "39 main plus chosen = 40; 10 sideboard; count check alone not legality."
+    },
+    {
+      "id": "VEX-D02",
+      "lines": "936–1033",
+      "url": "https://riftdecks.com/riftbound-metagame/deck-vex-gloomist-322571",
+      "era": "historical_Vendetta",
+      "main": [
+        {
+          "count": 1,
+          "name": "Abandon"
+        },
+        {
+          "count": 3,
+          "name": "Astral Heron"
+        },
+        {
+          "count": 2,
+          "name": "Back Off"
+        },
+        {
+          "count": 1,
+          "name": "Block"
+        },
+        {
+          "count": 2,
+          "name": "Boots of Swiftness"
+        },
+        {
+          "count": 1,
+          "name": "Charm"
+        },
+        {
+          "count": 3,
+          "name": "Defy"
+        },
+        {
+          "count": 2,
+          "name": "Discipline"
+        },
+        {
+          "count": 1,
+          "name": "Evelynn, Entrancing"
+        },
+        {
+          "count": 1,
+          "name": "Irelia, Fervent"
+        },
+        {
+          "count": 2,
+          "name": "Kharox"
+        },
+        {
+          "count": 3,
+          "name": "Mutated Mouser"
+        },
+        {
+          "count": 1,
+          "name": "Rebuke"
+        },
+        {
+          "count": 1,
+          "name": "Ride the Wind"
+        },
+        {
+          "count": 2,
+          "name": "Scuttle Crab"
+        },
+        {
+          "count": 1,
+          "name": "Star-Crossed"
+        },
+        {
+          "count": 3,
+          "name": "Steel Paws"
+        },
+        {
+          "count": 3,
+          "name": "Switcheroo"
+        },
+        {
+          "count": 1,
+          "name": "Tideturner"
+        },
+        {
+          "count": 3,
+          "name": "Tornado Warrior"
+        },
+        {
+          "count": 2,
+          "name": "Zhonya's Hourglass"
+        }
+      ],
+      "side": [
+        {
+          "count": 1,
+          "name": "Baron Nashor"
+        },
+        {
+          "count": 2,
+          "name": "Decree of Focus"
+        },
+        {
+          "count": 2,
+          "name": "Disarming Rake"
+        },
+        {
+          "count": 2,
+          "name": "Gust"
+        },
+        {
+          "count": 1,
+          "name": "Not So Fast"
+        },
+        {
+          "count": 1,
+          "name": "Ravenbloom Prefect"
+        },
+        {
+          "count": 1,
+          "name": "Star-Crossed"
+        }
+      ],
+      "legend": "Vex, Gloomist",
+      "chosen": "Vex, Apathetic",
+      "runes": {
+        "Calm": 5,
+        "Chaos": 7
+      },
+      "battlefields": [
+        "Bandle Tree",
+        "Fortified Position",
+        "Startipped Peak"
+      ],
+      "counts": {
+        "listed_main": 39,
+        "chosen": 1,
+        "combined_main": 40,
+        "side": 10,
+        "battlefields": 3,
+        "runes": 12
+      },
+      "snapshot_banned": [
+        {
+          "count": 2,
+          "name": "Zhonya's Hourglass"
+        }
+      ],
+      "legal_list_certified": false,
+      "count_note": "39 main plus chosen = 40; 10 sideboard; count check alone not legality."
+    },
+    {
+      "id": "VEX-D03",
+      "lines": "2207–2400",
+      "url": null,
+      "era": "Radiance_provisional_undated",
+      "main": [
+        {
+          "count": 3,
+          "name": "Astral Heron"
+        },
+        {
+          "count": 1,
+          "name": "Back Off"
+        },
+        {
+          "count": 1,
+          "name": "Baron Nashor"
+        },
+        {
+          "count": 3,
+          "name": "Bedeviling Stranger"
+        },
+        {
+          "count": 1,
+          "name": "Blitzcrank, Impassive"
+        },
+        {
+          "count": 2,
+          "name": "Boots of Swiftness"
+        },
+        {
+          "count": 2,
+          "name": "Defy"
+        },
+        {
+          "count": 1,
+          "name": "Discipline"
+        },
+        {
+          "count": 1,
+          "name": "Edge of Night"
+        },
+        {
+          "count": 1,
+          "name": "Emperor's Divide"
+        },
+        {
+          "count": 1,
+          "name": "Evelynn, Entrancing"
+        },
+        {
+          "count": 2,
+          "name": "Gust"
+        },
+        {
+          "count": 1,
+          "name": "Janna, Savior"
+        },
+        {
+          "count": 1,
+          "name": "Not So Fast"
+        },
+        {
+          "count": 1,
+          "name": "Pyke, Returned"
+        },
+        {
+          "count": 1,
+          "name": "Rebuke"
+        },
+        {
+          "count": 3,
+          "name": "Sneaky Deckhand"
+        },
+        {
+          "count": 1,
+          "name": "Star-Crossed"
+        },
+        {
+          "count": 3,
+          "name": "Steel Paws"
+        },
+        {
+          "count": 3,
+          "name": "Switcheroo"
+        },
+        {
+          "count": 2,
+          "name": "The Good Stuff"
+        },
+        {
+          "count": 1,
+          "name": "Tideturner"
+        },
+        {
+          "count": 3,
+          "name": "Tornado Warrior"
+        },
+        {
+          "count": 1,
+          "name": "Vex, Apathetic"
+        }
+      ],
+      "side": [
+        {
+          "count": 2,
+          "name": "An Offer You Can't Refuse"
+        },
+        {
+          "count": 2,
+          "name": "Decree of Focus"
+        },
+        {
+          "count": 1,
+          "name": "Defy"
+        },
+        {
+          "count": 2,
+          "name": "Hush"
+        },
+        {
+          "count": 1,
+          "name": "Rebuke"
+        },
+        {
+          "count": 1,
+          "name": "Vilemaw"
+        }
+      ],
+      "legend": "Vex, Gloomist",
+      "chosen": "Vex, Apathetic",
+      "runes": {
+        "Calm": 5,
+        "Chaos": 7
+      },
+      "battlefields": [
+        "Bandle Scouts' Academy",
+        "Hunters' Circle",
+        "Startipped Peak"
+      ],
+      "counts": {
+        "listed_main": 40,
+        "chosen": 1,
+        "combined_main": 41,
+        "side": 9,
+        "battlefields": 3,
+        "runes": 12
+      },
+      "snapshot_banned": [],
+      "legal_list_certified": false,
+      "count_note": "40 main plus separate chosen = 41; nine sideboard. Do not silently repair or infer missing card."
+    }
+  ],
+  "budget": [
+    {
+      "id": "VEX-BUD01",
+      "lines": "1770–1852",
+      "label": "Under EUR 25",
+      "url": "https://piltoverarchive.com/decks/view/44a49e89-d648-47b9-8e6e-278a0cfc3787",
+      "price_eur": 24.6,
+      "date": "2026-11-13",
+      "approach": "Basic early units and cheaper combat/mobility; no Heron, Crab or Irelia in described construction.",
+      "region": "Europe",
+      "currency": "EUR",
+      "status": "historical_source_quote_not_verified_market_price",
+      "full_list_available": false
+    },
+    {
+      "id": "VEX-BUD02",
+      "lines": "1853–1875",
+      "label": "Under EUR 50 alternative",
+      "url": "https://piltoverarchive.com/decks/view/6b147382-6355-47ec-8478-0b9c96f4bd93",
+      "price_eur": null,
+      "date": null,
+      "approach": "Common/uncommon/rare Empower package, more Boots, Zed and low-Might exchange; no exact displayed price.",
+      "region": "Europe",
+      "currency": "EUR",
+      "status": "historical_source_quote_not_verified_market_price",
+      "full_list_available": false
+    },
+    {
+      "id": "VEX-BUD03",
+      "lines": "1876–1954",
+      "label": "Under EUR 50 upgrade",
+      "url": "https://piltoverarchive.com/decks/view/8bd92ea7-d116-49bd-9882-0c7fc35126d7",
+      "price_eur": 47.4,
+      "date": "2026-11-13",
+      "approach": "Kharox/Empower upgrade; includes historical Hourglass, needs post-ban substitution.",
+      "region": "Europe",
+      "currency": "EUR",
+      "status": "historical_source_quote_not_verified_market_price",
+      "full_list_available": false
+    },
+    {
+      "id": "VEX-BUD04",
+      "lines": "1955–2025",
+      "label": "Under EUR 100 Kharox",
+      "url": "https://piltoverarchive.com/decks/view/6ce9ab62-b635-4c83-8c8b-3e85b5701a83",
+      "price_eur": 95.75,
+      "date": "2026-11-13",
+      "approach": "Additional Vex and Irelia as described; inherits unverified prior list and historical legality.",
+      "region": "Europe",
+      "currency": "EUR",
+      "status": "historical_source_quote_not_verified_market_price",
+      "full_list_available": false
+    },
+    {
+      "id": "VEX-BUD05",
+      "lines": "2026–2098",
+      "label": "Under EUR 100 non-Kharox",
+      "url": "https://piltoverarchive.com/decks/view/8ef2fad6-4fb9-4f47-a378-f5c98f030ffb",
+      "price_eur": 99,
+      "date": "2026-11-13",
+      "approach": "Sona/Irelia, Shadow, Baron and more proactive plan; not a complete text inventory.",
+      "region": "Europe",
+      "currency": "EUR",
+      "status": "historical_source_quote_not_verified_market_price",
+      "full_list_available": false
+    }
+  ],
+  "variants": [
+    {
+      "id": "VEX-R01",
+      "lines": "2119–2206",
+      "name": "Heron + Empower",
+      "date": "2026-11-23",
+      "plan": "Post-ban labeled; add Stranger, Offer, Song, Hush, Vilemaw's Lair, Good Stuff; test flex slots; visual counts only.",
+      "certified_legal": false
+    },
+    {
+      "id": "VEX-R02",
+      "lines": "2207–2400",
+      "name": "Sneaky Hunters",
+      "date": null,
+      "plan": "Hunter's Circle discount plus fast Deckhand entry; play-order dependent; source list counts anomalous; post-board plans conditional.",
+      "certified_legal": false
+    },
+    {
+      "id": "VEX-R03",
+      "lines": "2401–2496",
+      "name": "Classic non-Empower",
+      "date": "2026-11-23",
+      "plan": "Post-ban labeled; cheaper ramp/draw, Shadow, Irelia, Baron, Abandoned Hall; no full named inventory.",
+      "certified_legal": false
+    },
+    {
+      "id": "VEX-R04",
+      "lines": "2497–2575",
+      "name": "Sona/Heron",
+      "date": "2026-11-13",
+      "plan": "Sona response budget, Vilemaw and Heron; provisional, not post-ban certified.",
+      "certified_legal": false
+    },
+    {
+      "id": "VEX-R05",
+      "lines": "2576–2629",
+      "name": "Illaoi tokens",
+      "date": "2026-11-13",
+      "plan": "Token configuration; unnamed visual inventory and no complete list.",
+      "certified_legal": false
+    }
+  ]
+}

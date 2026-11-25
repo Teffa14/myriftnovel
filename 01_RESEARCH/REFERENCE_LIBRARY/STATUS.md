@@ -80,3 +80,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## EKK — Aadion Ekko guide (2026-11-25)
 [Research index](works/EKK/INDEX.md): all 10 supplied sections mapped, 4,726 tokens, 1,055 types, 30 candidates, four original exercises, eight matchup records and eight conditional branches. No simulated results; incomplete main-list evidence and mixed ban references flagged. No canon change.
+
+## VEX — specialist Vex guide (2026-11-25)
+[Research index](works/VEX/INDEX.md): 21,243 tokens, 14 units, 53 flex decisions, 37 role groups, 31 paired evaluations, 42 candidate mechanisms, six exercises, 58 FTG-linked matchup opinions, three named inventories, five budget builds and five provisional Radiance variants. Two historical lists contain banned Hourglass; Sneaky counts anomalous. No full legal list or measured win rate certified. No canon change.

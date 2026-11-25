@@ -19,3 +19,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## EKK — competitive subculture
 [Aadion guide analysis](../REFERENCE_LIBRARY/works/EKK/ANALYSIS.md) supplies one pilot's insider affiliation, informal technical coaching, self-mockery and preference for fast matches. Abstract social functions only; do not copy distinctive phrases, abuse, stereotypes or persona. Not representative or verified biography. Preserve independent fictional motives.
+
+## VEX — collaborative deck-testing dialogue
+[VEX specialist guide](../REFERENCE_LIBRARY/works/VEX/ANALYSIS.md) offers abstract social functions: two pilots weighing pet cards, cost, risk, local opponents and changing views after tests. Use independent original fictional speakers and concrete evidence; never reproduce their distinctive language or attribute their self-reported tournament results to invented characters. Budget discussion is historical European source context, not local price proof.

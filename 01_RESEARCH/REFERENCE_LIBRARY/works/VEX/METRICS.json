@@ -1,0 +1,179 @@
+{
+  "source": "Vex guide, title not supplied",
+  "authors": [
+    "Waidelai",
+    "One Trick Dragon"
+  ],
+  "ingest_date": "2026-11-25",
+  "publication_date": null,
+  "source_sha256": "90af04ad99b0a29684e5f05a4a204afd0849782534e12c6c7746b203e2050321",
+  "bytes": 122684,
+  "lines": 2944,
+  "word_tokens": 21243,
+  "distinct_lowercase_word_forms": 1956,
+  "nonempty_blank_line_separated_blocks": 976,
+  "method": "Python UTF-8-sig; splitlines; Unicode alphabetic tokens with internal apostrophe/hyphen; all supplied markup, headings, URLs and placeholders included; lowercase types. Sections partition lines 1–2944. No hidden content recovered.",
+  "sections": [
+    {
+      "id": "VEX-U01",
+      "start_line": 1,
+      "end_line": 69,
+      "tokens": 721,
+      "topic": "First steps"
+    },
+    {
+      "id": "VEX-U02",
+      "start_line": 70,
+      "end_line": 187,
+      "tokens": 1450,
+      "topic": "Beginner guide"
+    },
+    {
+      "id": "VEX-U03",
+      "start_line": 188,
+      "end_line": 331,
+      "tokens": 1650,
+      "topic": "Archetypes"
+    },
+    {
+      "id": "VEX-U04",
+      "start_line": 332,
+      "end_line": 829,
+      "tokens": 4597,
+      "topic": "Vendetta flex review"
+    },
+    {
+      "id": "VEX-U05",
+      "start_line": 830,
+      "end_line": 1033,
+      "tokens": 166,
+      "topic": "Historical lists"
+    },
+    {
+      "id": "VEX-U06",
+      "start_line": 1034,
+      "end_line": 1081,
+      "tokens": 487,
+      "topic": "Historical battlefield policy"
+    },
+    {
+      "id": "VEX-U07",
+      "start_line": 1082,
+      "end_line": 1455,
+      "tokens": 4057,
+      "topic": "Card roles"
+    },
+    {
+      "id": "VEX-U08",
+      "start_line": 1456,
+      "end_line": 1760,
+      "tokens": 2980,
+      "topic": "Radiance evaluations"
+    },
+    {
+      "id": "VEX-U09",
+      "start_line": 1761,
+      "end_line": 2098,
+      "tokens": 1160,
+      "topic": "Budget"
+    },
+    {
+      "id": "VEX-U10",
+      "start_line": 2099,
+      "end_line": 2629,
+      "tokens": 1962,
+      "topic": "Radiance builds"
+    },
+    {
+      "id": "VEX-U11",
+      "start_line": 2630,
+      "end_line": 2693,
+      "tokens": 713,
+      "topic": "New inclusions"
+    },
+    {
+      "id": "VEX-U12",
+      "start_line": 2694,
+      "end_line": 2767,
+      "tokens": 883,
+      "topic": "Ban discussion"
+    },
+    {
+      "id": "VEX-U13",
+      "start_line": 2768,
+      "end_line": 2799,
+      "tokens": 108,
+      "topic": "Advanced guide"
+    },
+    {
+      "id": "VEX-U14",
+      "start_line": 2800,
+      "end_line": 2944,
+      "tokens": 309,
+      "topic": "Matchup matrix"
+    }
+  ],
+  "counts": {
+    "archetypes": 3,
+    "flex": 53,
+    "role_records": 37,
+    "paired_reviews": 31,
+    "matchups": 58,
+    "mechanisms": 42,
+    "original_exercises": 6,
+    "full_named_decks": 3,
+    "budget_builds": 5,
+    "provisional_radiance_builds": 5,
+    "bans_discussed": 10,
+    "locked_sections": 5,
+    "urls": 8
+  },
+  "matrix_bands": [
+    {
+      "band": "60-40",
+      "estimate": 60,
+      "count": 10
+    },
+    {
+      "band": "55-45",
+      "estimate": 55,
+      "count": 6
+    },
+    {
+      "band": "50-50",
+      "estimate": 50,
+      "count": 12
+    },
+    {
+      "band": "45-55",
+      "estimate": 45,
+      "count": 7
+    },
+    {
+      "band": "40-60",
+      "estimate": 40,
+      "count": 5
+    },
+    {
+      "band": "Rogue",
+      "estimate": null,
+      "count": 18
+    }
+  ],
+  "checks": [
+    "section sum",
+    "full line partition",
+    "53 flex records",
+    "31 paired review records",
+    "37 role records including five Radiance additions",
+    "58 matchup records",
+    "58 unique FTG joins",
+    "eight catalog-code joins",
+    "ten discussed ban names match repo snapshot",
+    "historic deck count checks",
+    "Sneaky count anomaly preserved",
+    "budget alternatives and price gaps",
+    "five provisional variants",
+    "42 distinct mechanism IDs"
+  ]
+}

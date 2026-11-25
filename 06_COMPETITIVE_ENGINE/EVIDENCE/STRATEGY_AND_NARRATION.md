@@ -31,3 +31,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## EKK — rogue pilot case
 [EKK strategy](../../01_RESEARCH/REFERENCE_LIBRARY/works/EKK/STRATEGY.json) supplements FTG FT-L12 with first/second-player hypotheses, gear conversion, point horizons and matchup adaptations. Undated mixed ban references; consult guards, verify official dated effective text and exact state. No automatic wins or inferred complete list. NLM/NLD support alternatives and resource accounting.
+
+## VEX — specialist hold and resource case
+[VEX specialist research](../../01_RESEARCH/REFERENCE_LIBRARY/works/VEX/INDEX.md) complements FTG FT-L55 and EKK with defensive sequencing, resource bottlenecks, variant dependencies, card exclusions, budget roles and matchup priors. Use ARCHETYPES_AND_BUILDS.json, CARD_DECISIONS.json and MATCHUPS_AND_BANS.json; all assessments remain dated/undated pilot opinions. Verify official mechanics, legal deck and scope; historical lists have banned Hourglass and Sneaky inventory has 41 combined main and 9 side. Do not use estimates as win probabilities or fix list by invention.

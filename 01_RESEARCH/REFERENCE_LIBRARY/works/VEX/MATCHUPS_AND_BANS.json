@@ -1,0 +1,657 @@
+{
+  "source_url": "https://metafy.gg/tier-lists/5d44c590-81d3-4635-82f9-ef832d9ff69a",
+  "matchups": [
+    {
+      "profile_id": "FT-L28",
+      "opponent": "LeBlanc, Deceiver",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L26",
+      "opponent": "Kha'Zix, Voidreaver",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L41",
+      "opponent": "Ornn, Fire Below the Mountain",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L39",
+      "opponent": "Nasus, Curator of the Sands",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L31",
+      "opponent": "Lillia, Bashful Bloom",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L20",
+      "opponent": "Jax, Grandmaster at Arms",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L51",
+      "opponent": "Sett, The Boss",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L07",
+      "opponent": "Annie, Dark Child",
+      "source_label": null,
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L12",
+      "opponent": "Ekko, Boy Who Shattered Time",
+      "source_label": "rad-168-167_full",
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L38",
+      "opponent": "Mordekaiser, Iron Revenant",
+      "source_label": "rad-170-167_full",
+      "band": "60-40",
+      "author_estimate_percent": 60,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L32",
+      "opponent": "Lucian, Purifier",
+      "source_label": null,
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L35",
+      "opponent": "Master Yi, Wuju Master",
+      "source_label": null,
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L42",
+      "opponent": "Poppy, Keeper of the Hammer",
+      "source_label": null,
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L43",
+      "opponent": "Pyke, Bloodharbor Ripper",
+      "source_label": null,
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L13",
+      "opponent": "Evelynn, Agony's Embrace",
+      "source_label": "rad-175-167_full",
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L19",
+      "opponent": "Jarvan IV, Exemplar of Demacia",
+      "source_label": "rad-155-167_full",
+      "band": "55-45",
+      "author_estimate_percent": 55,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L34",
+      "opponent": "Master Yi, Wuju Bladesman",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L21",
+      "opponent": "Jayce, Defender of Tomorrow",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L05",
+      "opponent": "Akali, Rogue Assassin",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L55",
+      "opponent": "Vex, Gloomist",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L11",
+      "opponent": "Draven, Glorious Executioner",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L14",
+      "opponent": "Ezreal, Prodigal Explorer",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L22",
+      "opponent": "Jhin, Virtuoso",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L53",
+      "opponent": "Sivir, Battle Mistress",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L58",
+      "opponent": "Volibear, Relentless Storm",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L37",
+      "opponent": "Miss Fortune, Bounty Hunter",
+      "source_label": null,
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L27",
+      "opponent": "K'Sante, Pride of Nazumah",
+      "source_label": "rad-172-167_full",
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L48",
+      "opponent": "Riven, The Exile",
+      "source_label": "riven-the-exile-legend-radiance-20260929",
+      "band": "50-50",
+      "author_estimate_percent": 50,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L17",
+      "opponent": "Irelia, Blade Dancer",
+      "source_label": null,
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L08",
+      "opponent": "Azir, Emperor of the Sands",
+      "source_label": null,
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L10",
+      "opponent": "Diana, Scorn of the Moon",
+      "source_label": null,
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L15",
+      "opponent": "Fiora, Grand Duelist",
+      "source_label": null,
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L36",
+      "opponent": "Mel, Soul's Reflection",
+      "source_label": null,
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L61",
+      "opponent": "Ziggs, Hexplosives Expert",
+      "source_label": "rad-141-167_full",
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L40",
+      "opponent": "Orianna, Lady of Clockwork",
+      "source_label": "rad-145-167_full",
+      "band": "45-55",
+      "author_estimate_percent": 45,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L25",
+      "opponent": "Kennen, Heart of the Tempest",
+      "source_label": null,
+      "band": "40-60",
+      "author_estimate_percent": 40,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L47",
+      "opponent": "Rengar, Pridestalker",
+      "source_label": null,
+      "band": "40-60",
+      "author_estimate_percent": 40,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L44",
+      "opponent": "Rek'Sai, Void Burrower",
+      "source_label": null,
+      "band": "40-60",
+      "author_estimate_percent": 40,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L57",
+      "opponent": "Viktor, Herald of the Arcane",
+      "source_label": null,
+      "band": "40-60",
+      "author_estimate_percent": 40,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L24",
+      "opponent": "Kai'Sa, Daughter of the Void",
+      "source_label": null,
+      "band": "40-60",
+      "author_estimate_percent": 40,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L56",
+      "opponent": "Vi, Piltover Enforcer",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L18",
+      "opponent": "Ivern, Green Father",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L06",
+      "opponent": "Ambessa, Matriarch of War",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L52",
+      "opponent": "Shen, Eye of Twilight",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L60",
+      "opponent": "Zed, Master of Shadows",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L49",
+      "opponent": "Rumble, Mechanized Menace",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L33",
+      "opponent": "Lux, Lady of Luminosity",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L54",
+      "opponent": "Teemo, Swift Scout",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L46",
+      "opponent": "Renekton, Butcher of the Sands",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L30",
+      "opponent": "Leona, Radiant Dawn",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L59",
+      "opponent": "Yasuo, Unforgiven",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L04",
+      "opponent": "Ahri, Nine-Tailed Fox",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L23",
+      "opponent": "Jinx, Loose Cannon",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L09",
+      "opponent": "Darius, Hand of Noxus",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L29",
+      "opponent": "Lee Sin, Blind Monk",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L45",
+      "opponent": "Renata Glasc, Chem-Baroness",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L16",
+      "opponent": "Garen, Might of Demacia",
+      "source_label": null,
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    },
+    {
+      "profile_id": "FT-L50",
+      "opponent": "Seraphine, Starry-Eyed Songstress",
+      "source_label": "rad-151-167_full",
+      "band": "Rogue",
+      "author_estimate_percent": null,
+      "observed_games": null,
+      "observed_wins": null,
+      "method": "Unspecified pilot opinion; no denominator or confidence interval; matrix date not established"
+    }
+  ],
+  "bans": [
+    {
+      "name": "Riven, Broken Blade",
+      "source_section": "2694–2767",
+      "source_impact": "less early trading pressure against Vex",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "source_section": "2694–2767",
+      "source_impact": "own protection loss and rival protection loss; net benefit claimed",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Stellacorn Herder",
+      "source_section": "2694–2767",
+      "source_impact": "less opposing recurring draw pressure",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Nocturne, Horrifying",
+      "source_section": "2694–2767",
+      "source_impact": "less early denial of field access",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "source_section": "2694–2767",
+      "source_impact": "less opposing trash-based threat",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Brynhir Thundersong",
+      "source_section": "2694–2767",
+      "source_impact": "less interference with concealed defense",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Dazzling Aurora",
+      "source_section": "2694–2767",
+      "source_impact": "less costly gear-based threats and sideboard burden",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Baited Hook",
+      "source_section": "2694–2767",
+      "source_impact": "less opposing equipment-based acceleration",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Emperor's Dais",
+      "source_section": "2694–2767",
+      "source_impact": "less repeat-entry/movement advantage",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    },
+    {
+      "name": "Star Spring",
+      "source_section": "2694–2767",
+      "source_impact": "less movement/readiness loop pressure",
+      "repository_banned": true,
+      "status": "historical_author_impact_hypothesis"
+    }
+  ]
+}

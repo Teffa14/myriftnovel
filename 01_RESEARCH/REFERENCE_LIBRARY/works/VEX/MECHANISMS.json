@@ -1,0 +1,380 @@
+[
+  {
+    "id": "VEX-M01",
+    "level": "L4",
+    "name": "Hold as recurring income",
+    "source_lines": "48–69,1092–1103",
+    "structure": "Evaluate recurring score and draw against one-time conquest; compare opponent disruption clock.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M02",
+    "level": "L4",
+    "name": "Role changes",
+    "source_lines": "60–69,155–166",
+    "structure": "Choose pressure or reaction from actual position rather than deck label.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M03",
+    "level": "L4",
+    "name": "Play-order asymmetry",
+    "source_lines": "57–59,1034–1081",
+    "structure": "Compare first/second resource and battlefield access; do not assume symmetric opens.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M04",
+    "level": "L3",
+    "name": "Protect or delay chosen champion",
+    "source_lines": "112–119,1092–1103",
+    "structure": "Compare exposing Vex with retaining a body in base until protection exists.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M05",
+    "level": "L4",
+    "name": "Response reserve",
+    "source_lines": "131–154,1264–1275",
+    "structure": "Allocate interaction to consequential transitions rather than every threat.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M06",
+    "level": "L4",
+    "name": "Acceptable loss",
+    "source_lines": "142–154,1104–1119",
+    "structure": "Compare losing expendable body with revealing key defense.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M07",
+    "level": "L4",
+    "name": "Opposing removal route",
+    "source_lines": "121–130",
+    "structure": "Predict how opponent may disrupt hold using public evidence and alternatives.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M08",
+    "level": "L3",
+    "name": "Spatial withdrawal",
+    "source_lines": "120–134,1326–1335",
+    "structure": "Compare retreat or alternate location against losing combat.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M09",
+    "level": "L4",
+    "name": "Closing horizon",
+    "source_lines": "135–150",
+    "structure": "Switch from accumulation to finish when verified route exists.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M10",
+    "level": "L4",
+    "name": "Public information audit",
+    "source_lines": "140–150",
+    "structure": "Count accessible cards and visible resources; retain uncertainty about hand.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M11",
+    "level": "L3",
+    "name": "Resource bottleneck",
+    "source_lines": "50–69,362–377",
+    "structure": "Separate cards available from resources required to use them.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M12",
+    "level": "L3",
+    "name": "Heron ordering",
+    "source_lines": "196–235,1206–1211",
+    "structure": "Choose second play for meaningful discount; test interruption, cost floors and reset.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M13",
+    "level": "L4",
+    "name": "Late payoff safety",
+    "source_lines": "196–235",
+    "structure": "Price exposure of expensive threat against safe deployment and payoff duration.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M14",
+    "level": "L3",
+    "name": "Package integrity",
+    "source_lines": "236–284,1174–1183",
+    "structure": "Compare joint dependency and independent value of enabler/payoff; no partial-package assumption.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M15",
+    "level": "L3",
+    "name": "Temporary Empower",
+    "source_lines": "243–265,1174–1205",
+    "structure": "Track source of temporary status and end-of-turn removal; verify repeat eligibility.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M16",
+    "level": "L4",
+    "name": "Opponent-dependent recursion",
+    "source_lines": "1194–1205",
+    "structure": "Value opposing trash by eligible useful targets, not opponent deck strength alone.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M17",
+    "level": "L4",
+    "name": "Threat localization",
+    "source_lines": "236–284",
+    "structure": "A visible location dependency informs possible Hidden hypotheses; allow bluff and alternate plays.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M18",
+    "level": "L3",
+    "name": "Distributed token payoff",
+    "source_lines": "285–331",
+    "structure": "Compare generators, payoffs and area-removal exposure.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M19",
+    "level": "L4",
+    "name": "Card replacement criterion",
+    "source_lines": "340–421",
+    "structure": "Reject attractive effect if marginal role worse than displaced slot.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M20",
+    "level": "L4",
+    "name": "Behind-state test",
+    "source_lines": "422–429,646–653",
+    "structure": "Assess usefulness when no protected position, not only established hold.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M21",
+    "level": "L4",
+    "name": "Cost of symmetric benefit",
+    "source_lines": "728–829,1034–1081",
+    "structure": "Measure who can exploit battlefield benefit first and more often.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M22",
+    "level": "L3",
+    "name": "Defensive target selection",
+    "source_lines": "1120–1131,1296–1305",
+    "structure": "Protect highest relevant payoff; account for allocation and legal damage.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M23",
+    "level": "L3",
+    "name": "Concealed option diversity",
+    "source_lines": "1336–1355,1564–1571",
+    "structure": "Diversify answer hypotheses without making unsupported exact Hidden claims.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M24",
+    "level": "L4",
+    "name": "Metagame adaptation",
+    "source_lines": "1336–1345",
+    "structure": "Track opponents adapting to once-surprising effects; re-evaluate inclusion rate.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M25",
+    "level": "L4",
+    "name": "Function redundancy",
+    "source_lines": "638–645,1316–1355",
+    "structure": "Compare overlapping roles and alternative failure modes; avoid redundant slot cost.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M26",
+    "level": "L3",
+    "name": "Resource denial timing",
+    "source_lines": "1286–1295,2676–2685",
+    "structure": "Distinguish delay, counter and actual economic cost; no assumed lost turn.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M27",
+    "level": "L3",
+    "name": "Gear removal modes",
+    "source_lines": "1398–1409,2654–2665",
+    "structure": "Compare removing existing gear against deterrent requiring opponent response.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M28",
+    "level": "L4",
+    "name": "Alternative champion selection",
+    "source_lines": "1432–1443",
+    "structure": "Switch restriction vs tax plan according to actual opposing mechanics.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M29",
+    "level": "L4",
+    "name": "Play-order battlefield policy",
+    "source_lines": "1034–1081",
+    "structure": "Compare blind/first/second selection and opponent benefit under actual procedure.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M30",
+    "level": "L4",
+    "name": "Resource engine compounding",
+    "source_lines": "1060–1081,1594–1601",
+    "structure": "Value repeated usable resources with risk of opponent taking position.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M31",
+    "level": "L4",
+    "name": "Budget floor and role replacement",
+    "source_lines": "1761–2098",
+    "structure": "Preserve functional roles while substituting costly cards; recalculate lost dependencies.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M32",
+    "level": "L4",
+    "name": "Budget ceiling payoff",
+    "source_lines": "1853–2098",
+    "structure": "Distinguish upgrade of consistency from upgrade of closing ability; no assumed win improvement.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M33",
+    "level": "L4",
+    "name": "High-variance opener",
+    "source_lines": "2207–2400",
+    "structure": "Compare early point acceleration with mulligan access, first/second asymmetry, and failure recovery.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M34",
+    "level": "L3",
+    "name": "Stacked discounts",
+    "source_lines": "2230–2290",
+    "structure": "Track exact eligible costs and destination/replacement; verify before combining discounts.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M35",
+    "level": "L4",
+    "name": "Provisional revision",
+    "source_lines": "2099–2629",
+    "structure": "Version proposed list by date and testing question; separate from approved or event list.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M36",
+    "level": "L4",
+    "name": "Card testing disagreement",
+    "source_lines": "1456–1760",
+    "structure": "Compare independent evaluations; record common assumptions, disputes, and evidence that would decide.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M37",
+    "level": "L4",
+    "name": "Ban impact asymmetry",
+    "source_lines": "2694–2767",
+    "structure": "Compare own lost options to opponents' lost threats without converting judgment to win rate.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M38",
+    "level": "L4",
+    "name": "Matchup priors",
+    "source_lines": "2800–2944",
+    "structure": "Use pilot estimates only for selecting questions and uncertainty, not observed odds or predetermined outcomes.",
+    "status": "extracted_untested",
+    "acceptance": "Dated effective text and legal state; exact resources and timing; counterexample, independent opposing response and verified consequence."
+  },
+  {
+    "id": "VEX-M39",
+    "level": "L6",
+    "name": "Expert disagreement and affinity",
+    "source_lines": "1464–1760",
+    "structure": "Two specialists can agree on strategic role while disagreeing on pet cards, resource cost or risk.",
+    "status": "extracted_untested",
+    "acceptance": "Original speaker, agency, continuity and independent motivation; no borrowed expressions."
+  },
+  {
+    "id": "VEX-M40",
+    "level": "L6",
+    "name": "Budget identity and agency",
+    "source_lines": "1761–2098",
+    "structure": "Give players financial constraints, preferences and independent reasons to select upgrades.",
+    "status": "extracted_untested",
+    "acceptance": "Original speaker, agency, continuity and independent motivation; no borrowed expressions."
+  },
+  {
+    "id": "VEX-M41",
+    "level": "L6",
+    "name": "Learning from rejected choices",
+    "source_lines": "340–829",
+    "structure": "Show practice review of a previously favored card and evidence that changed belief.",
+    "status": "extracted_untested",
+    "acceptance": "Original speaker, agency, continuity and independent motivation; no borrowed expressions."
+  },
+  {
+    "id": "VEX-M42",
+    "level": "L6",
+    "name": "Local metagame ecology",
+    "source_lines": "188–331,1456–1760",
+    "structure": "Distinct local players, equipment, play styles and preferences create rational differences in builds.",
+    "status": "extracted_untested",
+    "acceptance": "Original speaker, agency, continuity and independent motivation; no borrowed expressions."
+  }
+]

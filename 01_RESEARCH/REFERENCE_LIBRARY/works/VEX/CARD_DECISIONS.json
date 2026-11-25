@@ -1,0 +1,945 @@
+{
+  "flex": [
+    {
+      "line": 340,
+      "name": "Clockwork Keeper",
+      "verdict": "cut",
+      "reason": "Extra draw competes with rune expenditure and more useful early units.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 350,
+      "name": "En Garde",
+      "verdict": "conditional",
+      "reason": "Early attack modifier loses relative value once defending; at most one suggested.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 362,
+      "name": "Meditation",
+      "verdict": "cut",
+      "reason": "Filtering and draw take resources away from usable answers.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 370,
+      "name": "Wind Wall",
+      "verdict": "meta conditional",
+      "reason": "Expensive answer displaced by alternatives; reconsider if relevant large spells return.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 378,
+      "name": "Ahri, Alluring",
+      "verdict": "side candidate",
+      "reason": "Hold payoff requires protection and favorable resource budget; slow matches.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 392,
+      "name": "Sona, Harmonious",
+      "verdict": "variant only",
+      "reason": "Untap payoff needs appropriate spell mix and battlefield protection.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 404,
+      "name": "Leona, Zealot",
+      "verdict": "variant only",
+      "reason": "Insufficient stun density; compare costly body against alternative interaction.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 412,
+      "name": "Seal of Focus",
+      "verdict": "cut",
+      "reason": "Resource support occupies action slot and may be a poor late draw; Discord seal also discussed.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 422,
+      "name": "Thwonk!",
+      "verdict": "cut",
+      "reason": "Defense-only relevance leaves recovery from behind weak.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 430,
+      "name": "Emperor's Divide",
+      "verdict": "conditional",
+      "reason": "Retreat or relocation option; compare with competing Hidden slots.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 438,
+      "name": "Allay, Eager Admirer",
+      "verdict": "meta conditional",
+      "reason": "Deflect support rises with targeted removal prevalence.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 446,
+      "name": "Enthusiastic Promoter",
+      "verdict": "cut",
+      "reason": "Low standalone Might and delayed buff require wide formation.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 456,
+      "name": "Flurry of Feathers",
+      "verdict": "cut",
+      "reason": "Cost and target distribution do not justify a slot in stated meta.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 466,
+      "name": "Nami, Headstrong",
+      "verdict": "conditional",
+      "reason": "Stun and ready payoff underused with current unit composition.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 480,
+      "name": "Vex, Mocking",
+      "verdict": "variant only",
+      "reason": "Movement/stun payoff requires enough stun triggers.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 488,
+      "name": "Yuumi, Magical Cat",
+      "verdict": "cut",
+      "reason": "Low independent impact, costly protection and poor recovery.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 496,
+      "name": "Alpha Wildclaw",
+      "verdict": "meta conditional",
+      "reason": "Protection against selected removal lacks immediate tempo and is location-dependent.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 504,
+      "name": "Vilemaw",
+      "verdict": "conditional",
+      "reason": "Potential anti-wide payoff; compare deployment window and resource access.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 516,
+      "name": "Akali, Silent",
+      "verdict": "alternative",
+      "reason": "Compare with Irelia by targeting vulnerability, cost and scaling.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 524,
+      "name": "Tom-Raider Barbara",
+      "verdict": "cut",
+      "reason": "Gear answer depends on rune threshold unlikely under frequent Hidden payments.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 532,
+      "name": "Ember Monk",
+      "verdict": "variant only",
+      "reason": "Competes with cheaper Empower payoff in current package.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 540,
+      "name": "Overzealous Fan",
+      "verdict": "variant only",
+      "reason": "Visible sacrifice plan gives opposing counterplay and loses board presence.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 552,
+      "name": "Sneaky Deckhand",
+      "verdict": "play-order conditional",
+      "reason": "Fast point attempt exposed to removal and weak late draw; later Hunter variant reverses evaluation.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 566,
+      "name": "Hard Bargain",
+      "verdict": "conditional",
+      "reason": "Tax answer depends on opponent's remaining resources; compare reliable response.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 576,
+      "name": "Windsinger",
+      "verdict": "cut",
+      "reason": "Flexible bounce competes for scarce Hidden slot and weak standalone body.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 584,
+      "name": "Acceptable Losses",
+      "verdict": "cut",
+      "reason": "Opponent chooses sacrifice; own valuable equipment can be exposed.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 592,
+      "name": "Fizz, Trickster",
+      "verdict": "variant only",
+      "reason": "Reactive spell composition and limited trash support constrain payoff.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 602,
+      "name": "Last Rites",
+      "verdict": "side candidate",
+      "reason": "Recursion more useful against removal or in sacrifice package.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 612,
+      "name": "Pack of Wonders",
+      "verdict": "cut",
+      "reason": "Replay value depends on accompanying pieces; possible stranded draw.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 622,
+      "name": "Mindsplitter",
+      "verdict": "cut",
+      "reason": "Costly disruption competes with existing interaction and tempo.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 630,
+      "name": "Invert Timelines",
+      "verdict": "cut",
+      "reason": "Catch-up tool relies on being behind in cards; narrow relevant opponents.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 638,
+      "name": "Flash",
+      "verdict": "conditional",
+      "reason": "Compare same retreat/movement role with Emperor's Divide; avoid redundant slots.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 646,
+      "name": "Existential Dread",
+      "verdict": "conditional",
+      "reason": "Defensive relevance but poor when behind; alternative bounce preferred.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 654,
+      "name": "Kha'Zix, Mutating Horror",
+      "verdict": "meta conditional",
+      "reason": "Single-unit pressure depends on opponent deployment patterns.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 664,
+      "name": "Spiderling",
+      "verdict": "variant only",
+      "reason": "Requires dedicated token density; unsuitable isolated inclusion.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 672,
+      "name": "Gust Monk",
+      "verdict": "variant only",
+      "reason": "Aggressive support competes with Vex protection and low-Might swap target.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 682,
+      "name": "Tail-Cloacked Matriarch",
+      "verdict": "variant only",
+      "reason": "Revival ceiling limited by actual eligible cheap units; spelling as supplied.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 690,
+      "name": "Decree of Discord",
+      "verdict": "cut",
+      "reason": "Authors consider narrow token matchup role insufficient.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 698,
+      "name": "Illaoi, Prophet of the Great Kraken",
+      "verdict": "variant only",
+      "reason": "Token payoff requires generator density.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 708,
+      "name": "Zed, Without a Sound",
+      "verdict": "alternative",
+      "reason": "Conquest-based token/mobility plan versus Irelia's larger trades.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 718,
+      "name": "Shadow",
+      "verdict": "meta conditional",
+      "reason": "Visible stun payoff improves against larger isolated threats; limited slot.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 728,
+      "name": "Grove of the God-Willow",
+      "verdict": "battlefield cut",
+      "reason": "Additional draw less useful than usable runes in this plan.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 738,
+      "name": "Hallowed Tomb",
+      "verdict": "battlefield conditional",
+      "reason": "Recovery if Vex removed; compare removal prevalence.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 746,
+      "name": "Navori Fighting Pit",
+      "verdict": "battlefield cut",
+      "reason": "One-time benefit versus repeated holding return; opponent benefit.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 756,
+      "name": "Sigil of the Storm",
+      "verdict": "battlefield cut",
+      "reason": "Insufficient removal density for repeated payoff.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 764,
+      "name": "Targon's Peak",
+      "verdict": "battlefield alternative",
+      "reason": "Early resource availability may support protection; compare Fortified Position.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 774,
+      "name": "The Grand Plaza",
+      "verdict": "battlefield cut",
+      "reason": "Unit density and protection insufficient for payoff.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 784,
+      "name": "Trifarian War Camp",
+      "verdict": "battlefield alternative",
+      "reason": "Formation benefit; evaluate opponent's use.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 792,
+      "name": "Forgotten Monument",
+      "verdict": "battlefield cut",
+      "reason": "Opponent can exploit or ignore; weak own gain.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 800,
+      "name": "Power Nexus",
+      "verdict": "battlefield cut",
+      "reason": "Depends on resource lead unlikely with costly Hidden plan.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 808,
+      "name": "The Papertree",
+      "verdict": "battlefield cut",
+      "reason": "Symmetric benefit may fund opposing responses first.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 816,
+      "name": "Abandoned Hall",
+      "verdict": "battlefield conditional",
+      "reason": "Protects own units but can amplify Irelia opponents; later build reconsiders.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    },
+    {
+      "line": 824,
+      "name": "Amateur Recital",
+      "verdict": "battlefield conditional",
+      "reason": "Movement pressure with risk of losing home position.",
+      "status": "dated_pilot_assessment",
+      "verify": "Identity, effective text, relevant meta and variant before applying."
+    }
+  ],
+  "core": [
+    {
+      "line": 1092,
+      "name": "Vex, Apathetic",
+      "role": "chosen",
+      "reason": "Protect restriction engine early; compare exposing vs keeping in base.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1104,
+      "name": "Steel Paws",
+      "role": "unit",
+      "reason": "Cheap board access, conditional Empower payoff, low-Might swap target; test when baited.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1120,
+      "name": "Mutated Mouser",
+      "role": "unit",
+      "reason": "Protect stronger pieces; compare early attack weakness and replacement.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1132,
+      "name": "Scuttle Crab",
+      "role": "unit",
+      "reason": "Low-Might swap, information and card access; assess sacrifice against future value.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1142,
+      "name": "Tideturner",
+      "role": "unit",
+      "reason": "Reserve movement option rather than spend as ordinary body when feasible.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1154,
+      "name": "Evelynn, Entrancing",
+      "role": "unit",
+      "reason": "Situational disruptive deployment and repeat access; historical banned target examples.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1164,
+      "name": "Pyke, Returned",
+      "role": "unit",
+      "reason": "Concealed reinforcement/resource option; situational.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1174,
+      "name": "Tornado Warrior",
+      "role": "unit",
+      "reason": "Location-dependent Empower enabler; plan alternative when interrupted.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1184,
+      "name": "Irelia, Fervent",
+      "role": "unit",
+      "reason": "Flexible pressure and defensive scaling; exact targeting and costs required.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1194,
+      "name": "Kharox",
+      "role": "unit",
+      "reason": "Conditional opposing-trash payoff; compare alternate targets and interruption.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1206,
+      "name": "Astral Heron",
+      "role": "unit",
+      "reason": "Sequence eligible second play, including opponent-turn resource use; avoid wasting discount.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1218,
+      "name": "Zhonya's Hourglass",
+      "role": "gear historical",
+      "reason": "Protection and Heron sequencing; banned in snapshot, historical only.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1228,
+      "name": "Boots of Swiftness",
+      "role": "gear",
+      "reason": "Preserve mobility and allocate attachment costs; reveal only when useful.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1238,
+      "name": "Edge of Night",
+      "role": "gear",
+      "reason": "Hidden protection and flexible allocation; compare matchup removal.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1252,
+      "name": "Charm",
+      "role": "spell",
+      "reason": "Disrupt enabling threats, not low-value targets just because available.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1264,
+      "name": "Defy",
+      "role": "spell",
+      "reason": "Reserve response for meaningful opposing transition; exact cost restriction pending.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1276,
+      "name": "Gust",
+      "role": "spell",
+      "reason": "Disrupt enemy tempo or reuse own qualifying piece; compare resource loss.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1286,
+      "name": "Abandon",
+      "role": "spell",
+      "reason": "Delay costly opposing action; distinguish returned card vs stopped spell.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1296,
+      "name": "Block",
+      "role": "spell",
+      "reason": "Conditional defensive protection and Hidden diversity.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1306,
+      "name": "Discipline",
+      "role": "spell",
+      "reason": "Flexible modifier and card access; verify target and resolution.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1316,
+      "name": "Rebuke",
+      "role": "spell",
+      "reason": "Reposition/return expensive threats; compare Heron sequencing.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1326,
+      "name": "Ride the Wind",
+      "role": "spell",
+      "reason": "Retreat, relocation or scoring option; exact timing and final point check.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1336,
+      "name": "Switcheroo",
+      "role": "spell",
+      "reason": "Low-Might exchange hypothesis; account for meta adaptation, target restriction and timing.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1346,
+      "name": "Back Off",
+      "role": "spell",
+      "reason": "Single-threat control; less impactful against distributed threats.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1356,
+      "name": "Star-Crossed",
+      "role": "spell",
+      "reason": "Enemy tempo or own replay; compare exact legal targets and cost.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1370,
+      "name": "Decree of Focus",
+      "role": "side",
+      "reason": "Targeted matchup modifier; preserve offensive and defensive alternatives.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1384,
+      "name": "Gust and Star-Crossed",
+      "role": "side pair",
+      "reason": "Extra bounce capacity when relevant; outgoing slots unknown.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1398,
+      "name": "Disarming Rake and Ravenbloom Prefect",
+      "role": "side pair",
+      "reason": "Existing gear removal versus preemptive deterrence.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1410,
+      "name": "Janna, Savior",
+      "role": "side",
+      "reason": "Reactive support, repositioning and recovery; no guaranteed effect.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1420,
+      "name": "Blitzcrank, Impassive",
+      "role": "side",
+      "reason": "Repeat disruption versus weak durable development.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1432,
+      "name": "Vex, Cheerless",
+      "role": "side champion",
+      "reason": "Alternative pressure/tax plan when stun less relevant; exact selection procedure.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 1444,
+      "name": "Baron Nashor",
+      "role": "side",
+      "reason": "Late closing alternative when opponents permit sufficient resources.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 2640,
+      "name": "Bedeviling Stranger",
+      "role": "Radiance",
+      "reason": "Conditional early bounce and unit-count threshold; test bounce counterplay.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 2654,
+      "name": "An Offer You Can't Refuse",
+      "role": "Radiance",
+      "reason": "Selective gear answer with compensating opponent resource; assess target and timing.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 2666,
+      "name": "Siren's Song",
+      "role": "Radiance",
+      "reason": "Reaction relocation alternative; compare against old banned effect and counters.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 2676,
+      "name": "Hush",
+      "role": "Radiance",
+      "reason": "Cost-sensitive counter alternative for selected larger spells; test overlap with other answers.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    },
+    {
+      "line": 2686,
+      "name": "Bandle Scouts' Academy",
+      "role": "Radiance battlefield",
+      "reason": "Reduce Hidden resource burden per author's claim; compare symmetric benefit.",
+      "status": "source_role_hypothesis",
+      "effective_text_verified": false
+    }
+  ],
+  "radiance": [
+    {
+      "line": 1464,
+      "identity": "Blossoming Dreamroot",
+      "identity_status": "named_in_text",
+      "comparison": "Both question slot cost; second author suggests a dedicated removal/draw plan, not baseline.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1474,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both favor existing combat modifier/protection alternatives; compare attack utility and damage protection.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1482,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "First author conditional on stun density; second interested in lower resource burden than Dread.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1490,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both note insufficient Mighty density and slower payoff.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1498,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both see weak fit without repeated movement; competes with Irelia.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1506,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject narrow Mouser synergy at costly resource investment.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1514,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject expensive delayed payoff; compare Baron and actual rune horizon.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1522,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both prefer existing ready/movement option; revisit if legal alternatives change.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1530,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject low-impact standalone ganking body.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1538,
+      "identity": "Siren's Song (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both value flexible bounce; test reaction timing and current threats.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1548,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both question movement/exhaustion package fit.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1556,
+      "identity": "The Good Stuff (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both interested in repeat filtering with Heron; second flags dependence on engine and asks to test.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1564,
+      "identity": "Bedeviling Stranger (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both favor early concealed bounce; note Gust vulnerability and widened opposing hypotheses.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1572,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both consider proposed Evelynn inferior to Ahri for their strategy; no title supplied.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1586,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject other-unit movement/swap payoff; prefer existing exchange.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1594,
+      "identity": "Bandle Scouts' Academy (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both favor resource relief from repeated Hidden use.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1602,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject benefit dependent on extreme rune state; source wording internally varies.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1612,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both prefer other defensive battlefield; opponent symmetry concern.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1620,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "First rejects champion-density requirement; second gives comic high-density alternative, not a list.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1637,
+      "identity": "Neeko",
+      "identity_status": "named_in_text",
+      "comparison": "Both explore multiple copied/borrowed Legend effects but compare tempo and fragile payoff to Kharox.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1665,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject insufficient exhaustion synergies; possible Shadow/Irelia context.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1675,
+      "identity": "Momentary Companion",
+      "identity_status": "named_in_text",
+      "comparison": "Both question Temporary body relative to persistent hold and draw.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1683,
+      "identity": "An Offer You Can't Refuse (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both favor zero-power targeted gear response; second distinguishes Aurora matchup.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1691,
+      "identity": "Life from Stone (cross-reference candidate)",
+      "identity_status": "inferred_from_later_text_unconfirmed",
+      "comparison": "Both consider cheaper conditional ramp/draw; first suggests test in non-Steel builds.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1699,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject delayed resource generation without hold impact.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1713,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject low synergy with Ahri/blue-centric effects.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1721,
+      "identity": "Hush",
+      "identity_status": "named_in_text",
+      "comparison": "First favors sideboard counter; second questions target density and overlap with Not So Fast.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1731,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "First rejects narrow open-field requirement; second identifies early conditional use only.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1739,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject slot/hand cost for securing Bandle Tree.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1747,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both reject expensive/weak epic dragon effect; second reports Riven experimentation without data.",
+      "status": "paired_editorial_opinion_not_tested"
+    },
+    {
+      "line": 1755,
+      "identity": null,
+      "identity_status": "image_not_supplied",
+      "comparison": "Both skeptical of costly Shield, especially noncombat damage and displacement.",
+      "status": "paired_editorial_opinion_not_tested"
+    }
+  ]
+}
