@@ -11,6 +11,6 @@ Copiar íntegramente [MASTER_PROMPT.md](MASTER_PROMPT.md), adjuntar una obra o f
 - [WORKED_EXAMPLE.md](WORKED_EXAMPLE.md): una unidad funcional ilustrativa, no canon.
 - ../works/TKA/METHOD.md, analyze.py y archivos de deep/semantic dentro de sus ZIP: implementación histórica cuantitativa.
 - ../works/MSC/measure_excerpt.py: contador histórico para texto pegado; no sustituye interpretación.
-- ../../02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md: uso posterior, separado del análisis.
+- ../../../02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md: uso posterior, separado del análisis.
  
 No guardar prosa íntegra protegida en repositorios públicos. No usar este método para reconstruir una obra ni copiar su expresión distintiva. Transferir funciones generales a una voz original.
