@@ -154,7 +154,7 @@
     "publication": "not published"
   },
   "chapter_04": {
-    "status": "not_started",
+    "status": "author_approved_locally_distilled_pending_private_persistence",
     "preflight": "Retrieve authoritative archive v4 or verified successor. Validate archive and continuity, load all four approved units, select fresh narrative mechanisms; honor prior commitments. Competitive preflight must distinguish real reference compositions from fictional character decks, establish source-linked versioned decklists before extended technical gameplay, and maintain dated post-ban references. No automatic approval or publication.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -202,7 +202,34 @@
       "private_dossier": "/The Last Draw - Private Archive/CH0004_preflight.zip",
       "dossier_sha256": "a5f5bf6bdb41331631e4be6c03b9fd4442f60aa603ec587b6d6d05dafdefdbda",
       "limitations": "Provisional brief, no draft, no new canon, no full match, no original FTG 576-test rerun, not all 239 files read exhaustively. Historical source dates override provider post-ban tags."
-    }
+    },
+    "revision": "V3",
+    "title": "One Session",
+    "words_excluding_headings": 2125,
+    "paragraphs": 82,
+    "scenes": 2,
+    "approved_units_in_verified_local_archive": 5,
+    "main_chapters_in_verified_local_archive": 4,
+    "checks": {
+      "passed": 44,
+      "failed": 0,
+      "scope": "exact-text preservation, archive manifest, lexical, structural continuity, negative controls and historical deck comparison arithmetic"
+    },
+    "pending_archive_filename": "THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
+    "pending_archive_sha256": "7b692a6c58d0800bd2712e4ea4ada5b2ee030381b6a6f4d97039478e48d19e7a",
+    "pending_archive_bytes": 713039,
+    "archive_storage": "verified local artifact; persistent Library write and byte readback not confirmed",
+    "local_counts": {
+      "retired": 206,
+      "usage": 78,
+      "fingerprints": 10423,
+      "abstract_variants": 15,
+      "continuity": 263,
+      "events": 31
+    },
+    "competitive_scope": "L0 documentary historical comparison; no complete legal character decklist or replay",
+    "serial_quality": "existing editorial scores retained; private 20-chapter payoff ledger added; future arc proposals remain unapproved; no actual reader measurements",
+    "next_gate": "Do not advance to Chapter 5 until exact v5 archive is retrievable from authorized private persistent storage, SHA-256 matches, and archive/continuity checks pass. Then promote authoritative pointer and aggregate registered counts. Preserve v4."
   },
   "competitive_registry_status": {
     "historical_complete_reference_lists": 2,
@@ -211,5 +238,9 @@
     "target_reference_lists": 100,
     "status": "incomplete; not a certification of deck legality",
     "requirement": "distinguish historical pre-ban evidence, dated post-ban imports, and fictional character versions; no invented lists or results"
+  },
+  "chapter_05": {
+    "status": "blocked_pending_CH0004_private_archive_persistence",
+    "preflight": "After private v5 persistence confirmed, use complete approved corpus and serial payoff ledger; fulfill earned competitive anticipation through supported gameplay; no new canon or manuscript yet."
   }
 }

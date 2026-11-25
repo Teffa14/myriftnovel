@@ -104,5 +104,36 @@
     "passed": 36,
     "failed": 0,
     "scope": "archive and continuity validation, source preservation, lexical checks, simple conditional fixtures and negative controls"
+  },
+  "pending_closeout": {
+    "chapter_id": "CH0004",
+    "status": "author_approved_locally_distilled_pending_private_persistence",
+    "revision": "V3",
+    "title": "One Session",
+    "words_excluding_headings": 2125,
+    "paragraphs": 82,
+    "scenes": 2,
+    "approved_units_in_verified_local_archive": 5,
+    "main_chapters_in_verified_local_archive": 4,
+    "checks": {
+      "passed": 44,
+      "failed": 0,
+      "scope": "exact-text preservation, archive manifest, lexical, structural continuity, negative controls and historical deck comparison arithmetic"
+    },
+    "pending_archive_filename": "THE_LAST_DRAW_PRIVATE_ARCHIVE_v5.zip",
+    "pending_archive_sha256": "7b692a6c58d0800bd2712e4ea4ada5b2ee030381b6a6f4d97039478e48d19e7a",
+    "pending_archive_bytes": 713039,
+    "archive_storage": "verified local artifact; persistent Library write and byte readback not confirmed",
+    "local_counts": {
+      "retired": 206,
+      "usage": 78,
+      "fingerprints": 10423,
+      "abstract_variants": 15,
+      "continuity": 263,
+      "events": 31
+    },
+    "competitive_scope": "L0 documentary historical comparison; no complete legal character decklist or replay",
+    "serial_quality": "existing editorial scores retained; private 20-chapter payoff ledger added; future arc proposals remain unapproved; no actual reader measurements",
+    "next_gate": "Do not advance to Chapter 5 until exact v5 archive is retrievable from authorized private persistent storage, SHA-256 matches, and archive/continuity checks pass. Then promote authoritative pointer and aggregate registered counts. Preserve v4."
   }
 }
