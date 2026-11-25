@@ -1,0 +1,266 @@
+{
+  "deck": {
+    "date": "2026-09-17",
+    "legend": [
+      {
+        "name": "Fiora, Grand Duelist",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "chosen": [
+      {
+        "name": "Fiora, Worthy",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "main": [
+      {
+        "name": "Dazzling Aurora",
+        "count": 3,
+        "snapshot_banned": true
+      },
+      {
+        "name": "Riposte",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Shepherd's Heirloom",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Divining Shells",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Sacrifice",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Elder Dragon",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rift Herald",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rampage",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Challenge",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Mobilize",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Tactical Retreat",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Salvage",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Harnessed Dragon",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Repulse",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Rengar, Trophy Hunter",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Ambessa, The Wolf",
+        "count": 3,
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Akshan, Mischievous",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Kayle, Justified",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Punch First",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Fiora, Victorious",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Repulse",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "fields": [
+      {
+        "name": "Sigil of the Storm",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Forgotten Monument",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Risen Altar",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "runes": {
+      "Body": 8,
+      "Order": 4
+    },
+    "source_lines": "137–203",
+    "profile_id": "FT-L15",
+    "chosen_context": "FT-L15-C03",
+    "alternate_context": "FT-L15-C02",
+    "legal_certified": false,
+    "counts": {
+      "main": 39,
+      "including_chosen": 40,
+      "side": 10,
+      "fields": 3,
+      "runes": 12,
+      "legend": 1,
+      "total": 66
+    },
+    "banned_instances": 3
+  },
+  "history": {
+    "fr0zen": {
+      "reported": "Singapore RQ Top 8",
+      "full_list": null
+    },
+    "souledOut": {
+      "reported": "7–1 day one; 8–5 overall",
+      "full_list": null
+    },
+    "shenyang": {
+      "reported": "Fiora sixth most played",
+      "denominator": null
+    },
+    "september_forecast": {
+      "predicted_top": [
+        "Aurora Jayce",
+        "Hook LeBlanc",
+        "Irelia"
+      ],
+      "claimed_kennel_matchups": [
+        {
+          "opponent": "Jayce Aurora",
+          "percentage": 28
+        },
+        {
+          "opponent": "LeBlanc",
+          "percentage": 40,
+          "approximate": true
+        }
+      ],
+      "status": "unverified claims/forecast; no dataset, no retrospective validation"
+    }
+  },
+  "fields": {
+    "current": [
+      "Sigil of the Storm",
+      "Forgotten Monument",
+      "Risen Altar"
+    ],
+    "policy": [
+      {
+        "condition": "fast opponent blind",
+        "field": "Forgotten Monument"
+      },
+      {
+        "condition": "fast opponent when first",
+        "field": "Sigil of the Storm"
+      },
+      {
+        "condition": "midrange blind",
+        "field": "Sigil of the Storm"
+      },
+      {
+        "condition": "midrange first",
+        "field": "Forgotten Monument"
+      },
+      {
+        "condition": "second",
+        "field": "Risen Altar"
+      },
+      {
+        "condition": "slower local field",
+        "field": "Amateur Recital or Sunken Temple",
+        "status": "alternative candidate"
+      }
+    ],
+    "historical": {
+      "fr0zen": [
+        "Amateur Recital",
+        "Sunken Temple",
+        "Risen Altar"
+      ],
+      "souledOut": [
+        "Sigil of the Storm",
+        "Forgotten Monument",
+        "Sandswept Tomb"
+      ]
+    },
+    "scope": "source recommendations, not verified procedures"
+  },
+  "guards": [
+    "Four image placeholders; Fr0zen/SouledOut full inventories absent. Exact guide author and publication date unknown; September 17 date attached to decklist only.",
+    "66-card inventory reconciled; three Dazzling Aurora copies banned in repository November 23 Standard snapshot. Historical opposing references to Stacked Deck, Nocturne, Rhasa, Hourglass and Baited Hook do not belong to this list.",
+    "20 cumulative baseline policies all count-balanced, four fail inventory checks: both Rengar and both Azir branches. Rengar annotation total 2 conflicts with literal 3. Azir cuts 2 Harnessed Dragon, baseline only 1. Optional variants separate; no silent corrections.",
+    "Source claims 28% and about 40% versus Kennen, regional popularity, and market sales; no denominators or external results verified. September forecast not November prediction.",
+    "Four-cost and seven-energy Ambessa descriptions may be context-dependent; verify Empower, protection and effective costs. Tactical Retreat plus Sacrifice cites rules 203.1/203.2 and Deathgrip errata, but original historical rules and current applicability not independently checked.",
+    "Named FAQ URLs are research leads, not retrieved in this intake. Exact printing crosswalk, card mechanics, actual legality and match replays not certified."
+  ],
+  "tactical_hypothesis": {
+    "source_lines": "275–294",
+    "rule_numbers": [
+      "203.1",
+      "203.2"
+    ],
+    "subject": "Tactical Retreat and Sacrifice; claimed cost replacement permits payoff, Deathgrip errata differs",
+    "status": "unverified historical source claim",
+    "leads": [
+      "https://www.riftboundfaq.com/cards/sacrifice#deathknell-before-spell",
+      "https://www.riftboundfaq.com/cards/elder-dragon"
+    ],
+    "retrieved": false
+  }
+}

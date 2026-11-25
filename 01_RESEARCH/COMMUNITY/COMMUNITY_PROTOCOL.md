@@ -55,3 +55,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## AYI — tournament preparation and changing deck identity
 [AYI analysis](../REFERENCE_LIBRARY/works/AYI/ANALYSIS.md) supports original discussions of experimental deck identity, balancing payoff ceiling with fallback, efficient pace, event goals and teammate disagreement. Keep self-reported results separate from verified events; no copied persona or anecdote.
+
+## FIO — learning across local fields
+[FIO analysis](../REFERENCE_LIBRARY/works/FIO/ANALYSIS.md) supports original discussions about regional strategy discovery, forecast uncertainty, pilot errors versus list quality and reconsideration of narrow slots. Avoid geographic stereotypes, copied anecdotes or unverified real-world results.

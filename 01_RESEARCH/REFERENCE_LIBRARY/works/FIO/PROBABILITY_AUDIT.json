@@ -1,0 +1,44 @@
+{
+  "scope": "Python hypergeometric distinct-sample model, N=39; not actual mulligan, gameplay or win probability.",
+  "engine_cards": 6,
+  "formula": "P(any)=1-C(33,n)/C(39,n); P(>=2)=sum C(k,j)C(39-k,n-j)/C(39,n) for j>=2",
+  "rows": [
+    {
+      "n": 4,
+      "any_engine": 0.502498449866871,
+      "duplicate_two_copies": 0.008097165991902834,
+      "duplicate_three_copies": 0.023416128679286573
+    },
+    {
+      "n": 5,
+      "any_engine": 0.587784429889693,
+      "duplicate_two_copies": 0.01349527665317139,
+      "duplicate_three_copies": 0.03829740671845935
+    },
+    {
+      "n": 7,
+      "any_engine": 0.7222504714764777,
+      "duplicate_two_copies": 0.02834008097165992,
+      "duplicate_three_copies": 0.07736076157128789
+    },
+    {
+      "n": 8,
+      "any_engine": 0.774328508074638,
+      "duplicate_two_copies": 0.037786774628879895,
+      "duplicate_three_copies": 0.10110515373673268
+    },
+    {
+      "n": 9,
+      "any_engine": 0.8180068613505146,
+      "duplicate_two_copies": 0.048582995951417005,
+      "duplicate_three_copies": 0.12736623262939054
+    },
+    {
+      "n": 10,
+      "any_engine": 0.8544054890804117,
+      "duplicate_two_copies": 0.06072874493927125,
+      "duplicate_three_copies": 0.15592515592515593
+    }
+  ],
+  "note": "Six engine copies (three Aurora + three Rift Herald) in historical list. The claim of extreme rarity by turn four cannot be tested without actual sampling and draw procedure. Two/three copy comparison hypothetical, not recommendation."
+}

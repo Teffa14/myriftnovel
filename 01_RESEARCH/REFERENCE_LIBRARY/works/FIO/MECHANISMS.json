@@ -1,0 +1,425 @@
+[
+  {
+    "id": "FIO-M01",
+    "level": "L4",
+    "source_lines": "25–57",
+    "name": "Engine-independent deck identity",
+    "structure": "Evaluate whether named primary engine is essential or optional by testing missing-engine states.",
+    "acceptance": "Require viable fallback and independent rival response.",
+    "related_ids": [
+      "AYI-M04"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M02",
+    "level": "L4",
+    "source_lines": "38–57",
+    "name": "Payoff-first design",
+    "structure": "Choose a consequential payoff, identify enabling conditions and ensure access.",
+    "acceptance": "Do not equate synergy or access with actual scoring.",
+    "related_ids": [
+      "AYI-M34"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M03",
+    "level": "L4",
+    "source_lines": "49–57",
+    "name": "Redundant engine paths",
+    "structure": "Track two different payoff routes rather than relying on one named asset.",
+    "acceptance": "Check overlap, shared prerequisites and legal effects.",
+    "related_ids": [
+      "AYI-M26"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M04",
+    "level": "L4",
+    "source_lines": "55–57",
+    "name": "Failure-state card distribution",
+    "structure": "When engine absent, examine whether remaining roles enable alternate play.",
+    "acceptance": "Conditional composition is not proof of sufficient hand quality.",
+    "related_ids": [
+      "AYI-M45"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M05",
+    "level": "L4",
+    "source_lines": "34–36,296–309",
+    "name": "Conditional transformation",
+    "structure": "Change engine density by starting order and predicted opposing answer coverage.",
+    "acceptance": "Require legal swaps; opponent may adapt or retain useful answers.",
+    "related_ids": [
+      "AYI-M37",
+      "AYI-M38"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M06",
+    "level": "L4",
+    "source_lines": "61–84",
+    "name": "Performance versus deck quality",
+    "structure": "Review pilot execution separately from list construction after an event.",
+    "acceptance": "Self-reported outcomes do not establish causality.",
+    "related_ids": [
+      "AYI-M55"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M07",
+    "level": "L4",
+    "source_lines": "75–79",
+    "name": "Alternative engine hit",
+    "structure": "Evaluate apparently weaker payoff by next-turn utility rather than immediate size.",
+    "acceptance": "Verify ready state, cost and future access.",
+    "related_ids": [
+      "AYI-M31",
+      "AYI-M32"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M08",
+    "level": "L4",
+    "source_lines": "209–228",
+    "name": "Indirect metagame effects",
+    "structure": "Removing a dominant strategy can alter relative prospects of other decks.",
+    "acceptance": "Forecast requires dated matchup and field evidence; no deterministic prediction.",
+    "related_ids": [
+      "AYI-M43"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M09",
+    "level": "L4",
+    "source_lines": "218–228",
+    "name": "Second-order matchup pressure",
+    "structure": "An opponent's decline may remove favorable pairings as well as unfavorable ones.",
+    "acceptance": "Separate direct matchup changes from field composition.",
+    "related_ids": [
+      "AYI-M56"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M10",
+    "level": "L4",
+    "source_lines": "220–228",
+    "name": "Market signals as hypothesis",
+    "structure": "Treat card sales and price changes as possible indicators of interest.",
+    "acceptance": "No conversion from sales to tournament share without evidence.",
+    "related_ids": [
+      "AYI-M55"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M11",
+    "level": "L4",
+    "source_lines": "230–241",
+    "name": "Main-deck answer promotion",
+    "structure": "Move narrow interaction into baseline when plausible target coverage grows.",
+    "acceptance": "Compare dead draws, alternative slots and actual prevalence.",
+    "related_ids": [
+      "AYI-M40"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M12",
+    "level": "L4",
+    "source_lines": "239–241",
+    "name": "Answer packaging choice",
+    "structure": "Compare similar answers carried by different card types and different resource roles.",
+    "acceptance": "Verify exact eligibility, timing and engine hit consequences.",
+    "related_ids": [
+      "AYI-M41"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M13",
+    "level": "L4",
+    "source_lines": "243–258",
+    "name": "Curve bridge with alternate cost",
+    "structure": "Use medium threat across multiple development thresholds.",
+    "acceptance": "Ambessa four/seven energy statements require conditional effective text.",
+    "related_ids": [
+      "AYI-M27"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M14",
+    "level": "L4",
+    "source_lines": "252–258",
+    "name": "Threat resilience by answer class",
+    "structure": "Choose threats whose legal protections match expected interaction.",
+    "acceptance": "Never infer blanket immunity; verify specific effects and timing.",
+    "related_ids": [
+      "AYI-M21"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M15",
+    "level": "L4",
+    "source_lines": "256–258",
+    "name": "Friendly-effect compatibility",
+    "structure": "Compare self-inflicted damage or cost with available protection.",
+    "acceptance": "Verify exact named targets, prevention and replacement.",
+    "related_ids": [
+      "AYI-M33"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M16",
+    "level": "L4",
+    "source_lines": "260–269",
+    "name": "Expensive-payoff congestion",
+    "structure": "Avoid support card that cannot be used alongside intended payoff when timing matters.",
+    "acceptance": "Check actual resource thresholds and alternative sequences.",
+    "related_ids": [
+      "AYI-M32"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M17",
+    "level": "L4",
+    "source_lines": "267–273",
+    "name": "Marginal payoff in winning state",
+    "structure": "Compare card usefulness before stabilization with extra gain afterward.",
+    "acceptance": "A card can have meaningful narrow use; test exceptions.",
+    "related_ids": [
+      "MAC-M01",
+      "MAC-M02"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M18",
+    "level": "L4",
+    "source_lines": "273",
+    "name": "Revision after counterexample",
+    "structure": "Reconsider rejected slot when specific matchup reveals useful interaction window.",
+    "acceptance": "Verify effect; preserve revision as conditional, no silent inclusion.",
+    "related_ids": [
+      "AYI-M56"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M19",
+    "level": "L3",
+    "source_lines": "275–294",
+    "name": "Protection and replacement value",
+    "structure": "A replacement effect may preserve a body while another action pays a cost.",
+    "acceptance": "Source rule citations and card errata need dated official verification.",
+    "related_ids": [
+      "AYI-M33"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M20",
+    "level": "L4",
+    "source_lines": "284–294",
+    "name": "Resource recovery after lost position",
+    "structure": "Compare losing a point with retaining body, cards and future resource access.",
+    "acceptance": "No guaranteed recovery; opponent may choose another legal response.",
+    "related_ids": [
+      "AYI-M28"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M21",
+    "level": "L4",
+    "source_lines": "296–309",
+    "name": "Play-order hybrid strategy",
+    "structure": "Select between ramp payoff and midrange by starting resources and field.",
+    "acceptance": "Do not equate play order with always correct transformation.",
+    "related_ids": [
+      "AYI-M57"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M22",
+    "level": "L4",
+    "source_lines": "313–325",
+    "name": "Symmetric field opportunity cost",
+    "structure": "Evaluate a location's benefit to opposing strategy as well as own.",
+    "acceptance": "Verify actual triggers and field-selection rules.",
+    "related_ids": [
+      "AYI-M07",
+      "AYI-M10"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M23",
+    "level": "L4",
+    "source_lines": "326–342",
+    "name": "Scoring delay versus resource tax",
+    "structure": "Compare field effects based on rival tempo and development dependencies.",
+    "acceptance": "Check alternative routes; not universal advantage.",
+    "related_ids": [
+      "AYI-M06"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M24",
+    "level": "L4",
+    "source_lines": "343–348",
+    "name": "Local field adaptation",
+    "structure": "Change location selection with expected local opponents and personal testing.",
+    "acceptance": "Require evidence beyond broad geographic stereotypes.",
+    "related_ids": [
+      "AYI-M55"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M25",
+    "level": "L4",
+    "source_lines": "358–589",
+    "name": "Combined swap validation",
+    "structure": "Combine universal and conditional replacement quantities before evaluating configuration.",
+    "acceptance": "Reject unavailable copies and unmatched cuts; preserve source errors.",
+    "related_ids": [
+      "AYI-M37"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M26",
+    "level": "L4",
+    "source_lines": "392–415,514–528",
+    "name": "Sideboard inventory contradiction",
+    "structure": "Detect conflicts between annotation, literal quantities and baseline inventory.",
+    "acceptance": "Do not silently repair; identify minimal missing decision.",
+    "related_ids": [
+      "AYI-M43"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M27",
+    "level": "L4",
+    "source_lines": "592–603",
+    "name": "Resource threshold scheduling",
+    "structure": "Work backward from next key development and preserve enough capacity.",
+    "acceptance": "Arithmetic alone does not certify actions.",
+    "related_ids": [
+      "AYI-M13",
+      "AYI-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M28",
+    "level": "L4",
+    "source_lines": "605–611",
+    "name": "Tempo override of ramp plan",
+    "structure": "Spend a reserved resource if immediate threat outweighs delayed payoff.",
+    "acceptance": "Compare rival closing clock and alternate draws.",
+    "related_ids": [
+      "MAC-M05",
+      "AYI-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M29",
+    "level": "L4",
+    "source_lines": "615",
+    "name": "Duplicate-risk versus access",
+    "structure": "Compare third copy's higher access with chance of redundant draws.",
+    "acceptance": "Define sampled population; no measured brick or win rates.",
+    "related_ids": [
+      "AYI-M34"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M30",
+    "level": "L4",
+    "source_lines": "618–623",
+    "name": "Intermediate threat with reserve",
+    "structure": "Compare maximum-cost deployment with smaller body plus protection.",
+    "acceptance": "Verify costs, score urgency and response options.",
+    "related_ids": [
+      "AYI-M36",
+      "MAC-M11"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M31",
+    "level": "L6",
+    "source_lines": "15–23,73",
+    "name": "Regional innovation and attribution",
+    "structure": "Show fictional competitors learning from strategies developed outside their familiar local field.",
+    "acceptance": "Do not generalize countries or reproduce real pilot biography.",
+    "related_ids": [
+      "AYI-M60"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  },
+  {
+    "id": "FIO-M32",
+    "level": "L6",
+    "source_lines": "260–273,605–623",
+    "name": "Reasoned deckbuilding disagreement",
+    "structure": "Show specialists revising slot preferences after observing exceptions.",
+    "acceptance": "Original voices and independent stakes, no copied anecdotes.",
+    "related_ids": [
+      "AYI-M55"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Related abstractions, not independent discoveries."
+  }
+]

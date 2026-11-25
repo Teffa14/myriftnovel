@@ -1,0 +1,71 @@
+[
+  {
+    "id": "FIO-X01",
+    "mechanisms": [
+      "FIO-M01",
+      "FIO-M03",
+      "FIO-M04"
+    ],
+    "task": "Compare two fictional payoff packages in engine-present and engine-absent openings; specify independent opposing choices and a failure condition.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "FIO-X02",
+    "mechanisms": [
+      "FIO-M08",
+      "FIO-M09",
+      "FIO-M11"
+    ],
+    "task": "Build a hypothetical three-deck field before and after one archetype declines; compute only under stated matchup assumptions.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "FIO-X03",
+    "mechanisms": [
+      "FIO-M05",
+      "FIO-M21",
+      "FIO-M25",
+      "FIO-M26"
+    ],
+    "task": "Audit a proposed transformative sideboard using complete hypothetical inventories and distinct first/second branches; reject impossible quantities.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "FIO-X04",
+    "mechanisms": [
+      "FIO-M13",
+      "FIO-M27",
+      "FIO-M28",
+      "FIO-M30"
+    ],
+    "task": "Compare a future resource threshold with a smaller development plus response reserve. Include the rival's earliest closing route.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "FIO-X05",
+    "mechanisms": [
+      "FIO-M17",
+      "FIO-M18",
+      "FIO-M29",
+      "FIO-M32"
+    ],
+    "task": "Two teammates dispute a third copy of a narrow effect; compare access, duplicate draws and a matchup-specific counterexample.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "FIO-X06",
+    "mechanisms": [
+      "FIO-M19",
+      "FIO-M20",
+      "FIO-M22"
+    ],
+    "task": "Construct a new bounded replacement-effect example only after dated rule verification; compare a failure when the replacement is absent.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  }
+]

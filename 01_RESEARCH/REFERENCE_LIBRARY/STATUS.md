@@ -122,3 +122,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## MAC — purposeful action (2026-11-25)
 [Research index](works/MAC/INDEX.md): 2,203 tokens, 14 units, five historical alternatives, 18 linked candidate refinements, four exercises, eight structural and eight synthetic budget checks. Overlaps OUT/RIV; no independently novel count or verified legal replay. Historical ban conflicts recorded.
+
+## FIO — September Fiora (2026-11-25)
+[Research index](works/FIO/INDEX.md): 4,338 tokens, 32 units, written 66-card historical inventory, 10 matchup groups, 20 counted baseline swaps (16 inventory passes, four failures), 32 linked mechanism candidates, six exercises. Three Aurora copies banned in Nov 23 snapshot. No current list or replay certified.

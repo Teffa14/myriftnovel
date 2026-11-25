@@ -1,0 +1,231 @@
+{
+  "source": "Sept Fiorald Guide",
+  "author": null,
+  "publication_date": null,
+  "decklist_date": "2026-09-17",
+  "ingest_date": "2026-11-25",
+  "sha256": "e7e348313708694d089eb6ab3f6356bbab92f847f63de53587072eca8ce81745",
+  "bytes": 26725,
+  "lines": 633,
+  "word_tokens": 4338,
+  "distinct_lowercase_forms": 1027,
+  "blocks": 256,
+  "image_placeholders": 4,
+  "method": "Python UTF-8-sig splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen, headings and URL text included; lowercase forms and blank-line-delimited blocks.",
+  "units": [
+    {
+      "id": "FIO-U01",
+      "start": 1,
+      "end": 2,
+      "tokens": 3
+    },
+    {
+      "id": "FIO-U02",
+      "start": 3,
+      "end": 14,
+      "tokens": 128
+    },
+    {
+      "id": "FIO-U03",
+      "start": 15,
+      "end": 24,
+      "tokens": 166
+    },
+    {
+      "id": "FIO-U04",
+      "start": 25,
+      "end": 35,
+      "tokens": 169
+    },
+    {
+      "id": "FIO-U05",
+      "start": 36,
+      "end": 47,
+      "tokens": 149
+    },
+    {
+      "id": "FIO-U06",
+      "start": 48,
+      "end": 67,
+      "tokens": 168
+    },
+    {
+      "id": "FIO-U07",
+      "start": 68,
+      "end": 99,
+      "tokens": 356
+    },
+    {
+      "id": "FIO-U08",
+      "start": 100,
+      "end": 208,
+      "tokens": 63
+    },
+    {
+      "id": "FIO-U09",
+      "start": 209,
+      "end": 229,
+      "tokens": 348
+    },
+    {
+      "id": "FIO-U10",
+      "start": 230,
+      "end": 242,
+      "tokens": 208
+    },
+    {
+      "id": "FIO-U11",
+      "start": 243,
+      "end": 259,
+      "tokens": 244
+    },
+    {
+      "id": "FIO-U12",
+      "start": 260,
+      "end": 274,
+      "tokens": 207
+    },
+    {
+      "id": "FIO-U13",
+      "start": 275,
+      "end": 295,
+      "tokens": 331
+    },
+    {
+      "id": "FIO-U14",
+      "start": 296,
+      "end": 312,
+      "tokens": 194
+    },
+    {
+      "id": "FIO-U15",
+      "start": 313,
+      "end": 325,
+      "tokens": 298
+    },
+    {
+      "id": "FIO-U16",
+      "start": 326,
+      "end": 342,
+      "tokens": 288
+    },
+    {
+      "id": "FIO-U17",
+      "start": 343,
+      "end": 351,
+      "tokens": 196
+    },
+    {
+      "id": "FIO-U18",
+      "start": 352,
+      "end": 357,
+      "tokens": 7
+    },
+    {
+      "id": "FIO-U19",
+      "start": 358,
+      "end": 371,
+      "tokens": 21
+    },
+    {
+      "id": "FIO-U20",
+      "start": 372,
+      "end": 391,
+      "tokens": 18
+    },
+    {
+      "id": "FIO-U21",
+      "start": 392,
+      "end": 415,
+      "tokens": 28
+    },
+    {
+      "id": "FIO-U22",
+      "start": 416,
+      "end": 435,
+      "tokens": 25
+    },
+    {
+      "id": "FIO-U23",
+      "start": 436,
+      "end": 459,
+      "tokens": 24
+    },
+    {
+      "id": "FIO-U24",
+      "start": 460,
+      "end": 479,
+      "tokens": 20
+    },
+    {
+      "id": "FIO-U25",
+      "start": 480,
+      "end": 513,
+      "tokens": 37
+    },
+    {
+      "id": "FIO-U26",
+      "start": 514,
+      "end": 541,
+      "tokens": 28
+    },
+    {
+      "id": "FIO-U27",
+      "start": 542,
+      "end": 563,
+      "tokens": 27
+    },
+    {
+      "id": "FIO-U28",
+      "start": 564,
+      "end": 589,
+      "tokens": 48
+    },
+    {
+      "id": "FIO-U29",
+      "start": 590,
+      "end": 591,
+      "tokens": 3
+    },
+    {
+      "id": "FIO-U30",
+      "start": 592,
+      "end": 617,
+      "tokens": 375
+    },
+    {
+      "id": "FIO-U31",
+      "start": 618,
+      "end": 624,
+      "tokens": 142
+    },
+    {
+      "id": "FIO-U32",
+      "start": 625,
+      "end": 633,
+      "tokens": 19
+    }
+  ],
+  "counts": {
+    "matchup_groups": 10,
+    "baseline_policies": 20,
+    "inventory_passes": 16,
+    "inventory_failures": 4,
+    "mechanisms": 32,
+    "exercises": 6,
+    "probability_rows": 6
+  },
+  "checks": [
+    "32 units contiguous and 4338 tokens",
+    "66 total including legend and chosen",
+    "three Aurora banned instances",
+    "20 count-balanced baseline policies",
+    "16 inventory passes, four fails",
+    "10 matchup groups and FTG links",
+    "32 unique mechanisms",
+    "overlap IDs resolved",
+    "six exercise links",
+    "six probability comparisons ordered",
+    "unused FIO identifier"
+  ]
+}

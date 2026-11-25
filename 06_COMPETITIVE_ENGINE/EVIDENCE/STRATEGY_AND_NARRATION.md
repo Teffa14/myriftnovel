@@ -73,3 +73,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## MAC — opponent response cost diagnostic
 [MAC research](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAC/INDEX.md) complements OUT and RIV through marginal action value, alternative response costs, deferred contest and retained flexibility. Compare immediate score against feasible later routes and rival independent choices. The five source branches are historical and incomplete, with banned references; verify dated official mechanics and G3-scene. No general win probability or dominance established.
+
+## FIO — alternate payoff and conditional transformation
+[FIO research](../../01_RESEARCH/REFERENCE_LIBRARY/works/FIO/INDEX.md) supplements FTG FT-L15, AYI and MAC with engine-independent fallback, second-order metagame effects, response reserves and play-order transformation. [Sideboard audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/FIO/SIDEBOARD_AUDIT.json) preserves Rengar and Azir quantity errors. Historical Aurora banned. Replacement-cost claims require dated official text and G3-scene; probability model is distinct sampling only.

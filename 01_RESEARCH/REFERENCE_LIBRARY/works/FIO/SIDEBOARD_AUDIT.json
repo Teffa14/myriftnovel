@@ -1,0 +1,1132 @@
+{
+  "plans": [
+    {
+      "id": "FIO-SB01",
+      "opponent": "LeBlanc",
+      "profile_candidates": [
+        "FT-L28"
+      ],
+      "source_lines": "358–371",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Riposte",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 2,
+        "outgoing_count": 2,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB02",
+      "opponent": "LeBlanc",
+      "profile_candidates": [
+        "FT-L28"
+      ],
+      "source_lines": "358–371",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Riposte",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Dazzling Aurora",
+          "count": 3,
+          "snapshot_banned": true
+        }
+      ],
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB03",
+      "opponent": "Jayce",
+      "profile_candidates": [
+        "FT-L21"
+      ],
+      "source_lines": "372–391",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Challenge",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 4,
+        "outgoing_count": 4,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB04",
+      "opponent": "Jayce",
+      "profile_candidates": [
+        "FT-L21"
+      ],
+      "source_lines": "372–391",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Challenge",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Shepherd's Heirloom",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB05",
+      "opponent": "Rengar",
+      "profile_candidates": [
+        "FT-L47"
+      ],
+      "source_lines": "392–415",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rengar, Trophy Hunter",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 4,
+        "outgoing_count": 4,
+        "errors": [
+          {
+            "kind": "incoming_exceeds_sideboard",
+            "name": "Punch First",
+            "requested": 3,
+            "available": 2
+          }
+        ],
+        "count_inventory_pass": false,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB06",
+      "opponent": "Rengar",
+      "profile_candidates": [
+        "FT-L47"
+      ],
+      "source_lines": "392–415",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Riposte",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Challenge",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [
+          {
+            "kind": "incoming_exceeds_sideboard",
+            "name": "Punch First",
+            "requested": 3,
+            "available": 2
+          }
+        ],
+        "count_inventory_pass": false,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB07",
+      "opponent": "Akali",
+      "profile_candidates": [
+        "FT-L05"
+      ],
+      "source_lines": "416–435",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Sacrifice",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 2,
+        "outgoing_count": 2,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB08",
+      "opponent": "Akali",
+      "profile_candidates": [
+        "FT-L05"
+      ],
+      "source_lines": "416–435",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Sacrifice",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Divining Shells",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB09",
+      "opponent": "Kennen",
+      "profile_candidates": [
+        "FT-L25"
+      ],
+      "source_lines": "436–459",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Tactical Retreat",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 5,
+        "outgoing_count": 5,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB10",
+      "opponent": "Kennen",
+      "profile_candidates": [
+        "FT-L25"
+      ],
+      "source_lines": "436–459",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Akshan, Mischievous",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Tactical Retreat",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Shepherd's Heirloom",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 5,
+        "outgoing_count": 5,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB11",
+      "opponent": "Master Yi",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "460–479",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 3,
+        "outgoing_count": 3,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB12",
+      "opponent": "Master Yi",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "460–479",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Divining Shells",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 5,
+        "outgoing_count": 5,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB13",
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "source_lines": "480–513",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Tactical Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Tactical Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB14",
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "source_lines": "480–513",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Tactical Retreat",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Dazzling Aurora",
+          "count": 3,
+          "snapshot_banned": true
+        }
+      ],
+      "audit": {
+        "incoming_count": 9,
+        "outgoing_count": 9,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB15",
+      "opponent": "Azir",
+      "profile_candidates": [
+        "FT-L08"
+      ],
+      "source_lines": "514–541",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Harnessed Dragon",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Challenge",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rampage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 7,
+        "outgoing_count": 7,
+        "errors": [
+          {
+            "kind": "outgoing_exceeds_main",
+            "name": "Harnessed Dragon",
+            "requested": 2,
+            "available": 1
+          }
+        ],
+        "count_inventory_pass": false,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB16",
+      "opponent": "Azir",
+      "profile_candidates": [
+        "FT-L08"
+      ],
+      "source_lines": "514–541",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Akshan, Mischievous",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Harnessed Dragon",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Challenge",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rampage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Rampage",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Ambessa, The Wolf",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 9,
+        "outgoing_count": 9,
+        "errors": [
+          {
+            "kind": "outgoing_exceeds_main",
+            "name": "Harnessed Dragon",
+            "requested": 2,
+            "available": 1
+          }
+        ],
+        "count_inventory_pass": false,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB17",
+      "opponent": "Rek'Sai",
+      "profile_candidates": [
+        "FT-L44"
+      ],
+      "source_lines": "542–563",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 3,
+        "outgoing_count": 3,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB18",
+      "opponent": "Rek'Sai",
+      "profile_candidates": [
+        "FT-L44"
+      ],
+      "source_lines": "542–563",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Punch First",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Harnessed Dragon",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Mobilize",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 5,
+        "outgoing_count": 5,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB19",
+      "opponent": "Diana",
+      "profile_candidates": [
+        "FT-L10"
+      ],
+      "source_lines": "564–589",
+      "order": "first",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Victorious",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Fiora, Worthy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "audit": {
+        "incoming_count": 2,
+        "outgoing_count": 2,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    },
+    {
+      "id": "FIO-SB20",
+      "opponent": "Diana",
+      "profile_candidates": [
+        "FT-L10"
+      ],
+      "source_lines": "564–589",
+      "order": "second",
+      "incoming": [
+        {
+          "name": "Repulse",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kayle, Justified",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "outgoing": [
+        {
+          "name": "Salvage",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Dazzling Aurora",
+          "count": 3,
+          "snapshot_banned": true
+        }
+      ],
+      "audit": {
+        "incoming_count": 4,
+        "outgoing_count": 4,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      },
+      "interpretation": "Literal cumulative Always plus applicable play-order branch; no optional lines included."
+    }
+  ],
+  "variants": [
+    {
+      "opponent": "Rengar",
+      "source_lines": "392–415",
+      "issue": "Always +2 Punch First then +1 with annotation total 2. Both literal cumulative branches request 3; treating annotation as cap leaves one excess outgoing. Do not choose a replacement."
+    },
+    {
+      "opponent": "Akali",
+      "source_lines": "422–429",
+      "issue": "Second-player alternative removes three Aurora rather than Shells.",
+      "audit": {
+        "incoming_count": 6,
+        "outgoing_count": 6,
+        "errors": [],
+        "count_inventory_pass": true,
+        "legality_certified": false
+      }
+    },
+    {
+      "opponent": "Irelia",
+      "source_lines": "508–512",
+      "issue": "Optional additional Punch First and unnamed cut; first-player version has remaining one copy, but unidentified cut prevents exact audit."
+    },
+    {
+      "opponent": "Azir",
+      "source_lines": "514–528",
+      "issue": "Always cuts two Harnessed Dragon but only one is present; both literal branches fail."
+    },
+    {
+      "opponent": "Rek'Sai",
+      "source_lines": "557",
+      "issue": "Optional cut three Aurora without specified additions. Do not fill."
+    },
+    {
+      "opponent": "Diana",
+      "source_lines": "566–574",
+      "issue": "Alternate unspecified cut instead of Salvage if gear targets; optional two Tactical Retreat for two Punch First.",
+      "optional_audits": [
+        {
+          "order": "first",
+          "incoming_count": 4,
+          "outgoing_count": 4,
+          "errors": [],
+          "count_inventory_pass": true,
+          "legality_certified": false
+        },
+        {
+          "order": "second",
+          "incoming_count": 6,
+          "outgoing_count": 6,
+          "errors": [],
+          "count_inventory_pass": true,
+          "legality_certified": false
+        }
+      ]
+    }
+  ],
+  "scope": "Quantity checks only, chosen swaps included in 40-card population, no official legality proof."
+}
