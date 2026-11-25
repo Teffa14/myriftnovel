@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "status": "author_authorized_saved_visual_reference_collection",
+  "date": "2026-11-25",
+  "storage": "private ChatGPT Library",
+  "folder": "/The Last Draw - Private Archive/Character Artwork v1",
+  "source_canon": "CH0001 V4.1 and CH0001.1 V4; authoritative manuscript archive unchanged",
+  "assets": [
+    {
+      "id": "P01",
+      "name": "Nicolas Vega",
+      "filename": "Neon Gothic Nico_ Courtside Shadows-2.png",
+      "sha256": "a6efc158f8447121d19115228f706f84e5793cff2d1ff5b1808b95c6a1cfe078",
+      "width": 1086,
+      "height": 1448,
+      "role": "promotional visual reference"
+    },
+    {
+      "id": "P02",
+      "name": "June Park",
+      "filename": "Neon Sigils_ June Park-4.png",
+      "sha256": "f1cc2cdc0afd1e5a038b1101a85bbdc0fc2292d1258289f1ef2bfdd6d10fbca0",
+      "width": 1055,
+      "height": 1491,
+      "role": "promotional visual reference"
+    },
+    {
+      "id": "P03",
+      "name": "Maya Serrano",
+      "filename": "Maya Serrano_ Neon Card Shop Hero-3.png",
+      "sha256": "22e26250d60a5b6cf5004bc3c6677276955994d9d6f2df8df76933d77a9a01b2",
+      "width": 1055,
+      "height": 1491,
+      "role": "promotional visual reference"
+    },
+    {
+      "id": "P04",
+      "name": "Elias Brooks",
+      "filename": "Eli_ Neon Gearsmith of the City-6.png",
+      "sha256": "28d529d06251133b81558fc24ec2b4c8bd286ea5f147348827716464df64752b",
+      "width": 1055,
+      "height": 1491,
+      "role": "promotional visual reference"
+    },
+    {
+      "id": "P05",
+      "name": "Marcus Bell",
+      "filename": "Neon Throne_ Marcus Bell.png",
+      "sha256": "52ca9801e79c773d4562f8c8a9aea5f11d3a44e1961c42b43679437c499ccb6b",
+      "width": 1055,
+      "height": 1491,
+      "role": "promotional visual reference"
+    },
+    {
+      "id": "P08",
+      "name": "Lucia Vega",
+      "filename": "Neon Lucia_ Iced Coffee and Starlight-1.png",
+      "sha256": "85f12d22d36ea1bcaa566638c902f51f47173f906ba8865359740d3c447d8647",
+      "width": 1055,
+      "height": 1491,
+      "role": "promotional visual reference"
+    }
+  ],
+  "audit_files": [
+    "The_Last_Draw_visual_accuracy_audit.json",
+    "visual_audit.py"
+  ],
+  "rules": "Retrieve exact originals before creating new art; preserve visual identity. Narrative canon prevails over promotional additions. No new story facts are approved merely by saving art. Rights clearance pending; no public image distribution implied."
+}
