@@ -1,5 +1,5 @@
 # Pilot production plan — 20 chapters
-Canon editorial v1.0. This is a brief matrix, not drafted chapters; all match events remain replay-gated. Dates: opening 2026-11-28, pilot spans roughly four weeks; verify work and events before each brief. 1,700–2,200 words as base, variation allowed. Scene POV one at a time; slash indicates alternative/separate scenes, never head-hopping. First 3 chapters serve launch package; chapter 1 must begin with a concrete conflict in first 150 words, no glossary or biography dump.
+Canon editorial v1.0. This is a brief matrix, not drafted chapters; technical claims require scoped G3-scene verification. Dates: opening 2026-11-28, pilot spans roughly four weeks; verify work and events before each brief. 1,700–2,200 words as base, variation allowed. Scene POV one at a time; slash indicates alternative/separate scenes, never head-hopping. First 3 chapters serve launch package; chapter 1 must begin with a concrete conflict in first 150 words, no glossary or biography dump.
 
 | Chapter | POV | Conflict/turn | Consequence |
 |---|---|---|---|
@@ -19,9 +19,11 @@ Canon editorial v1.0. This is a brief matrix, not drafted chapters; all match ev
 | 14 | Nico/Lucia | Competing work and practice demands; he renegotiates rather than hiding commitments. | Household ledger changes only if agreement is explicit. |
 | 15 | Nico | Cost of competitive entry and deck access; compare borrow/purchase/skip. | He chooses a justified affordable route. |
 | 16 | Breakpoint | Trial participants disagree on the evidence; no in-match coaching. | They agree on shared testing rules. |
-| 17 | Nico | Local competition, selected meaningful decisions, no arbitrary misplay. | Result recorded via validated replay; reputation changes proportionally. |
+| 17 | Nico | Local competition, selected meaningful decisions, no arbitrary misplay. | Result recorded via appropriate scoped evidence; reputation changes proportionally. |
 | 18 | June | Consequences for rival and independent objective; avoids protagonist-centric reaction. | She revises her next goal. |
 | 19 | Nico/Maya | Post-event aftermath: repair a small commitment, separate expenses and results. | Trust advances through action. |
 | 20 | Nico | Pilot payoff: group offers a continued practice place, with time/budget constraints. | He earns a seat, not an automatic championship; next objective concrete. |
 
-Before drafting: set date, starting ledger, scene beats, knowledge and card IDs, result/replay if applicable. Any result unsupported by rules must be revised, not forced. Private beta at chapters 1–5, then entire pilot; no publication before rights and quality gates.
+Before drafting: set date, starting ledger, scene beats, knowledge and card IDs, result and scoped evidence if applicable. Any result unsupported by rules must be revised, not forced. Private beta at chapters 1–5, then entire pilot; no publication before rights and quality gates.
+
+Mandatory competitive policy v2: 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md supersedes blanket full-replay requirements. G3-scene remains required for depicted rules; global coverage is independent. Do not ask the author for match logs or judge expertise. CH01 scoring case is conditional only; no canon outcome locked by this change.

@@ -1,0 +1,152 @@
+{
+  "id": "CH01-final-point-option-A",
+  "origin": "constructed fiction; not tournament data",
+  "ruleset": "core_2026-10-09",
+  "story_date": "2026-11-28",
+  "mode": "1v1_duel",
+  "victory_score": 8,
+  "players": [
+    "Nico",
+    "June"
+  ],
+  "battlefields": [
+    "A",
+    "B"
+  ],
+  "start_scores": {
+    "Nico": 7,
+    "June": 7
+  },
+  "start_turn": "Nico",
+  "already_scored": [],
+  "assumptions": {
+    "no_point_modifiers": true,
+    "no_unresolved_effects": true,
+    "draw_available": true,
+    "no_other_scoring": true,
+    "notes": "A and B are abstract placeholders; resolved control change at A, June controls B continuously until her scoring step. Earlier legal reachability and decklists not established. No claim of optimal alternative."
+  },
+  "events": [
+    {
+      "kind": "conquer",
+      "player": "Nico",
+      "field": "A",
+      "phase": "resolved_control",
+      "control_established_or_maintained": true
+    },
+    {
+      "kind": "cleanup"
+    },
+    {
+      "kind": "next_scoring_step",
+      "player": "June",
+      "phase": "beginning_scoring",
+      "intervening_events_abstracted": true
+    },
+    {
+      "kind": "hold",
+      "player": "June",
+      "field": "B",
+      "phase": "beginning_scoring",
+      "control_established_or_maintained": true
+    },
+    {
+      "kind": "cleanup"
+    }
+  ],
+  "source": {
+    "url": "https://cmsassets.rgpub.io/sanity/files/dsfx7636/news_live/5c7946f7c3b8c6e0faff85ab6dadc6d2e721ea94.pdf",
+    "rules": [
+      "315.2.b.2",
+      "471.1",
+      "471.2",
+      "472",
+      "473.1.a.1",
+      "473.1.b.1",
+      "474",
+      "487.3",
+      "487.4",
+      "487.6"
+    ],
+    "document_date": "2026-10-09",
+    "effective": "2026-10-16",
+    "reviewed_pdf_pages_1based": [
+      38,
+      105,
+      106,
+      111
+    ]
+  },
+  "status": "conditional_scoring_checked; editorial candidate; no full replay or card effects validated",
+  "allowed_claims": [
+    "In a 1v1 duel the target is eight points.",
+    "At seven, the stated sole conquer gives a draw rather than the winning point if the other battlefield has not been scored that turn.",
+    "Holding at the next scoring step can give the final point.",
+    "Under the explicit premises, the calculated result is 7–8."
+  ],
+  "prohibited_claims": [
+    "Specific card plays, deck legality, forced loss, optimal alternate move, verified reachability or full-game replay.",
+    "A real tournament recording or a random simulated match."
+  ],
+  "result": {
+    "status": "conditional_scoring_checked",
+    "scope": "1v1 scoring arithmetic only; asserted controls, no card effects, no legal deck or full replay certified",
+    "scores": {
+      "Nico": 7,
+      "June": 8
+    },
+    "winner": "June",
+    "trace": [
+      {
+        "kind": "conquer",
+        "player": "Nico",
+        "field": "A",
+        "points_gained": 0,
+        "cards_drawn": 1,
+        "scores": {
+          "Nico": 7,
+          "June": 7
+        },
+        "scored": [
+          "A"
+        ]
+      },
+      {
+        "kind": "cleanup",
+        "scores": {
+          "Nico": 7,
+          "June": 7
+        },
+        "winner": null
+      },
+      {
+        "kind": "next_scoring_step",
+        "player": "June",
+        "scope": "asserted boundary; earlier actions not replayed"
+      },
+      {
+        "kind": "hold",
+        "player": "June",
+        "field": "B",
+        "points_gained": 1,
+        "cards_drawn": 0,
+        "scores": {
+          "Nico": 7,
+          "June": 8
+        },
+        "scored": [
+          "B"
+        ]
+      },
+      {
+        "kind": "cleanup",
+        "scores": {
+          "Nico": 7,
+          "June": 8
+        },
+        "winner": "June"
+      }
+    ],
+    "full_replay": false
+  }
+}

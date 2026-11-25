@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-25",
+  "executed": true,
+  "execution_environment": "JavaScript execution in current session, function identical to exported scoring_check.js; no Node CI run",
+  "passed": 10,
+  "tests": [
+    "last conquer draws, next hold wins",
+    "second battlefield allows final conquer",
+    "ordinary conquer scores",
+    "duplicate field rejected",
+    "hold in wrong phase rejected",
+    "unresolved effects rejected",
+    "unsupported 2v2 rejected",
+    "no actions after cleanup victory",
+    "unknown battlefield rejected",
+    "no draw availability rejected"
+  ],
+  "result": {
+    "status": "conditional_scoring_checked",
+    "scope": "1v1 scoring arithmetic only; asserted controls, no card effects, no legal deck or full replay certified",
+    "scores": {
+      "Nico": 7,
+      "June": 8
+    },
+    "winner": "June",
+    "trace": [
+      {
+        "kind": "conquer",
+        "player": "Nico",
+        "field": "A",
+        "points_gained": 0,
+        "cards_drawn": 1,
+        "scores": {
+          "Nico": 7,
+          "June": 7
+        },
+        "scored": [
+          "A"
+        ]
+      },
+      {
+        "kind": "cleanup",
+        "scores": {
+          "Nico": 7,
+          "June": 7
+        },
+        "winner": null
+      },
+      {
+        "kind": "next_scoring_step",
+        "player": "June",
+        "scope": "asserted boundary; earlier actions not replayed"
+      },
+      {
+        "kind": "hold",
+        "player": "June",
+        "field": "B",
+        "points_gained": 1,
+        "cards_drawn": 0,
+        "scores": {
+          "Nico": 7,
+          "June": 8
+        },
+        "scored": [
+          "B"
+        ]
+      },
+      {
+        "kind": "cleanup",
+        "scores": {
+          "Nico": 7,
+          "June": 8
+        },
+        "winner": "June"
+      }
+    ],
+    "full_replay": false
+  },
+  "limitations": "conditional scorer only; no card engine, turn replay, full deck or independent judge review"
+}

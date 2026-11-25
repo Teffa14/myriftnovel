@@ -1,10 +1,12 @@
 # Acceptance gates v1.0
 G1 corpus documented: evidence 4 works, 190 candidate entries, 75 blocks; not all references semantically certified. Sufficient for starting original writing, not proof of literary quality.
 G2 story foundation: canon v1.0 exists; delegated decisions fixed; check cross-references, chronology, finance and agency. No external reader approval yet.
-G3 competitive data and replay: required complete edition snapshot with SHA, official rules and errata, bans by format/date/region, card identity mapping, unknowns flagged, legal deck and replay tests. BLOCKED until imported and reconciled; not certify based on importer alone.
-G4 pilot: 20 drafted and reviewed, all scenes have traceable state change, zero unresolved rule/continuity errors, no cloned source prose, every match reproducible. NOT STARTED.
+G3-scene: verify each depicted technical claim at L0/L1/L2 scope per ../06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md. AI sources and constructs fictional play; no author logs or rule expertise required. G3-global remains incomplete and separately tracked; not a blanket production blocker. Conditional scoring evidence is not a full replay.
+G4 pilot: 20 drafted and reviewed, all scenes have traceable state change, zero unresolved rule/continuity errors, no cloned source prose, every depicted technical claim supported at its declared scope. NOT STARTED.
 G5 market/legal: rights review, title clearance, platform policies, consent-based panel, cohort retentions. BLOCKED / not tested. 
 Editorial rubric: coherence, originality, character agency, voice, pacing, tactical correctness, emotional consequence, continuity, accessibility, commercial hook. Score only with evidence and documented defects; threshold aspirational 9 average/no criterion <8, zero critical errors; reviewer and author distinct when feasible. 
 Automated checks: card database import count/identity/errata conflicts, foreign keys and integrity; chapter ledger date/currency, knowledge and version links; exact match log replay. No fake tests.
 
 G6 originality and recursive distillation — mandatory per approved chapter. Complete prior private archive and hash check; executed lexical comparison against all prior approved chapters; editorial semantic and short-phrase audit; zero unresolved material reuse; local documented exceptions; explicit approval; exact version distilled and registered; archive manifest verified. Gate must pass before next chapter. See ../02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md. Initial status: not started, 5 synthetic lexical checker tests passed; no manuscript reviewed.
+
+Mandatory competitive policy v2: 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md supersedes blanket full-replay requirements. G3-scene remains required for depicted rules; global coverage is independent. Do not ask the author for match logs or judge expertise. CH01 scoring case is conditional only; no canon outcome locked by this change.
