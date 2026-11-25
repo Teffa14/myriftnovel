@@ -1,0 +1,234 @@
+{
+  "record": {
+    "event": "RC Stuttgart",
+    "event_date": null,
+    "authors": "Kylin (asiptofu), self-attributed",
+    "team_size": 6,
+    "day_two": 6,
+    "riven_pilots": 4,
+    "wins": 32,
+    "losses": 9,
+    "draws": 7,
+    "total": 48,
+    "reported_win_percent": 78,
+    "decisive_rate": 0.7804878048780488,
+    "all_match_win_fraction": 0.6666666666666666,
+    "placements": [
+      4,
+      6,
+      31,
+      34
+    ],
+    "team_kill_reported": true,
+    "other_best_of_reported": "Akali",
+    "practice_hours_per_day_claim": 12,
+    "forecast": {
+      "Riven": 0.4,
+      "Kennen": 0.2,
+      "Kai'Sa": 0.2,
+      "other": 0.2
+    },
+    "observed_field_share": null,
+    "status": "source_self_report_not_corroborated"
+  },
+  "matchup": [
+    {
+      "profile_id": "FT-L48",
+      "opponent": "Riven, The Exile",
+      "source_lines": "484–549",
+      "assessment": "Technical mirror; no quantitative estimate",
+      "plan": "Balance early point access, engine sustainability and role changes.",
+      "counterplay": "Opponent may disrupt opener, break hold, threaten chosen or exploit overcommitment.",
+      "actual_match_count": null,
+      "verified_win_rate": null
+    },
+    {
+      "profile_id": "FT-L24",
+      "opponent": "Kai'Sa, Daughter of the Void",
+      "source_lines": "550–573",
+      "assessment": "Approximately even overall in author's opinion; unfavorable G1 and improved post-board",
+      "plan": "Protected slower development, raise removal thresholds and preserve recovery.",
+      "counterplay": "Opponent can advance score, combine removal or force inefficient investment.",
+      "actual_match_count": null,
+      "verified_win_rate": null
+    },
+    {
+      "profile_id": "FT-L25",
+      "opponent": "Kennen, Heart of the Tempest",
+      "source_lines": "574–595",
+      "assessment": "Even to slightly favorable in author's opinion, conditional on historical early threat",
+      "plan": "Develop safely, compare wide and tall positioning, prioritize relevant gear interaction.",
+      "counterplay": "Opponent may deny early access, pressure several bodies or remove engine.",
+      "actual_match_count": null,
+      "verified_win_rate": null
+    }
+  ],
+  "branches": [
+    {
+      "id": "RIV-BR01",
+      "source_lines": "494–503",
+      "phase": "Mirror on play",
+      "premise": "Opening body and modifier",
+      "proposal": "Compare protected chosen deployment with alternative engine.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR02",
+      "source_lines": "494–503",
+      "phase": "Mirror on play",
+      "premise": "Opening disrupted or missed",
+      "proposal": "Compare exposing chosen against another value source.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR03",
+      "source_lines": "494–503",
+      "phase": "Historical mirror",
+      "premise": "Dais selected by rival",
+      "proposal": "Historical repeat-entry opportunity; banned field, no present use.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR04",
+      "source_lines": "504–513",
+      "phase": "Mirror on draw",
+      "premise": "Body plus Gust",
+      "proposal": "Compare tempo reversal and opposing response.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR05",
+      "source_lines": "504–513",
+      "phase": "Mirror on draw",
+      "premise": "Accelerated engine instead",
+      "proposal": "Compare trade with retaining engine.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR06",
+      "source_lines": "504–513",
+      "phase": "Mirror on draw",
+      "premise": "Ordinary body only or miss",
+      "proposal": "Slow pace when viable and preserve recovery.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR07",
+      "source_lines": "514–527",
+      "phase": "Mirror middle",
+      "premise": "Ahead",
+      "proposal": "Compare low-commitment score with denying rival value.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR08",
+      "source_lines": "514–527",
+      "phase": "Mirror middle",
+      "premise": "Behind with engine",
+      "proposal": "Compare sustainable position against potential wipe.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR09",
+      "source_lines": "514–527",
+      "phase": "Mirror middle",
+      "premise": "No engine",
+      "proposal": "Compare early pressure and longer-term depletion.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR10",
+      "source_lines": "528–549",
+      "phase": "Mirror close",
+      "premise": "Wide board or closer",
+      "proposal": "Compare equipment order, stranded investment and opposing defense.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR11",
+      "source_lines": "550–573",
+      "phase": "Kai'Sa",
+      "premise": "Removal threat",
+      "proposal": "Compare protected later development against lost tempo.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR12",
+      "source_lines": "550–573",
+      "phase": "Kai'Sa",
+      "premise": "Potential board wipe",
+      "proposal": "Retain viable recovery option if clock allows.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR13",
+      "source_lines": "574–595",
+      "phase": "Kennen",
+      "premise": "Behind",
+      "proposal": "Compare concentrated defense and distributed bodies.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    },
+    {
+      "id": "RIV-BR14",
+      "source_lines": "574–595",
+      "phase": "Kennen",
+      "premise": "Ahead",
+      "proposal": "Avoid gratuitous commitment and seek verified scoring route.",
+      "status": "untested_conditional",
+      "proof": "Dated effective text; actual legal state, visibility, payment, targets, timing, rival response and scoring."
+    }
+  ],
+  "guards": [
+    {
+      "source_lines": "122–135",
+      "guard": "Probable Broken Blade chosen identity; banned in snapshot."
+    },
+    {
+      "source_lines": "108–117,198–209,386–397,456",
+      "guard": "Star Spring, Herder and Hourglass historical only."
+    },
+    {
+      "source_lines": "104–117,494–513,550–595",
+      "guard": "Dais, Obelisk, Nocturne, Brynhir and Aurora historical references; confirm identities."
+    },
+    {
+      "source_lines": "504–513",
+      "guard": "Approximately 60% opening access is source estimate; no specified sampling model."
+    },
+    {
+      "source_lines": "1–42",
+      "guard": "78% excludes draws; unverified self-report."
+    },
+    {
+      "source_lines": "45–75,550–573",
+      "guard": "Seven incoming cards versus Kai'Sa claimed; exact swaps absent."
+    },
+    {
+      "source_lines": "428–455",
+      "guard": "Catalog Offer type Gear and Hush blank; effective behavior not confirmed."
+    },
+    {
+      "source_lines": "45–75",
+      "guard": "Slow-play comment is opinion, not acceptable conduct; never endorse stalling."
+    },
+    {
+      "source_lines": "108–117,238–251,372–385,528–549",
+      "guard": "Specific discounts, trigger order, equipment and scoring require official dated proof."
+    }
+  ],
+  "sideboard_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT9dJzHgGNSK59ETHb5pK4zCJ6fQcHgXf3UTppcCUfggsq6LLHYXAmRXh7RWrYC7uwX1UGJm0fFpKYm/pubhtml",
+  "sideboard_sheet_retrieved": false
+}

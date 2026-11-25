@@ -22,3 +22,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## VEX — collaborative deck-testing dialogue
 [VEX specialist guide](../REFERENCE_LIBRARY/works/VEX/ANALYSIS.md) offers abstract social functions: two pilots weighing pet cards, cost, risk, local opponents and changing views after tests. Use independent original fictional speakers and concrete evidence; never reproduce their distinctive language or attribute their self-reported tournament results to invented characters. Budget discussion is historical European source context, not local price proof.
+
+## RIV — team preparation and event fatigue
+[RIV analysis](../REFERENCE_LIBRARY/works/RIV/ANALYSIS.md) supports original scenes about testing allocation, slot disagreements, cognitive load and teammate rivalry. Distinguish actual observed facts from self-reported claims. No copying real biographies or distinctive language.

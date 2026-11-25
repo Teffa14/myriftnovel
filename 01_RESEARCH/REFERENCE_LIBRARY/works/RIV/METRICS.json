@@ -1,0 +1,154 @@
+{
+  "source": "Kylin Riven guide (RC Stuttgart; undated)",
+  "ingested": "2026-11-25",
+  "sha256": "c78b0b84f79cfbf8b292329c565b58b0f3f813806d72755dc17ec5d8a6432fcc",
+  "bytes": 41352,
+  "lines": 595,
+  "word_tokens": 7283,
+  "distinct_lowercase_forms": 1296,
+  "blocks": 163,
+  "markdown_link_occurrences": 34,
+  "method": "Python UTF-8-sig, Unicode alphabetic tokens with internal apostrophe/hyphen; headings and links included; lowercase forms; blank-line-delimited blocks.",
+  "units": [
+    {
+      "id": "RIV-U01",
+      "start": 1,
+      "end": 42,
+      "tokens": 302,
+      "topic": "Team and event"
+    },
+    {
+      "id": "RIV-U02",
+      "start": 43,
+      "end": 75,
+      "tokens": 605,
+      "topic": "Deck philosophy"
+    },
+    {
+      "id": "RIV-U03",
+      "start": 76,
+      "end": 87,
+      "tokens": 63,
+      "topic": "Linked image"
+    },
+    {
+      "id": "RIV-U04",
+      "start": 88,
+      "end": 95,
+      "tokens": 72,
+      "topic": "Rune allocation"
+    },
+    {
+      "id": "RIV-U05",
+      "start": 96,
+      "end": 117,
+      "tokens": 468,
+      "topic": "Battlefield choices"
+    },
+    {
+      "id": "RIV-U06",
+      "start": 118,
+      "end": 251,
+      "tokens": 1572,
+      "topic": "Units and engine"
+    },
+    {
+      "id": "RIV-U07",
+      "start": 252,
+      "end": 369,
+      "tokens": 1032,
+      "topic": "Spell allocation"
+    },
+    {
+      "id": "RIV-U08",
+      "start": 370,
+      "end": 397,
+      "tokens": 338,
+      "topic": "Equipment"
+    },
+    {
+      "id": "RIV-U09",
+      "start": 398,
+      "end": 473,
+      "tokens": 401,
+      "topic": "Sideboard roles"
+    },
+    {
+      "id": "RIV-U10",
+      "start": 474,
+      "end": 481,
+      "tokens": 50,
+      "topic": "Linked sideboard sheet"
+    },
+    {
+      "id": "RIV-U11",
+      "start": 482,
+      "end": 489,
+      "tokens": 88,
+      "topic": "Mirror premise"
+    },
+    {
+      "id": "RIV-U12",
+      "start": 490,
+      "end": 513,
+      "tokens": 566,
+      "topic": "Mirror opening"
+    },
+    {
+      "id": "RIV-U13",
+      "start": 514,
+      "end": 527,
+      "tokens": 474,
+      "topic": "Mirror middle"
+    },
+    {
+      "id": "RIV-U14",
+      "start": 528,
+      "end": 549,
+      "tokens": 363,
+      "topic": "Mirror finish"
+    },
+    {
+      "id": "RIV-U15",
+      "start": 550,
+      "end": 573,
+      "tokens": 392,
+      "topic": "Kai'Sa"
+    },
+    {
+      "id": "RIV-U16",
+      "start": 574,
+      "end": 595,
+      "tokens": 497,
+      "topic": "Kennen"
+    }
+  ],
+  "counts": {
+    "card_contexts": 28,
+    "matchups": 3,
+    "branches": 14,
+    "mechanisms": 40,
+    "exercises": 6,
+    "guards": 9,
+    "catalog_rows": 1408,
+    "catalog_columns": 21,
+    "ban_instances": 8
+  },
+  "checks": [
+    "16 units, 7283 tokens",
+    "contiguous 595 lines",
+    "28 contexts",
+    "39 plus chosen",
+    "19 units 15 spells 5 gear",
+    "10 side 3 fields 12 runes",
+    "8 early units",
+    "5 buffs 3 counters",
+    "8 banned instances",
+    "3 FTG joins",
+    "48 matches",
+    "78% decisive",
+    "forecast sum",
+    "40 distinct mechanism IDs",
+    "14 branches"
+  ]
+}

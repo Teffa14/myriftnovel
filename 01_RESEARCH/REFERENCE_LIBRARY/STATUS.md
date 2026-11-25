@@ -83,3 +83,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## VEX — specialist Vex guide (2026-11-25)
 [Research index](works/VEX/INDEX.md): 21,243 tokens, 14 units, 53 flex decisions, 37 role groups, 31 paired evaluations, 42 candidate mechanisms, six exercises, 58 FTG-linked matchup opinions, three named inventories, five budget builds and five provisional Radiance variants. Two historical lists contain banned Hourglass; Sneaky counts anomalous. No full legal list or measured win rate certified. No canon change.
+
+## RIV — Stuttgart team guide (2026-11-25)
+[Research index](works/RIV/INDEX.md): 7,283 tokens, 16 units, 28 card contexts, three matchups, 14 conditional branches, 40 candidate mechanisms, six exercises. Self-reported 32–9–7; 78.05% decisive and 66.67% of all matches. Historical list has eight banned instances; no current legal list or replay certified. No canon change.

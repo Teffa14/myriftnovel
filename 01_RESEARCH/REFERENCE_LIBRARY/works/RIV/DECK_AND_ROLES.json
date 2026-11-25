@@ -1,0 +1,436 @@
+{
+  "legend": {
+    "name": "Riven, The Exile",
+    "profile_id": "FT-L48",
+    "catalog_candidates": [
+      "rad-149-167",
+      "rad-173-167"
+    ],
+    "printing_unverified": true
+  },
+  "cards": [
+    {
+      "source_line": 122,
+      "name": "Riven, Broken Blade",
+      "role": "chosen",
+      "count": 1,
+      "catalog_candidates": [
+        "rad-043-167",
+        "rad-043a-167"
+      ],
+      "snapshot_banned": true,
+      "reason": "Early mobility and disruption; source shorthand Riven, Broken, probable identity.",
+      "identity_status": "probable_shorthand",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 136,
+      "name": "Bedeviling Stranger",
+      "role": "unit",
+      "count": 3,
+      "catalog_candidates": [
+        "rad-107-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Early body and concealed conditional displacement.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 148,
+      "name": "Tideturner",
+      "role": "unit",
+      "count": 3,
+      "catalog_candidates": [
+        "ogn-199-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Flexible spatial exchange, preserve movement utility.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 160,
+      "name": "Traveling Merchant",
+      "role": "unit",
+      "count": 1,
+      "catalog_candidates": [
+        "ogn-185-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Filter weak hands and conditional draw access.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 172,
+      "name": "Scuttle Crab",
+      "role": "unit",
+      "count": 1,
+      "catalog_candidates": [
+        "unl-053-219"
+      ],
+      "snapshot_banned": false,
+      "reason": "Information simplifies execution under fatigue, at a board cost.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 186,
+      "name": "Reckless Innovator",
+      "role": "unit",
+      "count": 2,
+      "catalog_candidates": [
+        "rad-105-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Resource/card engine and recovery body.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 198,
+      "name": "Stellacorn Herder",
+      "role": "unit",
+      "count": 3,
+      "catalog_candidates": [
+        "sfd-048-221"
+      ],
+      "snapshot_banned": true,
+      "reason": "Historical repeated draw engine; protect first copy.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 210,
+      "name": "Blitzcrank, Impassive",
+      "role": "unit",
+      "count": 2,
+      "catalog_candidates": [
+        "ogn-067-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Disruption plus development; compare remain versus retreat.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 224,
+      "name": "Astral Heron",
+      "role": "unit",
+      "count": 3,
+      "catalog_candidates": [
+        "ven-044-166"
+      ],
+      "snapshot_banned": false,
+      "reason": "Convert card access into playable resources.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 238,
+      "name": "Baron Nashor",
+      "role": "unit",
+      "count": 1,
+      "catalog_candidates": [
+        "unl-147-219",
+        "unl-147a-219",
+        "unl-238-219"
+      ],
+      "snapshot_banned": false,
+      "reason": "Public-list closer changes opponent decisions; abandon plan if board insufficient.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 254,
+      "name": "Gust",
+      "role": "spell",
+      "count": 2,
+      "catalog_candidates": [
+        "ogn-169-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Early tempo reversal or later answer; preserve fuel.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 266,
+      "name": "Discipline",
+      "role": "spell",
+      "count": 3,
+      "catalog_candidates": [
+        "ogn-058-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Flexible buff and card access.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 280,
+      "name": "Battle Preparations",
+      "role": "spell",
+      "count": 2,
+      "catalog_candidates": [
+        "rad-032-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Conditional early modifier, compare gear dependence.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 292,
+      "name": "Defy",
+      "role": "spell",
+      "count": 2,
+      "catalog_candidates": [
+        "ogn-045-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Answer relevant eligible small spells.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 306,
+      "name": "Not So Fast",
+      "role": "spell",
+      "count": 1,
+      "catalog_candidates": [
+        "sfd-045-221"
+      ],
+      "snapshot_banned": false,
+      "reason": "Narrow response with alternate coverage.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 320,
+      "name": "Charm",
+      "role": "spell",
+      "count": 1,
+      "catalog_candidates": [
+        "ogn-043-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Alternate disruption role, different thresholds and timing.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 332,
+      "name": "Switcheroo",
+      "role": "spell",
+      "count": 2,
+      "catalog_candidates": [
+        "sfd-145-221"
+      ],
+      "snapshot_banned": false,
+      "reason": "Relative Might swing on offense or defense.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 346,
+      "name": "Rebuke",
+      "role": "spell",
+      "count": 1,
+      "catalog_candidates": [
+        "ogn-172-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Displacement and recovery from behind.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 358,
+      "name": "Star-Crossed",
+      "role": "spell",
+      "count": 1,
+      "catalog_candidates": [
+        "unl-128-219"
+      ],
+      "snapshot_banned": false,
+      "reason": "Hedge with broader timing/location utility; low reported use.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 372,
+      "name": "Blade of the Exile",
+      "role": "gear",
+      "count": 3,
+      "catalog_candidates": [
+        "rad-150-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Repeated investment and alternate payment opportunity cost.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 386,
+      "name": "Zhonya's Hourglass",
+      "role": "gear",
+      "count": 2,
+      "catalog_candidates": [
+        "ogn-077-298"
+      ],
+      "snapshot_banned": true,
+      "reason": "Historical protection and sequencing.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 400,
+      "name": "Decree of Focus",
+      "role": "side",
+      "count": 2,
+      "catalog_candidates": [
+        "ven-040-166"
+      ],
+      "snapshot_banned": false,
+      "reason": "Modifier for red threat thresholds.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 414,
+      "name": "Vex, Apathetic",
+      "role": "side",
+      "count": 2,
+      "catalog_candidates": [
+        "unl-150-219",
+        "unl-150a-219"
+      ],
+      "snapshot_banned": false,
+      "reason": "Alternate defensive restrictions.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 428,
+      "name": "An Offer You Can't Refuse",
+      "role": "side",
+      "count": 2,
+      "catalog_candidates": [
+        "rad-101-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Selective gear hate; source shorthand omits An.",
+      "identity_status": "normalized_shorthand",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 440,
+      "name": "Hush",
+      "role": "side",
+      "count": 1,
+      "catalog_candidates": [
+        "rad-041-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Answer coverage for larger eligible spells.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 456,
+      "name": "Zhonya's Hourglass",
+      "role": "side",
+      "count": 1,
+      "catalog_candidates": [
+        "ogn-077-298"
+      ],
+      "snapshot_banned": true,
+      "reason": "Historical extra protection.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 458,
+      "name": "Reckless Innovator",
+      "role": "side",
+      "count": 1,
+      "catalog_candidates": [
+        "rad-105-167"
+      ],
+      "snapshot_banned": false,
+      "reason": "Extra engine/recovery density.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    },
+    {
+      "source_line": 460,
+      "name": "Rebuke",
+      "role": "side",
+      "count": 1,
+      "catalog_candidates": [
+        "ogn-172-298"
+      ],
+      "snapshot_banned": false,
+      "reason": "Extra displacement.",
+      "identity_status": "catalog_name_candidate",
+      "effective_text_verified": false
+    }
+  ],
+  "fields": [
+    {
+      "source_lines": "100–103",
+      "name": "Hunters' Circle",
+      "catalog_candidates": [
+        "rad-163-167"
+      ],
+      "reason": "Early access and discount; compare opponent benefit.",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "104–107",
+      "name": "Rakelstake",
+      "catalog_candidates": [
+        "rad-165-167"
+      ],
+      "reason": "Lower-variance draw option relative to historical repeat-entry field.",
+      "snapshot_banned": false
+    },
+    {
+      "source_lines": "108–117",
+      "name": "Star Spring",
+      "catalog_candidates": [
+        "unl-215-219"
+      ],
+      "reason": "Historical movement and recovery; optional trigger risks.",
+      "snapshot_banned": true
+    }
+  ],
+  "runes": {
+    "Calm": 6,
+    "Chaos": 6
+  },
+  "counts": {
+    "chosen": 1,
+    "units": 19,
+    "spells": 15,
+    "gear": 5,
+    "side": 10,
+    "battlefields": 3,
+    "runes": 12,
+    "main_excluding_chosen": 39,
+    "main_including_chosen": 40
+  },
+  "source_ratios": {
+    "early_units": 8,
+    "hidden": 10,
+    "buffs": 5,
+    "counters": 3,
+    "chaos_swing_spells": 4,
+    "note": "Overlapping source classifications; Hidden count not independently verified."
+  },
+  "banned_instances": 8,
+  "era": "historical pre-November-23 ban configuration; exact event date not supplied",
+  "legal_list_certified": false
+}

@@ -34,3 +34,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## VEX — specialist hold and resource case
 [VEX specialist research](../../01_RESEARCH/REFERENCE_LIBRARY/works/VEX/INDEX.md) complements FTG FT-L55 and EKK with defensive sequencing, resource bottlenecks, variant dependencies, card exclusions, budget roles and matchup priors. Use ARCHETYPES_AND_BUILDS.json, CARD_DECISIONS.json and MATCHUPS_AND_BANS.json; all assessments remain dated/undated pilot opinions. Verify official mechanics, legal deck and scope; historical lists have banned Hourglass and Sneaky inventory has 41 combined main and 9 side. Do not use estimates as win probabilities or fix list by invention.
+
+## RIV — historical Riven specialist case
+[RIV research](../../01_RESEARCH/REFERENCE_LIBRARY/works/RIV/INDEX.md) supplements FTG FT-L48 with team testing, forecast allocation, play/draw asymmetry and recovery. Preserve pre-ban examples as historical; current official text and scoped legality required. Reported win rate excludes draws; exact swaps and matchup denominators absent. Use NLM/NLD for alternate decisions.

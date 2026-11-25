@@ -1,0 +1,402 @@
+[
+  {
+    "id": "RIV-M01",
+    "level": "L4",
+    "name": "Forecast allocation",
+    "source_lines": "43–75",
+    "structure": "Allocate limited testing by expected field; reserve capacity for forecast error.",
+    "acceptance": "Compare forecast with observed shares; observed shares absent.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M02",
+    "level": "L4",
+    "name": "Controlled team practice",
+    "source_lines": "43–75",
+    "structure": "Repeat comparable situations while varying pilot, play order and location.",
+    "acceptance": "Record conditions and failures; time spent is not causal proof.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M03",
+    "level": "L4",
+    "name": "Core and flex budget",
+    "source_lines": "43–75",
+    "structure": "Freeze necessary roles before choosing marginal slots.",
+    "acceptance": "Verify alternative legal inventories and changed dependencies.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M04",
+    "level": "L4",
+    "name": "Opening density versus late utility",
+    "source_lines": "43–75,172–185",
+    "structure": "Balance access to early actions with late card quality.",
+    "acceptance": "Define qualifying draws and actual sampling before calculating.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M05",
+    "level": "L4",
+    "name": "Answer coverage",
+    "source_lines": "292–319",
+    "structure": "Choose counters by relevant eligible threats.",
+    "acceptance": "Compare target frequency and resource cost.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M06",
+    "level": "L4",
+    "name": "Sideboard opportunity cost",
+    "source_lines": "43–75,428–439",
+    "structure": "Allocate scarce slots to expected improvement across the field.",
+    "acceptance": "Vary estimates; no implied guaranteed defeat or endorsement of slow play.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M07",
+    "level": "L4",
+    "name": "Open-list deterrence",
+    "source_lines": "238–251,358–369",
+    "structure": "Known possible closer constrains opposing decisions without being in hand.",
+    "acceptance": "Separate public list from hidden hand.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M08",
+    "level": "L3",
+    "name": "Color timing asymmetry",
+    "source_lines": "88–95",
+    "structure": "Evaluate early color access separately from late costs.",
+    "acceptance": "Track actual rune availability and discount eligibility.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M09",
+    "level": "L4",
+    "name": "Conditional location ordering",
+    "source_lines": "96–117",
+    "structure": "Choose battlefield by play order and opponent benefit.",
+    "acceptance": "Verify legal selection and exclude banned choices.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M10",
+    "level": "L3",
+    "name": "Optional trigger restraint",
+    "source_lines": "108–117,198–209",
+    "structure": "Compare benefit with exposure to opposing response.",
+    "acceptance": "Verify optionality and timing under dated rules.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M11",
+    "level": "L3",
+    "name": "Dual-purpose concealed asset",
+    "source_lines": "136–159",
+    "structure": "Compare early development with later hidden utility.",
+    "acceptance": "Verify reveal conditions and legal actions.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M12",
+    "level": "L4",
+    "name": "Information as execution aid",
+    "source_lines": "172–185",
+    "structure": "Value information that reduces cognitive burden during long events.",
+    "acceptance": "Compare actual permitted information and consequence.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M13",
+    "level": "L4",
+    "name": "First-engine marginal value",
+    "source_lines": "186–209",
+    "structure": "Seek initial engine while avoiding redundant later copies.",
+    "acceptance": "Check dependency and legal alternatives.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M14",
+    "level": "L3",
+    "name": "Reserve recovery body",
+    "source_lines": "186–197,550–573",
+    "structure": "Keep viable return path when committing all bodies risks wipe.",
+    "acceptance": "Verify actual recovery and opponent clock.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M15",
+    "level": "L3",
+    "name": "Remain or retreat",
+    "source_lines": "210–223",
+    "structure": "Compare defensive presence with replay opportunity.",
+    "acceptance": "Check legal movement and cost.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M16",
+    "level": "L3",
+    "name": "Resource conversion bridge",
+    "source_lines": "224–237",
+    "structure": "Link available cards with payment capacity.",
+    "acceptance": "Do not treat extra cards as free plays.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M17",
+    "level": "L4",
+    "name": "Score deficit tolerance",
+    "source_lines": "224–237,514–527",
+    "structure": "Accept temporary deficit only with viable recovery horizon.",
+    "acceptance": "Compare opposing scoring rate and failure.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M18",
+    "level": "L4",
+    "name": "Abandon closer",
+    "source_lines": "238–251",
+    "structure": "Revise intended finish when prerequisites disappear.",
+    "acceptance": "Avoid sunk-cost commitment; check alternate route.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M19",
+    "level": "L4",
+    "name": "Interaction now versus later",
+    "source_lines": "254–265,574–595",
+    "structure": "Compare small early swing against later high-value answer.",
+    "acceptance": "Include actual opportunity cost.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M20",
+    "level": "L4",
+    "name": "Conditional synergy consistency",
+    "source_lines": "280–291",
+    "structure": "Compare high ceiling with dependable baseline.",
+    "acceptance": "Test enabler presence and failure cases.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M21",
+    "level": "L4",
+    "name": "Role replacement",
+    "source_lines": "320–331,346–369",
+    "structure": "Compare similar effects by timing, coverage and cost.",
+    "acceptance": "Test relevant opposing threats, not just nominal power.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M22",
+    "level": "L3",
+    "name": "Relative Might swing",
+    "source_lines": "332–345",
+    "structure": "Assess exchange or modifier in actual target state.",
+    "acceptance": "Verify exact text and counterplay.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M23",
+    "level": "L3",
+    "name": "Equipment payment tradeoff",
+    "source_lines": "372–385",
+    "structure": "Compare exhausting body with spending resource.",
+    "acceptance": "Preserve needed attacker and check legal readiness.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M24",
+    "level": "L4",
+    "name": "Conditional sideboard density",
+    "source_lines": "456–460",
+    "structure": "Adjust copies by location, play order and opponent.",
+    "acceptance": "Require actual incoming/outgoing inventory.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M25",
+    "level": "L4",
+    "name": "Opening risk calibration",
+    "source_lines": "494–503",
+    "structure": "Compare exposure to potential answer with slower engine development.",
+    "acceptance": "Avoid certainty about unknown opposing hand.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M26",
+    "level": "L4",
+    "name": "Early miss recovery",
+    "source_lines": "504–513",
+    "structure": "Choose viable fallback instead of forcing ideal sequence.",
+    "acceptance": "No deterministic loss from a missed opening.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M27",
+    "level": "L4",
+    "name": "Ahead-state role",
+    "source_lines": "514–527",
+    "structure": "Compare low-commitment score with denying rival engine.",
+    "acceptance": "Account for opponent alternatives.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M28",
+    "level": "L4",
+    "name": "Behind-state stabilization",
+    "source_lines": "514–527",
+    "structure": "Build sustainable defense instead of chasing every point.",
+    "acceptance": "Reject position vulnerable to plausible full wipe.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M29",
+    "level": "L4",
+    "name": "Threat with lawful exit",
+    "source_lines": "514–527",
+    "structure": "A provisional position may demand resources while retaining retreat.",
+    "acceptance": "Verify escape; historical Star Spring banned.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M30",
+    "level": "L3",
+    "name": "Combat breakpoint allocation",
+    "source_lines": "514–527",
+    "structure": "Distribute bodies against plausible modifiers rather than printed totals.",
+    "acceptance": "Verify modifiers, timing and damage.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M31",
+    "level": "L4",
+    "name": "Delayed opposing development",
+    "source_lines": "514–527",
+    "structure": "Evaluate broken hold by resources it forced opponent to spend.",
+    "acceptance": "Show concrete opportunity forgone.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M32",
+    "level": "L3",
+    "name": "Ordered gear investment",
+    "source_lines": "528–549",
+    "structure": "Sequence attachments to preserve options and reduce exposure.",
+    "acceptance": "Check payment, readiness, location and legal targets.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M33",
+    "level": "L4",
+    "name": "Counter-closer defense",
+    "source_lines": "528–549",
+    "structure": "Change defensive spread against known possible finish.",
+    "acceptance": "Verify final-point rule and actual scoring route.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M34",
+    "level": "L4",
+    "name": "Removal-resource clustering",
+    "source_lines": "550–573",
+    "structure": "Force expensive interaction in a window unfavorable to opponent economy.",
+    "acceptance": "Verify rival trigger, costs and options.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M35",
+    "level": "L4",
+    "name": "Bounded combo risk",
+    "source_lines": "550–573",
+    "structure": "Balance caution about multi-piece threats against own tempo loss.",
+    "acceptance": "Do not assign odds without evidence.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M36",
+    "level": "L4",
+    "name": "Wide versus tall defense",
+    "source_lines": "574–595",
+    "structure": "Compare distribution by likely removal and combat allocation.",
+    "acceptance": "Verify concrete responses and alternatives.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M37",
+    "level": "L3",
+    "name": "Gear intervention timing",
+    "source_lines": "428–439,574–595",
+    "structure": "Compare removal before payoff with after it has accrued.",
+    "acceptance": "Confirm identity and exact timing.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M38",
+    "level": "L6",
+    "name": "Team disagreement",
+    "source_lines": "172–185,280–291",
+    "structure": "Specialists negotiate conflicting slot preferences and evidence.",
+    "acceptance": "Use independent fictional motives and original dialogue.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M39",
+    "level": "L6",
+    "name": "Tournament fatigue",
+    "source_lines": "172–185",
+    "structure": "Show decisions shaped by attention and execution load.",
+    "acceptance": "No medical claims or invented real-player psychology.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  },
+  {
+    "id": "RIV-M40",
+    "level": "L6",
+    "name": "Shared preparation, individual stakes",
+    "source_lines": "1–42",
+    "structure": "Teammates share knowledge yet compete when paired.",
+    "acceptance": "No copied biography, real pairings or phrasing.",
+    "status": "extracted_untested",
+    "overlap": "Compare NLM/NLD, EKK and VEX; counts not independent novelty."
+  }
+]
