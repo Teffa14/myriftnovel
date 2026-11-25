@@ -1,0 +1,336 @@
+{
+  "source": "Backpack Ezreal / plecaczek guide",
+  "author": "kubakulp and SpaghettiCode (self-attributed)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "90331db8774c7a0a5946d5e8cd8e9fe6598af06db7e7da9796f2231b41dc001d",
+  "bytes": 61581,
+  "lines": 1175,
+  "word_tokens": 10276,
+  "distinct_lowercase_forms": 1549,
+  "blocks": 298,
+  "image_placeholders": 41,
+  "method": "Python UTF-8-sig, splitlines, Unicode alphabetic tokens with optional internal apostrophe/hyphen; headings, URLs and UI labels included; lowercase types and blank-line blocks.",
+  "units": [
+    {
+      "id": "EZR-U01",
+      "start": 1,
+      "end": 18,
+      "tokens": 54
+    },
+    {
+      "id": "EZR-U02",
+      "start": 19,
+      "end": 29,
+      "tokens": 124
+    },
+    {
+      "id": "EZR-U03",
+      "start": 30,
+      "end": 61,
+      "tokens": 188
+    },
+    {
+      "id": "EZR-U04",
+      "start": 62,
+      "end": 83,
+      "tokens": 374
+    },
+    {
+      "id": "EZR-U05",
+      "start": 84,
+      "end": 99,
+      "tokens": 46
+    },
+    {
+      "id": "EZR-U06",
+      "start": 100,
+      "end": 108,
+      "tokens": 89
+    },
+    {
+      "id": "EZR-U07",
+      "start": 109,
+      "end": 117,
+      "tokens": 69
+    },
+    {
+      "id": "EZR-U08",
+      "start": 118,
+      "end": 126,
+      "tokens": 66
+    },
+    {
+      "id": "EZR-U09",
+      "start": 127,
+      "end": 135,
+      "tokens": 49
+    },
+    {
+      "id": "EZR-U10",
+      "start": 136,
+      "end": 143,
+      "tokens": 51
+    },
+    {
+      "id": "EZR-U11",
+      "start": 144,
+      "end": 152,
+      "tokens": 55
+    },
+    {
+      "id": "EZR-U12",
+      "start": 153,
+      "end": 161,
+      "tokens": 75
+    },
+    {
+      "id": "EZR-U13",
+      "start": 162,
+      "end": 168,
+      "tokens": 42
+    },
+    {
+      "id": "EZR-U14",
+      "start": 169,
+      "end": 177,
+      "tokens": 100
+    },
+    {
+      "id": "EZR-U15",
+      "start": 178,
+      "end": 186,
+      "tokens": 36
+    },
+    {
+      "id": "EZR-U16",
+      "start": 187,
+      "end": 193,
+      "tokens": 45
+    },
+    {
+      "id": "EZR-U17",
+      "start": 194,
+      "end": 200,
+      "tokens": 28
+    },
+    {
+      "id": "EZR-U18",
+      "start": 201,
+      "end": 207,
+      "tokens": 29
+    },
+    {
+      "id": "EZR-U19",
+      "start": 208,
+      "end": 216,
+      "tokens": 84
+    },
+    {
+      "id": "EZR-U20",
+      "start": 217,
+      "end": 225,
+      "tokens": 39
+    },
+    {
+      "id": "EZR-U21",
+      "start": 226,
+      "end": 234,
+      "tokens": 59
+    },
+    {
+      "id": "EZR-U22",
+      "start": 235,
+      "end": 243,
+      "tokens": 81
+    },
+    {
+      "id": "EZR-U23",
+      "start": 244,
+      "end": 250,
+      "tokens": 81
+    },
+    {
+      "id": "EZR-U24",
+      "start": 251,
+      "end": 257,
+      "tokens": 39
+    },
+    {
+      "id": "EZR-U25",
+      "start": 258,
+      "end": 264,
+      "tokens": 85
+    },
+    {
+      "id": "EZR-U26",
+      "start": 265,
+      "end": 271,
+      "tokens": 24
+    },
+    {
+      "id": "EZR-U27",
+      "start": 272,
+      "end": 278,
+      "tokens": 26
+    },
+    {
+      "id": "EZR-U28",
+      "start": 279,
+      "end": 285,
+      "tokens": 42
+    },
+    {
+      "id": "EZR-U29",
+      "start": 286,
+      "end": 294,
+      "tokens": 66
+    },
+    {
+      "id": "EZR-U30",
+      "start": 295,
+      "end": 323,
+      "tokens": 167
+    },
+    {
+      "id": "EZR-U31",
+      "start": 324,
+      "end": 330,
+      "tokens": 117
+    },
+    {
+      "id": "EZR-U32",
+      "start": 331,
+      "end": 338,
+      "tokens": 109
+    },
+    {
+      "id": "EZR-U33",
+      "start": 339,
+      "end": 348,
+      "tokens": 125
+    },
+    {
+      "id": "EZR-U34",
+      "start": 349,
+      "end": 358,
+      "tokens": 139
+    },
+    {
+      "id": "EZR-U35",
+      "start": 359,
+      "end": 368,
+      "tokens": 100
+    },
+    {
+      "id": "EZR-U36",
+      "start": 369,
+      "end": 380,
+      "tokens": 125
+    },
+    {
+      "id": "EZR-U37",
+      "start": 381,
+      "end": 388,
+      "tokens": 99
+    },
+    {
+      "id": "EZR-U38",
+      "start": 389,
+      "end": 396,
+      "tokens": 80
+    },
+    {
+      "id": "EZR-U39",
+      "start": 397,
+      "end": 404,
+      "tokens": 69
+    },
+    {
+      "id": "EZR-U40",
+      "start": 405,
+      "end": 411,
+      "tokens": 41
+    },
+    {
+      "id": "EZR-U41",
+      "start": 412,
+      "end": 447,
+      "tokens": 847
+    },
+    {
+      "id": "EZR-U42",
+      "start": 448,
+      "end": 474,
+      "tokens": 364
+    },
+    {
+      "id": "EZR-U43",
+      "start": 475,
+      "end": 509,
+      "tokens": 429
+    },
+    {
+      "id": "EZR-U44",
+      "start": 510,
+      "end": 595,
+      "tokens": 855
+    },
+    {
+      "id": "EZR-U45",
+      "start": 596,
+      "end": 696,
+      "tokens": 879
+    },
+    {
+      "id": "EZR-U46",
+      "start": 697,
+      "end": 774,
+      "tokens": 1038
+    },
+    {
+      "id": "EZR-U47",
+      "start": 775,
+      "end": 1017,
+      "tokens": 1248
+    },
+    {
+      "id": "EZR-U48",
+      "start": 1018,
+      "end": 1091,
+      "tokens": 539
+    },
+    {
+      "id": "EZR-U49",
+      "start": 1092,
+      "end": 1150,
+      "tokens": 648
+    },
+    {
+      "id": "EZR-U50",
+      "start": 1151,
+      "end": 1175,
+      "tokens": 112
+    }
+  ],
+  "counts": {
+    "role_records": 24,
+    "field_references": 4,
+    "matchup_contexts": 6,
+    "sideboard_policies": 6,
+    "mechanisms": 46,
+    "exercises": 6,
+    "guards": 10
+  },
+  "checks": [
+    "50 contiguous units, 1175 lines, 10276 tokens",
+    "24 named role records",
+    "six matchup contexts",
+    "six unverified sideboard policies",
+    "eight historical ban flags",
+    "FTG candidates exist",
+    "46 unique mechanisms",
+    "six exercise links",
+    "unused source identifier"
+  ]
+}

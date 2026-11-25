@@ -1,0 +1,462 @@
+[
+  {
+    "id": "EZR-M01",
+    "level": "L4",
+    "source_lines": "30–61",
+    "name": "Versioned deck evolution",
+    "structure": "Retain earlier list hypotheses and changes across releases and bans.",
+    "acceptance": "Do not merge incompatible versions or self-reported records.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M02",
+    "level": "L4",
+    "source_lines": "62–83",
+    "name": "Complexity and preparation budget",
+    "structure": "Compare number of viable branches with available preparation time.",
+    "acceptance": "Test actual execution speed and errors; no slow play.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M03",
+    "level": "L4",
+    "source_lines": "62–83",
+    "name": "Time-limited decision threshold",
+    "structure": "Choose best identified legal line within reasonable tournament pace.",
+    "acceptance": "Respect official time and judge instructions; review later.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M04",
+    "level": "L4",
+    "source_lines": "72–83,412–447",
+    "name": "Score deficit tolerance",
+    "structure": "Concede early score only for credible later resource conversion.",
+    "acceptance": "Reject if opponent can close before recovery.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M05",
+    "level": "L4",
+    "source_lines": "75–83,502–507",
+    "name": "Multi-turn rune budget",
+    "structure": "Compare persistent expenditure, next-turn access and response reserve.",
+    "acceptance": "Verify exact Energy/Power and channel rules.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M06",
+    "level": "L4",
+    "source_lines": "100–108",
+    "name": "Deferred chosen development",
+    "structure": "Delay accessible champion when its payoff is not yet useful.",
+    "acceptance": "Check immediate alternative and actual cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M07",
+    "level": "L4",
+    "source_lines": "109–117,194–207",
+    "name": "Timing-based gear answer selection",
+    "structure": "Compare flexibility, target coverage and repeatability.",
+    "acceptance": "Verify action/reaction and target eligibility.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M08",
+    "level": "L4",
+    "source_lines": "118–126",
+    "name": "Displacement before payoff",
+    "structure": "Interrupt setup before its next conversion.",
+    "acceptance": "Check legal windows and opponent alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M09",
+    "level": "L4",
+    "source_lines": "127–143",
+    "name": "Selection versus raw access",
+    "structure": "Evaluate ability to find relevant option and actually use it.",
+    "acceptance": "Stacked Deck historical banned; no present legality inferred.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M10",
+    "level": "L4",
+    "source_lines": "144–161",
+    "name": "Multi-effect threshold removal",
+    "structure": "Combine size changes and damage to reach meaningful thresholds.",
+    "acceptance": "Verify duration, triggers and damage allocation.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M11",
+    "level": "L4",
+    "source_lines": "153–161",
+    "name": "Tag-specific coverage",
+    "structure": "Select modifiers according to actual tagged threats.",
+    "acceptance": "Verify effective text and tags.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M12",
+    "level": "L4",
+    "source_lines": "162–168",
+    "name": "Response tax versus resource gap",
+    "structure": "Exploit resource disparity through legal interaction.",
+    "acceptance": "Verify costs, eligibility and opposing response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M13",
+    "level": "L4",
+    "source_lines": "169–193",
+    "name": "Interdependent recurring engine",
+    "structure": "Track two assets whose reuse changes available resources.",
+    "acceptance": "Show finite resource ledger; no infinite loop assumed.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M14",
+    "level": "L4",
+    "source_lines": "169–177",
+    "name": "Expose replaceable asset first",
+    "structure": "When two engine pieces available, compare removal risk by replacement cost.",
+    "acceptance": "Rival can decline or target another asset.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M15",
+    "level": "L4",
+    "source_lines": "178–186",
+    "name": "Temporary body conversion",
+    "structure": "Compare repeatable token development with permanent costs.",
+    "acceptance": "Verify timing, token state and scoring.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M16",
+    "level": "L4",
+    "source_lines": "208–216",
+    "name": "Hand disruption across horizons",
+    "structure": "Evaluate repeated disruption by opponent's ability to use hand or trash.",
+    "acceptance": "No guaranteed discard count or lockout.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M17",
+    "level": "L4",
+    "source_lines": "217–234",
+    "name": "Replayed early interaction",
+    "structure": "Use reusable access to extend answer density without assuming extra copies.",
+    "acceptance": "Check zones, costs, eligible effects and remaining cards.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M18",
+    "level": "L4",
+    "source_lines": "226–243",
+    "name": "Own-body reuse versus development",
+    "structure": "Returning a useful body can preserve effect but costs board presence.",
+    "acceptance": "Compare replay time and resources.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M19",
+    "level": "L4",
+    "source_lines": "235–243",
+    "name": "Multi-role removal",
+    "structure": "Compare opposing displacement, friendly protection and reuse within one legal effect.",
+    "acceptance": "Verify targets, timing and actual resolution.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M20",
+    "level": "L4",
+    "source_lines": "244–250",
+    "name": "Deny immediate threat deployment",
+    "structure": "A positioned threat may restrict certain rival routes.",
+    "acceptance": "No blanket prevention of scoring or acceleration.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M21",
+    "level": "L4",
+    "source_lines": "258–264",
+    "name": "Narrow answer as body",
+    "structure": "Compare a specialized answer with its standalone development role.",
+    "acceptance": "Verify specific identity and alternative threats.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M22",
+    "level": "L4",
+    "source_lines": "279–294",
+    "name": "Top-end conversion",
+    "structure": "After stabilizing, deploy a threat that turns resource advantage into score.",
+    "acceptance": "Do not assume board clear or win.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M23",
+    "level": "L4",
+    "source_lines": "295–330",
+    "name": "Field-dependent resource taxation",
+    "structure": "Choose field by relative cost to each competitor and play order.",
+    "acceptance": "Heisho/Aspirant conflict; verify exact field and procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M24",
+    "level": "L4",
+    "source_lines": "339–358",
+    "name": "Duplicate asset congestion",
+    "structure": "Too many engine pieces can reduce later usable options.",
+    "acceptance": "Compare actual versions and measured utilization.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M25",
+    "level": "L4",
+    "source_lines": "349–368",
+    "name": "Answer the supporting package",
+    "structure": "Evaluate threat with protection, mobility and other dependencies.",
+    "acceptance": "Do not solve isolated large body while ignoring protection.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M26",
+    "level": "L4",
+    "source_lines": "369–411",
+    "name": "Disagreement and incomplete testing",
+    "structure": "Retain rejected or speculative slots with reasons and conditions for retest.",
+    "acceptance": "Unnamed images unresolved; no invented identities.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M27",
+    "level": "L4",
+    "source_lines": "414–447",
+    "name": "Resource exchange ledger",
+    "structure": "Track cards spent, bodies removed, cards drawn and future costs separately.",
+    "acceptance": "Avoid confusing net differential with literal trade ratio.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M28",
+    "level": "L4",
+    "source_lines": "414–447",
+    "name": "Independent rival pace adjustment",
+    "structure": "Opponent can accelerate without recklessly exhausting resources.",
+    "acceptance": "Compare disciplined pressure and alternative long game.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M29",
+    "level": "L4",
+    "source_lines": "434–447",
+    "name": "Multiple terminal strategies",
+    "structure": "Compare hand exhaustion, board denial, resource lead and score conversion.",
+    "acceptance": "None is victory itself until legal scoring completed.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M30",
+    "level": "L4",
+    "source_lines": "448–474",
+    "name": "Flexible opening access",
+    "structure": "Keep functional reactive opener even without ideal engine.",
+    "acceptance": "Check sampling, replacement and actual roles.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M31",
+    "level": "L4",
+    "source_lines": "448–474",
+    "name": "Scarce matchup-specific keep",
+    "structure": "Retain hard-to-replace answer when relevant and opening functional.",
+    "acceptance": "No claim recycled card can never return without rule proof.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M32",
+    "level": "L4",
+    "source_lines": "475–501",
+    "name": "Conditional opening policies",
+    "structure": "Select action by starting order, available engine and response needs.",
+    "acceptance": "No universal mandatory sequence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M33",
+    "level": "L4",
+    "source_lines": "492–501",
+    "name": "Sequence to retain response",
+    "structure": "Choose first removal to preserve later threshold modifier after rival acts.",
+    "acceptance": "Verify response windows and opponent independence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M34",
+    "level": "L4",
+    "source_lines": "502–507",
+    "name": "Stage hand and board pressure",
+    "structure": "Compare simultaneous depletion with staged development and next-turn removal.",
+    "acceptance": "Require survival and feasible follow-up.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M35",
+    "level": "L4",
+    "source_lines": "510–595",
+    "name": "Trash as rival resource",
+    "structure": "Discarding opponent's cards may assist an engine that uses trash.",
+    "acceptance": "Track actual access and legal reuse.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M36",
+    "level": "L4",
+    "source_lines": "510–595",
+    "name": "Remove repeatable payoff before expendable body",
+    "structure": "Compare future engine value against immediate decisive-score threat.",
+    "acceptance": "Allow full clear when clock requires.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M37",
+    "level": "L4",
+    "source_lines": "596–696",
+    "name": "Preserve protection-specific answer",
+    "structure": "Keep gear removal available for protected threat during critical contest.",
+    "acceptance": "Verify exact target and timing; historical banned examples.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M38",
+    "level": "L4",
+    "source_lines": "649–660",
+    "name": "Public resource inference",
+    "structure": "Use spent copies and visible resources to constrain possible responses.",
+    "acceptance": "Unknown list and later draws prevent certainty.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M39",
+    "level": "L4",
+    "source_lines": "697–774",
+    "name": "Pivot from attrition to board control",
+    "structure": "If rival replenishment invalidates exhaustion, change scoring route.",
+    "acceptance": "Verify prerequisites and rival alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M40",
+    "level": "L4",
+    "source_lines": "775–1017",
+    "name": "Ignore expiring threat when appropriate",
+    "structure": "Compare spending removal with allowing temporary threat to expire.",
+    "acceptance": "Check immediate scoring and legal consequences.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M41",
+    "level": "L4",
+    "source_lines": "775–1017",
+    "name": "Take safe score during stabilization",
+    "structure": "Convert available board into points when exposure is acceptable.",
+    "acceptance": "Check field cost and rival removal.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M42",
+    "level": "L3",
+    "source_lines": "998–1017",
+    "name": "Cost versus effect response timing",
+    "structure": "Distinguish payment at initiation from later resolution.",
+    "acceptance": "Official dated rules needed.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M43",
+    "level": "L4",
+    "source_lines": "1018–1091",
+    "name": "Avoid enabling opposing rewards",
+    "structure": "Select interaction that does not unnecessarily grant rival recurring payoff.",
+    "acceptance": "Verify exact Legend and effects.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M44",
+    "level": "L4",
+    "source_lines": "1092–1150",
+    "name": "Series-specific answer density",
+    "structure": "Adjust narrow gear responses after game one; conserve time lawfully.",
+    "acceptance": "No deliberate slow play or predetermined concession.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M45",
+    "level": "L6",
+    "source_lines": "62–83,475–482",
+    "name": "Practice under cognitive load",
+    "structure": "Use repeated drills and review actual choices to improve fluency.",
+    "acceptance": "Separate skill, variance and pace; no copied biography.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  },
+  {
+    "id": "EZR-M46",
+    "level": "L6",
+    "source_lines": "19–61,331–411",
+    "name": "Team experimentation and individual preference",
+    "structure": "Show members debating slot value and sharing hypotheses without forced agreement.",
+    "acceptance": "Original voices, independent motives, no real anecdote copied.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD, OUT, KSA, AHR, ANN and RNG; no independent novelty claim."
+  }
+]

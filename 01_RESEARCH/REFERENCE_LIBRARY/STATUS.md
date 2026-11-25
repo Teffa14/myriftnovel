@@ -113,3 +113,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## AHR — Ahri specialist guide (2026-11-25)
 [Research index](works/AHR/INDEX.md): 8,831 tokens, 25 units, two historical main inventories, ten matchup contexts, 26 balanced counted swap configurations, eight unverified tactical hypotheses, 45 candidate mechanisms and six exercises. Both lists contain banned Dreaming Tree. No current legal list or replay certified.
+
+## EZR — Backpack Ezreal (2026-11-25)
+[Research index](works/EZR/INDEX.md): 10,276 tokens, 50 units, 24 role records, six matchup contexts, six conditional sideboard policies, 46 candidate mechanisms and six exercises. Mixed historical versions, eight ban references, missing image inventory and unverified loops. No current legal list or replay certified.

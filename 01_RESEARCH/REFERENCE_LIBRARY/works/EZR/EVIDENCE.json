@@ -1,0 +1,568 @@
+{
+  "legend": {
+    "name": "Ezreal, Prodigal Explorer",
+    "profile_id": "FT-L14"
+  },
+  "deck_url": "https://piltoverarchive.com/decks/view/fd4712f9-fb96-4273-8c98-2aa134eebaf2",
+  "deck_retrieved": false,
+  "main_inventory": null,
+  "side_inventory": null,
+  "runes": null,
+  "history": [
+    {
+      "source_lines": "30–61",
+      "phase": "Pre-Spiritforged",
+      "change": "Midrange Ezreal tried before equipment/reuse package.",
+      "result": null,
+      "event_date": null,
+      "status": "self-reported, exact list not independently retrieved"
+    },
+    {
+      "source_lines": "30–61",
+      "phase": "Spiritforged",
+      "change": "Pit Crew inspiration and team list; remove slow slots.",
+      "result": "Reported top 64 RQ Bologne (source spelling).",
+      "event_date": null,
+      "status": "self-reported, exact list not independently retrieved"
+    },
+    {
+      "source_lines": "30–61",
+      "phase": "After Called Shot ban",
+      "change": "Revise list.",
+      "result": "Reported Lille 9–3–1 and second Ezreal.",
+      "event_date": null,
+      "status": "self-reported, exact list not independently retrieved"
+    },
+    {
+      "source_lines": "84–99",
+      "phase": "Set 4",
+      "change": "Barcelona Best-Of list described, image unavailable.",
+      "result": "Reported Barcelona Best-Of Ezreal.",
+      "event_date": null,
+      "status": "self-reported, exact list not independently retrieved"
+    }
+  ],
+  "roles": [
+    {
+      "id": "EZR-C01",
+      "name": "Ezreal, Prodigy",
+      "source_lines": "100–108",
+      "role": "chosen",
+      "quantity": 1,
+      "summary": "Conditional access and spell synergy; delay development when early payoff is absent.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C02",
+      "name": "Acceptable Losses",
+      "source_lines": "109–117",
+      "role": "side candidate",
+      "quantity": null,
+      "summary": "Flexible gear removal, possible reuse and friendly target value.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C03",
+      "name": "Gust",
+      "source_lines": "118–126",
+      "role": "interaction",
+      "quantity": null,
+      "summary": "Early tempo and interrupting developing threat.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C04",
+      "name": "Stacked Deck",
+      "source_lines": "127–135",
+      "role": "selection",
+      "quantity": null,
+      "summary": "Low-cost access; banned in snapshot.",
+      "snapshot_banned": true,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C05",
+      "name": "Stupefy",
+      "source_lines": "136–143",
+      "role": "modifier",
+      "quantity": null,
+      "summary": "Low-cost reactive size reduction and conditional draw.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C06",
+      "name": "Bellows Breath",
+      "source_lines": "144–152",
+      "role": "removal",
+      "quantity": null,
+      "summary": "Multi-body removal with timing and resource constraints.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C07",
+      "name": "The List",
+      "source_lines": "153–161",
+      "role": "modifier",
+      "quantity": null,
+      "summary": "Tag-dependent threshold change and replay access.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C08",
+      "name": "Hard Bargain",
+      "source_lines": "162–168",
+      "role": "counter",
+      "quantity": null,
+      "summary": "Tax opposing resource reserve; verify repeat interaction.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C09",
+      "name": "Pack of Wonders",
+      "source_lines": "169–177",
+      "role": "engine",
+      "quantity": null,
+      "summary": "Reusable asset and flexible recovery; three copies mentioned as possible board.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C10",
+      "name": "Sprite Fountain",
+      "source_lines": "178–186",
+      "role": "engine",
+      "quantity": null,
+      "summary": "Temporary body development and repeated pressure.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C11",
+      "name": "Treasure Trove",
+      "source_lines": "187–193",
+      "role": "engine",
+      "quantity": null,
+      "summary": "Early development and access/ramp hypothesis.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C12",
+      "name": "Turn to Dust",
+      "source_lines": "194–200",
+      "role": "interaction",
+      "quantity": 1,
+      "summary": "Dedicated gear removal; one-of stated for game one Aurora.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C13",
+      "name": "Pickpocket",
+      "source_lines": "201–207",
+      "role": "interaction",
+      "quantity": null,
+      "summary": "Source Pick Pocket; low-cost gear removal, replayable candidate.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C14",
+      "name": "Bewitching Spirit",
+      "source_lines": "208–216",
+      "role": "unit",
+      "quantity": null,
+      "summary": "Hand disruption and reusable body; three cuts in Kennen imply at least three in that version.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C15",
+      "name": "Wages of Pain",
+      "source_lines": "217–225",
+      "role": "removal",
+      "quantity": null,
+      "summary": "Early answer with conditional resource generation.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C16",
+      "name": "Fizz, Trickster",
+      "source_lines": "226–234,461–466",
+      "role": "unit",
+      "quantity": 3,
+      "summary": "Reuse eligible spells and later body exchange.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C17",
+      "name": "Star-Crossed",
+      "source_lines": "235–243,461–466",
+      "role": "interaction",
+      "quantity": 3,
+      "summary": "Return opposing threat and own reusable unit, protection alternatives.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C18",
+      "name": "Vex, Apathetic",
+      "source_lines": "244–250,450–460",
+      "role": "unit",
+      "quantity": null,
+      "summary": "Suppress specific ready-entry routes and support efficient board development; source cost roles conflict.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C19",
+      "name": "Deadly Flourish",
+      "source_lines": "251–257",
+      "role": "removal",
+      "quantity": null,
+      "summary": "Early base-target interaction.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C20",
+      "name": "Kha'Zix, Mutating Horror",
+      "source_lines": "258–264",
+      "role": "unit or side",
+      "quantity": null,
+      "summary": "Alternative large threat answer; location and quantities vary by version.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C21",
+      "name": "Singularity",
+      "source_lines": "265–271",
+      "role": "removal",
+      "quantity": null,
+      "summary": "Large-threat removal, timing matters.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C22",
+      "name": "Angler Beast",
+      "source_lines": "272–278",
+      "role": "side candidate",
+      "quantity": null,
+      "summary": "Token pressure reset and body development.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C23",
+      "name": "Thousand-Tailed Watcher",
+      "source_lines": "279–285,461–466",
+      "role": "finisher",
+      "quantity": 3,
+      "summary": "Threshold reduction and later board pressure.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    },
+    {
+      "id": "EZR-C24",
+      "name": "Mindsplitter",
+      "source_lines": "286–294,339–348",
+      "role": "unit or side",
+      "quantity": null,
+      "summary": "Larger body and hand information; inclusion contradicted in alternative section.",
+      "snapshot_banned": false,
+      "identity_verified": false,
+      "effective_text_verified": false
+    }
+  ],
+  "fields": [
+    {
+      "name": "Sigil of the Storm",
+      "source_lines": "297–304",
+      "role": "Tax early opposing conquests; contextual play order.",
+      "snapshot_banned": false,
+      "status": "source role; not certified field inventory"
+    },
+    {
+      "name": "Heisho, Shell of the World",
+      "source_lines": "305–314",
+      "role": "Conditional mitigation of targeting costs.",
+      "snapshot_banned": false,
+      "status": "source role; not certified field inventory"
+    },
+    {
+      "name": "Frozen Fortress",
+      "source_lines": "315–323",
+      "role": "Threshold synergy and blind selection.",
+      "snapshot_banned": false,
+      "status": "source role; not certified field inventory"
+    },
+    {
+      "name": "Aspirant’s Climb",
+      "source_lines": "324–330",
+      "role": "Aspirant shorthand in later field policy; candidate identity, conflicts with Heisho description.",
+      "snapshot_banned": true,
+      "status": "source role; not certified field inventory"
+    }
+  ],
+  "matches": [
+    {
+      "opponent": "Kennen",
+      "profile_candidates": [
+        "FT-L25"
+      ],
+      "source_lines": "510–595",
+      "plan": "Deny early score and recursive gear engine; do not prioritize hand discard when trash supplies value.",
+      "guard": "Early gear versus immediate board-clear tradeoff; rival may score decisively.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    },
+    {
+      "opponent": "Master Yi (PG)",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "source_lines": "596–696",
+      "plan": "Delay double scoring, develop resources, exhaust modifiers and protect against persistent gear.",
+      "guard": "Exact Legend unresolved; opponent can preserve responses and retain durable position.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    },
+    {
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "source_lines": "697–774",
+      "plan": "Interrupt gear and access engine; pivot from hand exhaustion to board control if opposing resource replenishment dominates.",
+      "guard": "Historical Herder and Hourglass banned; no 0–7 comeback certified.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    },
+    {
+      "opponent": "LeBlanc",
+      "profile_candidates": [
+        "FT-L28"
+      ],
+      "source_lines": "775–1017",
+      "plan": "Deny repeated reflection access and choose attrition or accelerated scoring based on actual opening and field.",
+      "guard": "Temporary threats may not warrant removal; rival has independent response and recovery.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    },
+    {
+      "opponent": "Draven",
+      "profile_candidates": [
+        "FT-L11"
+      ],
+      "source_lines": "1018–1091",
+      "plan": "Reduce combat-based payoff by avoiding unnecessary trades; suppress early bodies and maintain removal capacity.",
+      "guard": "Opponent may adapt pace and protect units; no automatic victory.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    },
+    {
+      "opponent": "Aurora variants",
+      "profile_candidates": [],
+      "source_lines": "1092–1150",
+      "plan": "Historical gear denial and slower board development; post-board resource exhaustion.",
+      "guard": "Banned Aurora; no exact Legend, legal loop or automatic win established.",
+      "win_rate": null,
+      "status": "historical pilot opinion"
+    }
+  ],
+  "plans": [
+    {
+      "id": "EZR-SB01",
+      "opponent": "Kennen",
+      "source_lines": "575–592",
+      "incoming": "Angler Beast;Gust;Pickpocket;Acceptable Losses;Turn to Dust;Hard Bargain",
+      "outgoing": "Bewitching Spirit:3;Star-Crossed:2;Sprite Fountain:conditional",
+      "guard": "Incoming quantities mostly absent.",
+      "legal_certified": false
+    },
+    {
+      "id": "EZR-SB02",
+      "opponent": "Yi PG",
+      "source_lines": "661–696",
+      "incoming": "Mindsplitter;Kha'Zix:2;Hard Bargain;Acceptable Losses",
+      "outgoing": "Vex:1;Bellows Breath;Star-Crossed;Frigid Touch:2",
+      "guard": "Several quantities unknown; Frigid Touch absent from named card headings.",
+      "legal_certified": false
+    },
+    {
+      "id": "EZR-SB03",
+      "opponent": "Irelia",
+      "source_lines": "749–774",
+      "incoming": "Mindsplitter:1;Kha'Zix:1;Hard Bargain:1;Acceptable Losses:1;Turn to Dust:1",
+      "outgoing": "Wages of Pain:1;Sprite Fountain:1;Gust:1;Pickpocket:1;Vex:1;Fountain:unqualified repeat",
+      "guard": "Five explicit incoming and five explicit outgoing; trailing Fountain unresolved.",
+      "legal_certified": false
+    },
+    {
+      "id": "EZR-SB04",
+      "opponent": "LeBlanc",
+      "source_lines": "1011–1017",
+      "incoming": "Gust",
+      "outgoing": "Acceptable Losses",
+      "guard": "Quantities missing; exception for historical Hook version.",
+      "legal_certified": false
+    },
+    {
+      "id": "EZR-SB05",
+      "opponent": "Draven",
+      "source_lines": "1073–1091",
+      "incoming": "Gust;Acceptable Losses",
+      "outgoing": "Turn to Dust;Kha'Zix",
+      "guard": "Quantities missing.",
+      "legal_certified": false
+    },
+    {
+      "id": "EZR-SB06",
+      "opponent": "Aurora",
+      "source_lines": "1139–1150",
+      "incoming": "Turn to Dust:2;Acceptable Losses:2;Kha'Zix:2;Downwell:optional",
+      "outgoing": "Gust:2;Wages of Pain:3;Bellows Breath:2",
+      "guard": "Six explicit incoming plus optional Downwell versus seven outgoing; balance conditional on one Downwell, not specified.",
+      "legal_certified": false
+    }
+  ],
+  "flags": [
+    {
+      "name": "Called Shot",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Stacked Deck",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Aspirant’s Climb",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Zhonya’s Hourglass",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Stellacorn Herder",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Dazzling Aurora",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    },
+    {
+      "name": "Baited Hook",
+      "snapshot_banned": true,
+      "scope": "historical reference; no complete inventory"
+    }
+  ],
+  "guards": [
+    "41 image placeholders and two example-gameplay gaps with no replay data. Full Barcelona list, runes and actual side inventory absent; linked list not retrieved.",
+    "Current deck described as using Stacked Deck despite November 23 ban; Called Shot mentioned as earlier ban. Other banned cards appear in historical opponent contexts. Do not infer current legal list.",
+    "Field discussion names Heisho but later names Aspirant; do not choose one. Aspirant shorthand candidate is banned.",
+    "Mindsplitter described as top-end then absent in a rejection rationale; alternative section has unnamed images and references Frigid Touch which lacks main card heading. No assumed identity for image-only alternatives.",
+    "Vex described as turn-two unit and 4-drop, while general section says no 2-drop units. Different terminology/versions possible; exact cost and current inclusion not certified.",
+    "Repeated or infinite value claims do not prove unbounded legal loop. Track costs, card zones, targets, timing, resource generation, deck depletion, score and rival choices. No 0–7 single-turn win or repeated scoring certified.",
+    "Irelia sideboard has trailing Fountain after five explicit cuts; Aurora six named incoming plus optional Downwell versus seven cuts. Other plans omit quantities. Do not fill counts.",
+    "Master Yi PG identity unresolved, 60-minute round is source claim only; verify current event policy. All results self-reported and no win-rate denominators.",
+    "Statements about playing half a card, three-for-two and guaranteed late game are heuristic, not literal resource accounting or empirical probability.",
+    "Do not recreate example matches, reproduce source prose, promote slow play or infer opponent private knowledge. All named effects require dated official proof."
+  ],
+  "unidentified_alternative_sections": [
+    {
+      "start": 339,
+      "end": 348,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 349,
+      "end": 358,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 359,
+      "end": 368,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 369,
+      "end": 380,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 381,
+      "end": 388,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 389,
+      "end": 396,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 397,
+      "end": 404,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    },
+    {
+      "start": 405,
+      "end": 411,
+      "identity": null,
+      "note": "image absent; infer no identity from surrounding prose"
+    }
+  ]
+}

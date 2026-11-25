@@ -64,3 +64,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## AHR — defensive geometry and chain timing
 [AHR research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AHR/INDEX.md) supplements FTG FT-L04 with multi-turn response reserves, position allocation, selective withdrawal, minimal commitment, resource breakpoints and metagame adaptation. [Tactical hypotheses](../../01_RESEARCH/REFERENCE_LIBRARY/works/AHR/TACTICAL_HYPOTHESES.json) require dated official rules, effective text and G3-scene before use. No actual priority/trigger verification asserted. Historical lists separate.
+
+## EZR — finite resource ledger and recursive control
+[EZR research](../../01_RESEARCH/REFERENCE_LIBRARY/works/EZR/INDEX.md) supplements FTG FT-L14 with finite reuse accounting, conditional score concession, alternate winning routes, response reserves, trash-based opponent resources and timed practice. Do not treat infinite-value language as a proven loop. Mixed versions, banned Stacked Deck and other historical references require dated effective-text and G3-scene verification. Preserve fair pace and independent opponent choices.

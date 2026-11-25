@@ -49,3 +49,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## AHR — specialization and changing incentives
 [AHR analysis](../REFERENCE_LIBRARY/works/AHR/ANALYSIS.md) supports original peer discussions of defense, positional risk, confidence revision and adapting a favorite list. No borrowed real persona, phrasing or guaranteed matchup result.
+
+## EZR — complex-deck mastery and team testing
+[EZR analysis](../REFERENCE_LIBRARY/works/EZR/ANALYSIS.md) supports original scenes about practice, branch overload, review under tournament pace, shared experimentation and disagreement over slot value. No copied biography, source phrasing or assumed result.

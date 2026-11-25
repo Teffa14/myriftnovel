@@ -1,0 +1,68 @@
+[
+  {
+    "id": "EZR-X01",
+    "mechanisms": [
+      "EZR-M04",
+      "EZR-M05",
+      "EZR-M29"
+    ],
+    "task": "Compare two recovery routes when behind: resource engine now or immediate score denial. Include opponent's earliest legal close.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "EZR-X02",
+    "mechanisms": [
+      "EZR-M13",
+      "EZR-M14",
+      "EZR-M18"
+    ],
+    "task": "Construct an abstract two-asset reuse ledger and compare early removal of each piece. Count costs each iteration and specify termination.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "EZR-X03",
+    "mechanisms": [
+      "EZR-M10",
+      "EZR-M33",
+      "EZR-M42"
+    ],
+    "task": "Compare two legal removal orders after verifying rules; include opponent accepting or answering the first effect.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "EZR-X04",
+    "mechanisms": [
+      "EZR-M16",
+      "EZR-M35",
+      "EZR-M39"
+    ],
+    "task": "A rival gains access to discarded cards; evaluate when a hand-disruption plan becomes counterproductive and pivot.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "EZR-X05",
+    "mechanisms": [
+      "EZR-M24",
+      "EZR-M25",
+      "EZR-M26"
+    ],
+    "task": "Two teammates disagree about a narrow large-threat answer; test protected and unprotected target states, plus weak opening draws.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "EZR-X06",
+    "mechanisms": [
+      "EZR-M02",
+      "EZR-M03",
+      "EZR-M45"
+    ],
+    "task": "Practice a complex turn under reasonable pace, log candidate branches, choose one and review alternative after play.",
+    "status": "original untested abstract exercise",
+    "canon_status": "noncanon"
+  }
+]
