@@ -46,3 +46,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## SET — adaptive defense and positional allocation
 [SET research](../../01_RESEARCH/REFERENCE_LIBRARY/works/SET/INDEX.md) supplements FTG FT-L51 and NLM/NLD with buff opportunity cost, repeated protection, defensive distribution, information decay, alternate payoff and changing roles across formats. Historical Set 1–3 layers must not be merged; current official effective text required for technical claims. Source quizzes lack images/key; construct original verified exercises. Baited Hook, Dazzling Aurora, Fight or Flight and Dreaming Tree flagged in Nov 23 snapshot.
+
+## RNG — agency, tempo and conditional risk
+[RNG research](../../01_RESEARCH/REFERENCE_LIBRARY/works/RNG/INDEX.md) supplements FTG FT-L47 and NLM/NLD with multi-turn curve planning, flexible sideboarding, material trade versus scoring, retained response capacity, baseline-relative risk and public-information hypotheses. Historical Brynhir, Dais and Star Spring banned; no present legality inferred. All named trigger windows require official dated proof. Three partial cases demonstrate reasoning review, not executable matches. Do not use 75% source estimate as actual posterior or endorse slow play.

@@ -1,0 +1,8 @@
+# Original noncanonical exercises
+RNG-X01 (M01/M02/M29): Two players prepare for different events, one with a familiar local field and one with uncertain regional opponents. Compare preparation and slot-allocation priorities under the same budget.
+RNG-X02 (M34/M35/M37/M40): A new hypothetical opening contains a desirable response but limited development. Compare two three-turn plans and one plausible miss; calculate only after legal sampling and resource procedure are established.
+RNG-X03 (M13/M14/M43/M44): A player faces a material trade that is already favorable but may improve with a response. Compare pass versus commitment; an opponent may accept the trade or respond legally. No named effects asserted.
+RNG-X04 (M46/M47/M48): A player behind on score compares conservative development and a smaller risky contest that retains resources. Vary uncertain opponent response assumptions and identify the break-even point; do not infer actual concealed-card odds.
+RNG-X05 (M42/M49/M50/M51): A player with a deteriorating position offers two legitimate scoring threats. The rival may choose the stronger defense. Compare practical chance, failure and public-information limits without relying on opponent error.
+RNG-X06 (M03/M38/M53/M56): A mentor reviews a student's lost match and separates a misunderstanding of a reaction window from a reasonable strategic choice. Seek a proper ruling, then design an original practice state. No real judge call or persona copied.
+All exercises are original abstractions, not canon, and require G3-scene proof before depicting named game transitions.

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "RNG-C01",
+    "source_lines": "2291–2314",
+    "event": "Hartford",
+    "round": 12,
+    "opponent": "Annie",
+    "known": "Reported 3 Might versus 3 after drawing two opposing bodies into combat; pilot has three runes remaining, opponent four.",
+    "alternatives": [
+      "Accept a favorable material trade",
+      "Commit more before seeing response",
+      "Pass focus and preserve response options"
+    ],
+    "choice": "Passes focus; responds to opponent reinforcement with a conditional modifier.",
+    "result": "Reports successful conquest and later win.",
+    "lesson": "A tied combat can pressure opposing resource use; passing can preserve information and flexibility.",
+    "missing": "Exact effective text, full hand, chain ledger, final state; no verified replay.",
+    "status": "source recollection, partial reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "RNG-C02",
+    "source_lines": "2353–2395",
+    "event": "Hartford",
+    "round": 8,
+    "opponent": "Azir",
+    "known": "Behind in scoring, low cards, opponent threatens hold and has known hand from prior interaction; concealed card identity uncertain.",
+    "alternatives": [
+      "Take uncontested point and develop",
+      "Commit larger reactive body",
+      "Commit smaller reactive body while reserving response capacity",
+      "Develop in base then contest"
+    ],
+    "choice": "Third option, conditional on plausible concealed removal; retained fallback.",
+    "result": "Reports opponent revealed removal targeting own body, pilot scored and recovered, won game.",
+    "lesson": "Compare failure conditions, response reserves and relative future clocks; high variance may be rational from behind.",
+    "missing": "Board image, exact score, complete hand and deck distribution; 75% source estimate is conditional heuristic, not posterior.",
+    "status": "source recollection, partial reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  },
+  {
+    "id": "RNG-C03",
+    "source_lines": "2397–2453",
+    "event": "Hartford",
+    "round": null,
+    "opponent": "Draven",
+    "known": "Reported two defended locations, previously revealed hand and subsequent draw change the response range.",
+    "alternatives": [
+      "Protect a single position",
+      "Distribute defense",
+      "After unexpected draw, commit available response to preserve a material trade or recovery"
+    ],
+    "choice": "Distributed defense, then reacts when unexpected modifier appears.",
+    "result": "Opponent reportedly chose an inferior movement route; pilot recovered and won.",
+    "lesson": "Preserve practical chances when objective position deteriorates; distinguish opponent error from forced outcome.",
+    "missing": "Images, full state, independent legality and alternate sequence; do not infer opponent's internal psychology.",
+    "status": "source recollection, partial reconstruction",
+    "full_replay": false,
+    "scene_eligible": false
+  }
+]

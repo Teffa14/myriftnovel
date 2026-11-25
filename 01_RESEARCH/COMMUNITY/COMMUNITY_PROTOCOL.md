@@ -34,3 +34,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## SET — specialization and adaptation
 [SET analysis](../REFERENCE_LIBRARY/works/SET/ANALYSIS.md) supports original scenes about expertise, choosing practice priorities, disagreements over defensive layouts, favorite-deck attachment and adapting to a changed format. Use independent motives and original expression; no real pilot biography or self-reported statistics as fact.
+
+## RNG — competitive agency and peer coaching
+[RNG analysis](../REFERENCE_LIBRARY/works/RNG/ANALYSIS.md) supports original scenes about deck attachment, qualification goals, local versus regional testing, honest uncertainty, humor and reviewing adverse outcomes. Preserve opponent agency, fair play and independent character voices; no real biography or distinctive wording transferred.

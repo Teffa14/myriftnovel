@@ -1,0 +1,381 @@
+{
+  "deck": {
+    "legend": {
+      "profile_id": "FT-L47",
+      "name": "Rengar, Pridestalker"
+    },
+    "era": "Vendetta, after Singapore; exact date unknown; pre-November-23 ban snapshot",
+    "runes": {
+      "Fury": 4,
+      "Body": 8
+    },
+    "roles": [
+      {
+        "source_line": 175,
+        "name": "Rengar, Trophy Hunter",
+        "role": "chosen",
+        "count": 1,
+        "reason": "Conditional reactive reinforcement; early defensive option; displacement exposure.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 179,
+        "name": "Sabotage",
+        "role": "spell",
+        "count": 2,
+        "reason": "Hand information and removal of relevant option; time against next commitment.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 183,
+        "name": "Punch First",
+        "role": "spell",
+        "count": 3,
+        "reason": "Combat modifier for attack or defense; action-speed exposure and future resource cost.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 189,
+        "name": "Inferna",
+        "role": "unit",
+        "count": 3,
+        "reason": "Cheap attack and reactive contribution; weaker standalone hold.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 197,
+        "name": "Irresistible Faefolk",
+        "role": "unit",
+        "count": 3,
+        "reason": "Conditional relocation can concentrate rival bodies; compare immediate trade with later target quality.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 206,
+        "name": "Pit Rookie",
+        "role": "unit",
+        "count": 3,
+        "reason": "Early body and durable modifier; support threshold and later reuse.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 212,
+        "name": "Rampage",
+        "role": "spell",
+        "count": 2,
+        "reason": "Conditional removal outside ordinary combat; matchup-specific modifier and counter risk.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 216,
+        "name": "Thrill of the Hunt",
+        "role": "spell",
+        "count": 3,
+        "reason": "Reaction-speed movement/entry hypothesis; preserve legal timing and counterplay.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 224,
+        "name": "Grim Apothecary",
+        "role": "unit",
+        "count": 3,
+        "reason": "Flexible development, conditional recall and rescue; balance replay against lost board.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 232,
+        "name": "Kinkou Monk",
+        "role": "unit",
+        "count": 3,
+        "reason": "Conditional draw support versus Might efficiency; trigger ordering needs proof.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 239,
+        "name": "Pyke, Dockside Butcher",
+        "role": "unit",
+        "count": 2,
+        "reason": "Concealed reinforcement or accelerated pressure; different costs and displacement risk.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 248,
+        "name": "Nidalee, Cat Form",
+        "role": "unit",
+        "count": 2,
+        "reason": "Reactive Might and combat-related draw hypothesis; protect only when future value warrants.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 256,
+        "name": "Kai'Sa, Survivor",
+        "role": "unit",
+        "count": 3,
+        "reason": "Resource/access bridge and mobility carrier; historical source prioritizes survival.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 264,
+        "name": "Noxus Hopeful",
+        "role": "unit",
+        "count": 3,
+        "reason": "Efficient early body and repeatable holding; compare threshold and opposing responses.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 269,
+        "name": "Brynhir Thundersong",
+        "role": "unit",
+        "count": 1,
+        "reason": "Historical interaction restriction; banned in November 23 snapshot.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": true
+      },
+      {
+        "source_line": 275,
+        "name": "First Mate",
+        "role": "unit",
+        "count": 2,
+        "reason": "Movement and re-entry option with body; no Ambush assumed.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 281,
+        "name": "Ferrous Forerunner",
+        "role": "unit",
+        "count": 1,
+        "reason": "Durable development and multiple-body follow-up; displacement risk.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 293,
+        "name": "Darius, Trifarian",
+        "role": "side",
+        "count": 1,
+        "reason": "Large breaker against particular holds; high resource and tempo cost.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 299,
+        "name": "Decree of Strength",
+        "role": "side",
+        "count": 2,
+        "reason": "Narrow domain-dependent hand disruption; target coverage.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 305,
+        "name": "Brynhir Thundersong",
+        "role": "side",
+        "count": 1,
+        "reason": "Additional historical restriction engine.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": true
+      },
+      {
+        "source_line": 307,
+        "name": "Ferrous Forerunner",
+        "role": "side",
+        "count": 2,
+        "reason": "Increase resilient threat density against relevant answers.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 311,
+        "name": "Rampage",
+        "role": "side",
+        "count": 1,
+        "reason": "Increase removal access when targets justify it.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 313,
+        "name": "Sabotage",
+        "role": "side",
+        "count": 1,
+        "reason": "Increase key-card disruption when useful.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 315,
+        "name": "Elder Dragon",
+        "role": "side",
+        "count": 1,
+        "reason": "Late contingency against durable Heron positions; rare attainable horizon.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      },
+      {
+        "source_line": 320,
+        "name": "Against the Odds",
+        "role": "side",
+        "count": 1,
+        "reason": "Conditional modifier against wide boards; verify scaling and timing.",
+        "identity_status": "source_name_normalized_candidate",
+        "effective_text_verified": false,
+        "snapshot_banned": false
+      }
+    ],
+    "fields": [
+      {
+        "name": "Emperor's Dais",
+        "source_lines": "149–159",
+        "reason": "Historical token plus recall engine",
+        "snapshot_banned": true
+      },
+      {
+        "name": "Seat of Power",
+        "source_lines": "160–164",
+        "reason": "Conquest-linked card access",
+        "snapshot_banned": false
+      },
+      {
+        "name": "Star Spring",
+        "source_lines": "165–173",
+        "reason": "Historical mobility and withdrawal",
+        "snapshot_banned": true
+      }
+    ],
+    "counts": {
+      "chosen": 1,
+      "units": 29,
+      "spells": 10,
+      "sideboard": 10,
+      "battlefields": 3,
+      "runes": 12,
+      "main_excluding_chosen": 39,
+      "main_including_chosen": 40
+    },
+    "source_link": "https://piltoverarchive.com/decks/view/4b68127b-fd88-4d7c-947e-c737f2138090",
+    "linked_list_retrieved": false,
+    "legal_list_certified": false,
+    "banned_instances": 4,
+    "note": "Named textual quantities reconcile; exact printings, effective card text and list version not independently established. Older Determined Sentry material differs from named list."
+  },
+  "alternatives": [
+    {
+      "source_lines": "329–358",
+      "kind": "Battlefields",
+      "names": [
+        "Zaun Warrens",
+        "Forbidding Waste",
+        "Trifarian War Camp"
+      ],
+      "logic": "Relative benefit to both players; narrower utility in selected opposing fields.",
+      "status": "source alternatives not tested"
+    },
+    {
+      "source_lines": "359–384",
+      "kind": "Gear",
+      "names": [
+        "Blighted Battleaxe",
+        "Long Sword",
+        "Doran's Blade",
+        "Warmog's Armor",
+        "Fresh Beans",
+        "Rage Amplifier"
+      ],
+      "logic": "Compare equip costs, repeated use, displacement and early-body opportunity cost.",
+      "status": "source alternatives not tested"
+    },
+    {
+      "source_lines": "385–411",
+      "kind": "Spells",
+      "names": [
+        "Cleave",
+        "Bloodrush",
+        "Thermobeam",
+        "Falling Star",
+        "Disposal Order",
+        "Onslaught",
+        "Perfect Execution",
+        "Sky Splitter"
+      ],
+      "logic": "Compare attack versus defense coverage, removal timing, resource color and counters.",
+      "status": "source alternatives not tested"
+    },
+    {
+      "source_lines": "412–453",
+      "kind": "Units",
+      "names": [
+        "Pouty Poro",
+        "Pakaa Cub",
+        "Mischievous Marai",
+        "Carnivorous Snapvine",
+        "Qiyana, Victorious",
+        "Gem Jammer",
+        "Rengar, Pouncing",
+        "Dunebreaker",
+        "Rek'Sai, Breacher",
+        "Ruin Runner",
+        "Fiora, Peerless",
+        "Arena Kingpin",
+        "Sharkling",
+        "Rengar, Unseen",
+        "Deadbloom Predator"
+      ],
+      "logic": "Compare opening role, reactive flexibility, threshold, cost and matchup breadth.",
+      "status": "source alternatives not tested"
+    },
+    {
+      "source_lines": "454–468",
+      "kind": "Budget",
+      "names": [
+        "Pyke",
+        "Grim Apothecary",
+        "First Mate",
+        "Darius",
+        "Qiyana",
+        "Vayne",
+        "Poppy"
+      ],
+      "logic": "Candidate replacements for missing Kai'Sa; source predicts lower control performance, no measured impact.",
+      "status": "source alternatives not tested"
+    }
+  ]
+}

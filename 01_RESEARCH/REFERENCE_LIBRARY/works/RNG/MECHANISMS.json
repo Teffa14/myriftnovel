@@ -1,0 +1,562 @@
+[
+  {
+    "id": "RNG-M01",
+    "level": "L4",
+    "name": "Goal-conditioned deck selection",
+    "source_lines": "37–62",
+    "structure": "Choose list based on event objective, preparation, and uncertain field.",
+    "acceptance": "Compare actual goal and expected opposition; source field observations not universal.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M02",
+    "level": "L4",
+    "name": "Matchup breadth robustness",
+    "source_lines": "50–62",
+    "structure": "Favor acceptable performance across plausible opponents over narrow dominance in one pairing.",
+    "acceptance": "Use dated samples and uncertainty; no validated 40% floor.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M03",
+    "level": "L6",
+    "name": "Execution agency",
+    "source_lines": "63–73",
+    "structure": "Show how meaningful alternatives motivate a player who values control of decisions.",
+    "acceptance": "Distinguish subjective agency from measured win-rate causality.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M04",
+    "level": "L6",
+    "name": "Enjoyment and sustained practice",
+    "source_lines": "74–96",
+    "structure": "Preference can make deliberate practice more sustainable.",
+    "acceptance": "No claim that enjoyment automatically increases wins.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M05",
+    "level": "L4",
+    "name": "Units as interaction options",
+    "source_lines": "113–133",
+    "structure": "Treat reactive development as both body and conditional response role.",
+    "acceptance": "Verify reaction timing and distinct cost.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M06",
+    "level": "L4",
+    "name": "Color concentration under burst demand",
+    "source_lines": "145–148",
+    "structure": "Choose resource split for joint early needs rather than total printed color costs.",
+    "acceptance": "Test actual channel/recycle probabilities.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M07",
+    "level": "L4",
+    "name": "Recall value versus board loss",
+    "source_lines": "149–173,224–231",
+    "structure": "Compare repeated entry benefits with tempo lost returning established bodies.",
+    "acceptance": "Verify cost and remaining development.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M08",
+    "level": "L4",
+    "name": "Conditional location payoff",
+    "source_lines": "149–173",
+    "structure": "Select fields by interaction with own plan and rival benefit.",
+    "acceptance": "Historical banned fields require dated context.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M09",
+    "level": "L4",
+    "name": "Chosen threat optionality",
+    "source_lines": "175–178",
+    "structure": "Compare immediate durable development with later reactive use.",
+    "acceptance": "Verify legal chosen access and thresholds.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M10",
+    "level": "L4",
+    "name": "Disruption synchronized with response need",
+    "source_lines": "179–182",
+    "structure": "Use hand information before meaningful commit or near opponent payoff.",
+    "acceptance": "Track revealed versus newly drawn cards.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M11",
+    "level": "L4",
+    "name": "Modifier exposure",
+    "source_lines": "183–188",
+    "structure": "Compare spending combat modifier early versus preserving later response; account for displacement.",
+    "acceptance": "Check exact action speed and eligibility.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M12",
+    "level": "L4",
+    "name": "Attack-defense asymmetry",
+    "source_lines": "189–196",
+    "structure": "Cheap body may be useful attacking and poor holding; leave in base if necessary.",
+    "acceptance": "Verify actual Might at each stage.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M13",
+    "level": "L4",
+    "name": "Delayed multi-target pressure",
+    "source_lines": "197–205,2315–2331",
+    "structure": "Delay initiating contest until more valuable opposing bodies become accessible.",
+    "acceptance": "Compare lost scoring, legal targets and opponent escape.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M14",
+    "level": "L4",
+    "name": "Favorable material trade",
+    "source_lines": "197–205,2291–2314",
+    "structure": "A one-body exchange against multiple bodies can improve future development despite lost score.",
+    "acceptance": "Check actual replacement, resource cost and opposing options.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M15",
+    "level": "L3",
+    "name": "Threshold reinforcement",
+    "source_lines": "206–211",
+    "structure": "Allocate modifier to cross relevant damage or combat threshold.",
+    "acceptance": "Verify legal application and exact arithmetic.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M16",
+    "level": "L4",
+    "name": "Conditional removal coverage",
+    "source_lines": "212–215",
+    "structure": "Select removal by target access and modifier/counter risk.",
+    "acceptance": "Compare against alternatives and matchup range.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M17",
+    "level": "L3",
+    "name": "Reactive relocation utility",
+    "source_lines": "216–223",
+    "structure": "A movement effect may protect, score or enable another payoff depending on window.",
+    "acceptance": "No named transition certified; check chain and scoring.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M18",
+    "level": "L4",
+    "name": "Preserve an expiring threat",
+    "source_lines": "224–231",
+    "structure": "Rescue a valuable body when future deployment offsets present position lost.",
+    "acceptance": "Check cost and alternate hold/score path.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M19",
+    "level": "L3",
+    "name": "Trigger ordering and conditional access",
+    "source_lines": "232–238,2474–2495",
+    "structure": "Compare legally ordered effects that change eligibility for later payoff.",
+    "acceptance": "Verify actual trigger control and timing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M20",
+    "level": "L4",
+    "name": "Hidden reserve versus visible development",
+    "source_lines": "239–247",
+    "structure": "Compare concealed reinforcement with immediate body; different cost profiles.",
+    "acceptance": "No guaranteed hold or inferred concealed identity.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M21",
+    "level": "L4",
+    "name": "Protection with independent value",
+    "source_lines": "248–263",
+    "structure": "Protect a body when continuing access outweighs spending response; reassess near finish.",
+    "acceptance": "Verify independent payoff and remaining horizon.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M22",
+    "level": "L4",
+    "name": "Resilient threat density",
+    "source_lines": "264–289",
+    "structure": "Increase threats that survive ordinary interaction, not all expensive bodies.",
+    "acceptance": "Track specific displacement, removal and replay dependencies.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M23",
+    "level": "L4",
+    "name": "Restriction timing",
+    "source_lines": "269–274",
+    "structure": "Evaluate a restriction before or during an opposing payoff window.",
+    "acceptance": "Historical Brynhir banned; use only verified alternatives.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M24",
+    "level": "L4",
+    "name": "Late contingency",
+    "source_lines": "315–319",
+    "structure": "Retain expensive alternate closer only in matchups with plausible resource horizon.",
+    "acceptance": "No guarantee of reaching it or winning.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M25",
+    "level": "L4",
+    "name": "Rejected-slot ledger",
+    "source_lines": "329–453",
+    "structure": "Record why alternative card is not included and conditions for reconsideration.",
+    "acceptance": "Preserve date, role and changed assumptions.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M26",
+    "level": "L4",
+    "name": "Budget substitution",
+    "source_lines": "454–468",
+    "structure": "Replace missing asset by functional package rather than pretending equivalence.",
+    "acceptance": "Use actual prices and legal copies; performance impact unmeasured.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M27",
+    "level": "L4",
+    "name": "Between-game inference",
+    "source_lines": "475–487",
+    "structure": "Update sideboard policy based on what opponent observed, not secret information.",
+    "acceptance": "Verify open/closed list rules; avoid deception outside legal play.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M28",
+    "level": "L4",
+    "name": "Play-order curve shifts",
+    "source_lines": "488–492",
+    "structure": "Change resource curve and role density according to starting position.",
+    "acceptance": "Check dated rules and actual resource loss.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M29",
+    "level": "L4",
+    "name": "Local versus regional tailoring",
+    "source_lines": "493–499",
+    "structure": "Adjust specificity according to known local opponents versus broad event uncertainty.",
+    "acceptance": "Do not infer full field from familiar players.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M30",
+    "level": "L4",
+    "name": "Battlefield policy unpredictability",
+    "source_lines": "504–510",
+    "structure": "Compare opponent adaptation against absolute field benefit.",
+    "acceptance": "Verify actual legal selection procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M31",
+    "level": "L4",
+    "name": "Avoid asymmetric opponent payoff",
+    "source_lines": "511–519",
+    "structure": "Reject field that disproportionately enables opposing plan.",
+    "acceptance": "Compare play order and alternative routes.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M32",
+    "level": "L4",
+    "name": "Pre-mulligan field plan",
+    "source_lines": "520–550",
+    "structure": "Identify contested location, timing and both players' objectives before selecting hand.",
+    "acceptance": "Keep opponent independent; verify event procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M33",
+    "level": "L4",
+    "name": "Conditional sideboard families",
+    "source_lines": "559–1365",
+    "structure": "Use ranges, optional slots and variant branches rather than fixed swaps when source uncertain.",
+    "acceptance": "Produce balanced legal inventory before technical use.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M34",
+    "level": "L4",
+    "name": "Multi-turn opening plan",
+    "source_lines": "1372–1400,2209–2237",
+    "structure": "Evaluate hand and current action by next two or three turns, including resource commitments.",
+    "acceptance": "Track actual draws, Energy and Power, not assumed optimal sequence.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M35",
+    "level": "L4",
+    "name": "Key-card access tradeoff",
+    "source_lines": "1401–1407",
+    "structure": "Preserve high-value matchup answer if enough alternative opening actions exist.",
+    "acceptance": "Compute probabilities only from defined population and procedure.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M36",
+    "level": "L4",
+    "name": "High-upside hand from poor baseline",
+    "source_lines": "1408–1424",
+    "structure": "When normal plan weak, compare unusual keep with realistic alternatives.",
+    "acceptance": "No arbitrary risk in balanced state; avoid monetized gambling framing.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M37",
+    "level": "L4",
+    "name": "Avoid stranded modifier hand",
+    "source_lines": "1425–1443",
+    "structure": "Maintain minimum functional bodies when seeking important interactions.",
+    "acceptance": "Test failure if relevant supporting role absent.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M38",
+    "level": "L4",
+    "name": "Deliberate repetition",
+    "source_lines": "1444–1464",
+    "structure": "Practice with recorded reasoning and specific mistakes rather than rote matchup memorization.",
+    "acceptance": "Compare actual choices and feedback.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M39",
+    "level": "L4",
+    "name": "Role changes by matchup",
+    "source_lines": "1467–2200",
+    "structure": "Revise early development, defense and pressure according to opponent engine and state.",
+    "acceptance": "Do not import old matchups as measured rates.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M40",
+    "level": "L4",
+    "name": "Resource conversion over isolated turn",
+    "source_lines": "2209–2237",
+    "structure": "Compare short-term score or trade against next-turn playable options.",
+    "acceptance": "Track future rune constraints and independent response.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M41",
+    "level": "L4",
+    "name": "Living game plan",
+    "source_lines": "2238–2248",
+    "structure": "Revise plan when draws, location or opposing actions alter feasible paths.",
+    "acceptance": "Record reasons and fallback; avoid deterministic script.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M42",
+    "level": "L4",
+    "name": "Point-tempo planning",
+    "source_lines": "2249–2275",
+    "structure": "Work backward from final scoring requirements and rival closing route.",
+    "acceptance": "Verify actual final-point rule; parity is heuristic.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M43",
+    "level": "L4",
+    "name": "Marginal combat lead",
+    "source_lines": "2276–2290",
+    "structure": "Compare small surplus with large overcommitment and insufficient attack.",
+    "acceptance": "Opponent may decline or change response; check exact thresholds.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M44",
+    "level": "L4",
+    "name": "Pass with retained options",
+    "source_lines": "2291–2314",
+    "structure": "If current trade acceptable, compare passing with committing before opponent response.",
+    "acceptance": "Verify focus, priority, resolution and legal reactions.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M45",
+    "level": "L4",
+    "name": "Fight selection checklist",
+    "source_lines": "2315–2331",
+    "structure": "Compare scores, resource range, initial margins and future state after each outcome.",
+    "acceptance": "Consider losses, alternative holds and no-fight option.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M46",
+    "level": "L4",
+    "name": "Baseline-relative risk",
+    "source_lines": "2332–2395",
+    "structure": "Increase variance only when the safer attainable line has inadequate prospects.",
+    "acceptance": "Evaluate expected utility and failure, not observed result alone.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M47",
+    "level": "L4",
+    "name": "Concealed-card conditional model",
+    "source_lines": "2361–2395",
+    "structure": "Use known copies as prior evidence, model selection and alternate identities.",
+    "acceptance": "Three versus one remaining copies yields 75% only under equal candidate selection; not posterior.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M48",
+    "level": "L4",
+    "name": "Reserve-sensitive fallback",
+    "source_lines": "2365–2385",
+    "structure": "Compare larger immediate investment with smaller commitment retaining response capacity.",
+    "acceptance": "Verify all proposed options and opposing responses.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M49",
+    "level": "L4",
+    "name": "Practical pressure under adversity",
+    "source_lines": "2397–2453",
+    "structure": "Offer legitimate independent choices when position is weak rather than assume surrender necessary.",
+    "acceptance": "No intentional confusion, pace abuse or rule exploitation; rival can play optimally.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M50",
+    "level": "L4",
+    "name": "Contextual hand hypotheses",
+    "source_lines": "2454–2473",
+    "structure": "Combine public actions, permitted observations and probabilistic evidence; maintain alternatives.",
+    "acceptance": "Body language unreliable; do not assert private state.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M51",
+    "level": "L4",
+    "name": "Credible bluff cost",
+    "source_lines": "2454–2473",
+    "structure": "Compare a line representing a legal response with downside if rival challenges.",
+    "acceptance": "No misstatement of public state or illegal deception.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M52",
+    "level": "L3",
+    "name": "Reaction-window inventory",
+    "source_lines": "2474–2495",
+    "structure": "Map actual trigger windows and legal response opportunities before relying on tactical branch.",
+    "acceptance": "Check current official rules, exact card text and turn order.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M53",
+    "level": "L6",
+    "name": "Adjudication realism",
+    "source_lines": "2474–2495",
+    "structure": "Characters can consult judges, correct genuine mistakes and preserve match integrity.",
+    "acceptance": "Respect procedure, pace and confidentiality; never exploit private rulings.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M54",
+    "level": "L6",
+    "name": "Humor as peer interaction",
+    "source_lines": "1–36,74–96,2517–2527",
+    "structure": "Use informal self-deprecation, enthusiasm and teasing as social functions.",
+    "acceptance": "Original language and independent character voice; no real persona copying.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M55",
+    "level": "L6",
+    "name": "Identity and ambition",
+    "source_lines": "1–16,37–96",
+    "structure": "Differentiate competitive status, preference, qualification objective and willingness to learn.",
+    "acceptance": "Do not import real biography into canon.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  },
+  {
+    "id": "RNG-M56",
+    "level": "L4",
+    "name": "Coaching through alternatives",
+    "source_lines": "1372–1464,2509–2516",
+    "structure": "Use explicit choice, rationale, feedback and subsequent test rather than lecture.",
+    "acceptance": "No uninspected footage claimed; original exercise and verified state.",
+    "status": "candidate_untested",
+    "overlap": "Compare NLM/NLD and EKK/VEX/RIV/IRE/KSA/SET; not certified independent novelty."
+  }
+]

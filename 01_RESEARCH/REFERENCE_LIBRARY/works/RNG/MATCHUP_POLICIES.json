@@ -1,0 +1,448 @@
+{
+  "matches": [
+    {
+      "opponent": "Yi Proving Grounds",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "side_lines": "559–603",
+      "play_lines": "1467–1514",
+      "battlefield_preferences": [
+        "Dais/Seat",
+        "Star Spring",
+        "Dais/Seat"
+      ],
+      "plan": "Ferrous and large combat modifiers; force multi-body fights, preserve resources and track response range.",
+      "sideboard_policy": "First: reduce Kinkou/Thrill; add Sabotage, Darius, two Ferrous, optional Brynhir/Rampage. Second: reduce Thrill and Kai'Sa/Inferna; same core incoming.",
+      "guard": "Exact Yi identity not confirmed; variants/ranges not a fixed swap list.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Diana",
+      "profile_candidates": [
+        "FT-L10"
+      ],
+      "side_lines": "604–647",
+      "play_lines": "1557–1612",
+      "battlefield_preferences": [
+        "Seat/Star Spring",
+        "Seat/Star Spring",
+        "Dais"
+      ],
+      "plan": "Prioritize engine removal and preserve modest scoring bodies; avoid wide exposure.",
+      "sideboard_policy": "Both: reduce Ferrous and Pyke, vary Kinkou/Inferna/Thrill; Decree and Rampage core, other tech conditional.",
+      "guard": "No guarantee of clearing or denying engine.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "side_lines": "648–697",
+      "play_lines": "1515–1556",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Early hold and later decisive contest; avoid bad fights and protected carry.",
+      "sideboard_policy": "First: reduce Kinkou/Thrill; second: reduce Thrill and optional early bodies; Sabotage/Rampage/Brynhir core; Ferrous/Darius/Elder conditional.",
+      "guard": "May simultaneously recommend removing and adding Ferrous depending on variant; separate branches.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Aurora group (Jayce/Sivir/Poppy/Ambessa)",
+      "profile_candidates": [
+        "FT-L21",
+        "FT-L53",
+        "FT-L42",
+        "FT-L06"
+      ],
+      "side_lines": "698–742",
+      "play_lines": "1699–1755",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Proactive scoring and disruption before costly engine, conditional reaction windows.",
+      "sideboard_policy": "Both: reduce Nidalee/Rampage/Punch; add Sabotage/Brynhir/Ferrous/Darius, Decree for Jayce.",
+      "guard": "Banned Aurora/Brynhir; conditional side plan not always balanced.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Kennen",
+      "profile_candidates": [
+        "FT-L25"
+      ],
+      "side_lines": "743–785",
+      "play_lines": "1655–1698",
+      "battlefield_preferences": [
+        "Seat/Star Spring",
+        "Star Spring/Seat",
+        "Dais"
+      ],
+      "plan": "Remove supporting bodies and engine; wait rather than overextend.",
+      "sideboard_policy": "Both reduce Ferrous and other flexible roles; Rampage and Against the Odds core; Darius/Brynhir optional.",
+      "guard": "Historical Rhasa/Stacked Deck context; not current rules.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "LeBlanc",
+      "profile_candidates": [
+        "FT-L28"
+      ],
+      "side_lines": "786–834",
+      "play_lines": "1613–1654",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Deny recurring engine and resource development; close before later payoff.",
+      "sideboard_policy": "First remove Ferrous/Sabotage and 2–3 flexible 3-drops, optional Brynhir in; second remove Ferrous/Sabotage/Inferna; add Rampage/Against the Odds/Darius/two Decree.",
+      "guard": "Avoid giving opposing battlefield synergy; dated legal verification.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Azir",
+      "profile_candidates": [
+        "FT-L08"
+      ],
+      "side_lines": "835–878",
+      "play_lines": "1799–1839",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Disrupt equipment/Arise access, remove small bodies, retain recovery.",
+      "sideboard_policy": "First reduce 3-drops/Rampage/Thrill and conditionally Brynhir; second Inferna/Thrill; add Against the Odds/Sabotage/two Ferrous and optional Brynhir.",
+      "guard": "Ranges require a specific balanced inventory.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Pyke",
+      "profile_candidates": [
+        "FT-L43"
+      ],
+      "side_lines": "879–922",
+      "play_lines": "1875–1908",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Protect development against control and exploit efficient bodies.",
+      "sideboard_policy": "Both reduce early/flex units or Punch; add Sabotage and conditional Rampage/Brynhir/Ferrous.",
+      "guard": "Variant dependence; no universal plan.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Ezreal",
+      "profile_candidates": [
+        "FT-L14"
+      ],
+      "side_lines": "923–964",
+      "play_lines": "1909–1965",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Preserve access against removal, plan base development and score before late reset.",
+      "sideboard_policy": "First remove Inferna/Pyke/three Punch; add Sabotage/two Decree/two Ferrous. Second flexible Inferna/Punch cuts, same core plus Brynhir or Darius.",
+      "guard": "Respect event pace; no endorsement of stalling.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Akali",
+      "profile_candidates": [
+        "FT-L05"
+      ],
+      "side_lines": "965–1008",
+      "play_lines": "1840–1874",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Disrupt snowballing card access; late contingency if pressure fails.",
+      "sideboard_policy": "Both remove Thrill/Sabotage and flexible bodies; add Elder/Darius/Brynhir/two Ferrous/Rampage, optional Against the Odds.",
+      "guard": "Historical Herder/Hourglass references.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Viktor",
+      "profile_candidates": [
+        "FT-L57"
+      ],
+      "side_lines": "1009–1051",
+      "play_lines": "1756–1798",
+      "battlefield_preferences": [
+        "Star Spring/Seat",
+        "Star Spring/Seat",
+        "Dais"
+      ],
+      "plan": "Maintain score lead, protect resource bridge, preserve expendable bodies.",
+      "sideboard_policy": "Both reduce Punch/Rampage and flex bodies/Brynhir; add Sabotage/two Decree/two Ferrous and conditional Against the Odds.",
+      "guard": "No automatic lockout or confirmed win rate.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Rengar mirror",
+      "profile_candidates": [
+        "FT-L47"
+      ],
+      "side_lines": "1052–1095",
+      "play_lines": "1966–2011",
+      "battlefield_preferences": [
+        "Dais/Seat",
+        "Star Spring",
+        "Dais/Seat"
+      ],
+      "plan": "Avoid multi-body loss, preserve unit density and compare repeated development to recall.",
+      "sideboard_policy": "Both remove Sabotage and flexible Thrill/Kinkou/Brynhir; add two Ferrous/Against the Odds, Rampage and Darius conditional or recommended.",
+      "guard": "Play-order dependence and historical banned fields.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Vex",
+      "profile_candidates": [
+        "FT-L55"
+      ],
+      "side_lines": "1106–1155",
+      "play_lines": "2014–2056",
+      "battlefield_preferences": [
+        "Star Spring",
+        "Seat",
+        "Dais"
+      ],
+      "plan": "Compare mass development against repeated pressure; prioritize resource engine and isolate concealed support.",
+      "sideboard_policy": "Both reduce Pyke/Thrill and conditional Ferrous/other units; add Brynhir/Rampage/Elder/Against the Odds/Sabotage with optional Darius/Ferrous.",
+      "guard": "Specific control variant matters; no deterministic win.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Lillia/Ornn Sprites",
+      "profile_candidates": [
+        "FT-L31",
+        "FT-L41"
+      ],
+      "side_lines": "1156–1201",
+      "play_lines": null,
+      "battlefield_preferences": [
+        "Star Spring/Seat",
+        "Star Spring/Seat",
+        "Dais"
+      ],
+      "plan": "Develop toward a durable hold while accepting temporary deficit.",
+      "sideboard_policy": "Both reduce Thrill/Brynhir/Inferna; add two Ferrous/Sabotage/Against the Odds; optional Decree/Rampage/Darius.",
+      "guard": "Sideboard overview only, separate detailed mulligan section absent.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Draven",
+      "profile_candidates": [
+        "FT-L11"
+      ],
+      "side_lines": "1202–1244",
+      "play_lines": null,
+      "battlefield_preferences": [
+        "Seat",
+        "Star Spring",
+        "Dais"
+      ],
+      "plan": "Assess bounce and weapon-dependent resource gain; avoid offering profitable trades.",
+      "sideboard_policy": "First optional Ferrous/Kinkou cuts, Against the Odds/Rampage/optional Brynhir. Second reduce Inferna/Ferrous; add Against the Odds/Rampage/optional Darius/Brynhir.",
+      "guard": "Sideboard overview only; separate detailed guide absent; historical Draven context.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Darius/Rek'Sai",
+      "profile_candidates": [
+        "FT-L09",
+        "FT-L44"
+      ],
+      "side_lines": "1245–1280",
+      "play_lines": "2150–2200",
+      "battlefield_preferences": [
+        "flexible",
+        "flexible",
+        "flexible"
+      ],
+      "plan": "Race with resilient bodies, regain point tempo, respect wide attacks.",
+      "sideboard_policy": "First reduce Brynhir and 2 Kinkou/Rampage/Sabotage; add Against the Odds/two Ferrous. Second reduce Inferna/Brynhir; add same core, optional Darius.",
+      "guard": "No extra copies beyond legal limits.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Kha'Zix",
+      "profile_candidates": [
+        "FT-L26"
+      ],
+      "side_lines": "1281–1319",
+      "play_lines": "2057–2106",
+      "battlefield_preferences": [
+        "Dais",
+        "Arena's",
+        "Seat"
+      ],
+      "plan": "Compete over movement timing and body density, protect against fast scoring.",
+      "sideboard_policy": "Both remove Brynhir/Ferrous and one flexible body; add Sabotage/Against the Odds/Rampage.",
+      "guard": "Arena's Greatest candidate shorthand banned; exact triggers unverified.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    },
+    {
+      "opponent": "Fiora Aurora/Hook",
+      "profile_candidates": [
+        "FT-L15"
+      ],
+      "side_lines": "1320–1365",
+      "play_lines": "2107–2149",
+      "battlefield_preferences": [
+        "Seat",
+        "Star Spring",
+        "Dais"
+      ],
+      "plan": "Pressure before expensive engine while maintaining safe board.",
+      "sideboard_policy": "Both reduce Sabotage/Nidalee; add two Ferrous and conditional Brynhir/Darius/Rampage.",
+      "guard": "Banned Hook/Aurora; author expresses severe difficulty, not measured odds.",
+      "status": "historical conditional source policy; not exact legal swaps",
+      "win_rate": null
+    }
+  ],
+  "guards": [
+    {
+      "lines": "1–16,50–62",
+      "issue": "Singapore 10–3 implies 13 reported matches, but diversity statement refers to 12 rounds; unresolved scope, not an invented missing pairing."
+    },
+    {
+      "lines": "50–62",
+      "issue": "Claim of most matchup win rates above 40% except Jayce, and uniqueness across Legends, not independently verified; linked stats page not retrieved."
+    },
+    {
+      "lines": "63–73",
+      "issue": "Agency, Aurora outcomes and enjoyment are pilot judgments, not measured causal effects."
+    },
+    {
+      "lines": "145–289,293–325",
+      "issue": "Named 40+10 list reconciles; no current legal certification, exact printing crosswalk or linked deck image."
+    },
+    {
+      "lines": "149–173,269–274,305–306",
+      "issue": "Two Brynhir copies and two battlefields (Emperor's Dais and Star Spring) banned in Nov 23 snapshot."
+    },
+    {
+      "lines": "1281–1319",
+      "issue": "Arena's shorthand likely Arena's Greatest, snapshot banned; identity not confirmed."
+    },
+    {
+      "lines": "488–492,1372–1443,2353–2395",
+      "issue": "Determined Sentry appears in examples and earlier versions, absent from named current inventory; do not combine lists."
+    },
+    {
+      "lines": "559–1365",
+      "issue": "Ranges, optional entries and variant swaps sometimes unequal if interpreted literally. E.g. non-Jayce Aurora first/second cuts 7–8 copies but listed non-Jayce additions only 5. Do not silently balance or infer missing slots."
+    },
+    {
+      "lines": "559–603,1467–1514",
+      "issue": "Master Yi Proving Grounds wording does not resolve which FTG Legend; retain both candidates."
+    },
+    {
+      "lines": "1202–1244,1156–1201",
+      "issue": "Sideboard guidance present but separate detailed matchup/mulligan sections absent for Draven and Lillia/Ornn."
+    },
+    {
+      "lines": "1909–1965",
+      "issue": "Source time-pressure language is not permission to delay; follow official tournament pace and judge instructions."
+    },
+    {
+      "lines": "2361–2395",
+      "issue": "75% derived from three assumed Hidden Blade versus one remaining Guards; conditional equal selection and exhaustive two-card pool unproved; no real probability certified."
+    },
+    {
+      "lines": "2397–2453,2454–2473",
+      "issue": "Do not infer emotion from body language or source recollection; preserve rival agency and lawful play; no intentional rule confusion."
+    },
+    {
+      "lines": "2474–2495",
+      "issue": "All specific reaction-window, turn-player ordering, Hidden and movement-trigger claims require dated authoritative proof."
+    },
+    {
+      "lines": "2496–2508",
+      "issue": "Comic hostile aside excluded from strategic transfer; no encouragement of threats or unsafe conduct."
+    },
+    {
+      "lines": "2509–2516",
+      "issue": "VOD discussion promises possible future material; no footage or timestamped analysis supplied."
+    }
+  ],
+  "records": [
+    {
+      "event": "RQ Atlanta",
+      "deck": "Yasuo",
+      "wins": 9,
+      "losses": 4,
+      "draws": 0,
+      "best_of_claim": true,
+      "event_date": null,
+      "status": "self-reported"
+    },
+    {
+      "event": "RQ Vancouver",
+      "deck": "Yasuo",
+      "wins": 5,
+      "losses": 3,
+      "draws": 0,
+      "initial_record": "5–0",
+      "best_of_claim": false,
+      "legend_placement_claim": 2,
+      "event_date": null,
+      "status": "self-reported"
+    },
+    {
+      "event": "RQ Hartford",
+      "deck": "Rengar",
+      "wins": 10,
+      "losses": 1,
+      "draws": 2,
+      "placement": 19,
+      "best_of_claim": true,
+      "event_date": null,
+      "status": "self-reported"
+    },
+    {
+      "event": "Singapore",
+      "deck": "Rengar",
+      "wins": 10,
+      "losses": 3,
+      "draws": 0,
+      "placement": 35,
+      "legend_placement_claim": 2,
+      "event_date": null,
+      "status": "self-reported"
+    }
+  ],
+  "stats_url": "https://riftdecks.com/stats/winrate",
+  "stats_retrieved": false
+}

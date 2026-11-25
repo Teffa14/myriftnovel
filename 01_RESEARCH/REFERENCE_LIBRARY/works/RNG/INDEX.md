@@ -1,0 +1,2 @@
+# RNG — Mom Sky Rengar guide
+19,476 tokens, 72 source units, 25 card-role contexts, 18 matchup groups, 36 conditional play-order policy contexts, 3 partial tournament cases, 56 untested candidate mechanisms. Read ANALYSIS.md, DECK_AND_ROLES.json, MATCHUP_POLICIES.json, DECISION_CASES.json, MECHANISMS.json, EXERCISES.md, METRICS.json and QA.md. Historical banned dependencies; no certified current list or replay.

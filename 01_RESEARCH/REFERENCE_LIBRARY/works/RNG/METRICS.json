@@ -1,0 +1,544 @@
+{
+  "source": "Mom Sky free Rengar guide; exact title and publication date not supplied",
+  "author": "Mom Sky (self-attributed)",
+  "ingest_date": "2026-11-25",
+  "sha256": "73618803ff34ce30a2d607c5a7edfe09f4dd4af81ffb7aa2516ccf012e1fb380",
+  "bytes": 114881,
+  "lines": 2527,
+  "word_tokens": 19476,
+  "distinct_lowercase_forms": 2107,
+  "blank_line_separated_blocks": 712,
+  "image_placeholders": 16,
+  "method": "Python UTF-8-sig splitlines, Unicode alphabetic tokens with optional internal apostrophe/hyphen; headings and URLs included; lowercase types and blank-line blocks.",
+  "units": [
+    {
+      "id": "RNG-U01",
+      "start": 1,
+      "end": 16,
+      "tokens": 119,
+      "topic": "Author record"
+    },
+    {
+      "id": "RNG-U02",
+      "start": 17,
+      "end": 36,
+      "tokens": 134,
+      "topic": "Purpose"
+    },
+    {
+      "id": "RNG-U03",
+      "start": 37,
+      "end": 46,
+      "tokens": 91,
+      "topic": "Selection motivation"
+    },
+    {
+      "id": "RNG-U04",
+      "start": 47,
+      "end": 49,
+      "tokens": 45,
+      "topic": "Criteria"
+    },
+    {
+      "id": "RNG-U05",
+      "start": 50,
+      "end": 62,
+      "tokens": 219,
+      "topic": "Field diversity"
+    },
+    {
+      "id": "RNG-U06",
+      "start": 63,
+      "end": 73,
+      "tokens": 213,
+      "topic": "Agency"
+    },
+    {
+      "id": "RNG-U07",
+      "start": 74,
+      "end": 96,
+      "tokens": 104,
+      "topic": "Enjoyment"
+    },
+    {
+      "id": "RNG-U08",
+      "start": 97,
+      "end": 112,
+      "tokens": 41,
+      "topic": "Historical list link"
+    },
+    {
+      "id": "RNG-U09",
+      "start": 113,
+      "end": 133,
+      "tokens": 171,
+      "topic": "Engine"
+    },
+    {
+      "id": "RNG-U10",
+      "start": 134,
+      "end": 328,
+      "tokens": 2543,
+      "topic": "Included roles"
+    },
+    {
+      "id": "RNG-U11",
+      "start": 329,
+      "end": 453,
+      "tokens": 1440,
+      "topic": "Rejected alternatives"
+    },
+    {
+      "id": "RNG-U12",
+      "start": 454,
+      "end": 468,
+      "tokens": 53,
+      "topic": "Budget substitutions"
+    },
+    {
+      "id": "RNG-U13",
+      "start": 469,
+      "end": 499,
+      "tokens": 516,
+      "topic": "Sideboard theory"
+    },
+    {
+      "id": "RNG-U14",
+      "start": 500,
+      "end": 550,
+      "tokens": 559,
+      "topic": "Battlefield theory"
+    },
+    {
+      "id": "RNG-U15",
+      "start": 551,
+      "end": 558,
+      "tokens": 17,
+      "topic": "Heading"
+    },
+    {
+      "id": "RNG-U16",
+      "start": 559,
+      "end": 603,
+      "tokens": 138,
+      "topic": "Yi side"
+    },
+    {
+      "id": "RNG-U17",
+      "start": 604,
+      "end": 647,
+      "tokens": 155,
+      "topic": "Diana side"
+    },
+    {
+      "id": "RNG-U18",
+      "start": 648,
+      "end": 697,
+      "tokens": 248,
+      "topic": "Irelia side"
+    },
+    {
+      "id": "RNG-U19",
+      "start": 698,
+      "end": 742,
+      "tokens": 140,
+      "topic": "Aurora group side"
+    },
+    {
+      "id": "RNG-U20",
+      "start": 743,
+      "end": 785,
+      "tokens": 119,
+      "topic": "Kennen side"
+    },
+    {
+      "id": "RNG-U21",
+      "start": 786,
+      "end": 834,
+      "tokens": 157,
+      "topic": "LeBlanc side"
+    },
+    {
+      "id": "RNG-U22",
+      "start": 835,
+      "end": 878,
+      "tokens": 157,
+      "topic": "Azir side"
+    },
+    {
+      "id": "RNG-U23",
+      "start": 879,
+      "end": 922,
+      "tokens": 154,
+      "topic": "Pyke side"
+    },
+    {
+      "id": "RNG-U24",
+      "start": 923,
+      "end": 964,
+      "tokens": 95,
+      "topic": "Ezreal side"
+    },
+    {
+      "id": "RNG-U25",
+      "start": 965,
+      "end": 1008,
+      "tokens": 137,
+      "topic": "Akali side"
+    },
+    {
+      "id": "RNG-U26",
+      "start": 1009,
+      "end": 1051,
+      "tokens": 93,
+      "topic": "Viktor side"
+    },
+    {
+      "id": "RNG-U27",
+      "start": 1052,
+      "end": 1095,
+      "tokens": 148,
+      "topic": "Mirror side"
+    },
+    {
+      "id": "RNG-U28",
+      "start": 1096,
+      "end": 1105,
+      "tokens": 16,
+      "topic": "Heading"
+    },
+    {
+      "id": "RNG-U29",
+      "start": 1106,
+      "end": 1155,
+      "tokens": 157,
+      "topic": "Vex side"
+    },
+    {
+      "id": "RNG-U30",
+      "start": 1156,
+      "end": 1201,
+      "tokens": 173,
+      "topic": "Sprite group side"
+    },
+    {
+      "id": "RNG-U31",
+      "start": 1202,
+      "end": 1244,
+      "tokens": 122,
+      "topic": "Draven side"
+    },
+    {
+      "id": "RNG-U32",
+      "start": 1245,
+      "end": 1280,
+      "tokens": 122,
+      "topic": "Darius/Rek'Sai side"
+    },
+    {
+      "id": "RNG-U33",
+      "start": 1281,
+      "end": 1319,
+      "tokens": 110,
+      "topic": "Kha'Zix side"
+    },
+    {
+      "id": "RNG-U34",
+      "start": 1320,
+      "end": 1365,
+      "tokens": 143,
+      "topic": "Fiora ramp side"
+    },
+    {
+      "id": "RNG-U35",
+      "start": 1366,
+      "end": 1371,
+      "tokens": 13,
+      "topic": "Heading"
+    },
+    {
+      "id": "RNG-U36",
+      "start": 1372,
+      "end": 1400,
+      "tokens": 273,
+      "topic": "Opening horizon"
+    },
+    {
+      "id": "RNG-U37",
+      "start": 1401,
+      "end": 1407,
+      "tokens": 109,
+      "topic": "Key-card access"
+    },
+    {
+      "id": "RNG-U38",
+      "start": 1408,
+      "end": 1424,
+      "tokens": 136,
+      "topic": "Conditional risk"
+    },
+    {
+      "id": "RNG-U39",
+      "start": 1425,
+      "end": 1443,
+      "tokens": 170,
+      "topic": "Avoid stranded hand"
+    },
+    {
+      "id": "RNG-U40",
+      "start": 1444,
+      "end": 1464,
+      "tokens": 171,
+      "topic": "Practice over memorization"
+    },
+    {
+      "id": "RNG-U41",
+      "start": 1465,
+      "end": 1466,
+      "tokens": 5,
+      "topic": "Heading"
+    },
+    {
+      "id": "RNG-U42",
+      "start": 1467,
+      "end": 1514,
+      "tokens": 414,
+      "topic": "Yi play"
+    },
+    {
+      "id": "RNG-U43",
+      "start": 1515,
+      "end": 1556,
+      "tokens": 248,
+      "topic": "Irelia play"
+    },
+    {
+      "id": "RNG-U44",
+      "start": 1557,
+      "end": 1612,
+      "tokens": 294,
+      "topic": "Diana play"
+    },
+    {
+      "id": "RNG-U45",
+      "start": 1613,
+      "end": 1654,
+      "tokens": 210,
+      "topic": "LeBlanc play"
+    },
+    {
+      "id": "RNG-U46",
+      "start": 1655,
+      "end": 1698,
+      "tokens": 269,
+      "topic": "Kennen play"
+    },
+    {
+      "id": "RNG-U47",
+      "start": 1699,
+      "end": 1755,
+      "tokens": 516,
+      "topic": "Aurora group play"
+    },
+    {
+      "id": "RNG-U48",
+      "start": 1756,
+      "end": 1798,
+      "tokens": 287,
+      "topic": "Viktor play"
+    },
+    {
+      "id": "RNG-U49",
+      "start": 1799,
+      "end": 1839,
+      "tokens": 350,
+      "topic": "Azir play"
+    },
+    {
+      "id": "RNG-U50",
+      "start": 1840,
+      "end": 1874,
+      "tokens": 219,
+      "topic": "Akali play"
+    },
+    {
+      "id": "RNG-U51",
+      "start": 1875,
+      "end": 1908,
+      "tokens": 132,
+      "topic": "Pyke play"
+    },
+    {
+      "id": "RNG-U52",
+      "start": 1909,
+      "end": 1965,
+      "tokens": 489,
+      "topic": "Ezreal play"
+    },
+    {
+      "id": "RNG-U53",
+      "start": 1966,
+      "end": 2011,
+      "tokens": 295,
+      "topic": "Mirror play"
+    },
+    {
+      "id": "RNG-U54",
+      "start": 2012,
+      "end": 2013,
+      "tokens": 5,
+      "topic": "Heading"
+    },
+    {
+      "id": "RNG-U55",
+      "start": 2014,
+      "end": 2056,
+      "tokens": 285,
+      "topic": "Vex play"
+    },
+    {
+      "id": "RNG-U56",
+      "start": 2057,
+      "end": 2106,
+      "tokens": 376,
+      "topic": "Kha'Zix play"
+    },
+    {
+      "id": "RNG-U57",
+      "start": 2107,
+      "end": 2149,
+      "tokens": 211,
+      "topic": "Fiora ramp play"
+    },
+    {
+      "id": "RNG-U58",
+      "start": 2150,
+      "end": 2200,
+      "tokens": 252,
+      "topic": "Darius/Rek'Sai play"
+    },
+    {
+      "id": "RNG-U59",
+      "start": 2201,
+      "end": 2208,
+      "tokens": 83,
+      "topic": "Fundamentals intro"
+    },
+    {
+      "id": "RNG-U60",
+      "start": 2209,
+      "end": 2237,
+      "tokens": 407,
+      "topic": "Resource curve"
+    },
+    {
+      "id": "RNG-U61",
+      "start": 2238,
+      "end": 2248,
+      "tokens": 258,
+      "topic": "Plan revision"
+    },
+    {
+      "id": "RNG-U62",
+      "start": 2249,
+      "end": 2275,
+      "tokens": 379,
+      "topic": "Score horizon"
+    },
+    {
+      "id": "RNG-U63",
+      "start": 2276,
+      "end": 2290,
+      "tokens": 294,
+      "topic": "Combat margin"
+    },
+    {
+      "id": "RNG-U64",
+      "start": 2291,
+      "end": 2314,
+      "tokens": 334,
+      "topic": "Tied combat case"
+    },
+    {
+      "id": "RNG-U65",
+      "start": 2315,
+      "end": 2331,
+      "tokens": 337,
+      "topic": "Fight timing"
+    },
+    {
+      "id": "RNG-U66",
+      "start": 2332,
+      "end": 2396,
+      "tokens": 1133,
+      "topic": "Risk and Azir case"
+    },
+    {
+      "id": "RNG-U67",
+      "start": 2397,
+      "end": 2453,
+      "tokens": 662,
+      "topic": "Recovery and Draven case"
+    },
+    {
+      "id": "RNG-U68",
+      "start": 2454,
+      "end": 2473,
+      "tokens": 512,
+      "topic": "Information and bluff"
+    },
+    {
+      "id": "RNG-U69",
+      "start": 2474,
+      "end": 2495,
+      "tokens": 350,
+      "topic": "Trigger timing"
+    },
+    {
+      "id": "RNG-U70",
+      "start": 2496,
+      "end": 2508,
+      "tokens": 72,
+      "topic": "Jayce aside"
+    },
+    {
+      "id": "RNG-U71",
+      "start": 2509,
+      "end": 2516,
+      "tokens": 43,
+      "topic": "VOD labels"
+    },
+    {
+      "id": "RNG-U72",
+      "start": 2517,
+      "end": 2527,
+      "tokens": 34,
+      "topic": "Conclusion"
+    }
+  ],
+  "counts": {
+    "role_contexts": 25,
+    "matchup_groups": 18,
+    "detailed_matchup_groups": 16,
+    "play_order_policy_contexts": 36,
+    "partial_cases": 3,
+    "mechanisms": 56,
+    "exercises": 6,
+    "guards": 16,
+    "banned_instances": 4
+  },
+  "checks": [
+    "72 contiguous units, 19476 tokens",
+    "40 including chosen",
+    "10 side, 3 fields, 12 runes",
+    "25 role contexts",
+    "4 listed banned instances",
+    "18 matchup groups, 16 detailed groups",
+    "FTG links exist",
+    "3 unique partial cases",
+    "4 self-reported event records",
+    "56 unique candidates",
+    "75 percent arithmetic conditional only",
+    "new source identifier"
+  ]
+}

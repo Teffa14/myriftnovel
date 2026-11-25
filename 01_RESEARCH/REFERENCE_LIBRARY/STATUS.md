@@ -95,3 +95,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## SET — Sett specialist guide (2026-11-25)
 [Research index](works/SET/INDEX.md): 19,092 tokens, 39 units, three historical layers, 37 role contexts, six matchups, eight swap configurations, 30 quiz prompts, 52 candidates and six original exercises. Missing images/key, mixed list versions and four ban flags. No full list or replay certified.
+
+## RNG — Mom Sky Rengar guide (2026-11-25)
+[Research index](works/RNG/INDEX.md): 19,476 tokens, 72 units, 25 card-role contexts, 18 matchup groups (16 detailed), 36 conditional play-order contexts, three partial cases, 56 candidates and six original exercises. Historical 40+10 text inventory; four banned instances; incomplete sideboard branches and unverified win-rate/record claims. No legal replay or canon change.
