@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "project": "Teffa14/myriftnovel",
+  "root": ".agents/skills",
+  "skills": [
+    {
+      "id": "tld-production",
+      "path": ".agents/skills/tld-production/SKILL.md",
+      "references": [
+        "AGENTS.md",
+        "08_CHAPTERS/CHATGPT_PRODUCTION.md",
+        "08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md",
+        "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+        "08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md"
+      ]
+    },
+    {
+      "id": "tld-repository",
+      "path": ".agents/skills/tld-repository/SKILL.md",
+      "references": [
+        "AGENTS.md",
+        "08_CHAPTERS/CHATGPT_PRODUCTION.md",
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+        "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md"
+      ]
+    },
+    {
+      "id": "tld-source-distillation",
+      "path": ".agents/skills/tld-source-distillation/SKILL.md",
+      "references": [
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/METHOD.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/MASTER_PROMPT.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/OUTPUT_TEMPLATES.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/CATALOG.tsv",
+        "01_RESEARCH/REFERENCE_LIBRARY/STATUS.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/SOURCE_PRIORITY.md"
+      ]
+    },
+    {
+      "id": "tld-continuity",
+      "path": ".agents/skills/tld-continuity/SKILL.md",
+      "references": [
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+        "07_CONTINUITY/CANON.md",
+        "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+        "03_STORY_BIBLE/IDENTITY_AND_SETTING.md",
+        "03_STORY_BIBLE/WORLD.md",
+        "04_CHARACTERS/CHARACTER_SYSTEM.md",
+        "04_CHARACTERS/RELATIONSHIPS.md",
+        "05_PLOT_ARCHITECTURE/ARCS.md",
+        "05_PLOT_ARCHITECTURE/SUBPLOTS.md"
+      ]
+    },
+    {
+      "id": "tld-chapter-planning",
+      "path": ".agents/skills/tld-chapter-planning/SKILL.md",
+      "references": [
+        "03_STORY_BIBLE/PREMISE.md",
+        "03_STORY_BIBLE/WORLD.md",
+        "04_CHARACTERS/CHARACTER_SYSTEM.md",
+        "04_CHARACTERS/RELATIONSHIPS.md",
+        "05_PLOT_ARCHITECTURE/ARCS.md",
+        "05_PLOT_ARCHITECTURE/SUBPLOTS.md",
+        "08_CHAPTERS/PILOT_20.md",
+        "08_CHAPTERS/CHARACTER_INTERLUDES.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md"
+      ]
+    },
+    {
+      "id": "tld-competitive-evidence",
+      "path": ".agents/skills/tld-competitive-evidence/SKILL.md",
+      "references": [
+        "06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md",
+        "06_COMPETITIVE_ENGINE/AUTONOMOUS_PRODUCTION.md",
+        "06_COMPETITIVE_ENGINE/EVIDENCE/README.md",
+        "06_COMPETITIVE_ENGINE/EVIDENCE/STRATEGY_AND_NARRATION.md",
+        "06_COMPETITIVE_ENGINE/RIFTBOUND/README.md",
+        "06_COMPETITIVE_ENGINE/RIFTBOUND/sources.json",
+        "06_COMPETITIVE_ENGINE/EVIDENCE/JUDGE_CASES/README.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/SOURCE_PRIORITY.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/LEGEND_PROFILES.json",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/CARD_CONTEXTS.json",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md",
+        "06_COMPETITIVE_ENGINE/autonomous_evidence.js"
+      ]
+    },
+    {
+      "id": "tld-prose",
+      "path": ".agents/skills/tld-prose/SKILL.md",
+      "references": [
+        "02_STYLE_BIBLE/STYLE.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/SENTENCE_PATTERNS.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/BLOCK_PATTERNS.md",
+        "01_RESEARCH/COMMUNITY/COMMUNITY_PROTOCOL.md",
+        "01_RESEARCH/COMMUNITY/README.md",
+        "08_CHAPTERS/CHARACTER_INTERLUDES.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md"
+      ]
+    },
+    {
+      "id": "tld-editorial-review",
+      "path": ".agents/skills/tld-editorial-review/SKILL.md",
+      "references": [
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+        "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md",
+        "09_EDITORIAL_QA/CH0001_REVISION_BENCHMARKS.json",
+        "02_STYLE_BIBLE/STYLE.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/EDITORIAL_MECHANISMS.md",
+        "06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md"
+      ]
+    },
+    {
+      "id": "tld-originality",
+      "path": ".agents/skills/tld-originality/SKILL.md",
+      "references": [
+        "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md",
+        "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+        "02_STYLE_BIBLE/ORIGINALITY/repetition_check.py",
+        "02_STYLE_BIBLE/ORIGINALITY/test_repetition_check.py",
+        "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md"
+      ]
+    },
+    {
+      "id": "tld-closeout",
+      "path": ".agents/skills/tld-closeout/SKILL.md",
+      "references": [
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+        "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md",
+        "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+        "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+        "07_CONTINUITY/CANON.md",
+        "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md"
+      ]
+    },
+    {
+      "id": "tld-publication",
+      "path": ".agents/skills/tld-publication/SKILL.md",
+      "references": [
+        "10_PUBLICATION/COMMERCIAL_STRATEGY.md",
+        "10_PUBLICATION/MARKET_VALIDATION.md",
+        "10_PUBLICATION/BRAND_IDENTITY.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md",
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md"
+      ]
+    }
+  ],
+  "routes": {
+    "write_next_chapter": [
+      "tld-production",
+      "tld-repository",
+      "tld-continuity",
+      "tld-chapter-planning",
+      "tld-competitive-evidence:if_applicable",
+      "tld-prose",
+      "tld-editorial-review",
+      "tld-originality"
+    ],
+    "revise_chapter": [
+      "tld-production",
+      "tld-repository",
+      "tld-continuity",
+      "tld-competitive-evidence:if_applicable",
+      "tld-editorial-review",
+      "tld-originality"
+    ],
+    "approved_closeout": [
+      "tld-repository",
+      "tld-continuity",
+      "tld-originality",
+      "tld-closeout"
+    ],
+    "research_distillation": [
+      "tld-repository",
+      "tld-source-distillation"
+    ],
+    "competitive_research": [
+      "tld-repository",
+      "tld-competitive-evidence"
+    ],
+    "commercial_readiness": [
+      "tld-repository",
+      "tld-publication"
+    ],
+    "git_status_or_edit": [
+      "tld-repository"
+    ]
+  },
+  "invariants": [
+    "live canonical protocols prevail",
+    "private archive verified before drafting",
+    "no next chapter before previous approval and G6 close-out",
+    "no public manuscript or retired expressions",
+    "G3-scene scoped, G3-global separate",
+    "explicit publication authorization required"
+  ]
+}
