@@ -6,3 +6,5 @@ Start here: 03_STORY_BIBLE/IDENTITY_AND_SETTING.md, PREMISE.md, WORLD.md; 04_CHA
 Production: finalize pilot briefs → validate legal match logs → write and edit 20 chapters → private reader test → rights and publishing gates. Do not create real future tournament outcomes or guarantee sales. No complete manuscript or decisive late-saga spoilers in this public repository; protect private material locally. The title remains subject to clearance (existing homonym). No external publishing, paid account or license granted by this commit.
 
 Permanent agent instructions: [AGENTS.md](AGENTS.md). Author-mandated recursive originality system: [NDM 2.0 protocol](02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md). Every approved chapter becomes a private source and retires its distinctive prose; no next chapter before originality and distillation gate. Zero approved production chapters registered at initialization.
+
+Production prompts: [master author](08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md), [recursive distillation](08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md), [final execution](08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md). Use final execution prompt in Codex.

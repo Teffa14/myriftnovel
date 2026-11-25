@@ -3,3 +3,5 @@
 Pilot: 20 chapters, no mass production. First 5 privately beta-reviewed after draft, then full pilot. Keep 10-chapter reserve after acceptance; cadence 3/week only when rights and editorial gates pass. No AI scores as certification, no public publication without permissions and review.
 
 Mandatory recursive close-out (NDM 2.0): before drafting load and verify complete private archive and retirement/usage indexes; after editing run lexical and semantic originality checks; resolve flags before explicit approval. After approval, distill exact final version, register retired expressions and mechanism usage, verify manifest, update continuity. G6 blocks starting the next chapter. See ../02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md.
+
+Execution entry point: PROMPTS/FINAL_EXECUTION_PROMPT.md; full author and recursive prompts in PROMPTS/ are mandatory. Resume incomplete approved-chapter close-out before any next draft; pending approval blocks advancement.
