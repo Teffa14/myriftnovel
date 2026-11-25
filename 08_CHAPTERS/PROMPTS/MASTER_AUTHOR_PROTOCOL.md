@@ -83,21 +83,8 @@ Todos los personajes deben conservar agencia independiente. Los rivales pueden s
 
 Nico Vega debe progresar mediante experiencia, observación, experimentación, derrotas, adaptación y decisiones difíciles. Su inteligencia debe demostrarse mediante acciones verificables y razonamiento contextual. Nunca utilices admiración automática, incompetencia artificial de los rivales o coincidencias convenientes para justificar su superioridad.
 
-## 7. Precisión competitiva absoluta
-Riftbound debe conservar sus reglas reales correspondientes a la fecha, región y formato de cada partida.
-
-Antes de narrar cualquier enfrentamiento:
-1. Consulta las cartas y sus textos efectivos.
-2. Verifica erratas, FAQ y restricciones.
-3. Comprueba la banlist y la legalidad de ambos mazos.
-4. Establece las condiciones iniciales.
-5. Genera o recupera un registro reproducible de la partida.
-6. Valida cada acción, coste, efecto, objetivo, ventana de prioridad, movimiento y puntuación.
-7. Registra la información disponible para cada jugador en cada momento.
-
-Los jugadores deben actuar utilizando únicamente la información que legítimamente poseen. No alteres artificialmente robos, resultados o decisiones para favorecer al protagonista. Selecciona posteriormente los momentos relevantes del enfrentamiento para construir la experiencia narrativa. El lector principiante debe comprender qué está en juego. El jugador experimentado debe poder verificar las decisiones.
-
-Si faltan datos o reglas, resuelve las dependencias cuando sea posible. Si una partida no puede validarse, marca esa escena como bloqueada y continúa con las escenas independientes. No inventes mecánicas ni declares pruebas inexistentes.
+## 7. Integridad competitiva autónoma
+Aplica 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md. Las partidas son ficción construida por el equipo de producción; el autor no debe aportar replays ni arbitrar. Separa G3-global (cobertura completa y motor, todavía incompleto) de G3-scene (evidencia obligatoria para cada afirmación mecánica narrada). Selecciona alcance L0 (narración general), L1 (segmento táctico acotado) o L2 (partida integral). Consulta reglas oficiales de la fecha, región y formato; verifica texto efectivo y legalidad de cartas nombradas, erratas, FAQ y banlist aplicables. Construye estado, decisiones, información y consecuencias; registra premisas ficticias y fuentes. Ejecuta comprobaciones adecuadas al alcance y revisión separada de reglas; no declares replay completo si no existe. Para L2 verifica mazos y cada acción, coste, efecto, objetivo, prioridad, movimiento y puntuación desde el inicio. Para L1 comprueba transiciones narradas y efectos pertinentes, sin presentar los turnos omitidos como verificados. Si no consigues validar una interacción, sustitúyela por una interacción comprobable o reduce el nivel de detalle, sin perder la causalidad ni inventar mecánicas. No alteres semillas para favorecer al protagonista; los resultados de ficción pueden seleccionarse editorialmente y no se presentan como datos reales. No afirmes que una alternativa era óptima sin evidencia. Registra competitive_replay.json con alcance, premisas, fuentes, afirmaciones y evidencias, resultados de pruebas y límites. El caso CH01_SCORING_OPTION.json es una opción condicional, no una partida completa ni una escena aprobada.
 
 ## 8. Calidad comercial
 Cada capítulo debe ofrecer una razón concreta para continuar leyendo. Prioriza conflictos comprensibles, personajes memorables, curiosidad, humor orgánico, progresión perceptible, decisiones significativas, recompensas narrativas, consecuencias emocionales, incertidumbre estratégica y relaciones que evolucionan.
@@ -172,7 +159,7 @@ Para cada capítulo produce:
 - chapter_final.md — versión literaria revisada.
 - continuity_delta.json — cambios de estado propuestos.
 - narrative_patterns.json — mecanismos utilizados y función de cada uno.
-- competitive_replay.json — registro validado cuando exista una partida.
+- competitive_replay.json — registro de evidencia competitiva, con alcance explícito; replay integral solo para L2.
 - qa_report.md — pruebas ejecutadas, evidencia, defectos corregidos y pendientes.
 
 Guarda los manuscritos y spoilers en un espacio privado o local. El repositorio público solo puede recibir materiales autorizados para esa visibilidad. No publiques automáticamente la novela ni monetices contenido sin resolver los derechos correspondientes.
@@ -184,3 +171,5 @@ Completa una unidad de producción antes de avanzar a la siguiente. El canon, la
 
 ## Extensión obligatoria
 Aplica también RECURSIVE_DISTILLATION_PROMPT.md y el protocolo NDM 2.0 de originalidad. El cierre posterior a la aprobación explícita es una condición para comenzar el capítulo siguiente. Las cifras de corpus anteriores son una línea base histórica, no límites ni objetivos de cuota.
+
+Competitive policy v2 (2026-11-25): 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md takes precedence over older references to full replay, full catalog coverage or global G3 blocking production. The author is never required to provide games or rules adjudication. The current CH01 example has ten executed conditional scoring tests, not a full match or approval. G6, author approval and rights gates remain unchanged.

@@ -10,3 +10,5 @@ Permanent agent instructions: [AGENTS.md](AGENTS.md). Author-mandated recursive 
 Production prompts: [master author](08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md), [recursive distillation](08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md), [final execution](08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md). Use final execution prompt in Codex.
 
 Author-supplied WebNovel identity: [brand record](10_PUBLICATION/BRAND_IDENTITY.md). Former title The Final Draw is historical only; the repository URL remains unchanged.
+
+Competitive policy v2 (2026-11-25): 06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md takes precedence over older references to full replay, full catalog coverage or global G3 blocking production. The author is never required to provide games or rules adjudication. The current CH01 example has ten executed conditional scoring tests, not a full match or approval. G6, author approval and rights gates remain unchanged.
