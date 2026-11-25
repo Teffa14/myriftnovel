@@ -82,6 +82,49 @@
   },
   "chapter_03": {
     "status": "not_started",
-    "preflight": "Retrieve authoritative archive v3, run archive and continuity validators, load all three approved units and relevant abstract usage and continuity records. Compare candidate against all three before approval; honor previously established commitments and knowledge boundaries."
+    "preflight": "Retrieve authoritative archive v3, run archive and continuity validators, load all three approved units and relevant abstract usage and continuity records. Compare candidate against all three before approval; honor previously established commitments and knowledge boundaries.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "6c48b247eca6280860b6562b2a8e9ee6179aa744",
+      "repository_inventory": {
+        "entries": 275,
+        "blobs": 230,
+        "truncated": false
+      },
+      "archive_verified": true,
+      "approved_units": 3,
+      "retired_expressions": 127,
+      "usage_records": 47,
+      "continuity_records": 152,
+      "timeline_events": 14,
+      "structural_errors": 0,
+      "open_issue_groups": 5,
+      "named_checks_passed": 27,
+      "named_checks_failed": 0,
+      "guard_regression_tests_passed": 4,
+      "research_bundles_reviewed": [
+        "FRY",
+        "48P",
+        "MED",
+        "MAJ",
+        "NLM",
+        "NLD",
+        "WNG"
+      ],
+      "reported_candidate_entries": 140,
+      "competitive_reference_screen": {
+        "historical_deck_samples": 2,
+        "deck_rows": 64,
+        "section_counts_match": 2,
+        "normalized_standard_ban_name_matches": 0,
+        "price_rows": 40,
+        "scoped_tactical_cases": 9,
+        "community_judge_cases": 56,
+        "scope": "historical composition and name screen; not full deck legality or replay"
+      },
+      "planned_competitive_scope": "L0 by default; L1 only after exact dated claim verification",
+      "private_dossier": "/The Last Draw - Private Archive/CH0003_preflight.zip",
+      "limitations": "Scoped source review, not all 230 files or raw third-party corpus exhaustively read; new scene details provisional; no draft-specific originality or mechanical certification; no artificial scores or reader evidence."
+    }
   }
 }
