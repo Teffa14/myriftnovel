@@ -65,3 +65,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## MAJ — Pietari Majuri (2026-11-25)
 64 PDF pages extracted in Python, 14,940 tokens including front/back matter, 13,197 in main text; qualitative source study of 46 respondents. [Index](works/MAJ/INDEX.md). Ten candidate community/narrative mechanisms and five noncanonical English exercises, separate from prior fiction and strategic counts. No reader validation or new canon. The Flick 7z archive has encrypted header; zero members inspected, pending password and compatible extractor. No source files committed.
+
+## NLM — central competitive strategy reference (2026-11-25)
+[Research index](works/NLM/INDEX.md): 433 pages extracted; 105,555 cleaned word tokens total, 96,562 main-body words, 6,418 main-body word types, 70 main units and 136 glossary headings. 45 candidate mechanism entries, not independent certified techniques. All source sections mapped; selective qualitative review, no exhaustive paragraph-level semantic certification or image-only text extraction. 12 game-agnostic arithmetic tests passed; no Riftbound replay validated. Separate from prior corpus counts. Source not committed; no new canon.

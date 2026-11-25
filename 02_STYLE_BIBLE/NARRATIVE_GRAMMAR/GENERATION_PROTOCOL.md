@@ -75,3 +75,6 @@ Consult [MED candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MED/PATTERNS.
 
 ## MAJ narrative/player experience selector
 Use [MAJ candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAJ/PATTERNS.md) to distinguish personal attachment from deck efficiency, play mode from identity, and rules-driven events from interpretations. A scene may reward novice understanding of stakes and expert understanding of legal decisions together. Personal memories and extras' motivations remain grounded in approved continuity. No forced lore or recycled examples; survey observations are not reader validation.
+
+## NLM competitive decision selector
+Consult [NLM decision mechanisms](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/DECISION_MECHANISMS.md) and [transfer protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md) for substantive competitive decisions, preparation, deck construction, team testing and postgame review. Keep an explicit objective, verified state, legal alternatives, uncertainty and material consequence. Select mechanisms by scene function; never reproduce source examples, give every character the same strategic voice, or import MTG mechanics. Existing G3-scene and NDM 2.0 gates remain mandatory.

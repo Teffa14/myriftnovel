@@ -19,3 +19,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## MAJ — narrative resonance and verified play
 [MAJ](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAJ/INDEX.md) provides qualitative MTG evidence and editorial lenses, not Riftbound mechanics. M03/M04/M10 distinguish emergent stories, thematic resonance and causal narrative from legal state. Never derive effects from art, lore or another game's rules. Verify effective text and decision consequences under G3-scene; no contrived draw or outcome for narrative effect.
+
+## NLM — central TCG strategic lens
+[NLM](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/INDEX.md) is a major strategy reference for decision structure, resource accounting, contextual utility, role assignment, preparation and error review. Use [transfer protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md); distinguish historical MTG rules from actual dated Riftbound evidence. No optimality, hidden information, win probability or legal interaction asserted without independent evidence. The arithmetic fixtures are synthetic, not a replay engine.

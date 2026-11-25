@@ -1,0 +1,500 @@
+{
+  "source": "Patrick Chapin, Next Level Magic, copyright 2014; supplied filename NextLevelMagic2015.pdf",
+  "sha256": "9dedf14364cab62a467f46f0267b90f295b8ec9e2f1a7008d57e2a410050b822",
+  "bytes": 50029493,
+  "pages": 433,
+  "pages_with_image_objects": 163,
+  "raw_word_tokens": 108714,
+  "clean_word_tokens_all_pages": 105555,
+  "main_text_pages": [
+    6,
+    399
+  ],
+  "main_text_word_tokens": 96562,
+  "main_text_distinct_word_types": 6418,
+  "main_text_hapax": 2715,
+  "all_pages_distinct_word_types": 6774,
+  "all_pages_hapax": 2879,
+  "glossary_headwords": 136,
+  "glossary_word_tokens": 7617,
+  "unit_count": 72,
+  "main_units": 70,
+  "method": "PyMuPDF page text; trim lines; remove exact repeated title, page number, case-sensitive section running headers and exact front/back headers; tokenize Unicode alphabetic words with optional internal apostrophe/hyphen. Lowercase for frequency. Captions, headings, decklists and repeated callouts in extractable text remain; image-only text not OCRed; no claim of author-prose-only counts. Page 1 has zero extracted words.",
+  "sections": [
+    [
+      "intro",
+      6,
+      13,
+      2289,
+      674
+    ],
+    [
+      "shortcuts",
+      14,
+      57,
+      10445,
+      1946
+    ],
+    [
+      "perspectives",
+      58,
+      177,
+      29769,
+      3598
+    ],
+    [
+      "in_game",
+      178,
+      272,
+      22780,
+      2567
+    ],
+    [
+      "mental",
+      273,
+      320,
+      12624,
+      1971
+    ],
+    [
+      "archetypes",
+      321,
+      354,
+      7612,
+      1514
+    ],
+    [
+      "draft",
+      355,
+      397,
+      10493,
+      1637
+    ],
+    [
+      "conclusion",
+      398,
+      399,
+      550,
+      262
+    ],
+    [
+      "ack",
+      400,
+      403,
+      929,
+      404
+    ],
+    [
+      "glossary",
+      404,
+      433,
+      7617,
+      1688
+    ]
+  ],
+  "unit_metrics": [
+    [
+      6,
+      13,
+      2289
+    ],
+    [
+      14,
+      19,
+      1404
+    ],
+    [
+      20,
+      25,
+      1412
+    ],
+    [
+      26,
+      28,
+      775
+    ],
+    [
+      29,
+      31,
+      855
+    ],
+    [
+      32,
+      34,
+      683
+    ],
+    [
+      35,
+      41,
+      1672
+    ],
+    [
+      42,
+      45,
+      922
+    ],
+    [
+      46,
+      47,
+      433
+    ],
+    [
+      48,
+      57,
+      2289
+    ],
+    [
+      58,
+      68,
+      2172
+    ],
+    [
+      69,
+      75,
+      1683
+    ],
+    [
+      76,
+      78,
+      646
+    ],
+    [
+      79,
+      83,
+      1178
+    ],
+    [
+      84,
+      85,
+      462
+    ],
+    [
+      86,
+      110,
+      6340
+    ],
+    [
+      111,
+      112,
+      467
+    ],
+    [
+      113,
+      116,
+      950
+    ],
+    [
+      117,
+      119,
+      748
+    ],
+    [
+      120,
+      124,
+      1427
+    ],
+    [
+      125,
+      125,
+      213
+    ],
+    [
+      126,
+      133,
+      2130
+    ],
+    [
+      134,
+      137,
+      934
+    ],
+    [
+      138,
+      139,
+      585
+    ],
+    [
+      140,
+      144,
+      1176
+    ],
+    [
+      145,
+      149,
+      1042
+    ],
+    [
+      150,
+      161,
+      3214
+    ],
+    [
+      162,
+      168,
+      2022
+    ],
+    [
+      169,
+      174,
+      1485
+    ],
+    [
+      175,
+      177,
+      895
+    ],
+    [
+      178,
+      183,
+      1405
+    ],
+    [
+      184,
+      187,
+      847
+    ],
+    [
+      188,
+      191,
+      858
+    ],
+    [
+      192,
+      193,
+      462
+    ],
+    [
+      194,
+      200,
+      1607
+    ],
+    [
+      201,
+      207,
+      1517
+    ],
+    [
+      208,
+      216,
+      1966
+    ],
+    [
+      217,
+      223,
+      1693
+    ],
+    [
+      224,
+      229,
+      1488
+    ],
+    [
+      230,
+      238,
+      2294
+    ],
+    [
+      239,
+      243,
+      1229
+    ],
+    [
+      244,
+      259,
+      4571
+    ],
+    [
+      260,
+      268,
+      1928
+    ],
+    [
+      269,
+      272,
+      915
+    ],
+    [
+      273,
+      276,
+      1102
+    ],
+    [
+      277,
+      294,
+      4851
+    ],
+    [
+      295,
+      302,
+      1976
+    ],
+    [
+      303,
+      311,
+      2312
+    ],
+    [
+      312,
+      320,
+      2383
+    ],
+    [
+      321,
+      324,
+      974
+    ],
+    [
+      325,
+      326,
+      380
+    ],
+    [
+      327,
+      331,
+      1091
+    ],
+    [
+      332,
+      335,
+      813
+    ],
+    [
+      336,
+      342,
+      1381
+    ],
+    [
+      343,
+      345,
+      885
+    ],
+    [
+      346,
+      348,
+      646
+    ],
+    [
+      349,
+      349,
+      268
+    ],
+    [
+      350,
+      352,
+      683
+    ],
+    [
+      353,
+      354,
+      491
+    ],
+    [
+      355,
+      359,
+      1297
+    ],
+    [
+      360,
+      361,
+      399
+    ],
+    [
+      362,
+      365,
+      882
+    ],
+    [
+      366,
+      367,
+      434
+    ],
+    [
+      368,
+      373,
+      1493
+    ],
+    [
+      374,
+      380,
+      1766
+    ],
+    [
+      381,
+      381,
+      186
+    ],
+    [
+      382,
+      384,
+      796
+    ],
+    [
+      385,
+      391,
+      1848
+    ],
+    [
+      392,
+      397,
+      1392
+    ],
+    [
+      398,
+      399,
+      550
+    ],
+    [
+      400,
+      403,
+      929
+    ],
+    [
+      404,
+      433,
+      7617
+    ]
+  ],
+  "term_counts_main_exact": {
+    "shortcut": 21,
+    "feedback": 8,
+    "trump": 32,
+    "tempo": 60,
+    "card advantage": 59,
+    "virtual card advantage": 8,
+    "card utility": 1,
+    "card economy": 10,
+    "minimum game threshold": 2,
+    "stage one": 26,
+    "stage two": 26,
+    "stage three": 41,
+    "inevitability": 6,
+    "beatdown": 38,
+    "control": 195,
+    "mulligan": 12,
+    "sideboard": 54,
+    "mana": 223,
+    "manabase": 18,
+    "probability": 1,
+    "information cascade": 5,
+    "draft": 166,
+    "signals": 6,
+    "rapport": 21,
+    "mindful": 8,
+    "team": 150,
+    "playtest": 15,
+    "options": 58,
+    "mistake": 30,
+    "focus": 66,
+    "synergy": 19,
+    "combo": 87,
+    "archetype": 18,
+    "resource": 39,
+    "bluff": 7,
+    "mental": 46,
+    "top–›down": 22,
+    "bottom–›up": 17,
+    "back–›front": 11,
+    "front–›back": 11
+  },
+  "term_count_limit": "Case-insensitive exact surface forms, page-local whitespace normalized, nested matches permitted; not semantic or lemmatized frequencies."
+}

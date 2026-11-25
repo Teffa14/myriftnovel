@@ -1,0 +1,30 @@
+{
+  "execution": "Python interactive implementation executed in-session; saved reproduction script not separately run from Git",
+  "passed": 12,
+  "failed": 0,
+  "tests": [
+    "zero copies",
+    "certain draw",
+    "zero draws",
+    "source independent formula",
+    "marginal diminishing reach",
+    "invalid population",
+    "conditional expected utility",
+    "invalid weights",
+    "dominance requires all states",
+    "tradeoff not dominance",
+    "equal not dominance",
+    "mismatched vectors"
+  ],
+  "examples": {
+    "population_40_draws_5_access_probabilities_by_copies": [
+      0.125,
+      0.237179,
+      0.337551,
+      0.427071
+    ],
+    "population_50_successes_10_draws_3": 0.4959183673469387,
+    "conditional_expected_utility": 0.5
+  },
+  "scope": "Synthetic arithmetic, no specific game rules, match, actual win probabilities or game engine validated. Source's p. 227-style complement formula independently checked for the stated population."
+}
