@@ -1,0 +1,24 @@
+{
+  "date": "2026-11-25",
+  "sources": 6,
+  "inline_pasted_articles": 4,
+  "txt_attachments": 2,
+  "attached_texts": [
+    {
+      "id": "S05",
+      "bytes": 10451,
+      "sha256": "077d9b10aec6912d26240bd367f54772418451188091ef9912fc7ffadc50f5b6",
+      "word_tokens": 1758
+    },
+    {
+      "id": "S06",
+      "bytes": 22396,
+      "sha256": "8c7b7db1159f921a74ace89933656c574ba711f3d659940b5c43b7392bc872f3",
+      "word_tokens": 3584
+    }
+  ],
+  "attachment_word_tokens": 5342,
+  "method": "Python UTF-8-sig read, SHA-256 raw bytes, Unicode alphabetic word regex including internal apostrophe/hyphen; includes title/byline/metadata. Four inline articles inspected from supplied message; no token counts claimed for them.",
+  "candidate_controls": 20,
+  "coverage": "All supplied text considered; external screenshots not fetched; S06 practical Part 3 absent. No external current policy or market validation."
+}

@@ -71,3 +71,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## NLD — central deckbuilding reference (2026-11-25)
 [Research index](works/NLD/INDEX.md). 473 pages, 134,871 cleaned tokens, 9,264 word types, 47 main units; 16 archetype records and 29 decision refinements (overlap with NLM retained). Source p.21: 314 cells checked, 20 deviations above tolerance; exact formula passed 2,088 exhaustive small-population cases. Full computational coverage, selective semantic/visual review; no Riftbound deck or replay validated, no new canon.
+
+## WNG — Webnovel author and editor guidance (2026-11-25)
+[Research index](works/WNG/INDEX.md): six supplied articles, 20 candidate editorial/commercial controls, distinct from fiction and competitive research counts. All supplied text considered; two TXT files measured at 5,342 word tokens (inline articles not counted). S06 practical Part 3 missing; linked images and live policies not checked. Genre-specific advice and conflicting dated contract deadlines retained with caveats. No reader validation, actual application, canon or approved chapter change.

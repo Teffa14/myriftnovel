@@ -7,3 +7,6 @@ Model after rights: free entry → optional paid early access → ebook volumes,
 No public manuscript or definitive spoilers in public Git. No monetization without legal clearance. Do not promise sales. Market validation thresholds in MARKET_VALIDATION.md; revisit before launch.
 
 WebNovel is the current author-selected platform identity as reported by the author. Exact title and supplied cover recorded in BRAND_IDENTITY.md. Do not overwrite cover/listing or infer publication/monetization status. Rights clearance remains unresolved; existing image is not evidence of authorization. Other platforms are contingency options only.
+
+## Webnovel contract guidance intake
+See [WNG contract readiness](../01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md). Dated supplied July 2026 operations guide claims 12,000-word eligibility, seven business-day response and limited revision opportunities; October 2025 guide gives two weeks. Verify current account eligibility, remaining attempts, terms, AI disclosure and rights before any application. No automatic application or signature. Distinguish reader blurb from private causal outline and substantiate differentiation. G5 remains open; no rights clearance inferred.

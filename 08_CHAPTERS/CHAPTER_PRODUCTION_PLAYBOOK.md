@@ -69,3 +69,6 @@ For chapters featuring meaningful competition, consult 01_RESEARCH/REFERENCE_LIB
 
 ## NLD deckbuilding depth extension
 For meaningful deckbuilding scenes use 01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md with NLM and current legal evidence. Each material change has a reason, cost, alternative and evidence or labeled hypothesis. Preserve failures and independent rival objectives; avoid exposition unconnected to scene. No changes to approved chapters or canon.
+
+## WNG serial craft extension
+Consult 01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md for early reader promise, stage objectives, earned escalation, three-perspective review and feedback. Use current canon, independent character goals and genuine consequences. Do not force cliffhangers, romance, cheats, arbitrary conflicts or rewrite approved chapters. Separate reader-response hypotheses from actual panel evidence. Keep private editorial outline separate from reader blurb; no public spoilers. Existing gates prevail.
