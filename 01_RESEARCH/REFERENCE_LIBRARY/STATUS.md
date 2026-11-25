@@ -62,3 +62,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## MED — Marcus Aurelius (2026-11-25)
 12/12 body books processed in Python: 511 paragraphs, 45,253 word tokens, 1,535 sentence proxies. Selective semantic review, twelve grouped psychological/ethical candidates and six original noncanonical exercises. [Research index](works/MED/INDEX.md). Keep separate from historical narrative counts and FRY/48P; the three strategic/philosophical bundles now contain 36 candidate entries and 16 exercises, not necessarily independent mechanisms. No reader testing, full semantic certification, or new canon.
+
+## MAJ — Pietari Majuri (2026-11-25)
+64 PDF pages extracted in Python, 14,940 tokens including front/back matter, 13,197 in main text; qualitative source study of 46 respondents. [Index](works/MAJ/INDEX.md). Ten candidate community/narrative mechanisms and five noncanonical English exercises, separate from prior fiction and strategic counts. No reader validation or new canon. The Flick 7z archive has encrypted header; zero members inspected, pending password and compatible extractor. No source files committed.

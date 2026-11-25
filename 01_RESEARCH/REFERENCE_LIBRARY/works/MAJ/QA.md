@@ -1,0 +1,5 @@
+# MAJ QA — 2026-11-25
+Base c27149b5e2eb60cd236d88ec7259f85887cc0700. Recursive tree enumerated: 236 entries, 195 blobs, untruncated. Selected AGENTS, NDM method, community protocol, style, world, character system, scene integrity and chapter playbook inspected (several excerpts), plus append targets. Full repository contents, ZIPs and private archive not inspected. No manuscript production.
+Executed Python/PyMuPDF: all 64 PDF pages, byte count/hash, page-range counts; 14,940 tokens overall, 13,197 main-text tokens. Source context pp. 1–37, explicit file read pp. 38–57, conclusion and appendix checked against PDF text. Selected figures and captions inspected; not exhaustive visual audit. No OCR or POS. Saved script follows executed method; not separately run from Git.
+Archive read via libarchive failed at first header: encrypted header unsupported. No member inspected; hash and size recorded. Password and compatible extractor needed. No source text uploaded.
+Internal count and ID mapping checks passed before commit. No full semantic deduplication, independent reader tests, gameplay tests, representative inference, or canon additions. Status extracted.

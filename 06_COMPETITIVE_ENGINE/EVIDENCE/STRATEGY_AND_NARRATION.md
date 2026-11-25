@@ -16,3 +16,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## MED psychological/ethical complement
 [MED](../../01_RESEARCH/REFERENCE_LIBRARY/works/MED/INDEX.md) complements FRY and 48P. Use M02–M05 for postgame review and bounded preparation; M07–M12 for conflict, responsibility and ethical adaptation. A legal or advantageous play is not evidence of moral virtue; a loss is not evidence of bad judgment. Real game state, rules, recorded outcomes and obligations remain binding. No invented mental-state certainty or game interaction.
+
+## MAJ — narrative resonance and verified play
+[MAJ](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAJ/INDEX.md) provides qualitative MTG evidence and editorial lenses, not Riftbound mechanics. M03/M04/M10 distinguish emergent stories, thematic resonance and causal narrative from legal state. Never derive effects from art, lore or another game's rules. Verify effective text and decision consequences under G3-scene; no contrived draw or outcome for narrative effect.

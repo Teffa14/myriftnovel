@@ -72,3 +72,6 @@ Use [48P research candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/48P/PATT
 
 ## Optional psychological and ethical selector — MED
 Consult [MED candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MED/PATTERNS.md) for judgment, proportionate response, corrigibility, reciprocal support, disciplined practice and values under pressure. Distinguish actual events from interpretation, control of conduct from control of outcomes, and accountability from self-condemnation. Preserve practical costs, emotion, boundaries, independent goals and character-specific voice. No mandatory Stoic doctrine, clinical claim, recycled sample prose, or change to NDM 2.0 gates.
+
+## MAJ narrative/player experience selector
+Use [MAJ candidates](../../01_RESEARCH/REFERENCE_LIBRARY/works/MAJ/PATTERNS.md) to distinguish personal attachment from deck efficiency, play mode from identity, and rules-driven events from interpretations. A scene may reward novice understanding of stakes and expert understanding of legal decisions together. Personal memories and extras' motivations remain grounded in approved continuity. No forced lore or recycled examples; survey observations are not reader validation.
