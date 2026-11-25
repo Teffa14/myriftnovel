@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-25",
+  "method": "PyMuPDF page text; Unicode word regex excludes digits, includes internal hyphens/apostrophes; sentence proxy split on punctuation followed by whitespace, headings included. Counts not comparable to narrative-corpus metrics.",
+  "pdf": {
+    "pages": 136,
+    "bytes": 694638,
+    "sha256": "e636a25bf90f6b3253c4caeb7c7551ee8523f9879e8c55ea055e582355a84490"
+  },
+  "epub": {
+    "bytes": 2376510,
+    "sha256": "34f189d40bb6abf1d5f964549e3870e52c1cd0134e55cc4a7999794e4e60974c",
+    "spine_documents": 136,
+    "ocr_errors_observed": true,
+    "duplicate_edition_not_counted": true
+  },
+  "columns": [
+    "start_page",
+    "end_page",
+    "words",
+    "sentence_proxy",
+    "mean_words_per_sentence",
+    "median_words_per_sentence",
+    "question_marks",
+    "exclamation_marks"
+  ],
+  "units": {
+    "MUS-PREF": [
+      18,
+      19,
+      413,
+      23,
+      17.96,
+      18,
+      0,
+      0
+    ],
+    "MUS-EARTH": [
+      20,
+      30,
+      4324,
+      217,
+      19.93,
+      18,
+      1,
+      0
+    ],
+    "MUS-WATER": [
+      31,
+      49,
+      5203,
+      254,
+      20.48,
+      17,
+      0,
+      0
+    ],
+    "MUS-FIRE": [
+      50,
+      64,
+      5215,
+      253,
+      20.61,
+      18,
+      2,
+      0
+    ],
+    "MUS-WIND": [
+      65,
+      74,
+      3643,
+      156,
+      23.35,
+      20.5,
+      5,
+      0
+    ],
+    "MUS-EMPTY": [
+      75,
+      76,
+      326,
+      14,
+      23.29,
+      13.5,
+      0,
+      0
+    ],
+    "YAG-KILLING": [
+      81,
+      98,
+      7101,
+      371,
+      19.14,
+      16,
+      9,
+      0
+    ],
+    "YAG-LIFE": [
+      99,
+      112,
+      5110,
+      289,
+      17.68,
+      15,
+      0,
+      0
+    ],
+    "YAG-NOSWORD": [
+      113,
+      119,
+      2685,
+      147,
+      18.27,
+      17,
+      1,
+      1
+    ]
+  },
+  "total_words": 34020,
+  "limitations": [
+    "POS, paragraph segmentation and lexical frequency audit not executed",
+    "No full paragraph-level semantic certification",
+    "Translation/OCR artifacts; PDF selected for counts",
+    "Excluded translator material, notes, bibliography and promotional excerpt"
+  ]
+}
