@@ -1,0 +1,69 @@
+[
+  {
+    "id": "AZI-X01",
+    "mechanisms": [
+      "AZI-M01",
+      "AZI-M02",
+      "AZI-M05"
+    ],
+    "task": "Compare losing a disposable carrier with losing its persistent investment; account for the next available carrier and cost.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AZI-X02",
+    "mechanisms": [
+      "AZI-M04",
+      "AZI-M09",
+      "AZI-M11"
+    ],
+    "task": "A visible small threat has several legal potential modifiers; compare bounded opponent responses and actual resource reserve.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AZI-X03",
+    "mechanisms": [
+      "AZI-M15",
+      "AZI-M16",
+      "AZI-M17"
+    ],
+    "task": "Design an opening-access experiment distinguishing seeing a card from being able to convert it into the intended payoff.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AZI-X04",
+    "mechanisms": [
+      "AZI-M24",
+      "AZI-M25",
+      "AZI-M26"
+    ],
+    "task": "Compare an expensive persistent development slot against a flexible delayed response, including duplicate draws and opposing removal.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AZI-X05",
+    "mechanisms": [
+      "AZI-M30",
+      "AZI-M31",
+      "AZI-M34"
+    ],
+    "task": "Build a hypothetical sideboard coverage matrix by opponent pace and primary engine; test actual replacements only after list verification.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AZI-X06",
+    "mechanisms": [
+      "AZI-M12",
+      "AZI-M13",
+      "AZI-M14",
+      "AZI-M35"
+    ],
+    "task": "Two local specialists disagree about defending a lead; compare cost imposed on opponent, viable scoring routes and risks without copied dialogue.",
+    "status": "untested original abstract exercise",
+    "canon_status": "noncanon"
+  }
+]

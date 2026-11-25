@@ -1,0 +1,232 @@
+{
+  "baseline": [
+    {
+      "population": 39,
+      "qualifying": 8,
+      "distinct_samples": 4,
+      "source_percent": 61,
+      "computed_percent": 61.745145955672264,
+      "delta_pp": 0.7451459556722639
+    },
+    {
+      "population": 39,
+      "qualifying": 8,
+      "distinct_samples": 5,
+      "source_percent": 70,
+      "computed_percent": 70.48911259437575,
+      "delta_pp": 0.4891125943757544
+    },
+    {
+      "population": 39,
+      "qualifying": 8,
+      "distinct_samples": 6,
+      "source_percent": 77,
+      "computed_percent": 77.43285080746381,
+      "delta_pp": 0.432850807463808
+    },
+    {
+      "population": 39,
+      "qualifying": 8,
+      "distinct_samples": 7,
+      "source_percent": 82,
+      "computed_percent": 82.90367485413925,
+      "delta_pp": 0.9036748541392541
+    },
+    {
+      "population": 39,
+      "qualifying": 9,
+      "distinct_samples": 4,
+      "source_percent": 66,
+      "computed_percent": 66.68125615494036,
+      "delta_pp": 0.6812561549403569
+    },
+    {
+      "population": 39,
+      "qualifying": 9,
+      "distinct_samples": 5,
+      "source_percent": 75,
+      "computed_percent": 75.24893314366999,
+      "delta_pp": 0.2489331436699871
+    },
+    {
+      "population": 39,
+      "qualifying": 9,
+      "distinct_samples": 6,
+      "source_percent": 81,
+      "computed_percent": 81.80068613505146,
+      "delta_pp": 0.800686135051464
+    },
+    {
+      "population": 39,
+      "qualifying": 9,
+      "distinct_samples": 7,
+      "source_percent": 86,
+      "computed_percent": 86.76413537094652,
+      "delta_pp": 0.7641353709465193
+    },
+    {
+      "population": 39,
+      "qualifying": 10,
+      "distinct_samples": 4,
+      "source_percent": 71,
+      "computed_percent": 71.12375533428165,
+      "delta_pp": 0.12375533428165397
+    },
+    {
+      "population": 39,
+      "qualifying": 10,
+      "distinct_samples": 5,
+      "source_percent": 79,
+      "computed_percent": 79.37411095305832,
+      "delta_pp": 0.3741109530583202
+    },
+    {
+      "population": 39,
+      "qualifying": 10,
+      "distinct_samples": 6,
+      "source_percent": 85,
+      "computed_percent": 85.44054890804117,
+      "delta_pp": 0.44054890804116553
+    },
+    {
+      "population": 39,
+      "qualifying": 10,
+      "distinct_samples": 7,
+      "source_percent": 90,
+      "computed_percent": 89.85250378439234,
+      "delta_pp": -0.14749621560766002
+    },
+    {
+      "population": 39,
+      "qualifying": 11,
+      "distinct_samples": 4,
+      "source_percent": 75,
+      "computed_percent": 75.10668563300142,
+      "delta_pp": 0.10668563300141898
+    },
+    {
+      "population": 39,
+      "qualifying": 11,
+      "distinct_samples": 5,
+      "source_percent": 83,
+      "computed_percent": 82.9302987197724,
+      "delta_pp": -0.06970128022760491
+    },
+    {
+      "population": 39,
+      "qualifying": 11,
+      "distinct_samples": 6,
+      "source_percent": 88,
+      "computed_percent": 88.45284913396368,
+      "delta_pp": 0.45284913396368154
+    },
+    {
+      "population": 39,
+      "qualifying": 11,
+      "distinct_samples": 7,
+      "source_percent": 93,
+      "computed_percent": 92.30189942264245,
+      "delta_pp": -0.6981005773575504
+    },
+    {
+      "population": 39,
+      "qualifying": 12,
+      "distinct_samples": 4,
+      "source_percent": 79,
+      "computed_percent": 78.66287339971551,
+      "delta_pp": -0.33712660028449193
+    },
+    {
+      "population": 39,
+      "qualifying": 12,
+      "distinct_samples": 5,
+      "source_percent": 86,
+      "computed_percent": 85.97845966267019,
+      "delta_pp": -0.0215403373298102
+    },
+    {
+      "population": 39,
+      "qualifying": 12,
+      "distinct_samples": 6,
+      "source_percent": 91,
+      "computed_percent": 90.92723860525717,
+      "delta_pp": -0.07276139474282672
+    },
+    {
+      "population": 39,
+      "qualifying": 12,
+      "distinct_samples": 7,
+      "source_percent": 95,
+      "computed_percent": 94.22642456698185,
+      "delta_pp": -0.7735754330181521
+    }
+  ],
+  "conditional": [
+    {
+      "gear": 8,
+      "crab": 1,
+      "initial_distinct_sample": 7,
+      "source_extra_draw_claim_percent": [
+        87,
+        90
+      ],
+      "illustrative_probabilities": [
+        82.90367485413925,
+        83.86878998334106,
+        84.6159758898199
+      ],
+      "status": "different event; not directly comparable to Hall success claim"
+    },
+    {
+      "gear": 9,
+      "crab": 1,
+      "initial_distinct_sample": 7,
+      "source_extra_draw_claim_percent": [
+        90,
+        93
+      ],
+      "illustrative_probabilities": [
+        86.76413537094652,
+        87.63273898722815,
+        88.27718683156614
+      ],
+      "status": "different event; not directly comparable to Hall success claim"
+    },
+    {
+      "gear": 9,
+      "crab": 2,
+      "initial_distinct_sample": 7,
+      "source_extra_draw_claim_percent": [
+        90,
+        93
+      ],
+      "illustrative_probabilities": [
+        86.76413537094652,
+        88.321631510486,
+        89.47719316240239
+      ],
+      "status": "different event; not directly comparable to Hall success claim"
+    },
+    {
+      "gear": 9,
+      "crab": 3,
+      "initial_distinct_sample": 7,
+      "source_extra_draw_claim_percent": [
+        90,
+        93
+      ],
+      "illustrative_probabilities": [
+        86.76413537094652,
+        88.86290420733145,
+        90.42005527948803
+      ],
+      "status": "different event; not directly comparable to Hall success claim"
+    }
+  ],
+  "model": "Uniform distinct sample from 39. Event: at least one gear in first n, OR no gear and at least one crab in first n followed by gear in next m. Extra sample permitted only on crab branch. Not actual mulligan, Scuttle timing or Hall activation.",
+  "formula": "P = H(N,G,n) + [H(N,G+C,n)-H(N,G,n)] H(N-n,G,m); H=1-C(N-K,n)/C(N,n).",
+  "python_exhaustive_tests": 1235,
+  "python_scope": "N=3..8, G=1..N-1, C=0..N-G, n=1..N-1, m=0..min(2,N-n), n+m<=5; compare exact Fraction expression with enumeration of ordered distinct index samples.",
+  "max_baseline_absolute_delta_pp": 0.9036748541392541,
+  "limits": "Cannot determine two-gear access, legal early actions or successful Hall trigger from this predicate. Source claims conditional rows do not define exhaustive branch weights."
+}

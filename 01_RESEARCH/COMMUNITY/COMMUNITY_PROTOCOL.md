@@ -43,3 +43,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## TEE — specialist disagreement and small samples
 [TEE analysis](../REFERENCE_LIBRARY/works/TEE/ANALYSIS.md) supports original practice discussions of favored builds, limited event evidence, temporary bodies and expensive carry protection. Keep opinions distinct from observed results and preserve independent voices. No copied source wording.
+
+## AZI — local experimentation
+[AZI analysis](../REFERENCE_LIBRARY/works/AZI/ANALYSIS.md) supports original scenes about local practice, testing fringe alternatives, debating slot value and revising assumptions. Self-reported local success is not general performance evidence; do not copy personal anecdotes or distinctive phrasing.

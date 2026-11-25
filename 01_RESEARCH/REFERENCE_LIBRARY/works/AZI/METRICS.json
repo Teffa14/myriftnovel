@@ -1,0 +1,255 @@
+{
+  "source": "Sand Storm — Azir primer",
+  "author": "Onnie / NUMBER IV, self-attributed",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "a7c341163529b91e70f0ea9704926a32772fb79484f4967fa426a956ae5f18e2",
+  "bytes": 37504,
+  "lines": 547,
+  "word_tokens": 6368,
+  "distinct_lowercase_forms": 1291,
+  "blocks": 200,
+  "linked_images": 2,
+  "method": "Python UTF-8-sig splitlines, Unicode alphabetic tokens with optional internal apostrophe/hyphen; headings and URLs included; lowercase types and blank-line blocks.",
+  "units": [
+    {
+      "id": "AZI-U01",
+      "start": 1,
+      "end": 20,
+      "tokens": 180,
+      "topic": "Purpose"
+    },
+    {
+      "id": "AZI-U02",
+      "start": 21,
+      "end": 46,
+      "tokens": 309,
+      "topic": "Author and local testing"
+    },
+    {
+      "id": "AZI-U03",
+      "start": 47,
+      "end": 65,
+      "tokens": 234,
+      "topic": "Strategic identity"
+    },
+    {
+      "id": "AZI-U04",
+      "start": 66,
+      "end": 90,
+      "tokens": 253,
+      "topic": "Archetype qualification"
+    },
+    {
+      "id": "AZI-U05",
+      "start": 91,
+      "end": 105,
+      "tokens": 176,
+      "topic": "Equipment and generated bodies"
+    },
+    {
+      "id": "AZI-U06",
+      "start": 106,
+      "end": 119,
+      "tokens": 202,
+      "topic": "Reusable Might"
+    },
+    {
+      "id": "AZI-U07",
+      "start": 120,
+      "end": 134,
+      "tokens": 237,
+      "topic": "Variable pressure ceiling"
+    },
+    {
+      "id": "AZI-U08",
+      "start": 135,
+      "end": 142,
+      "tokens": 157,
+      "topic": "Interchangeable bodies"
+    },
+    {
+      "id": "AZI-U09",
+      "start": 143,
+      "end": 150,
+      "tokens": 47,
+      "topic": "Applied stages"
+    },
+    {
+      "id": "AZI-U10",
+      "start": 151,
+      "end": 178,
+      "tokens": 333,
+      "topic": "Equipment allocation"
+    },
+    {
+      "id": "AZI-U11",
+      "start": 179,
+      "end": 199,
+      "tokens": 210,
+      "topic": "Contest checklist"
+    },
+    {
+      "id": "AZI-U12",
+      "start": 200,
+      "end": 212,
+      "tokens": 153,
+      "topic": "Lead conversion"
+    },
+    {
+      "id": "AZI-U13",
+      "start": 213,
+      "end": 226,
+      "tokens": 117,
+      "topic": "Hold tradeoff"
+    },
+    {
+      "id": "AZI-U14",
+      "start": 227,
+      "end": 255,
+      "tokens": 181,
+      "topic": "Opening density"
+    },
+    {
+      "id": "AZI-U15",
+      "start": 256,
+      "end": 321,
+      "tokens": 343,
+      "topic": "Scuttle conditional access"
+    },
+    {
+      "id": "AZI-U16",
+      "start": 322,
+      "end": 345,
+      "tokens": 139,
+      "topic": "Mulligan roles"
+    },
+    {
+      "id": "AZI-U17",
+      "start": 346,
+      "end": 359,
+      "tokens": 168,
+      "topic": "Offensive spells"
+    },
+    {
+      "id": "AZI-U18",
+      "start": 360,
+      "end": 366,
+      "tokens": 133,
+      "topic": "Defensive spells"
+    },
+    {
+      "id": "AZI-U19",
+      "start": 367,
+      "end": 373,
+      "tokens": 122,
+      "topic": "Interaction"
+    },
+    {
+      "id": "AZI-U20",
+      "start": 374,
+      "end": 377,
+      "tokens": 51,
+      "topic": "Signature payoff"
+    },
+    {
+      "id": "AZI-U21",
+      "start": 378,
+      "end": 385,
+      "tokens": 70,
+      "topic": "Refuel"
+    },
+    {
+      "id": "AZI-U22",
+      "start": 386,
+      "end": 397,
+      "tokens": 181,
+      "topic": "Early gear"
+    },
+    {
+      "id": "AZI-U23",
+      "start": 398,
+      "end": 414,
+      "tokens": 216,
+      "topic": "Midgame gear"
+    },
+    {
+      "id": "AZI-U24",
+      "start": 415,
+      "end": 429,
+      "tokens": 310,
+      "topic": "Sword revision"
+    },
+    {
+      "id": "AZI-U25",
+      "start": 430,
+      "end": 445,
+      "tokens": 598,
+      "topic": "Gage and rune split"
+    },
+    {
+      "id": "AZI-U26",
+      "start": 446,
+      "end": 451,
+      "tokens": 52,
+      "topic": "Test preference"
+    },
+    {
+      "id": "AZI-U27",
+      "start": 452,
+      "end": 462,
+      "tokens": 223,
+      "topic": "Early units"
+    },
+    {
+      "id": "AZI-U28",
+      "start": 463,
+      "end": 473,
+      "tokens": 200,
+      "topic": "Alternative finishers"
+    },
+    {
+      "id": "AZI-U29",
+      "start": 474,
+      "end": 497,
+      "tokens": 291,
+      "topic": "Two-axis sideboard"
+    },
+    {
+      "id": "AZI-U30",
+      "start": 498,
+      "end": 544,
+      "tokens": 473,
+      "topic": "Tech options"
+    },
+    {
+      "id": "AZI-U31",
+      "start": 545,
+      "end": 547,
+      "tokens": 9,
+      "topic": "Pending Vendetta testing"
+    }
+  ],
+  "counts": {
+    "role_records": 25,
+    "mechanisms": 36,
+    "exercises": 6,
+    "sideboard_role_candidates": 6,
+    "baseline_probability_cells": 20,
+    "conditional_examples": 4,
+    "exhaustive_python_tests": 1235
+  },
+  "checks": [
+    "31 contiguous units; 547 lines; 6368 tokens",
+    "25 role records",
+    "36 mechanism IDs",
+    "six exercise links",
+    "11 one-drops",
+    "12 runes",
+    "20 baseline cells within one percentage point",
+    "four conditional cases monotone by sample extension",
+    "FTG Azir anchor",
+    "Aurora historical flag",
+    "unused source ID"
+  ]
+}

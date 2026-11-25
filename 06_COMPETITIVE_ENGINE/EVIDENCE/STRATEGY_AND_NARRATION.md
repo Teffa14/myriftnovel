@@ -58,3 +58,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## TEE — temporary pressure and concentrated payoff
 [TEE research](../../01_RESEARCH/REFERENCE_LIBRARY/works/TEE/INDEX.md) supplements FTG FT-L54 with disposable threat exchanges, carry exposure, pre-payoff hand interference, field choice across series and variant-dependent preparation. Two deck images unavailable; Watcher policy conflicts; quantities unknown. All named mechanics require dated effective text and G3-scene. Matchup estimates are pilot opinions, not measured win rates.
+
+## AZI — persistent asset economy and conditional access
+[AZI research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AZI/INDEX.md) supplements FTG FT-L08 with reusable investment, variable threat ceiling, interchangeable carriers, reactive versus persistent gear, color constraints and two-axis sideboard coverage. [Probability audit](../../01_RESEARCH/REFERENCE_LIBRARY/works/AZI/PROBABILITY_AUDIT.json) separates distinct samples from conditional access, not actual Hall trigger or legal mulligan. Verify dated official mechanics and G3-scene; no complete list or measured matchup rate inferred.

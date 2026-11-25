@@ -1,0 +1,384 @@
+{
+  "deck": {
+    "legend": {
+      "name": "Azir, Emperor of the Sands",
+      "profile_id": "FT-L08"
+    },
+    "era": "Vendetta; undated",
+    "runes": {
+      "Calm": 9,
+      "Order": 3,
+      "source": "green/yellow wording normalized through FTG domains; exact current legality unverified"
+    },
+    "early_equipment": 9,
+    "scuttle": 2,
+    "one_drop_total": 11,
+    "steraks": 2,
+    "bf_sword": 0,
+    "full_main": null,
+    "full_side": null,
+    "chosen": null,
+    "sideboard_capacity_claim": 10,
+    "fields": [
+      {
+        "name": "Hall of Legends",
+        "source_lines": "227–321,390–397,452–462",
+        "role": "Conditional early gear and conquest payoff",
+        "verified": false
+      },
+      {
+        "name": "Ornn's Forge",
+        "source_lines": "430–445",
+        "role": "Potential equipment discount and repeated hold payoff",
+        "verified": false
+      }
+    ],
+    "roles": [
+      {
+        "id": "AZI-C01",
+        "name": "Soul Sword",
+        "source_lines": "151–178,390–397",
+        "role": "early gear",
+        "quantity": 3,
+        "reason": "Low-cost opening density and lower marginal gear-loss exposure.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C02",
+        "name": "Doran's Shield",
+        "source_lines": "151–178,390–397",
+        "role": "early gear",
+        "quantity": 3,
+        "reason": "Early body support and defensive trade role.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C03",
+        "name": "Eye of the Herald",
+        "source_lines": "151–178,390–397",
+        "role": "early gear",
+        "quantity": 3,
+        "reason": "Additional body generation and early development.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C04",
+        "name": "Brutalizer",
+        "source_lines": "151–178,398–414",
+        "role": "mid gear",
+        "quantity": null,
+        "reason": "Efficient offensive pressure; keep capacity for responses.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C05",
+        "name": "B.F. Sword",
+        "source_lines": "398–429",
+        "role": "excluded current variant",
+        "quantity": 0,
+        "reason": "Persistent Might versus costly development and duplicate congestion.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C06",
+        "name": "Sterak's Gage",
+        "source_lines": "430–445",
+        "role": "gear",
+        "quantity": 2,
+        "reason": "Conditional reactive investment; trade persistent resources for flexible timing.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C07",
+        "name": "Scuttle Crab",
+        "source_lines": "256–321,452–462",
+        "role": "unit",
+        "quantity": 2,
+        "reason": "Conditional draw bridge and early body; Hall payoff unverified.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C08",
+        "name": "Azir, Sovereign",
+        "source_lines": "452–473",
+        "role": "champion",
+        "quantity": null,
+        "reason": "Named champion, chosen slot not explicitly certified.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C09",
+        "name": "Discipline",
+        "source_lines": "352–359",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Modifier and access; order matters.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C10",
+        "name": "En Garde",
+        "source_lines": "352–359",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Solo body modifier; preserve other action capacity.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C11",
+        "name": "Deathgrip",
+        "source_lines": "352–359",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Conditional combat flexibility; no exact interaction established.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C12",
+        "name": "Guards!",
+        "source_lines": "360–366",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Concealed reinforcement and potential defensive reuse.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C13",
+        "name": "Back Off",
+        "source_lines": "360–366",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Conditional withdrawal/tempo and possible card replacement.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C14",
+        "name": "Hidden Blade",
+        "source_lines": "367–373",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Sacrifice/removal tradeoff with compensation to opponent.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C15",
+        "name": "Defy",
+        "source_lines": "367–373",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Protect pivotal payoff against eligible response.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C16",
+        "name": "Arise!",
+        "source_lines": "374–377",
+        "role": "signature",
+        "quantity": null,
+        "reason": "Historical gear-linked closing hypothesis; verify readiness and scoring.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C17",
+        "name": "Shadow's Call",
+        "source_lines": "378–385",
+        "role": "spell",
+        "quantity": null,
+        "reason": "Refuel and conditional reuse of existing resources.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C18",
+        "name": "Vi, Peacekeeper",
+        "source_lines": "463–473",
+        "role": "candidate unit/side",
+        "quantity": null,
+        "reason": "Attacking breaker; narrow utility and duplicate burden.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C19",
+        "name": "Ashe, Focused",
+        "source_lines": "463–473",
+        "role": "candidate unit/side",
+        "quantity": null,
+        "reason": "Hand disruption; compare timing and subsequent access.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C20",
+        "name": "Helm of Suppression",
+        "source_lines": "498–508",
+        "role": "side candidate",
+        "quantity": null,
+        "reason": "Tax opposing spell utilization; alternate gear-removal target.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C21",
+        "name": "Charm",
+        "source_lines": "509–519",
+        "role": "side candidate",
+        "quantity": null,
+        "reason": "Base-target interaction with opponent counterplay.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C22",
+        "name": "Disarming Rake",
+        "source_lines": "520–524",
+        "role": "side candidate",
+        "quantity": null,
+        "reason": "Gear response; claimed hand-disruption restriction unverified.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C23",
+        "name": "Salvage",
+        "source_lines": "533–539",
+        "role": "side candidate",
+        "quantity": null,
+        "reason": "Gear removal dependent on resource color availability.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C24",
+        "name": "Steel Paws",
+        "source_lines": "540–544",
+        "role": "experimental",
+        "quantity": null,
+        "reason": "Testing mentioned, no results.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      },
+      {
+        "id": "AZI-C25",
+        "name": "Fallen Feline",
+        "source_lines": "540–544",
+        "role": "experimental",
+        "quantity": null,
+        "reason": "Testing mentioned, no results.",
+        "effective_text_verified": false,
+        "exact_printing_verified": false
+      }
+    ],
+    "source_testing": "Self-reported local 72.5% since April; year, match denominator, draw handling and spreadsheet absent; no RQ at time of writing.",
+    "version_notes": "Historical zero-unit build is separate from current Scuttle and champion discussion; source mentions six yellow-rune cards plus champion, incomplete inventory. Do not infer list."
+  },
+  "sideboard_candidates": [
+    {
+      "name": "Helm of Suppression",
+      "coverage": "spell-heavy control/combo",
+      "role": "Spell-cost taxation and resource denial",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    },
+    {
+      "name": "Charm",
+      "coverage": "control/tempo or combo; unit-heavy",
+      "role": "Targeted setup disruption",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    },
+    {
+      "name": "Disarming Rake",
+      "coverage": "control/tempo or combo; gear-heavy",
+      "role": "Gear removal",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    },
+    {
+      "name": "Ashe, Focused",
+      "coverage": "combo; cross-engine",
+      "role": "Hand disruption",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    },
+    {
+      "name": "Vi, Peacekeeper",
+      "coverage": "hold or midrange; unit-heavy",
+      "role": "Break durable position",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    },
+    {
+      "name": "Salvage",
+      "coverage": "control/tempo or combo; gear-heavy",
+      "role": "Gear removal subject to yellow rune access",
+      "quantity": null,
+      "status": "pilot hypothesis"
+    }
+  ],
+  "classification": {
+    "strategy": [
+      "control/tempo",
+      "swarm",
+      "midrange",
+      "combo",
+      "hold"
+    ],
+    "engine": [
+      "units",
+      "gear",
+      "spells"
+    ],
+    "note": "Source categories are overlapping strategic hypotheses."
+  },
+  "guards": [
+    {
+      "source_lines": "21–46",
+      "issue": "72.5% local win rate is self-reported, denominator and original sheet missing; no RQ record."
+    },
+    {
+      "source_lines": "106–119",
+      "issue": "1.5 ratio is stated opening illustration, not universal or a measured optimality claim."
+    },
+    {
+      "source_lines": "179–199",
+      "issue": "Rune bands and possible Might are pilot heuristics, not guaranteed maxima."
+    },
+    {
+      "source_lines": "227–321",
+      "issue": "Baseline rounded estimates near distinct-sample model; conditional rows change objective. No official mulligan/Hall success proof."
+    },
+    {
+      "source_lines": "430–445",
+      "issue": "One-turn setback and repeated discounts depend on actual timing/resources; no universal claim."
+    },
+    {
+      "source_lines": "474–547",
+      "issue": "Sideboard capacity mentioned, counts absent; archetype and engine categories overlap; Vendetta section unfinished."
+    },
+    {
+      "source_lines": "474–539",
+      "issue": "Aurora likely Dazzling Aurora, historical opposing engine banned in Nov 23 snapshot; no direct ban flag for full Azir list because inventory unavailable."
+    },
+    {
+      "source_lines": "1–547",
+      "issue": "Two image links not inspected. Exact publication date absent; all named mechanics require official verification."
+    }
+  ]
+}
