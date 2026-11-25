@@ -1,0 +1,29 @@
+chapter,heading,paragraph,sentence,role,names,possible_subject,negation,quote,review_status,review_note
+1178,1178,27,3,goal,Fang Rui,Fang Rui,0,0,valid,objetivo de Fang Rui frustrado por el rival
+257,257,8,1,goal,Tang Rou,Tang Rou,0,1,valid,intento de obtener apoyo de otra persona
+84,84,30,1,goal,Ye Xiu,,0,1,valid_reported,petición en diálogo atribuida a Ye Xiu
+769,769,64,2,goal,Wei Chen,,0,1,ambiguous,Wei Chen comunica un deseo atribuido a otra persona
+721,721,16,4,decision,Qiao Yifan,Qiao Yifan,0,0,valid,Qiao Yifan elige buscar apoyo por falta de oportunidades
+665,665,33,2,decision,Ye Xiu,Ye Xiu,0,1,valid,Ye Xiu decide y da instrucciones tras evaluar ubicación
+376,376,25,1,decision,Blue River,,0,1,ambiguous,Blue River informa una decisión de terceros
+308,308,52,3,decision,Lin Jingyan,,0,0,wrong_actor,"decisión de Tang Hao, no de Lin Jingyan"
+1477,1477,34,4,obstacle,Su Mucheng,Su Mucheng,0,0,valid,limitación de Su Mucheng durante una acción
+309,309,51,1,obstacle,Lin Jingyan,Lin Jingyan,0,1,false_positive,"sonrisa forzada, no obstáculo competitivo"
+1477,1477,32,2,obstacle,Su Mucheng,,0,1,conditional,"dificultad prevista, no resultado confirmado"
+1076,1076,14,1,obstacle,Jiang Botao,,0,0,valid,Jiang Botao obligado a retroceder
+73,73,3,4,outcome,Blue River,Blue River,0,0,valid,oportunidad perdida por Blue River
+55,55,44,2,outcome,Ye Xiu,Ye Xiu,0,1,routine,finalización de una actividad menor
+417,417,6,4,outcome,Chen Guo|Ye Xiu,,0,0,valid_multi_actor,resultado de Ye Xiu observado por Chen Guo
+906,906,2,2,outcome,Ye Xiu,,0,0,hypothetical,derrota hipotética en una creencia de terceros
+533,533,54,2,learning,Wei Chen,Wei Chen,0,1,valid,Wei Chen comprende una instrucción
+1465,1465,65,1,learning,Yu Wenzhou,Yu Wenzhou,0,0,incomplete,"Yu Wenzhou descubre algo, objeto fuera del fragmento"
+1408,1408,34,1,learning,Mo Fan,,0,0,wrong_actor,el reconocimiento corresponde a miembros de Blue Rain
+86,86,11,6,learning,Ye Xiu,,0,0,negated,habilidad que no se puede aprender todavía
+1080,1080,16,1,affiliation,Chen Guo|Tang Rou,Chen Guo,1,0,false_positive,"aceptación de tarjeta, no cambio de afiliación; sujeto sugerido erróneo"
+514,514,26,2,affiliation,Wei Chen,Wei Chen,0,1,retrospective,"retiro anterior de Wei Chen, no suceso actual"
+1533,1533,64,3,affiliation,Luo Ji,,0,0,false_positive,"premio de equipo, no cambio de afiliación"
+1199,1199,12,1,affiliation,Ye Xiu,,0,1,false_positive,"desplazamiento del equipo, no cambio de afiliación"
+935,935,46,1,emotion,Tang Rou,Tang Rou,0,0,behavior_only,sonrisa; no determina emoción interna
+484,484,22,3,emotion,Ye Xiu,Ye Xiu,0,1,behavior_only,risa; no determina emoción interna
+1080,1080,36,1,emotion,Su Mucheng,,0,0,false_positive,"Happy es nombre de equipo, no emoción"
+1275,1276,30,2,emotion,Fang Rui,,0,0,false_positive,"Happy es nombre de equipo, no emoción"

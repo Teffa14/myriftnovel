@@ -1,0 +1,73 @@
+start,end,clusters,salient_roles,entities
+1,24,8|4|2,everyday|learning|attack,Ye Xiu|Lord Grim|Chen Guo|Ye Qiu|Excellent Era
+25,48,2|8|4,learning|goal|urgency,Ye Xiu|Lord Grim|Blue River|Chen Guo|Ye Qiu
+49,72,2|8|4,cooperation|urgency|learning,Ye Xiu|Lord Grim|Blue River|Chen Guo|Tang Rou
+73,96,2|4|10,everyday|urgency|economic,Ye Xiu|Lord Grim|Blue River|Chen Guo|Excellent Era
+97,120,2|8|4,learning|everyday|goal,Ye Xiu|Lord Grim|Tang Rou|Steamed Bun|Liu Hao
+121,144,8|4|2,urgency|conflict|everyday,Ye Xiu|Lord Grim|Wang Jiexi|Tang Rou|Qiao Yifan
+145,168,2|8|4,economic|goal|affiliation,Ye Xiu|Lord Grim|Tang Rou|Steamed Bun|Blue River
+169,192,2|8|4,learning|everyday|reversal,Ye Xiu|Lord Grim|Tang Rou|Steamed Bun|Blue River
+193,216,8|2|7,learning|urgency|decision,Ye Xiu|Lord Grim|Steamed Bun|Huang Shaotian|Tang Rou
+217,240,8|2|4,urgency|response|learning,Lord Grim|Ye Xiu|Steamed Bun|Tang Rou|Soft Mist
+241,264,2|8|4,learning|goal|decision,Ye Xiu|Lord Grim|Steamed Bun|Tang Rou|Su Mucheng
+265,288,8|7,learning|urgency|explanation,Ye Xiu|Lord Grim|Chen Guo|Soft Mist|Tang Rou
+289,312,10|7|2,conflict|economic|decision,Ye Xiu|Tang Rou|Lord Grim|Ye Qiu|Chen Guo
+313,336,4|10|11,public|conflict|decision,Chen Guo|Tang Rou|Ye Xiu|Du Ming|Zhou Zekai
+337,360,2|8|10,affiliation|cooperation|explanation,Ye Xiu|Lord Grim|Chen Guo|Blue River|Su Mucheng
+361,384,2|8|0,explanation|affiliation|decision,Ye Qiu|Ye Xiu|Lord Grim|Tang Rou|Su Mucheng
+385,408,4|2|8,everyday|economic|cooperation,Ye Xiu|Chen Guo|Su Mucheng|Ye Qiu|Lord Grim
+409,432,4|7|8,conflict|everyday|explanation,Chen Guo|Ye Xiu|Lord Grim|Excellent Era|Ye Qiu
+433,456,4|10|8,explanation|conflict|goal,Ye Xiu|Lord Grim|Ye Qiu|Chen Guo|Huang Shaotian
+457,480,8|0|7,urgency|learning|uncertainty,Ye Xiu|Lord Grim|Deception|Chen Guo|Ye Qiu
+481,504,8|0|4,attack|reversal|response,Ye Xiu|Lord Grim|Deception|Sun Xiang|Ye Qiu
+505,528,8|4|7,economic|explanation|affiliation,Ye Xiu|Lord Grim|Chen Guo|Wei Chen|Ye Qiu
+529,552,0|7|9,affiliation|explanation|goal,Ye Xiu|Lord Grim|Wei Chen|Chen Guo|Samsara
+553,576,9,emotion|obstacle|attack,Ye Xiu|Tyranny|Team Happy|Chen Guo|Excellent Era
+577,600,9,cooperation|affiliation|attack,Ye Xiu|Zhang Jiale|Chen Guo|Samsara|Ye Qiu
+601,624,4|5|9,everyday|explanation|goal,Ye Xiu|Chen Guo|Wei Chen|Steamed Bun|Excellent Era
+625,648,4|7|0,economic|explanation|goal,Ye Xiu|Wei Chen|Samsara|Chen Guo|Steamed Bun
+649,672,0|8|1,affiliation|attack|explanation,Ye Xiu|Lord Grim|Deception|Steamed Bun|Tang Rou
+673,696,0|11|5,affiliation|goal|explanation,Ye Xiu|Lord Grim|Samsara|Steamed Bun|Blue Rain
+697,720,0|8|5,obstacle|reversal|urgency,Ye Xiu|Ye Qiu|Steamed Bun|Excellent Era|Xiao Shiqin
+721,744,0|4|7,goal|cooperation|uncertainty,Ye Xiu|Ye Qiu|Zhang Xinjie|Qiao Yifan|Blue River
+745,768,0|5|4,affiliation|cooperation|goal,Ye Xiu|Zhang Xinjie|Wei Chen|Lin Jingyan|Chen Guo
+769,792,4|5|10,preparation|everyday|emotion,Chen Guo|Excellent Era|Ye Xiu|Team Happy|Ye Qiu
+793,816,10|5|4,competitive|conflict|affiliation,Ye Xiu|Team Happy|Chen Guo|Soft Mist|Excellent Era
+817,840,5|10|6,affiliation|preparation|competitive,Team Happy|Ye Xiu|Ye Qiu|Excellent Era|Lord Grim
+841,864,5|8|10,affiliation|economic|emotion,Ye Xiu|Lord Grim|Team Happy|Chen Guo|Ye Qiu
+865,888,7|8|6,reversal|goal|cooperation,Ye Xiu|Mo Fan|Chen Guo|Deception|Lord Grim
+889,912,7|8|4,explanation|emotion|goal,Ye Xiu|Steamed Bun|Excellent Era|Lord Grim|Ye Qiu
+913,936,10|5|4,conflict|everyday|reversal,Ye Xiu|Lou Guanning|Chen Guo|Steamed Bun|Excellent Era
+937,960,5|7|8,preparation|cooperation|emotion,Ye Xiu|Wei Chen|Excellent Era|Zhang Jiale|Chen Guo
+961,984,5|11|10,competitive|affiliation|emotion,Ye Xiu|Team Happy|Excellent Era|Chen Guo|Ye Qiu
+985,1008,10|11|6,conflict|competitive|emotion,Ye Xiu|Excellent Era|Chen Guo|Wei Chen|Xiao Shiqin
+1009,1032,10|11|4,reversal|competitive|conflict,Ye Xiu|Excellent Era|Lord Grim|Sun Xiang|Xiao Shiqin
+1033,1056,6|10|5,reversal|emotion|cooperation,Excellent Era|Ye Xiu|Xiao Shiqin|Lord Grim|Sun Xiang
+1057,1080,5|11|4,economic|reversal|public,Ye Xiu|Excellent Era|Tyranny|Chen Guo|Samsara
+1081,1104,0|8|5,affiliation|emotion|preparation,Ye Xiu|Lord Grim|Huang Shaotian|Excellent Era|Xiao Shiqin
+1105,1128,3|5|11,emotion|learning|obstacle,Ye Xiu|Fang Rui|Tyranny|Lin Jingyan|Zhang Jiale
+1129,1152,5|3|11,emotion|economic|affiliation,Ye Xiu|Fang Rui|Su Mucheng|Chen Guo|Excellent Era
+1153,1176,11|3|6,competitive|public|outcome,Ye Xiu|Fang Rui|Tang Rou|Lord Grim|Su Mucheng
+1177,1200,11|10|5,competitive|public|outcome,Ye Xiu|Tang Rou|Tiny Herb|Tyranny|Chen Guo
+1201,1224,3|10|11,attack|competitive|stakes,Ye Xiu|Lord Grim|Fang Rui|Su Mucheng|Tang Rou
+1225,1248,11|3|6,emotion|competitive|outcome,Ye Xiu|Fang Rui|Lord Grim|Su Mucheng|Xiao Shiqin
+1249,1272,11|10|3,public|response|attack,Ye Xiu|Lord Grim|Zhou Zekai|Tyranny|Samsara
+1273,1296,11|10|3,public|competitive|stakes,Ye Xiu|Fang Rui|Samsara|Chen Guo|Liu Hao
+1297,1320,11|10|3,outcome|competitive|stakes,Ye Xiu|Samsara|Lord Grim|Tyranny|Mo Fan
+1321,1344,11|10|3,competitive|outcome|response,Ye Xiu|Tiny Herb|Wang Jiexi|Lord Grim|Luo Ji
+1345,1368,11|3|10,competitive|outcome|stakes,Ye Xiu|Luo Ji|Liu Hao|Chen Guo|Blue Rain
+1369,1392,11|10|3,competitive|stakes|outcome,Ye Xiu|Blue Rain|Chen Guo|Lord Grim|Su Mucheng
+1393,1416,3|10|11,uncertainty|attack|reversal,Huang Shaotian|Ye Xiu|Blue Rain|Mo Fan|Lord Grim
+1417,1440,3|11|6,reversal|emotion|competitive,Yu Wenzhou|Blue Rain|Ye Xiu|Lord Grim|Huang Shaotian
+1441,1464,3|10|11,response|attack|decision,Blue Rain|Huang Shaotian|Ye Xiu|Fang Rui|Mo Fan
+1465,1488,3|11|5,response|public|uncertainty,Lord Grim|Ye Xiu|Steamed Bun|Blue Rain|Huang Shaotian
+1489,1512,3|11|6,public|uncertainty|response,Tyranny|Ye Xiu|Han Wenqing|Fang Rui|Zhang Xinjie
+1513,1536,3|11|10,decision|emotion|competitive,Ye Xiu|Tyranny|Han Wenqing|Lord Grim|Fang Rui
+1537,1560,3|11|1,response|uncertainty|attack,Tyranny|Ye Xiu|Lord Grim|Lin Jingyan|Zhang Jiale
+1561,1584,3|11|5,stakes|emotion|response,Ye Xiu|Tyranny|Lord Grim|Zhang Xinjie|Lin Jingyan
+1585,1608,1|10|11,response|attack|uncertainty,Ye Xiu|Samsara|Su Mucheng|Jiang Botao|Zhou Zekai
+1609,1632,1|11|6,response|cooperation|reversal,Ye Xiu|Fang Rui|Samsara|Sun Xiang|Lord Grim
+1633,1656,11|1|10,stakes|competitive|outcome,Ye Xiu|Samsara|Sun Xiang|Lord Grim|Zhou Zekai
+1657,1680,1|11|10,response|stakes|attack,Samsara|Zhou Zekai|Tang Rou|Fang Rui|Soft Mist
+1681,1704,6|1,cooperation|response|uncertainty,Zhou Zekai|Samsara|Lord Grim|Qiao Yifan|Ye Xiu
+1705,1728,1|5|6,response|attack|stakes,Lord Grim|Ye Xiu|Samsara|Steamed Bun|Sun Xiang
