@@ -1,6 +1,6 @@
 [
   {
-    "id": "FT-L4",
+    "id": "FT-L04",
     "page": 4,
     "name": "Ahri",
     "title": "Nine-Tailed Fox",
@@ -26,7 +26,7 @@
     "status": "dated_editorial_hypothesis"
   },
   {
-    "id": "FT-L5",
+    "id": "FT-L05",
     "page": 5,
     "name": "Akali",
     "title": "Rogue Assassin",
@@ -52,7 +52,7 @@
     "status": "dated_editorial_hypothesis"
   },
   {
-    "id": "FT-L6",
+    "id": "FT-L06",
     "page": 6,
     "name": "Ambessa",
     "title": "Matriarch of War",
@@ -79,7 +79,7 @@
     "status": "dated_editorial_hypothesis"
   },
   {
-    "id": "FT-L7",
+    "id": "FT-L07",
     "page": 7,
     "name": "Annie",
     "title": "Dark Child",
@@ -106,7 +106,7 @@
     "status": "dated_editorial_hypothesis"
   },
   {
-    "id": "FT-L8",
+    "id": "FT-L08",
     "page": 8,
     "name": "Azir",
     "title": "Emperor of the Sands",
@@ -133,7 +133,7 @@
     "status": "dated_editorial_hypothesis"
   },
   {
-    "id": "FT-L9",
+    "id": "FT-L09",
     "page": 9,
     "name": "Darius",
     "title": "Hand of Noxus",
