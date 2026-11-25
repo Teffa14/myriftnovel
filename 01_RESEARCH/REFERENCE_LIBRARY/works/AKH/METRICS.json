@@ -1,0 +1,583 @@
+{
+  "source": "Heron Akali Challenger Class",
+  "author": "Mom Sky (self-attributed)",
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "a376628b8b7e6a1b5022c73c2035fed1e93d03214bf2e5d55038e2c3ee4241bc",
+  "bytes": 125701,
+  "lines": 2725,
+  "word_tokens": 21738,
+  "distinct_lowercase_forms": 2373,
+  "blocks": 748,
+  "image_placeholders": 41,
+  "method": "Python UTF-8-sig splitlines, Unicode alphabetic tokens with optional internal apostrophe/hyphen; headings and URL text included; lowercase forms, blank-line blocks.",
+  "units": [
+    {
+      "id": "AKH-U01",
+      "start": 1,
+      "end": 28,
+      "tokens": 137,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U02",
+      "start": 29,
+      "end": 50,
+      "tokens": 198,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U03",
+      "start": 51,
+      "end": 73,
+      "tokens": 218,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U04",
+      "start": 74,
+      "end": 130,
+      "tokens": 263,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U05",
+      "start": 131,
+      "end": 189,
+      "tokens": 547,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U06",
+      "start": 190,
+      "end": 220,
+      "tokens": 338,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U07",
+      "start": 221,
+      "end": 242,
+      "tokens": 186,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U08",
+      "start": 243,
+      "end": 252,
+      "tokens": 42,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U09",
+      "start": 253,
+      "end": 259,
+      "tokens": 77,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U10",
+      "start": 260,
+      "end": 283,
+      "tokens": 229,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U11",
+      "start": 284,
+      "end": 293,
+      "tokens": 148,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U12",
+      "start": 294,
+      "end": 302,
+      "tokens": 89,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U13",
+      "start": 303,
+      "end": 421,
+      "tokens": 1597,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U14",
+      "start": 422,
+      "end": 467,
+      "tokens": 495,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U15",
+      "start": 468,
+      "end": 556,
+      "tokens": 752,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U16",
+      "start": 557,
+      "end": 640,
+      "tokens": 818,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U17",
+      "start": 641,
+      "end": 648,
+      "tokens": 105,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U18",
+      "start": 649,
+      "end": 667,
+      "tokens": 344,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U19",
+      "start": 668,
+      "end": 670,
+      "tokens": 40,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U20",
+      "start": 671,
+      "end": 684,
+      "tokens": 146,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U21",
+      "start": 685,
+      "end": 688,
+      "tokens": 13,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U22",
+      "start": 689,
+      "end": 697,
+      "tokens": 175,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U23",
+      "start": 698,
+      "end": 702,
+      "tokens": 87,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U24",
+      "start": 703,
+      "end": 724,
+      "tokens": 203,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U25",
+      "start": 725,
+      "end": 736,
+      "tokens": 78,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U26",
+      "start": 737,
+      "end": 798,
+      "tokens": 768,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U27",
+      "start": 799,
+      "end": 884,
+      "tokens": 688,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U28",
+      "start": 885,
+      "end": 894,
+      "tokens": 12,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U29",
+      "start": 895,
+      "end": 936,
+      "tokens": 186,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U30",
+      "start": 937,
+      "end": 977,
+      "tokens": 110,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U31",
+      "start": 978,
+      "end": 1033,
+      "tokens": 329,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U32",
+      "start": 1034,
+      "end": 1081,
+      "tokens": 253,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U33",
+      "start": 1082,
+      "end": 1129,
+      "tokens": 195,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U34",
+      "start": 1130,
+      "end": 1172,
+      "tokens": 289,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U35",
+      "start": 1173,
+      "end": 1210,
+      "tokens": 132,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U36",
+      "start": 1211,
+      "end": 1247,
+      "tokens": 109,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U37",
+      "start": 1248,
+      "end": 1290,
+      "tokens": 147,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U38",
+      "start": 1291,
+      "end": 1327,
+      "tokens": 91,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U39",
+      "start": 1328,
+      "end": 1364,
+      "tokens": 110,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U40",
+      "start": 1365,
+      "end": 1411,
+      "tokens": 119,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U41",
+      "start": 1412,
+      "end": 1419,
+      "tokens": 48,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U42",
+      "start": 1420,
+      "end": 1425,
+      "tokens": 10,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U43",
+      "start": 1426,
+      "end": 1440,
+      "tokens": 248,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U44",
+      "start": 1441,
+      "end": 1449,
+      "tokens": 86,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U45",
+      "start": 1450,
+      "end": 1466,
+      "tokens": 108,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U46",
+      "start": 1467,
+      "end": 1479,
+      "tokens": 128,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U47",
+      "start": 1480,
+      "end": 1481,
+      "tokens": 5,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U48",
+      "start": 1482,
+      "end": 1538,
+      "tokens": 478,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U49",
+      "start": 1539,
+      "end": 1587,
+      "tokens": 286,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U50",
+      "start": 1588,
+      "end": 1640,
+      "tokens": 444,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U51",
+      "start": 1641,
+      "end": 1695,
+      "tokens": 351,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U52",
+      "start": 1696,
+      "end": 1746,
+      "tokens": 382,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U53",
+      "start": 1747,
+      "end": 1800,
+      "tokens": 379,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U54",
+      "start": 1801,
+      "end": 1858,
+      "tokens": 539,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U55",
+      "start": 1859,
+      "end": 1909,
+      "tokens": 366,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U56",
+      "start": 1910,
+      "end": 1963,
+      "tokens": 279,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U57",
+      "start": 1964,
+      "end": 2005,
+      "tokens": 225,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U58",
+      "start": 2006,
+      "end": 2045,
+      "tokens": 240,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U59",
+      "start": 2046,
+      "end": 2093,
+      "tokens": 204,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U60",
+      "start": 2094,
+      "end": 2141,
+      "tokens": 356,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U61",
+      "start": 2142,
+      "end": 2147,
+      "tokens": 43,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U62",
+      "start": 2148,
+      "end": 2149,
+      "tokens": 3,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U63",
+      "start": 2150,
+      "end": 2228,
+      "tokens": 521,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U64",
+      "start": 2229,
+      "end": 2320,
+      "tokens": 475,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U65",
+      "start": 2321,
+      "end": 2367,
+      "tokens": 475,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U66",
+      "start": 2368,
+      "end": 2407,
+      "tokens": 220,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U67",
+      "start": 2408,
+      "end": 2418,
+      "tokens": 25,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U68",
+      "start": 2419,
+      "end": 2457,
+      "tokens": 89,
+      "scope": "Akali-specific or introductory"
+    },
+    {
+      "id": "AKH-U69",
+      "start": 2458,
+      "end": 2467,
+      "tokens": 129,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U70",
+      "start": 2468,
+      "end": 2514,
+      "tokens": 481,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U71",
+      "start": 2515,
+      "end": 2527,
+      "tokens": 276,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U72",
+      "start": 2528,
+      "end": 2552,
+      "tokens": 382,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U73",
+      "start": 2553,
+      "end": 2568,
+      "tokens": 245,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U74",
+      "start": 2569,
+      "end": 2600,
+      "tokens": 455,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U75",
+      "start": 2601,
+      "end": 2621,
+      "tokens": 309,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U76",
+      "start": 2622,
+      "end": 2648,
+      "tokens": 361,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U77",
+      "start": 2649,
+      "end": 2707,
+      "tokens": 771,
+      "scope": "fundamentals; overlapping RNG"
+    },
+    {
+      "id": "AKH-U78",
+      "start": 2708,
+      "end": 2725,
+      "tokens": 453,
+      "scope": "fundamentals; overlapping RNG"
+    }
+  ],
+  "counts": {
+    "matchup_groups": 13,
+    "sideboard_branches": 24,
+    "bounded_count_inventory_checks": 9,
+    "mechanisms": 37,
+    "adapted_fundamentals": 5,
+    "exercises": 7
+  },
+  "checks": [
+    "78 contiguous units and 21738 tokens",
+    "66-card historical inventory with inferred side slot",
+    "eight banned instances across four named cards",
+    "13 matchup groups and 24 starting-order side policies",
+    "nine bounded configurations balance and fit historical inventory",
+    "all FTG profile IDs exist",
+    "37 mechanism candidates and existing overlap links",
+    "five adapted fundamentals separately classified",
+    "seven exercises resolve",
+    "overlap totals valid",
+    "AKH unused; AKA reserved for Akagi"
+  ]
+}

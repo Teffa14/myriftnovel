@@ -1,0 +1,78 @@
+[
+  {
+    "id": "AKH-X01",
+    "mechanisms": [
+      "AKH-M03",
+      "AKH-M05",
+      "AKH-M13"
+    ],
+    "task": "Compare two fictional engine bottlenecks: cards available but resources scarce, versus resources available but cards scarce. Verify each action before evaluating conversion.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X02",
+    "mechanisms": [
+      "AKH-M06",
+      "AKH-M12",
+      "AKH-M25",
+      "AKH-M30"
+    ],
+    "task": "Compare concentrating a protected engine and reinforcing it versus distributing threats; include independent opposing race and removal choices.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X03",
+    "mechanisms": [
+      "AKH-M19",
+      "AKH-M23"
+    ],
+    "task": "Use a complete hypothetical sideboard inventory to compare game-one revealed information and game-two options without assuming opponent's hidden choices.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X04",
+    "mechanisms": [
+      "AKH-M26",
+      "AKH-M27",
+      "AKH-M28"
+    ],
+    "task": "Build a new bounded movement scenario only after verifying timing and control; test withdrawal, counter and no-response branches.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X05",
+    "mechanisms": [
+      "AKH-M07",
+      "AKH-M24",
+      "AKH-M33"
+    ],
+    "task": "Compare two functional openers with different future resource and card access; include failed engine access and early scoring risk.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X06",
+    "mechanisms": [
+      "AKH-M01",
+      "AKH-M22"
+    ],
+    "task": "Two fictional competitors choose different decks because of placement goals, practice experience and award incentives; verify actual award policy before using it.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  },
+  {
+    "id": "AKH-X07",
+    "mechanisms": [
+      "AKH-M29",
+      "AKH-M31",
+      "AKH-M32"
+    ],
+    "task": "Choose when to convert a defensive advantage into scoring and when to use a legal information effect; include opponent's earlier finish.",
+    "status": "original abstract exercise, untested",
+    "canon_status": "noncanon"
+  }
+]

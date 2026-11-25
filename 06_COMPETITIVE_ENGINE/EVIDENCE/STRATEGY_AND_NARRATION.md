@@ -79,3 +79,6 @@ See [Musashi and Yagyū](../../01_RESEARCH/REFERENCE_LIBRARY/works/FRY/INDEX.md)
 
 ## VIK — public response inference and tempo-control
 [VIK research](../../01_RESEARCH/REFERENCE_LIBRARY/works/VIK/INDEX.md) supplements FTG FT-L57, EZR and MAC with selective engine denial, token/hold tradeoffs, rival response inference and conditional removal sequences. Keep public spent effects distinct from hidden possibilities. Both swaps count-balance but list images absent; historical ban references and exact mechanics require dated official text and G3-scene. No replay or population win rate.
+
+## AKH — mobile engines and defensive thresholds
+[AKH research](../../01_RESEARCH/REFERENCE_LIBRARY/works/AKH/INDEX.md) supplements FTG FT-L05 with card-access versus resource bottlenecks, mobile defensive assets, conditional movement and withdrawal, and positional reinforcement. Historical Herder/Hourglass/Brynhir/Star Spring banned; verify named timing and effective text before G3-scene. Fundamentals and Hartford recollections overlap RNG; no independent corroboration.

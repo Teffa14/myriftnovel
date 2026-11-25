@@ -1,0 +1,488 @@
+[
+  {
+    "id": "AKH-M01",
+    "level": "L6",
+    "source_lines": "61–73",
+    "name": "Event objective and deck fit",
+    "structure": "Compare expected placement, specialist award, practice enjoyment and consistency.",
+    "acceptance": "Verify actual award eligibility and costs; no guaranteed expected value.",
+    "related_ids": [
+      "RNG-M01"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M02",
+    "level": "L4",
+    "source_lines": "100–130",
+    "name": "Attack-defense asymmetry by timing",
+    "structure": "Different legal windows change the effectiveness of the same movement tools.",
+    "acceptance": "Verify signature speed and Legend timing.",
+    "related_ids": [
+      "RNG-M12"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M03",
+    "level": "L4",
+    "source_lines": "131–189",
+    "name": "Complementary resource engines",
+    "structure": "Pair card access with ability to use those cards before the game ends.",
+    "acceptance": "Track card, Energy and Power independently; engine failure branch.",
+    "related_ids": [
+      "RNG-M40"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M04",
+    "level": "L3",
+    "source_lines": "145–152",
+    "name": "Resolution-gated payoff",
+    "structure": "A resolved card and an attempted card may not count identically toward a trigger.",
+    "acceptance": "Verify effective Heron text and counter rules; no certified interaction.",
+    "related_ids": [
+      "RNG-M19"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M05",
+    "level": "L4",
+    "source_lines": "145–159",
+    "name": "Cross-turn discount planning",
+    "structure": "Plan conditional resource savings separately during own and opposing turns.",
+    "acceptance": "Verify reset and duration; do not double-count unused discounts.",
+    "related_ids": [
+      "RNG-M20"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M06",
+    "level": "L4",
+    "source_lines": "154–189",
+    "name": "Mobile durable engine",
+    "structure": "Movement can make a defended persistent asset useful outside its initial position.",
+    "acceptance": "Opponent may deny movement, remove asset or race elsewhere.",
+    "related_ids": [
+      "RNG-M17"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M07",
+    "level": "L4",
+    "source_lines": "190–220",
+    "name": "Three-phase stabilization",
+    "structure": "Obtain early score when feasible, preserve intermediate bodies, convert recurring advantage later.",
+    "acceptance": "Opponent's earliest close can invalidate delayed setup.",
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M08",
+    "level": "L4",
+    "source_lines": "253–259",
+    "name": "Balanced color allocation",
+    "structure": "Account for neutral payments and competing domain requirements.",
+    "acceptance": "Test actual legal payments; balanced runes do not guarantee access.",
+    "related_ids": [
+      "RNG-M06"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M09",
+    "level": "L4",
+    "source_lines": "261–302",
+    "name": "Field value by mutual utilization",
+    "structure": "Compare own movement or resource benefits against opponent's use of same field.",
+    "acceptance": "Historical Star Spring banned; verify exact effects.",
+    "related_ids": [
+      "RNG-M31"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M10",
+    "level": "L4",
+    "source_lines": "304–319",
+    "name": "Protected reserve threat",
+    "structure": "Keep a mobile threat in reserve until it can contest at useful moment.",
+    "acceptance": "Verify protection, legal target restrictions and rival alternatives.",
+    "related_ids": [
+      "RNG-M09"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M11",
+    "level": "L4",
+    "source_lines": "320–345",
+    "name": "Low-cost bridge versus late draw",
+    "structure": "Compare inexpensive bodies by immediate board, card access and late conversion.",
+    "acceptance": "Verify additional payment and timing.",
+    "related_ids": [
+      "RNG-M22"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M12",
+    "level": "L4",
+    "source_lines": "345–371",
+    "name": "Engine survival versus score",
+    "structure": "Protect draw and resource engines without conceding decisive score.",
+    "acceptance": "No automatic victory after two turns; historical Herder banned.",
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M13",
+    "level": "L4",
+    "source_lines": "355–371",
+    "name": "Resource routing by move recipient",
+    "structure": "Direct a movement effect to card-access or resource-generating body depending on bottleneck.",
+    "acceptance": "Verify trigger, cost and move options; no free value assumption.",
+    "related_ids": [
+      "RNG-M40"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M14",
+    "level": "L4",
+    "source_lines": "372–398",
+    "name": "Surprise reinforcement versus exposed investment",
+    "structure": "Compare concealed or reactive modifier with developing persistent gear.",
+    "acceptance": "Verify Hidden, attach and counter rules; Hourglass banned.",
+    "related_ids": [
+      "RNG-M20"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M15",
+    "level": "L4",
+    "source_lines": "399–421",
+    "name": "Response class mix",
+    "structure": "Balance overlapping counters and removal against actual opposing effects.",
+    "acceptance": "Use exact text and target eligibility.",
+    "related_ids": [
+      "RNG-M16"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M16",
+    "level": "L4",
+    "source_lines": "414–421",
+    "name": "Delayed final modifier",
+    "structure": "Preserve a flexible response until opposing commitment clarifies its value.",
+    "acceptance": "Opponent may pass or choose another legal response.",
+    "related_ids": [
+      "RNG-M44"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M17",
+    "level": "L4",
+    "source_lines": "422–467",
+    "name": "Unit-borne versus spell-borne disruption",
+    "structure": "Compare answer type, body value, protection and conditional cost.",
+    "acceptance": "Verify Rake/Brittle/Promising Future hypothesis; no ruling certified.",
+    "related_ids": [
+      "RNG-M16"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M18",
+    "level": "L4",
+    "source_lines": "468–640",
+    "name": "Rejected role alternatives",
+    "structure": "Keep alternative slot reasons and conditions for retest without assuming universal inferiority.",
+    "acceptance": "Track contradictory source recommendations as context-dependent.",
+    "related_ids": [
+      "RNG-M25"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M19",
+    "level": "L4",
+    "source_lines": "649–667",
+    "name": "Between-game concealed range updating",
+    "structure": "Newly revealed cards change opponent's plausible hypotheses in later games.",
+    "acceptance": "Opponent may know public lists; no certainty or illegal deception.",
+    "related_ids": [
+      "RNG-M27"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M20",
+    "level": "L4",
+    "source_lines": "668–684",
+    "name": "Play-order resource parity",
+    "structure": "Compare opening costs and timing across first/second turns.",
+    "acceptance": "No fixed superiority from parity alone.",
+    "related_ids": [
+      "RNG-M28"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M21",
+    "level": "L4",
+    "source_lines": "689–724",
+    "name": "Field choice and pre-mulligan planning",
+    "structure": "Identify both players' positional incentives before hand selection.",
+    "acceptance": "Verify format procedure and avoid predictable opponent payoff.",
+    "related_ids": [
+      "RNG-M32"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M22",
+    "level": "L4",
+    "source_lines": "799–884",
+    "name": "Award incentives and field forecasts",
+    "structure": "Separate archetype strength from entrant incentives and local popularity.",
+    "acceptance": "Forecasts and historical shares unverified; no precise expected value.",
+    "related_ids": [
+      "RNG-M29"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M23",
+    "level": "L4",
+    "source_lines": "895–1411",
+    "name": "Conditional replacement ledger",
+    "structure": "Treat sideboarding as branches with exact copy availability and optional swaps.",
+    "acceptance": "Reject unresolved cuts; no fixed legal configuration inferred.",
+    "related_ids": [
+      "RNG-M33"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M24",
+    "level": "L4",
+    "source_lines": "1426–1479",
+    "name": "Joint opening and fallback access",
+    "structure": "Compare multi-turn plan, key access and redundant engine protection.",
+    "acceptance": "Avoid unconditional high-variance mulligans.",
+    "related_ids": [
+      "RNG-M34",
+      "RNG-M35",
+      "RNG-M37"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M25",
+    "level": "L4",
+    "source_lines": "1510–2141",
+    "name": "Hold threshold by opponent range",
+    "structure": "Add reinforcement only when it changes credible opposing response requirements.",
+    "acceptance": "Exact ranges and rune thresholds need dated effect proof.",
+    "related_ids": [
+      "RNG-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M26",
+    "level": "L3",
+    "source_lines": "2150–2228",
+    "name": "Move-trigger and damage window separation",
+    "structure": "Distinguish declaration, resolution, trigger ordering and combat designation.",
+    "acceptance": "All named Shuriken Flip examples require dated official verification.",
+    "related_ids": [
+      "RNG-M52"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M27",
+    "level": "L3",
+    "source_lines": "2229–2273",
+    "name": "Reopening positional contest",
+    "structure": "Compare movement that changes contest eligibility with moving into already-controlled position.",
+    "acceptance": "Verify control, scoring and showdown rules; no certified extra trigger.",
+    "related_ids": [
+      "RNG-M23"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M28",
+    "level": "L4",
+    "source_lines": "2274–2320",
+    "name": "Credible contest with withdrawal option",
+    "structure": "Enter a contest with acceptable baseline and legal withdrawal alternative.",
+    "acceptance": "Opponent can decline; withdrawal may sacrifice score or benefit rival.",
+    "related_ids": [
+      "RNG-M43",
+      "RNG-M17"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M29",
+    "level": "L4",
+    "source_lines": "2303–2320",
+    "name": "Mutual trigger cost",
+    "structure": "Evaluate own movement payoff and opponent's response or draw payoff.",
+    "acceptance": "Historical opposing effects require exact dated text.",
+    "related_ids": [
+      "RNG-M31"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M30",
+    "level": "L4",
+    "source_lines": "2329–2367",
+    "name": "Threshold reinforcement across future turns",
+    "structure": "Compare placing a small body in reserve versus reinforcing a threatened hold.",
+    "acceptance": "Include alternative opponent route and own recovery options.",
+    "related_ids": [
+      "RNG-M15"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M31",
+    "level": "L4",
+    "source_lines": "2368–2407",
+    "name": "Pivot from resource lead to point conversion",
+    "structure": "Reassess score clock after stabilization; convert before opposing finish.",
+    "acceptance": "Images and puzzle solution unavailable; no verified replay.",
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M32",
+    "level": "L4",
+    "source_lines": "2408–2418,1510–2141",
+    "name": "Information asset timing",
+    "structure": "Preserve a body whose loss may reveal information until that information is actionable.",
+    "acceptance": "Verify trigger and opportunity cost; incomplete dedicated section.",
+    "related_ids": [
+      "RNG-M47"
+    ],
+    "status": "candidate_untested",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M33",
+    "level": "L4",
+    "source_lines": "2468–2514",
+    "name": "Development choice by next-turn bottleneck",
+    "structure": "Compare alternate four-cost development through future access and protection.",
+    "acceptance": "Adapted fundamentals, no independent novelty claim.",
+    "related_ids": [
+      "RNG-M40"
+    ],
+    "status": "adapted_existing_fundamental",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M34",
+    "level": "L4",
+    "source_lines": "2528–2552",
+    "name": "Final score route",
+    "structure": "Plan legal hold or conquest route under actual final point rule.",
+    "acceptance": "Repeated principle; verify dated scoring and opponent close.",
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "status": "adapted_existing_fundamental",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M35",
+    "level": "L4",
+    "source_lines": "2569–2600",
+    "name": "Pass focus in acceptable trade",
+    "structure": "Retain options when tied combat baseline is sufficient.",
+    "acceptance": "Repeated Hartford Annie case; no new evidence.",
+    "related_ids": [
+      "RNG-M44"
+    ],
+    "status": "adapted_existing_fundamental",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M36",
+    "level": "L4",
+    "source_lines": "2649–2707",
+    "name": "Practical pressure under adversity",
+    "structure": "Offer legal meaningful choices when behind without manufacturing opponent error.",
+    "acceptance": "Repeated Hartford Draven case; respect pace and fair play.",
+    "related_ids": [
+      "RNG-M49"
+    ],
+    "status": "adapted_existing_fundamental",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  },
+  {
+    "id": "AKH-M37",
+    "level": "L4",
+    "source_lines": "2708–2725",
+    "name": "Conditional hand inference and bluff",
+    "structure": "Distinguish public evidence, probabilistic assumptions and unreliable behavior cues.",
+    "acceptance": "Repeated fundamentals; no certainty or exploitation outside game rules.",
+    "related_ids": [
+      "RNG-M47",
+      "RNG-M50",
+      "RNG-M51"
+    ],
+    "status": "adapted_existing_fundamental",
+    "novelty": "Overlap with RNG; no independent novelty claim."
+  }
+]

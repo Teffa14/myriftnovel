@@ -1,0 +1,34 @@
+{
+  "prior_work": "RNG",
+  "prior_sha256": "73618803ff34ce30a2d607c5a7edfe09f4dd4af81ffb7aa2516ccf012e1fb380",
+  "current_lines": "2458–2725",
+  "fundamental_tokens": 3862,
+  "matched_tokens": 2792,
+  "matching_blocks_min12": 30,
+  "largest_blocks": [
+    483,
+    283,
+    253,
+    185,
+    178,
+    173,
+    155,
+    135,
+    121,
+    96
+  ],
+  "distinct_shared_12grams": 2462,
+  "method": "Python difflib.SequenceMatcher(None, lowercased Unicode word tokens from Akali fundamentals, lowercased tokens of entire Rengar guide, autojunk=False); sum ordered non-overlapping blocks >=12 tokens. Distinct 12-gram set intersection also computed. This is an alignment heuristic, not exhaustive semantic deduplication.",
+  "repeated_cases": [
+    {
+      "source_lines": "2569–2600",
+      "duplicate_of": "RNG-C01",
+      "status": "same self-reported Hartford Annie event"
+    },
+    {
+      "source_lines": "2649–2707",
+      "duplicate_of": "RNG-C03",
+      "status": "same self-reported Hartford Draven event"
+    }
+  ]
+}

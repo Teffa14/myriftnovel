@@ -128,3 +128,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## VIK — Viktor in Set 4 (2026-11-25)
 [Research index](works/VIK/INDEX.md): 2,230 tokens, 21 units, 20 role records, two matchups, two count-balanced policies, four self-reported events, 22 linked mechanism refinements and five exercises. Conditional aggregate 17–3–3 across changing lists; no current legal list, population rate or replay certified.
+
+## AKH — Heron Akali (2026-11-25)
+[Research index](works/AKH/INDEX.md): 21,738 tokens, 78 units, historical 66-card inventory (one inferred side slot), 13 matchup groups, 24 conditional sideboard policies, nine bounded quantity checks, 37 mechanism entries including five adapted fundamentals and seven exercises. [Overlap audit](works/AKH/OVERLAP_AUDIT.json): 2,792/3,862 fundamentals tokens aligned with RNG in >=12-token blocks; repeated Hartford cases cross-linked. Eight banned instances. No legal current list or replay certified.

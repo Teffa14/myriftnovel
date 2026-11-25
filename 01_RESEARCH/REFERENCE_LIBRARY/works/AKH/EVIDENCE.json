@@ -1,0 +1,392 @@
+{
+  "deck": {
+    "legend": "Akali, Rogue Assassin",
+    "profile_id": "FT-L05",
+    "chosen": [
+      {
+        "name": "Akali, Silent",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "main": [
+      {
+        "name": "Shuriken Flip",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Clockwork Keeper",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Scuttle Crab",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Pyke, Dockside Butcher",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Kai'Sa, Survivor",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Stellacorn Herder",
+        "count": 3,
+        "snapshot_banned": true
+      },
+      {
+        "name": "Astral Heron",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Jhin, Murderous Artist",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Darius, Trifarian",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Zhonya’s Hourglass",
+        "count": 3,
+        "snapshot_banned": true
+      },
+      {
+        "name": "Long Sword",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Defy",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Not So Fast",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Discipline",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Falling Star",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Back Off",
+        "count": 2,
+        "snapshot_banned": false
+      }
+    ],
+    "sideboard": [
+      {
+        "name": "Defy",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Not So Fast",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Disarming Rake",
+        "count": 3,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Brynhir Thundersong",
+        "count": 1,
+        "snapshot_banned": true
+      },
+      {
+        "name": "Ferrous Forerunner",
+        "count": 2,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Vilemaw",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Akali, Deadly Weapon",
+        "count": 1,
+        "snapshot_banned": false
+      }
+    ],
+    "fields": [
+      {
+        "name": "Back-Alley Bar",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "The Papertree",
+        "count": 1,
+        "snapshot_banned": false
+      },
+      {
+        "name": "Star Spring",
+        "count": 1,
+        "snapshot_banned": true
+      }
+    ],
+    "runes": {
+      "Calm": 6,
+      "Fury": 6
+    },
+    "source_lines": "253–467",
+    "inferences": [
+      "One Akali Deadly Weapon inferred from single side slot and remaining total; source does not state quantity.",
+      "Jhin Murderour Artist spelling normalized provisionally; other shorthand normalized without printing verification."
+    ],
+    "legal_certified": false,
+    "counts": {
+      "main": 39,
+      "chosen": 1,
+      "side": 10,
+      "fields": 3,
+      "runes": 12,
+      "legend": 1
+    },
+    "banned_instances": 8
+  },
+  "matches": [
+    {
+      "opponent": "Irelia",
+      "profile_candidates": [
+        "FT-L17"
+      ],
+      "side_lines": "895–936",
+      "mulligan_lines": "1482–1538",
+      "plan": "Trade against expensive attacks, preserve draw and discount engine; gear disruption conditional on list.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Diana",
+      "profile_candidates": [
+        "FT-L10"
+      ],
+      "side_lines": "937–977",
+      "mulligan_lines": "1539–1587",
+      "plan": "Delay opponent scoring with relevant removal and strengthen defensive threshold; protect engine.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Kennen",
+      "profile_candidates": [
+        "FT-L25"
+      ],
+      "side_lines": "978–1033",
+      "mulligan_lines": "1588–1640",
+      "plan": "Distinguish control and miracle variants; disrupt enabling champion and relevant gear, avoid overcommitting.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Draven",
+      "profile_candidates": [
+        "FT-L11"
+      ],
+      "side_lines": "1034–1081",
+      "mulligan_lines": "1641–1695",
+      "plan": "Avoid unnecessary triggers benefiting rival; trade when useful and protect against layered displacement.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Azir",
+      "profile_candidates": [
+        "FT-L08"
+      ],
+      "side_lines": "1082–1129",
+      "mulligan_lines": "1696–1746",
+      "plan": "Prioritize survival and gear interaction against faster scoring; optional chosen swap.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Rek'Sai",
+      "profile_candidates": [
+        "FT-L44"
+      ],
+      "side_lines": "1130–1172",
+      "mulligan_lines": "1747–1800",
+      "plan": "Deny repeatable conquest value, balance draw-engine risk and durable defense.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Rengar",
+      "profile_candidates": [
+        "FT-L47"
+      ],
+      "side_lines": "1173–1210",
+      "mulligan_lines": "1801–1858",
+      "plan": "Avoid feeding efficient reinforcement, consider reserve and conditional withdrawal.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Nasus",
+      "profile_candidates": [
+        "FT-L39"
+      ],
+      "side_lines": "1211–1247",
+      "mulligan_lines": "1859–1909",
+      "plan": "Score before rival late payoff; vary allocation by actual opposing threats.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Ezreal",
+      "profile_candidates": [
+        "FT-L14"
+      ],
+      "side_lines": "1248–1290",
+      "mulligan_lines": "1910–1963",
+      "plan": "Prioritize usable card access and durable presence, assess reset and discard separately.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "LeBlanc",
+      "profile_candidates": [
+        "FT-L28"
+      ],
+      "side_lines": "1291–1327",
+      "mulligan_lines": "1964–2005",
+      "plan": "Convert early development while denying recurring payoff; track large-threat resource thresholds.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Akali",
+      "profile_candidates": [
+        "FT-L05"
+      ],
+      "side_lines": "1328–1364",
+      "mulligan_lines": "2006–2045",
+      "plan": "Distinguish aggressive and Heron builds; compare tempo, access and protection.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "Jayce",
+      "profile_candidates": [
+        "FT-L21"
+      ],
+      "side_lines": "1365–1411",
+      "mulligan_lines": "2046–2093",
+      "plan": "Historical Aurora: speed up scoring and deny engine; no assured outcome.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    },
+    {
+      "opponent": "PG Yi",
+      "profile_candidates": [
+        "FT-L34",
+        "FT-L35"
+      ],
+      "side_lines": null,
+      "mulligan_lines": "2094–2141",
+      "plan": "Conditional reinforcement thresholds, preserve interaction and avoid overcommitting. Exact legend unresolved.",
+      "status": "historical pilot hypothesis",
+      "win_rate": null,
+      "starting_order_contexts": [
+        "first",
+        "second"
+      ]
+    }
+  ],
+  "reported_testing": {
+    "wins_approx": 25,
+    "losses_approx": 2,
+    "other_claim": "100+ Akali games",
+    "verified": false
+  },
+  "field_policy": {
+    "blind": "Back-Alley Bar",
+    "first": "Star Spring",
+    "second": "The Papertree",
+    "scope": "historical; matchup-specific variants in source, Star Spring banned"
+  },
+  "links": {
+    "deck": "https://piltoverarchive.com/decks/view/338cb59b-078f-4cac-9606-c7fdcd5f0be5",
+    "vod": "https://www.twitch.tv/videos/2841265758",
+    "retrieved": false
+  },
+  "guards": [
+    "41 image placeholders and four external URLs not retrieved. No actual image-dependent puzzle solution, board reconstruction or VOD verified; non-meta and Scuttle sections incomplete.",
+    "Historical early Set 4 guide with later Gatineau commentary; exact date unknown. Approximate 25–2 testing record and 100+ Akali games self-reported; not same proven sample. Forecast shares and award eligibility not independently checked.",
+    "39+chosen, ten side, three fields, 12 runes reconcile with inferred one Deadly Weapon. Three Herder, three Hourglass, one Brynhir, one Star Spring banned in Nov 23 snapshot; not a current legal list.",
+    "24 conditional sideboard branches, 13 matchup mulligan contexts (PG Yi lacks sideboard). Nine selected bounded configurations reconcile under named assumptions; not all conditional alternatives count-balanced or inventory checked. Rengar second missing compensation, Rek'Sai uncertain cuts, optional Rake cuts unspecified.",
+    "Source gives Find Your Center and Wind Wall both possible and discouraged; Perfect Execution similarly contextual. Preserve distinct contexts rather than assign one final preference.",
+    "Repeated fundamentals and Hartford cases cross-reference RNG, not independent results. Inference from behavior is weak; no slow play, hostile conduct, deck manipulation, or other unfair play endorsed.",
+    "Heron discount, move trigger, countered spell, hidden equipment, damage/defender timing and chosen replacement are historical claims; no official effective text or replay verified."
+  ]
+}

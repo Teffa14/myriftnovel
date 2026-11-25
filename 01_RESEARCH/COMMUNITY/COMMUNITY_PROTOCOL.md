@@ -61,3 +61,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## VIK — local specialist testing
 [VIK analysis](../REFERENCE_LIBRARY/works/VIK/ANALYSIS.md) supports original peer discussions of slot changes, renewed interest in familiar decks and outcome versus decision quality. Self-reported results across changing builds cannot establish causal performance; no copied pilot anecdotes or persona.
+
+## AKH — specialist goals and preparation
+[AKH analysis](../REFERENCE_LIBRARY/works/AKH/ANALYSIS.md) supports original discussions of practice preferences, award incentives, engine bottlenecks and changing hidden-card expectations. Verify actual incentive rules and keep forecasts separate from results. No copied real persona, hostility or unfair tournament tactics.

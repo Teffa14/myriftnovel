@@ -1,0 +1,616 @@
+{
+  "policies": [
+    {
+      "id": "AKH-SB01",
+      "opponent": "Irelia",
+      "order": "first",
+      "source_lines": "910–921",
+      "outgoing": "NSF conditional;1–2 Star;Pyke off Star Spring;Darius;1–2 Kai'Sa",
+      "incoming": "Brynhir;Defy;2–3 Rake",
+      "notes": "variable counts",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB02",
+      "opponent": "Irelia",
+      "order": "second",
+      "source_lines": "922–936",
+      "outgoing": "NSF conditional;2–3 Kai'Sa;1–2 Star;Pyke",
+      "incoming": "Brynhir;Defy;2–3 Rake",
+      "notes": "variable counts",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB03",
+      "opponent": "Diana",
+      "order": "first",
+      "source_lines": "958–965",
+      "outgoing": "Pyke;NSF if no switch/rebuke",
+      "incoming": "Defy;Brynhir",
+      "notes": "2/2 if both cuts applicable",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB04",
+      "opponent": "Diana",
+      "order": "second",
+      "source_lines": "966–977",
+      "outgoing": "Pyke;NSF if no switch/rebuke",
+      "incoming": "Defy;Brynhir",
+      "notes": "2/2 if both cuts applicable",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB05",
+      "opponent": "Kennen",
+      "order": "first",
+      "source_lines": "999–1012",
+      "outgoing": "1–2 Defy;2 Star conditional;Kai'Sa optional;1–2 Hourglass;Pyke",
+      "incoming": "Vilemaw;NSF conditional;2 Rake conditional;Brynhir",
+      "notes": "variable",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB06",
+      "opponent": "Kennen",
+      "order": "second",
+      "source_lines": "1013–1033",
+      "outgoing": "Silent on Void Gate;1–2 Hourglass;1–2 Defy;2 Star conditional;Pyke",
+      "incoming": "Deadly Weapon on Void Gate;Vilemaw;NSF conditional;2 Rake;Brynhir",
+      "notes": "variable",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB07",
+      "opponent": "Draven",
+      "order": "first",
+      "source_lines": "1055–1065",
+      "outgoing": "2 Defy conditional;Pyke and Kai'Sa optional",
+      "incoming": "NSF;Brynhir;optional Vilemaw/Rake",
+      "notes": "conditional, not fixed",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB08",
+      "opponent": "Draven",
+      "order": "second",
+      "source_lines": "1066–1081",
+      "outgoing": "2 Defy conditional;Pyke and Kai'Sa optional",
+      "incoming": "NSF;Brynhir;optional Vilemaw/Rake;Deadly Weapon chosen option",
+      "notes": "conditional, not fixed",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB09",
+      "opponent": "Azir",
+      "order": "first",
+      "source_lines": "1097–1110",
+      "outgoing": "NSF;2 Back Off;Darius;3 Kai'Sa;optional chosen swap",
+      "incoming": "Defy;2 Ferrous;Vilemaw;3 Rake;optional chosen swap",
+      "notes": "7/7 baseline if second-player Pyke cut, separate chosen swap",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB10",
+      "opponent": "Azir",
+      "order": "second",
+      "source_lines": "1111–1129",
+      "outgoing": "NSF;2 Back Off;Darius;2 Kai'Sa;Pyke;optional chosen swap",
+      "incoming": "Defy;2 Ferrous;Vilemaw;3 Rake;optional chosen swap",
+      "notes": "7/7 baseline if second-player Pyke cut, separate chosen swap",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB11",
+      "opponent": "Rek'Sai",
+      "order": "first",
+      "source_lines": "1145–1156",
+      "outgoing": "Darius;Silent;Stella or Kai'Sa unspecified",
+      "incoming": "Vilemaw;2 Ferrous;Deadly Weapon",
+      "notes": "outgoing engine quantity unresolved",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB12",
+      "opponent": "Rek'Sai",
+      "order": "second",
+      "source_lines": "1157–1172",
+      "outgoing": "Darius;Silent;Stella or Kai'Sa unspecified",
+      "incoming": "Vilemaw;2 Ferrous;Deadly Weapon",
+      "notes": "outgoing engine quantity unresolved",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB13",
+      "opponent": "Rengar",
+      "order": "first",
+      "source_lines": "1188–1196",
+      "outgoing": "NSF;1–2 Defy;optional Kai'Sa",
+      "incoming": "2 Ferrous;optional Vilemaw",
+      "notes": "variable",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB14",
+      "opponent": "Rengar",
+      "order": "second",
+      "source_lines": "1197–1210",
+      "outgoing": "NSF;1–2 Defy;optional Kai'Sa",
+      "incoming": "Deadly Weapon chosen",
+      "notes": "missing compensating additions/cuts",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB15",
+      "opponent": "Nasus",
+      "order": "first",
+      "source_lines": "1226–1234",
+      "outgoing": "2–3 Star;NSF optional",
+      "incoming": "2 Ferrous;Vilemaw;Defy",
+      "notes": "4 incoming, variable outgoing",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB16",
+      "opponent": "Nasus",
+      "order": "second",
+      "source_lines": "1235–1247",
+      "outgoing": "2–3 Star;NSF optional",
+      "incoming": "2 Ferrous;Vilemaw;Defy",
+      "notes": "4 incoming, variable outgoing",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB17",
+      "opponent": "Ezreal",
+      "order": "first",
+      "source_lines": "1265–1275",
+      "outgoing": "2 Back Off;Pyke;NSF or Star",
+      "incoming": "2 Ferrous;Vilemaw;Defy;optional 1–2 Rake",
+      "notes": "4/4 baseline; optional Rake cuts unspecified",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB18",
+      "opponent": "Ezreal",
+      "order": "second",
+      "source_lines": "1276–1290",
+      "outgoing": "2 Back Off;Pyke;NSF or Star",
+      "incoming": "2 Ferrous;Vilemaw;Defy;optional 1–2 Rake",
+      "notes": "4/4 baseline; optional Rake cuts unspecified",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB19",
+      "opponent": "LeBlanc",
+      "order": "first",
+      "source_lines": "1308–1315",
+      "outgoing": "2 Defy",
+      "incoming": "NSF;Vilemaw;Brynhir optional",
+      "notes": "2/2 baseline; extra additions unresolved",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB20",
+      "opponent": "LeBlanc",
+      "order": "second",
+      "source_lines": "1316–1327",
+      "outgoing": "2 Defy",
+      "incoming": "NSF;Vilemaw;Deadly Weapon optional chosen swap retaining Silent",
+      "notes": "2/2 baseline; extra additions unresolved",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB21",
+      "opponent": "Akali",
+      "order": "first",
+      "source_lines": "1343–1351",
+      "outgoing": "Pyke;Darius against non-Heron;Kai'Sa",
+      "incoming": "2 Ferrous;Defy against non-Heron",
+      "notes": "2/2 or 3/3 conditional",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB22",
+      "opponent": "Akali",
+      "order": "second",
+      "source_lines": "1352–1364",
+      "outgoing": "Pyke;Darius against non-Heron;Kai'Sa",
+      "incoming": "2 Ferrous;Defy against non-Heron",
+      "notes": "2/2 or 3/3 conditional",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB23",
+      "opponent": "Jayce",
+      "order": "first",
+      "source_lines": "1380–1393",
+      "outgoing": "2 Long Sword;3 Falling Star;Jhin;3 Heron",
+      "incoming": "3 Rake;Brynhir;Defy;NSF;2 Ferrous;Deadly Weapon",
+      "notes": "9/9 explicit",
+      "legal_certified": false
+    },
+    {
+      "id": "AKH-SB24",
+      "opponent": "Jayce",
+      "order": "second",
+      "source_lines": "1394–1411",
+      "outgoing": "2 Long Sword;3 Falling Star;Jhin;3 Heron",
+      "incoming": "3 Rake;Brynhir;Defy;NSF;2 Ferrous;Deadly Weapon",
+      "notes": "9/9 explicit",
+      "legal_certified": false
+    }
+  ],
+  "bounded_inventory_audits": [
+    {
+      "opponent": "Diana",
+      "order": "both",
+      "outgoing": [
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "count": 1,
+          "snapshot_banned": true
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Azir",
+      "order": "first",
+      "outgoing": [
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Back Off",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Darius, Trifarian",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Vilemaw",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Disarming Rake",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Azir",
+      "order": "second",
+      "outgoing": [
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Back Off",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Darius, Trifarian",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Vilemaw",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Disarming Rake",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Ezreal",
+      "order": "both (NSF option)",
+      "outgoing": [
+        {
+          "name": "Back Off",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Vilemaw",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Ezreal",
+      "order": "both (Star option)",
+      "outgoing": [
+        {
+          "name": "Back Off",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Falling Star",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Vilemaw",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "LeBlanc",
+      "order": "both base",
+      "outgoing": [
+        {
+          "name": "Defy",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Vilemaw",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Akali",
+      "order": "both non-Heron",
+      "outgoing": [
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Darius, Trifarian",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Akali",
+      "order": "both Heron",
+      "outgoing": [
+        {
+          "name": "Pyke, Dockside Butcher",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Kai'Sa, Survivor",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    },
+    {
+      "opponent": "Jayce",
+      "order": "both",
+      "outgoing": [
+        {
+          "name": "Long Sword",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Falling Star",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Jhin, Murderous Artist",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Astral Heron",
+          "count": 3,
+          "snapshot_banned": false
+        }
+      ],
+      "incoming": [
+        {
+          "name": "Disarming Rake",
+          "count": 3,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Brynhir Thundersong",
+          "count": 1,
+          "snapshot_banned": true
+        },
+        {
+          "name": "Defy",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Not So Fast",
+          "count": 1,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Ferrous Forerunner",
+          "count": 2,
+          "snapshot_banned": false
+        },
+        {
+          "name": "Akali, Deadly Weapon",
+          "count": 1,
+          "snapshot_banned": false
+        }
+      ],
+      "count_pass": true,
+      "inventory_pass": true,
+      "scope": "bounded explicit/conditional branch; optional additions excluded; not legal certification"
+    }
+  ],
+  "scope": "Source-derived conditional branches, not full legal sideboard solutions."
+}
