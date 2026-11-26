@@ -1,0 +1,44 @@
+[
+  {
+    "source_lines": "5,91",
+    "claim": "Author reports testing Kha'Zix before Hartford and retaining Vancouver Rengar list",
+    "status": "self_reported",
+    "limit": "Author, date, tournament list and actual outcomes not independently established."
+  },
+  {
+    "source_lines": "19–21,51,63–69",
+    "claim": "Relative functional reliability of named archetypes and guaranteed access assertions",
+    "status": "historical_author_opinion",
+    "limit": "No sample denominators; no guaranteed outcome or current rules validation. Dazzling Aurora is banned in repository Standard snapshot 2026-11-23."
+  },
+  {
+    "source_lines": "25–29",
+    "claim": "Legend award share and $3,000/$10,000 examples",
+    "status": "conditional_baseline_and_unverified_prizes",
+    "limit": "Reciprocal entrant count is equal-chance prior, not individual probability; verify actual event payout and eligibility."
+  },
+  {
+    "source_lines": "49",
+    "claim": "Opening probabilities for 7,8,9,10,12 two-drops",
+    "status": "conditional_arithmetic_reproduced",
+    "limit": "39 uniformly sampled cards, seven distinct observations; exact mulligan and first-turn protocol not independently verified."
+  },
+  {
+    "source_lines": "59",
+    "claim": "6/6,7/5,8/4 rune access",
+    "status": "conditional_arithmetic_reproduced_approximately",
+    "limit": "Six random draws, at least three required-domain runes; 71.645% rounds to 72%, 71% source is approximate. Not proof of ability to cast the named sequence."
+  },
+  {
+    "source_lines": "83–85",
+    "claim": "Six leading decks occupy 30–40% of historical metagame",
+    "status": "unverified_estimate",
+    "limit": "No dated dataset or denominator. Do not use as current field share."
+  },
+  {
+    "source_lines": "21,29",
+    "claim": "Named players' preferences and competitive specializations",
+    "status": "author_observation_or_speculation",
+    "limit": "No independent verification; do not attribute motives as facts."
+  }
+]

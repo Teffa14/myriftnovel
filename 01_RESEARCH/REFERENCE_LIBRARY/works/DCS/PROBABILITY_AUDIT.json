@@ -1,0 +1,186 @@
+{
+  "opening": {
+    "assumptions": "39-card random population, seven distinct observations. Reproduces author rounded percentages but does not establish real mulligan or turn sequence.",
+    "cases": [
+      {
+        "population": 39,
+        "observations": 7,
+        "eligible": 7,
+        "hit_pct": 78.11670381329824,
+        "guide_pct": 78,
+        "independent_match": true
+      },
+      {
+        "population": 39,
+        "observations": 7,
+        "eligible": 8,
+        "hit_pct": 82.90367485413925,
+        "guide_pct": 83,
+        "independent_match": true
+      },
+      {
+        "population": 39,
+        "observations": 7,
+        "eligible": 9,
+        "hit_pct": 86.76413537094652,
+        "guide_pct": 87,
+        "independent_match": true
+      },
+      {
+        "population": 39,
+        "observations": 7,
+        "eligible": 10,
+        "hit_pct": 89.85250378439234,
+        "guide_pct": 90,
+        "independent_match": true
+      },
+      {
+        "population": 39,
+        "observations": 7,
+        "eligible": 12,
+        "hit_pct": 94.22642456698185,
+        "guide_pct": 94,
+        "independent_match": true
+      }
+    ]
+  },
+  "runes": {
+    "assumptions": "12 runes, six distinct random draws, no previous spending; three required-domain runes as inferred threshold, four as stricter sensitivity. Not actual castability.",
+    "cases": [
+      {
+        "domain_count": 6,
+        "other_count": 6,
+        "sample": 6,
+        "required": 3,
+        "hit_pct": 71.64502164502164,
+        "guide_pct": 71,
+        "partition_check": true
+      },
+      {
+        "domain_count": 6,
+        "other_count": 6,
+        "sample": 6,
+        "required": 4,
+        "hit_pct": 28.354978354978353,
+        "guide_pct": null,
+        "partition_check": true
+      },
+      {
+        "domain_count": 7,
+        "other_count": 5,
+        "sample": 6,
+        "required": 3,
+        "hit_pct": 87.87878787878788,
+        "guide_pct": 88,
+        "partition_check": true
+      },
+      {
+        "domain_count": 7,
+        "other_count": 5,
+        "sample": 6,
+        "required": 4,
+        "hit_pct": 50,
+        "guide_pct": null,
+        "partition_check": true
+      },
+      {
+        "domain_count": 8,
+        "other_count": 4,
+        "sample": 6,
+        "required": 3,
+        "hit_pct": 96.96969696969697,
+        "guide_pct": 97,
+        "partition_check": true
+      },
+      {
+        "domain_count": 8,
+        "other_count": 4,
+        "sample": 6,
+        "required": 4,
+        "hit_pct": 72.72727272727273,
+        "guide_pct": null,
+        "partition_check": true
+      }
+    ]
+  },
+  "award": {
+    "assumptions": "One prize, exchangeable entrants",
+    "examples": [
+      {
+        "entrants": 10,
+        "equal_chance_pct": 10
+      },
+      {
+        "entrants": 100,
+        "equal_chance_pct": 1
+      }
+    ],
+    "limit": "Not an individual expected payout; prizes and entrants not verified."
+  },
+  "checks": [
+    {
+      "id": "source_range_coverage",
+      "pass": true
+    },
+    {
+      "id": "tokens_sum",
+      "pass": true
+    },
+    {
+      "id": "unique_units",
+      "pass": true
+    },
+    {
+      "id": "unique_mechanisms",
+      "pass": true
+    },
+    {
+      "id": "mechanism_fields",
+      "pass": true
+    },
+    {
+      "id": "opening_formula",
+      "pass": true
+    },
+    {
+      "id": "opening_source_rounding",
+      "pass": true
+    },
+    {
+      "id": "opening_marginal_diminishing",
+      "pass": true
+    },
+    {
+      "id": "rune_partition",
+      "pass": true
+    },
+    {
+      "id": "rune_approximation",
+      "pass": true
+    },
+    {
+      "id": "rune_stricter_threshold",
+      "pass": true
+    },
+    {
+      "id": "rune_negative_control",
+      "pass": true
+    },
+    {
+      "id": "award_equal_chance_baseline",
+      "pass": true
+    },
+    {
+      "id": "no_canon_exercises",
+      "pass": true
+    },
+    {
+      "id": "catalog_unique",
+      "pass": true
+    },
+    {
+      "id": "claim_limits",
+      "pass": true
+    }
+  ]
+}

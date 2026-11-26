@@ -1,0 +1,51 @@
+[
+  {
+    "id": "DCS-E1",
+    "name": "Four-objective selection",
+    "task": "Compare two invented deck candidates using enjoyment, functional opening, eligible prize and match performance as separate axes. Vary the player's priorities and identify the choice that changes.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E2",
+    "name": "Opening density audit",
+    "task": "Calculate access for 7–12 eligible cards in a 39-card population with seven distinct observations; compare marginal gain to the displaced slot. Then alter the sampling assumption.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E3",
+    "name": "Missed-opener recovery",
+    "task": "Create two abstract opening failure states. Identify a legal defensive bridge and the earliest credible stabilization; record the opponent's independent options.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E4",
+    "name": "Rune stress test",
+    "task": "Compare 6/6, 7/5 and 8/4 partitions at six random draws. Add one prior required-domain expenditure and distinguish access from payable resources.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E5",
+    "name": "Dependency fault injection",
+    "task": "Remove a threat, modifier or engine from a hypothetical sequence one at a time. Compare independent utility and filtering alternatives under the same resource budget.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E6",
+    "name": "Gauntlet regression",
+    "task": "Freeze a baseline and a single slot change. Design paired tests across six historical archetype labels plus two unknown variants; log result, pilot, version and causes, without inventing outcomes.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "DCS-E7",
+    "name": "Pre-event decision memo",
+    "task": "Set an explicit minimum readiness threshold, then compare an unproven candidate against a familiar fallback with remaining preparation time. Document why either choice could be rational.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  }
+]

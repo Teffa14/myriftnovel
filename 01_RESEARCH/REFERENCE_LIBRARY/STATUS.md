@@ -140,3 +140,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## MFA — Vero Miss Fortune Aurora (2026-11-25)
 [Research index](works/MFA/INDEX.md): 16,373 raw tokens, 30 headings plus front matter, 40 linked mechanism entries, 40 card-role contexts, 14 matchup contexts, five balanced counted swaps, four historical versions, eight exercises and 12 fixed-sample probability cases; 17 named checks. Houston placement self-reported. Fifty linked images and full deck inventory unavailable; historical bans flagged, actual mulligan and named effects unverified. No current legal list, replay or canon change.
+
+## DCS — functional deck selection (2026-11-25)
+[Research index](works/DCS/INDEX.md): 2,895 tokens, 721 forms, 42 blocks, 22 units, 24 linked refinements, seven original exercises, seven claim groups, 16 named checks. Five opening probabilities reproduced under 39-card/seven-observation model; six rune cases with three/four-domain thresholds. Historical prizes, field share, author identity and actual match performance unverified. No complete list, replay or canon change.

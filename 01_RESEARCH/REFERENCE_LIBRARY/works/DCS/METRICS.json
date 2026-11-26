@@ -1,0 +1,198 @@
+{
+  "title": "Competitive deck selection and functional deckbuilding (descriptive title; supplied page untitled)",
+  "author": null,
+  "source_date": null,
+  "ingest_date": "2026-11-25",
+  "bytes": 15638,
+  "sha256": "7b70ba31ffd733e6cf042e3d3d415dbf9286e2d842e844c6557fc1d1bf417249",
+  "lines": 95,
+  "word_tokens": 2895,
+  "distinct_lowercase_forms": 721,
+  "blocks": 42,
+  "image_links": 0,
+  "method": "Python UTF-8-sig; splitlines; Unicode alphabetic words with optional internal apostrophe/hyphen; headings included, standalone digits excluded; blank-line blocks.",
+  "units": [
+    {
+      "id": "DCS-U01",
+      "start": 1,
+      "end": 8,
+      "tokens": 81,
+      "topic": "Event preparation context",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U02",
+      "start": 9,
+      "end": 12,
+      "tokens": 46,
+      "topic": "Multiple objectives",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U03",
+      "start": 13,
+      "end": 16,
+      "tokens": 71,
+      "topic": "Sustainable participation",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U04",
+      "start": 17,
+      "end": 22,
+      "tokens": 237,
+      "topic": "Functional baseline",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U05",
+      "start": 23,
+      "end": 30,
+      "tokens": 276,
+      "topic": "Legend-specific incentives",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U06",
+      "start": 31,
+      "end": 40,
+      "tokens": 89,
+      "topic": "Competitive ambition",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U07",
+      "start": 41,
+      "end": 44,
+      "tokens": 35,
+      "topic": "Functional design",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U08",
+      "start": 45,
+      "end": 48,
+      "tokens": 110,
+      "topic": "Opening initiative",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U09",
+      "start": 49,
+      "end": 50,
+      "tokens": 146,
+      "topic": "Marginal opener density",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U10",
+      "start": 51,
+      "end": 52,
+      "tokens": 198,
+      "topic": "Recovery after missed opening",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U11",
+      "start": 53,
+      "end": 56,
+      "tokens": 89,
+      "topic": "Rune economy",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U12",
+      "start": 57,
+      "end": 58,
+      "tokens": 125,
+      "topic": "Early power expenditure",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U13",
+      "start": 59,
+      "end": 60,
+      "tokens": 220,
+      "topic": "Joint color thresholds",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U14",
+      "start": 61,
+      "end": 64,
+      "tokens": 184,
+      "topic": "Conditional dependencies",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U15",
+      "start": 65,
+      "end": 66,
+      "tokens": 112,
+      "topic": "Threat-modifier imbalance",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U16",
+      "start": 67,
+      "end": 68,
+      "tokens": 140,
+      "topic": "Filtering",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U17",
+      "start": 69,
+      "end": 72,
+      "tokens": 88,
+      "topic": "Standalone utility",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U18",
+      "start": 73,
+      "end": 76,
+      "tokens": 108,
+      "topic": "Innovation relative to baseline",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U19",
+      "start": 77,
+      "end": 80,
+      "tokens": 76,
+      "topic": "Specialist competition",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U20",
+      "start": 81,
+      "end": 84,
+      "tokens": 236,
+      "topic": "Representative testing",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U21",
+      "start": 85,
+      "end": 88,
+      "tokens": 148,
+      "topic": "External testing",
+      "coverage": "complete supplied text range"
+    },
+    {
+      "id": "DCS-U22",
+      "start": 89,
+      "end": 95,
+      "tokens": 80,
+      "topic": "Candidate rejection",
+      "coverage": "complete supplied text range"
+    }
+  ],
+  "counts": {
+    "mechanisms": 24,
+    "exercises": 7,
+    "claims": 7,
+    "checks": 16
+  }
+}

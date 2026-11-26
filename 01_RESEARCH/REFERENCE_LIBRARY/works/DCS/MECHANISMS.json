@@ -1,0 +1,362 @@
+[
+  {
+    "id": "DCS-M01",
+    "level": "L6",
+    "source_lines": "13–16",
+    "name": "Enjoyment as participation constraint",
+    "structure": "Include enjoyment and travel burden in sustainable event choices.",
+    "conditions": "Subjective player goals; no assumed monetary equivalent.",
+    "failure_case": "A player voluntarily prioritizes a short-term qualification goal.",
+    "related_ids": [
+      "RNG-M04"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a player voluntarily prioritizes a short-term qualification goal.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M02",
+    "level": "L6",
+    "source_lines": "17–22",
+    "name": "Functional floor as deck criterion",
+    "structure": "Measure frequency of hands that cannot pursue meaningful actions, separately from peak strength.",
+    "conditions": "Define functional action and realistic adversarial conditions.",
+    "failure_case": "A high-variance strategy has superior performance for the actual objective.",
+    "related_ids": [
+      "RNG-M03"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a high-variance strategy has superior performance for the actual objective.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M03",
+    "level": "L6",
+    "source_lines": "17–22",
+    "name": "Pilot skill and variance interaction",
+    "structure": "Compare strategies by how often meaningful decisions remain available to the pilot.",
+    "conditions": "Do not assume superior player wins or equate agency with win probability.",
+    "failure_case": "A narrow but reliable automatic route outperforms flexible options.",
+    "related_ids": [
+      "AYI-M45"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a narrow but reliable automatic route outperforms flexible options.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M04",
+    "level": "L6",
+    "source_lines": "23–30",
+    "name": "Multiple tournament objectives",
+    "structure": "Evaluate placing, legend-specific prizes and participation costs as distinct objectives.",
+    "conditions": "Verify actual event prize schedule, eligibility and tiebreaks.",
+    "failure_case": "A hypothetical best-of payout is unavailable at the event.",
+    "related_ids": [
+      "RNG-M01"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a hypothetical best-of payout is unavailable at the event.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M05",
+    "level": "L6",
+    "source_lines": "25–29",
+    "name": "Field-size prior under exchangeability",
+    "structure": "Use reciprocal entrant count as an equal-chance reference, then separate individual strength and list quality.",
+    "conditions": "Exactly one award and equal chances for the baseline; no individualized probability inferred.",
+    "failure_case": "Unequal pilot quality or prize eligibility invalidates the equal-chance model.",
+    "related_ids": [
+      "AYI-M60"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and unequal pilot quality or prize eligibility invalidates the equal-chance model.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M06",
+    "level": "L6",
+    "source_lines": "27–29,73–80",
+    "name": "Relative innovation advantage",
+    "structure": "Compare a candidate to the stock list used by direct competitors, not only the overall field.",
+    "conditions": "Version the stock list and test the modification.",
+    "failure_case": "A novel card weakens the list or the stock list has already incorporated it.",
+    "related_ids": [
+      "NLD-M14"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a novel card weakens the list or the stock list has already incorporated it.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M07",
+    "level": "L6",
+    "source_lines": "29,77–80",
+    "name": "Specialist concentration",
+    "structure": "Consider repeated strong results by direct award competitors when assessing a choice.",
+    "conditions": "Use dated standings and actual entrant pool, not reputation alone.",
+    "failure_case": "A previous specialist does not enter or uses a different Legend.",
+    "related_ids": [
+      "NLD-M03"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a previous specialist does not enter or uses a different Legend.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M08",
+    "level": "L6",
+    "source_lines": "31–40",
+    "name": "Nonfinancial competitive ambition",
+    "structure": "Preserve performance and personal satisfaction as independent selection criteria.",
+    "conditions": "Character or player priorities explicitly chosen.",
+    "failure_case": "Prize optimization is the player's overriding objective.",
+    "related_ids": [
+      "RNG-M55"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and prize optimization is the player's overriding objective.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M09",
+    "level": "L3",
+    "source_lines": "45–48",
+    "name": "Opening initiative as option value",
+    "structure": "Value early development for the next scoring and positional choices it enables.",
+    "conditions": "Verify legal readiness, scoring and opposing answers.",
+    "failure_case": "An alternative opening delays development but prevents a decisive threat.",
+    "related_ids": [
+      "RNG-M34"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and an alternative opening delays development but prevents a decisive threat.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M10",
+    "level": "L3",
+    "source_lines": "49–50",
+    "name": "Diminishing marginal access",
+    "structure": "Calculate incremental opening access from each added qualifying card.",
+    "conditions": "Explicit population, sampling and slot substitution.",
+    "failure_case": "Actual conditional mulligan or guaranteed champion changes the calculation.",
+    "related_ids": [
+      "NLD-M06"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and actual conditional mulligan or guaranteed champion changes the calculation.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M11",
+    "level": "L3",
+    "source_lines": "49–50",
+    "name": "Quality-adjusted redundant slot",
+    "structure": "Compare improved access against a weaker marginal card and its displacement cost.",
+    "conditions": "Evaluate card quality in relevant later and opening states.",
+    "failure_case": "The additional low-rate opener fills a crucial second role.",
+    "related_ids": [
+      "NLM-M34"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and the additional low-rate opener fills a crucial second role.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M12",
+    "level": "L3",
+    "source_lines": "51–52",
+    "name": "Recovery conditional on opening miss",
+    "structure": "Test whether a deck can stabilize after a failed opening independently of its probability.",
+    "conditions": "Define realistic opposing pressure and fallback resources.",
+    "failure_case": "Recovery tools are drawn too late or the opponent wins earlier.",
+    "related_ids": [
+      "RNG-M48"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and recovery tools are drawn too late or the opponent wins earlier.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M13",
+    "level": "L3",
+    "source_lines": "53–58",
+    "name": "Early resource attrition cascade",
+    "structure": "Track future rune capacity lost to early Power expenditure rather than just immediate payoff.",
+    "conditions": "Verify payment, replenishment and any restoration effects.",
+    "failure_case": "Early expenditure creates enough scoring pressure or restores capacity to justify it.",
+    "related_ids": [
+      "MFA-M12"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and early expenditure creates enough scoring pressure or restores capacity to justify it.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M14",
+    "level": "L3",
+    "source_lines": "59–60",
+    "name": "Joint color feasibility",
+    "structure": "Test simultaneous domain demand at the intended turn, including earlier payments.",
+    "conditions": "Account for channeling without replacement, prior recycling, total energy and power costs.",
+    "failure_case": "Three sampled runes of a domain are not simultaneously available after earlier use.",
+    "related_ids": [
+      "RNG-M06"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and three sampled runes of a domain are not simultaneously available after earlier use.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M15",
+    "level": "L3",
+    "source_lines": "59–60",
+    "name": "Deck and rune split co-design",
+    "structure": "Remove or replace cards whose domain demands conflict with the chosen rune composition.",
+    "conditions": "Compare full package and credible sequence distribution.",
+    "failure_case": "The excluded card supplies a unique necessary answer worth changing the split.",
+    "related_ids": [
+      "AYI-M11"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and the excluded card supplies a unique necessary answer worth changing the split.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M16",
+    "level": "L3",
+    "source_lines": "61–64",
+    "name": "Dependency-chain draw-order risk",
+    "structure": "Distinguish isolated situational cards from multiple sequential prerequisites.",
+    "conditions": "Model ordering, access, redundancy and disruption.",
+    "failure_case": "Reliable selection or independently useful components repair the dependency.",
+    "related_ids": [
+      "NLM-M37"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and reliable selection or independently useful components repair the dependency.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M17",
+    "level": "L3",
+    "source_lines": "65–66",
+    "name": "Threat-modifier balance",
+    "structure": "Measure access to units and supporting effects jointly; test either resource class being absent.",
+    "conditions": "Use actual counts, protection, recovery and expected removal.",
+    "failure_case": "A guaranteed threat or flexible modifier changes the dependency.",
+    "related_ids": [
+      "RNG-M37"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a guaranteed threat or flexible modifier changes the dependency.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M18",
+    "level": "L3",
+    "source_lines": "67–68",
+    "name": "Filtering as conditional-card insurance",
+    "structure": "Evaluate whether filtering converts unusable draws into relevant options.",
+    "conditions": "Include filtering costs, legal targets and draw uncertainty.",
+    "failure_case": "Filtering misses the required answer or consumes scarce development.",
+    "related_ids": [
+      "NLM-M25"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and filtering misses the required answer or consumes scarce development.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M19",
+    "level": "L3",
+    "source_lines": "69–72",
+    "name": "Standalone utility as robustness alternative",
+    "structure": "Compare generally playable cards with filtering-supported narrow cards.",
+    "conditions": "Track power ceiling, role coverage and actual costs.",
+    "failure_case": "A narrow answer is indispensable against a highly prevalent threat.",
+    "related_ids": [
+      "NLD-M26"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a narrow answer is indispensable against a highly prevalent threat.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M20",
+    "level": "L3",
+    "source_lines": "81–84",
+    "name": "Representative adversarial gauntlet",
+    "structure": "Test actual matches against capable pilots using dated representative lists.",
+    "conditions": "Record sample, list version, matchup, pilot and play order.",
+    "failure_case": "A small or unrepresentative sample supports an overconfident conclusion.",
+    "related_ids": [
+      "NLD-M04"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a small or unrepresentative sample supports an overconfident conclusion.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M21",
+    "level": "L3",
+    "source_lines": "81–84",
+    "name": "Regression after matchup-specific change",
+    "structure": "Retest the full baseline gauntlet after changing a slot for one opponent.",
+    "conditions": "Freeze candidate and baseline, preserve comparable conditions.",
+    "failure_case": "A favorable local change damages several higher-weight matchups.",
+    "related_ids": [
+      "NLM-M02"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a favorable local change damages several higher-weight matchups.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M22",
+    "level": "L3",
+    "source_lines": "85–88",
+    "name": "Out-of-group diversity sampling",
+    "structure": "Use outside play to expose strategies and variants the testing group omits.",
+    "conditions": "Separate exploratory discovery from representative performance inference.",
+    "failure_case": "Local opponents differ materially from regional competition.",
+    "related_ids": [
+      "RNG-M29"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and local opponents differ materially from regional competition.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M23",
+    "level": "L3",
+    "source_lines": "85–88",
+    "name": "Loss as diagnostic signal",
+    "structure": "Investigate each unexpected defeat without equating one loss with deck failure.",
+    "conditions": "Separate pilot error, variance, matchup and list weakness.",
+    "failure_case": "A loss arises from ordinary variance despite a sound choice.",
+    "related_ids": [
+      "NLM-M05"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and a loss arises from ordinary variance despite a sound choice.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  },
+  {
+    "id": "DCS-M24",
+    "level": "L3",
+    "source_lines": "89–95",
+    "name": "Pre-event stop rule",
+    "structure": "Reject a candidate when unresolved functionality or matchup weaknesses exceed the chosen readiness threshold.",
+    "conditions": "Set threshold and deadline in advance; preserve tested fallback.",
+    "failure_case": "New evidence repairs the issues before registration closes.",
+    "related_ids": [
+      "NLM-M17"
+    ],
+    "original_exercise_seed": "Construct a new practice comparison of two choices and record the constraint, alternative and new evidence repairs the issues before registration closes.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Conceptually linked to existing corpus; no independent novelty claim."
+  }
+]
