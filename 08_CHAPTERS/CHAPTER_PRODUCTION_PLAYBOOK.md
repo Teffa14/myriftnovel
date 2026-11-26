@@ -87,3 +87,6 @@ Use [MAC](../01_RESEARCH/REFERENCE_LIBRARY/works/MAC/INDEX.md) with OUT for scen
 
 ## Author-directive alignment — mandatory preflight and editorial gate
 Load 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md and its active private sources before every chapter, revision or supplement. In the private brief record each directive's status and applicability (setup, preserve, payoff, aftermath or justified N/A), dependencies, proposed changes and unresolved details. Recheck after drafting; no claim of alignment when a required record is missing. Do not promote a future directive into occurred canon, force a mention into every chapter, or reveal private plot details in public Git.
+
+## Narrative peak selection (AD-0002)
+Read 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md and the linked private bank at preflight. Select mechanism IDs only when an approved setup or new justified setup supports the proposed payoff; record status, narrative function, alternatives and persistent state change. Review rolling three-chapter promises/rewards and character-specific appeal. Preserve AD-0001 and existing relationship canon; avoid obligatory romance, fanservice filler or constant catastrophe. Treat all future concrete scenarios as candidates pending chapter-level evidence and author approval.

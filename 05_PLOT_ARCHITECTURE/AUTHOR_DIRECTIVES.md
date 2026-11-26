@@ -12,3 +12,8 @@ Status: active from 2026-11-25. The author's explicit future-story mandates are 
 
 ## Mandatory checkpoint
 Before every new chapter, revision or supplement, load this index and all active private directive records alongside the latest verified manuscript archive, continuity registry and payoff ledger. Record directive IDs and per-unit relevance (setup, preserve, payoff, aftermath, or not applicable with reason). Do not force references into prose, spoil unrevealed events, or replace independent character arcs. If a required private directive cannot be retrieved, report the planning dependency and do not guess or mark alignment verified. Future author decisions must be registered here or in a linked private record during the same requested planning update; preserve prior directives and log explicit amendments. Public Git holds the safe index and workflow, private Library holds spoiler-bearing full records.
+
+## AD-0002 — Narrative peak and audience-appeal development
+- Status: active author direction to collect and develop future narrative peaks, emotional plots, romance, love-interest options, fanservice and other reader rewards. Individual scenes, couples and placement remain proposed, not binding canon.
+- Mandatory reference: [NARRATIVE_PEAK_LIBRARY.md](NARRATIVE_PEAK_LIBRARY.md), with linked private scenario bank and provenance.
+- Integrate relevant mechanisms during chapter planning and review; deliver meaningful rewards, consequences and varied emotional register, preserve canon and existing author directives. No obligation to use every mechanism or establish a romance, and no public spoilers.

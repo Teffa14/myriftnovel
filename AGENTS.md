@@ -48,3 +48,5 @@ Use `.agents/skills/README.md` and `.agents/skills/registry.json` to select the 
 
 ## Mandatory author-directive intake and alignment (2026-11-25)
 Before planning, drafting, revising or closing any chapter or supplement, read 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md and retrieve its active private records. Track directive IDs and alignment in the private brief and editorial QA; do not invent inaccessible details or silently supersede author decisions. Register new author-approved planning mandates in the Git index during requested updates; keep spoiler-bearing detail in the linked private source. AD-0001 is active and prospective. Approved manuscript bytes and occurred canon remain unchanged.
+
+2026-11-25 — AD-0002: consult 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md and its private candidate bank at each chapter/arc planning and revision preflight. Select only justified narrative peaks; track proposed ID and promise/payoff in the private brief, check rolling emotional variation, preserve independent character agency and the approved archive. Candidate bank does not authorize pairings or outcomes. See AUTHOR_DIRECTIVES.md. No spoilers in public Git.

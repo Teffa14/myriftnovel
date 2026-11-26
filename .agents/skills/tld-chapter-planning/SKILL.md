@@ -13,6 +13,7 @@ Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Rea
 - 04_CHARACTERS/CHARACTER_SYSTEM.md
 - 04_CHARACTERS/RELATIONSHIPS.md
 - 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md
+- 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md
 - 05_PLOT_ARCHITECTURE/ARCS.md
 - 05_PLOT_ARCHITECTURE/SUBPLOTS.md
 - 08_CHAPTERS/PILOT_20.md
@@ -31,3 +32,5 @@ If technical decisions matter, route to tld-competitive-evidence before locking 
 Private chapter_brief.md with chapter ID, dates, POVs, objectives, scene transitions, evidence scope, selected mechanisms, continuity dependencies, open uncertainties, and planned consequences. Typical main-chapter length 1,700–2,200 words, not a quota. Brief does not authorize canon or publication.
 
 Before finalizing any brief, load active author directives and linked private records, record per-directive alignment and preserve unresolved implementation choices. Missing required private records block a claim of verified alignment.
+
+For AD-0002 load the linked private peak bank, select relevant NP IDs, record setup/payoff/alternate outcome, and retain unresolved romance and outcome choices. Check recent chapter rhythm without fixed quotas.
