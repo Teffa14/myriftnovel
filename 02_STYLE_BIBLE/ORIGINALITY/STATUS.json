@@ -1,26 +1,26 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 9,
-  "retired_resources_registered": 408,
-  "manuscript_audits": 11,
+  "approved_chapters_registered": 10,
+  "retired_resources_registered": 436,
+  "manuscript_audits": 12,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 11,
-    "new_variant_candidates": 28
+    "own_approved_units": 12,
+    "new_variant_candidates": 30
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v11 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v12 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v11.zip",
-  "usage_records": 176,
-  "lexical_fingerprints_registered": 22477,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v12.zip",
+  "usage_records": 193,
+  "lexical_fingerprints_registered": 24582,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 2,
-  "approved_units_registered": 11,
+  "approved_units_registered": 12,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -245,5 +245,25 @@
     "passed": 42,
     "failed": 0,
     "scope": "Exact V2 closeout, manifest, continuity, originality and nested four guard regression; persistent Library byte-for-byte readback and fresh validators verified."
+  },
+  "chapter_10": {
+    "revision": "V2",
+    "words": 2112,
+    "paragraphs": 104,
+    "scenes": 3,
+    "distinctive_retired_spans": 28,
+    "usage_records": 17,
+    "abstract_variants": 2,
+    "lexical_fingerprints": 2105,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L1 conditional arranged combat; formal trace and shortcut caveat; L0 regular games; no full replay",
+    "g6": "author-directed closeout; approved, distilled, persisted and verified"
+  },
+  "chapter_10_registration_checks": {
+    "passed": 56,
+    "failed": 0,
+    "scope": "Exact V2 closeout, archive and source validation, recovered draw fixture, bounded combat branches and guard regression; both private directives recovered; formal priority trace and informal shorthand caveat recorded. Fresh persistent byte-for-byte readback, manifest, continuity, 4/4 regression and prior manuscript preservation verified."
   }
 }
