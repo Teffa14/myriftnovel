@@ -40,3 +40,5 @@ For AD-0002 load the linked private peak bank, select relevant NP IDs, record se
 For AD-0003 use LIFE_PRESSURE.md; record relevant LP IDs or justified N/A, causal trade-off, ledger/schedule state, observed consequence, and rolling-arc coverage. Give supporting characters independent material and personal stakes. Do not treat a mention of work or rent as a dramatic payoff.
 
 AD-0007: apply the character-specific CD requirements and cross-character gates in 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md; record evidence and status for actual developments, justified omissions and deferred requirements. Preserve historical baseline scores, approved history and active private author directions.
+
+AD-0014: CH20 is the special A01 main-chapter finale. Follow 08_CHAPTERS/PILOT_20.md; track payoff readiness in CH15–19 briefs and use the entire approved pilot's source-linked promises, earned consequences and remaining obligations in the CH20 brief. Permit justified expanded length and scene form, preserve independent agency and honest competitive results, reserve aftermath, and transition to CH21. Do not predetermine new outcomes or approve prose.

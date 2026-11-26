@@ -126,3 +126,6 @@ Before selecting a major payoff, retrieve the private EM01–24 pass linked in A
 
 ## AD-0013 — Lived Perspective production pass
 Apply 02_STYLE_BIBLE/TLD_VOICE_METHOD.md and run 02_STYLE_BIBLE/voice_audit.py on exact candidate and relevant archive when available. Record private scene reality, focal attention, selected form, structural reread, comparable diagnostics and protected-state review. Investigate recurring narration in context; no target frequencies, formulaic rewrites or detector optimization. Record actual tool execution and unresolved weaknesses. Author approval is separate.
+
+## AD-0014 — Special CH20 finale workflow
+For CH15–19 briefs identify the genuine local reward and any concrete readiness contribution toward CH20 without forcing a callback. Before CH20 draft, complete a private A01 payoff-readiness review across all approved pilot units, with evidence locators, outstanding commitments, independent character progress and justified deferrals. Prepare an expanded scene architecture appropriate to the special finale specified in PILOT_20.md; length and POV are editorial choices, not quotas. Require a cumulative earned reward, consequence, aftermath and changed starting conditions for A02. Maintain all G3/G6, LPM, NDM and private-directive gates. Include a separate optional arc-end author note and obtain approval in the usual way.
