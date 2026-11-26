@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-25",
+  "as_of": "2026-11-26",
   "chapter_01": {
     "status": "author_approved_and_distilled",
     "revision": "V4.1",
@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v14.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v15.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 918,
-    "events": 108,
-    "approved_records": 918,
-    "open_issue_groups": 16,
+    "records": 989,
+    "events": 120,
+    "approved_records": 989,
+    "open_issue_groups": 17,
     "structural_validation": "Fresh Library readback PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v14.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v15.zip"
   },
   "archive_checks": {
-    "passed": 56,
+    "passed": 47,
     "failed": 0,
-    "scope": "Exact V2.1, prior archive preservation, originality, continuity, author directives, and order negative controls. Fresh persistent exact-byte readback, CRC, manifest, continuity and 4/4 regression verified."
+    "scope": "Exact approved source, prior archive preservation, originality, continuity, five active directives, bounded competitive arithmetic and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -712,7 +712,7 @@
     "publication": "not published by this work"
   },
   "chapter_12": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight": "CH0011 closed. Scoped CH12 preflight completed; retrieve verified v14 or successor and all four active directives. Draft only when instructed.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -741,6 +741,30 @@
       "author_directive_alignment": "AD-0001 preserved; AD-0002 proposed setup and bounded payoff; AD-0003 independent career pressure; AD-0004 agency and style continuity.",
       "limitations": "Selective repository body inspection; no manuscript, new canon, gameplay trace, confirmed result, effective-text legality certification, or publication.",
       "next_gate": "Draft only on author instruction; verify exact candidate originality and continuity, and any mechanically specific claims, before separate approval and closeout."
-    }
+    },
+    "revision": "V2.1",
+    "title": "The Other Side",
+    "words_excluding_headings": 2126,
+    "paragraphs": 98,
+    "scenes": 2,
+    "retired_resources": 27,
+    "abstract_usage_records": 17,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 2119,
+    "competitive_scope": "L1 conditional isolated two-branch resource exercise; no full match replay, complete legal decklists or independent judge certification",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v15.zip",
+    "archive_sha256": "cb5b8d92e56ca0e8b25aba993f7e6b05da85a009d7b91c8b414f1a82a4cf563d",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback and fresh validators passed",
+    "checks": {
+      "passed": 47,
+      "failed": 0,
+      "scope": "Exact approved source, prior archive preservation, originality, continuity, five active directives, bounded competitive arithmetic and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
+    },
+    "approval": "Author explicitly requested distillation and full process following V2.1 review; raw upload preserved; canonical heading and newline normalization only.",
+    "author_directive_alignment": "AD-0001 through AD-0005 reviewed; separate optional author note draft retained privately and not published.",
+    "literary_review": "Prior editorial assessment retained privately; no independent reader study.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
   }
 }
