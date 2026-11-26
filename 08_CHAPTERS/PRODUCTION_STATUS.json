@@ -713,6 +713,34 @@
   },
   "chapter_12": {
     "status": "not_started",
-    "preflight": "CH0011 V2.1 closed. Retrieve verified v14 or successor and all active author directives. Preserve June's independent Westline objective, current P02 style direction, work and material constraints, and confidentiality. Do not presume receipt or allocation of Nico's wages, new deck identities, or future practice attendance. Prepare scoped private CH12 preflight before drafting."
+    "preflight": "CH0011 closed. Scoped CH12 preflight completed; retrieve verified v14 or successor and all four active directives. Draft only when instructed.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "2901b086816b1fc3d3d7cd6650d72ce363ab751b",
+      "repository_inventory": {
+        "entries": 530,
+        "blobs": 449,
+        "truncated": false
+      },
+      "latest_changes_reviewed": 0,
+      "private_dossier": "/The Last Draw - Private Archive/CH0012_preflight.zip",
+      "dossier_sha256": "ff759e9f26c9d2f8b372a9dde60d063bac57b079185254cc9be43bcc4db555fb",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 14,
+      "retired_expressions": 484,
+      "usage_records": 224,
+      "continuity_records": 918,
+      "timeline_events": 108,
+      "checks": {
+        "passed": 42,
+        "failed": 0,
+        "scope": "Archive integrity, exact private directive hashes, continuity dependencies, candidate chronology and plan constraints; four nested guard regression tests."
+      },
+      "planned_scope": "L0 narrative practice; L1 only after exact card text, legal state, response trace and negative controls verified.",
+      "author_directive_alignment": "AD-0001 preserved; AD-0002 proposed setup and bounded payoff; AD-0003 independent career pressure; AD-0004 agency and style continuity.",
+      "limitations": "Selective repository body inspection; no manuscript, new canon, gameplay trace, confirmed result, effective-text legality certification, or publication.",
+      "next_gate": "Draft only on author instruction; verify exact candidate originality and continuity, and any mechanically specific claims, before separate approval and closeout."
+    }
   }
 }
