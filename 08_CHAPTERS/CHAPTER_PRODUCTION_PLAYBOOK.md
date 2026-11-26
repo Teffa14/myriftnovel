@@ -102,3 +102,6 @@ Retrieve the private directive and binding amendment from AUTHOR_DIRECTIVES.md d
 
 ## AD-0007 ensemble development
 Use 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md in private chapter briefs and editorial QA. Select relevant CD IDs; establish independent objectives, real choices and persistent consequences. Record delivery status and source locators, justify N/A/deferred coverage, review rolling windows and all six principal characters at arc close. Preserve historical scores and separately evaluate later approved evidence. No new private events or changed approved text without approval.
+
+## AD-0008 slice of life
+Consult 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md before drafting. Record relevant SL IDs or reasoned omission. Plan authentic ordinary experiences, hobby enjoyment, social activity and comfort alongside the competitive and material-pressure threads. Permit a whole main chapter without a match or major conflict when it delivers a coherent experience and attachment. In rolling four-chapter and arc reviews, check actual delivery and varied cast participation; avoid mechanical quotas, recycled scenes and forced hardship.

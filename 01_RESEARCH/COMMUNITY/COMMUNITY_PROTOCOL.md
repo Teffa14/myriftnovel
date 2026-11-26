@@ -64,3 +64,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## AKH — specialist goals and preparation
 [AKH analysis](../REFERENCE_LIBRARY/works/AKH/ANALYSIS.md) supports original discussions of practice preferences, award incentives, engine bottlenecks and changing hidden-card expectations. Verify actual incentive rules and keep forecasts separate from results. No copied real persona, hostility or unfair tournament tactics.
+
+## Slice-of-life integration — AD-0008
+Use 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md for ordinary game-community experiences, collecting, trades, casual play, shared meals, conversations and social outings. Give regulars independent motives and room for ordinary pleasure. No requirement that a casual exchange become a lesson, a conflict or a clue. Verify consequential factual claims, preserve original fictional voices and avoid forced background insertions.

@@ -44,3 +44,7 @@ Before every new chapter, revision or supplement, load this index and all active
 - Binding author direction: implement the character-specific and cross-character development requirements derived from the supplied CH11 assessment in [DEVELOPMENT_REQUIREMENTS.md](../04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md).
 - Preserve the historical scores as diagnostics; evaluate future progress against actual manuscript evidence. Apply CD IDs to chapter briefs and arc plans, track independent non-game threads, material conflicts, vulnerability, romance and emotional consequences, and review all six principal characters at arc close.
 - AD-0007 extends AD-0003 and complements AD-0001 through AD-0006-A01. The explicit private trajectory governs specific outcomes. No retroactive change to approved chapters or public spoilers.
+
+## AD-0008 — Slice of life and TCG lifestyle
+- Binding author direction: make ordinary life, hobby enjoyment, social experiences and comfort chapters recurring parts of the serial. Apply [SLICE_OF_LIFE.md](SLICE_OF_LIFE.md) in main chapters and supplements.
+- Use the four SL categories, allowing whole main chapters without competitive matches. Track actual ordinary experiences and reader-facing attachment in rolling and arc reviews. Preserve other directives, approved canon and competitive integrity; no obligatory conflict, forced quotas or public spoilers.

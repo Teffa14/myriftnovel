@@ -89,3 +89,5 @@ CD-G07: Maintain a private character-development ledger with character ID, requi
 
 ## Integration and acceptance
 Use this document together with LIFE_PRESSURE.md, AUTHOR_DIRECTIVES.md (including active private records), CHARACTER_SYSTEM.md, RELATIONSHIPS.md, SUBPLOTS.md and the latest verified archive. Existing G1–G6, competitive legality, originality, author approval, public/private boundaries and all prior requirements remain. This intake is not a fresh manuscript audit or an assertion that every historical fact remains current. The supplied audit is the source for all scores and gap categories; exact approved scene history remains private. No chapter, scene, new relationship event, current financial fact, or reader feedback has been created by this update.
+
+AD-0008 extends CD-G04 and CD-G06: consult 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md. Ordinary enjoyment, meaningful friendships and TCG culture have intrinsic value; a non-conflict scene can deliver attachment or texture without requiring a material cost. Continue to require concrete consequences for actual conflicts and maintain the private development ledger.

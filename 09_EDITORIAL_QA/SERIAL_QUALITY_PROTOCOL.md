@@ -42,3 +42,6 @@ Use 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md. Review whether the chapter or rolling
 
 ## Ensemble life and character development (AD-0007)
 Apply 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md. Require evidence of actual character-specific development rather than exposition about interests, work or money. Maintain private CD status/locators and consequence records; audit all six principal characters and ten diagnostic dimensions at each arc close. Missing evidence requires a concrete revision or justified deferral with a next review point. Preserve historical scores and private mandates. No invented reader data, compulsory per-chapter conflict/romance quota or automatic score increase.
+
+## Slice of life (AD-0008)
+Apply 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md. Check whether everyday pleasure, TCG lifestyle beyond training, independent social life and comfort are actually experienced on page. Record SL IDs, textual locators and narrative contributions. Review four-main-chapter windows and every arc; explain gaps and identify suitable next opportunities. A quiet scene may earn its place through humor, familiarity, rest or connection without escalating stakes. Preserve technical, continuity, originality and approval gates.
