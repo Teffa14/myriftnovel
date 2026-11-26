@@ -409,5 +409,34 @@
     "approval": "Explicit author approval of V2; Markdown chapter heading marker only; prose, date, cast headings and separators preserved",
     "literary_review": "Prior editorial means retained: 8.8777777778 literary, 8.55625 serial; no independent reader data",
     "publication": "not published"
+  },
+  "chapter_07": {
+    "status": "not_started",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "a57c31ed24e9f51697aa7ac2312e0f1ff707072b",
+      "repository_inventory": {
+        "entries": 521,
+        "blobs": 440,
+        "truncated": false
+      },
+      "private_dossier": "/The Last Draw - Private Archive/CH0007_preflight.zip",
+      "dossier_sha256": "96310587536f9f7e708ed7eb9a6f87d0dd4d9db59ff286c46568152ef9acc6ca",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 8,
+      "retired_expressions": 315,
+      "usage_records": 126,
+      "continuity_records": 441,
+      "timeline_events": 54,
+      "checks": {
+        "passed": 54,
+        "failed": 0,
+        "scope": "Archive and manuscript hashes, continuity, proposed chronology, conditional scheduling feasibility and negative controls; four guard selftests nested."
+      },
+      "planned_scope": "L0 narrative only",
+      "limitations": "Selective repository and manuscript passages; no candidate text, exact draft originality test, newly approved canon, actual appointment, gameplay simulation or literary score.",
+      "next_gate": "Draft only on author instruction; retrieve verified v8 or successor and private brief; execute exact candidate originality, continuity, L0 claim review, editorial review, separate approval and closeout."
+    }
   }
 }
