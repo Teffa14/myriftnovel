@@ -8,6 +8,7 @@ description: "Plan an original The Last Draw chapter or optional interlude using
 Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Read current root AGENTS.md and live canonical sources before using this skill. This operational summary does not supersede them. Paths below are repository-root-relative, not relative to this SKILL.md.
 
 ## Required references
+- 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md
 - 03_STORY_BIBLE/PREMISE.md
 - 03_STORY_BIBLE/WORLD.md
 - 04_CHARACTERS/CHARACTER_SYSTEM.md
@@ -37,3 +38,5 @@ Before finalizing any brief, load active author directives and linked private re
 For AD-0002 load the linked private peak bank, select relevant NP IDs, record setup/payoff/alternate outcome, and retain unresolved romance and outcome choices. Check recent chapter rhythm without fixed quotas.
 
 For AD-0003 use LIFE_PRESSURE.md; record relevant LP IDs or justified N/A, causal trade-off, ledger/schedule state, observed consequence, and rolling-arc coverage. Give supporting characters independent material and personal stakes. Do not treat a mention of work or rent as a dramatic payoff.
+
+AD-0007: apply the character-specific CD requirements and cross-character gates in 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md; record evidence and status for actual developments, justified omissions and deferred requirements. Preserve historical baseline scores, approved history and active private author directions.

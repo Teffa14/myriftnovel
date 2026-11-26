@@ -34,3 +34,6 @@ CH0001 author approval and recursive registration (2026-11-25): The Eighth Point
 
 ## Prospective pilot adjustment — AD-0003
 From the next unapproved chapter, consult 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md and the latest private state. Prioritize direct workplace and supervisor scenes plus a tangible labor/financial consequence at the earliest plausible opportunity, rather than deferring all ordinary-life pressure to later arcs. Pay off established household budget commitments when continuity permits; integrate the remaining pilot's independent Eli, June, Maya and Lucia objectives. Keep the approved chapter bytes and existing competitive outcome constraints unchanged; exact scenes, dates and POV combinations remain private candidate decisions.
+
+## AD-0007 — Remaining pilot and next arc
+For all unapproved units, apply 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md with AD-0003 and the private author directives. Integrate independent work, household, friendship, academic, social and emotional stakes in causally appropriate scenes. At pilot close review each character's CD requirements, distinguish delivered developments from future intentions, and carry unresolved requirements into the next arc with a planned opportunity. Preserve approved chapters, dates and competitive constraints.

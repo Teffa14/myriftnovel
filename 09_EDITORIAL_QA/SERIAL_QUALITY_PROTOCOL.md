@@ -39,3 +39,6 @@ Existing G1–G6 remain mandatory. Commercial strength cannot compensate for uns
 
 ## Ordinary-life pressure (AD-0003)
 Use 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md. Review whether the chapter or rolling three-chapter window shows a non-game constraint experienced directly, a consequential choice and persistent effect. Distinguish demonstrated pressure from reported scheduling, exposition and melodrama. Record evidence locator, ledger/schedule dependency, independent character goal, consequence, and justified N/A or repair. Across each arc verify a non-game subplot with actual setup and payoff. No fictional hardship automatically increases quality or reader retention.
+
+## Ensemble life and character development (AD-0007)
+Apply 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md. Require evidence of actual character-specific development rather than exposition about interests, work or money. Maintain private CD status/locators and consequence records; audit all six principal characters and ten diagnostic dimensions at each arc close. Missing evidence requires a concrete revision or justified deferral with a next review point. Preserve historical scores and private mandates. No invented reader data, compulsory per-chapter conflict/romance quota or automatic score increase.

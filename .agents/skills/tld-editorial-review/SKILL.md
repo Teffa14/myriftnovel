@@ -8,6 +8,7 @@ description: "Perform developmental, structural, psychological, technical, line 
 Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Read current root AGENTS.md and live canonical sources before using this skill. This operational summary does not supersede them. Paths below are repository-root-relative, not relative to this SKILL.md.
 
 ## Required references
+- 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md
 - 08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md
 - 09_EDITORIAL_QA/EDITORIAL_SYSTEM.md
 - 09_EDITORIAL_QA/CH0001_REVISION_BENCHMARKS.json
@@ -23,3 +24,5 @@ Run tld-originality on final candidate, rerun affected checks after edits, and r
 
 ## Output
 Private editorial_review.md, clean chapter_final.md candidate, exact-byte metrics, revision diff, qa_report.md, explicit unresolved issues, and review verdict. Deliver complete chapter separately; do not automatically publish, approve or continue.
+
+AD-0007: apply the character-specific CD requirements and cross-character gates in 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md; record evidence and status for actual developments, justified omissions and deferred requirements. Preserve historical baseline scores, approved history and active private author directions.

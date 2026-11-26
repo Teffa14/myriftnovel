@@ -99,3 +99,6 @@ Read 10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md before preparing the final chapt
 
 ## AD-0006 and AD-0006-A01 long-range relationship continuity
 Retrieve the private directive and binding amendment from AUTHOR_DIRECTIVES.md during preflight. Record applicable private tracker IDs, actual prior evidence, current relationship and knowledge state, setup/payoff purpose, consequences, and unresolved implementation. Where the amendment refines AD-0004 or the initial AD-0006 record, apply the newer explicit author direction; do not infer additional final outcomes. Preserve approved manuscript bytes, private scene details and all other active directives. Review accumulated relationship development and independent character agency across arcs. No spoilers in reader-facing notes, titles, artwork, public commits or summaries.
+
+## AD-0007 ensemble development
+Use 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md in private chapter briefs and editorial QA. Select relevant CD IDs; establish independent objectives, real choices and persistent consequences. Record delivery status and source locators, justify N/A/deferred coverage, review rolling windows and all six principal characters at arc close. Preserve historical scores and separately evaluate later approved evidence. No new private events or changed approved text without approval.
