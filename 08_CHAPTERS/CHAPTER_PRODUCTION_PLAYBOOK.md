@@ -111,3 +111,6 @@ In preflight and the private brief, maintain a source-linked detailed chronology
 
 ## AD-0010 long-range setup and dense scenes
 Retrieve 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md and the verified private bank. Record LR/DS IDs or reasoned omission, actual origin evidence, local purpose, reinforcement, readiness, dependencies, intended emotional consequence and aftermath. Check independent causality, reader knowledge, continuity and retired expression protection before drafting a major payoff. At each arc close review open seeds and near/long rewards. Do not treat prospective setup as occurred, force callbacks, revise approved prose or reveal private outcomes.
+
+## AD-0010-E01 expanded emotional scene bank
+Retrieve both linked private banks in 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md. Record selected DS IDs, prior approved anchors or unplanted prerequisites, causality, distinct emotional contribution, alternative treatments and downstream consequences. Check mutual-exclusion controls and ensure later payoffs cannot accidentally duplicate the same event. At each arc review, verify varied ensemble development and genuine happiness before escalating loss. Do not count candidate scenes as completed events or revise accepted text.

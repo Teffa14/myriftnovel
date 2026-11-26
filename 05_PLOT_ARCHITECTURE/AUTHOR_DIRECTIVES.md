@@ -58,3 +58,8 @@ Before every new chapter, revision or supplement, load this index and all active
 - Binding author direction: build early narrative seeds and earned emotionally dense scenes with payoffs across multiple arcs and potentially hundreds of chapters. Apply [LONG_RANGE_PAYOFFS.md](LONG_RANGE_PAYOFFS.md).
 - Mandatory private bank: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_LONG_RANGE_PAYOFFS_v1.md (SHA-256 ee1ef0b7aabf2ceb80ceaf1d116895256ff5e8b918455496056f86380e89c664). Retrieve and verify the record; its specific seed interpretations, future scenes and windows remain candidates unless covered by an existing binding author decision.
 - Track setup, reinforcement, dormancy, payoff and aftermath against approved evidence. Preserve AD-0001 through AD-0009, AD-0006-A01, independent character trajectories, approved manuscript and private outcomes. No retroactive edits or disclosure of spoilers.
+
+### AD-0010-E01 — Dense-scene expansion
+- Binding planning extension to AD-0010. Private expansion: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_DENSE_SCENES_EXPANSION_v1.md (SHA-256 2121f104e45950ac5b1ada85f51a0ccfc8e46b6abcdde37e48721ebeb7a2ecf8).
+- Retrieve alongside the original private LR/DS bank and applicable earlier directives. Select from the expanded DS05–40 dossiers only when causal setup, character agency, continuity, distinct emotional mechanisms and consequences are supported. Do not schedule every candidate or disclose specific private trajectories.
+- Preserve prior binding outcomes, the full ensemble's independent lives, joy, recovery and approved prose. Additional irreversible outcomes are prospective options, not author-approved facts.

@@ -48,3 +48,6 @@ Apply 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md. Check whether everyday pleasure, TC
 
 ## Long-range emotional architecture (AD-0010)
 Apply 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md. Check actual source-linked setup, varied reinforcement, independent causal threads, meaningful recontextualization and aftermath. Judge whether the payoff works without the callback; remove explanatory repetition or unearned claims. Review dormant/open seeds and shorter rewards across arcs. No mandatory catastrophe, fixed emotional-response score or fabricated audience evidence.
+
+## AD-0010-E01 dense-scene review
+For a selected dossier, evaluate actual attachment, causal inevitability in hindsight, individual agency, lasting consequences and independent readability. Record supported/weak/deferred with source evidence rather than predicted reader emotions. Compare recent scenes for repeated causes of distress, objects, gestures and revelations. Preserve rest, humor and earned rewards; no mandatory quota of catastrophes or emotional-response guarantees. Respect all private directive and continuity constraints.
