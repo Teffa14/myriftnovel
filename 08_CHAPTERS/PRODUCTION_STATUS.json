@@ -65,21 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v10.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v11.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 615,
-    "events": 70,
-    "approved_records": 615,
-    "open_issue_groups": 12,
+    "records": 703,
+    "events": 79,
+    "approved_records": 703,
+    "open_issue_groups": 13,
     "structural_validation": "Fresh Library readback: PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v10.zip",
-    "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v11.zip"
   },
   "archive_checks": {
-    "passed": 55,
+    "passed": 42,
     "failed": 0,
-    "scope": "Executed exact V2.1 archive, continuity and two lexical checks; 15 isolated conditional movement-model checks, source locators and nested guard regression. Persistent Library exact-byte readback and fresh manifest, continuity and guard tests additionally verified."
+    "scope": "Exact V2 closeout, manifest, continuity, originality and nested four guard regression; persistent Library byte-for-byte readback and fresh validators verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -488,7 +487,7 @@
     "publication": "not published by this work"
   },
   "chapter_09": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight": "CH0008 V2.1 closed. Retrieve verified v10 or successor; preserve household and study/work commitments, knowledge boundaries and unsettled future plans. Prepare CH9 scoped preflight and exact candidate checks before author approval. No automatic drafting or publication.",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
@@ -519,6 +518,61 @@
       "planned_scope": "L0 narrative only",
       "limitations": "Recursive inventory and latest three changed paths reviewed; selective relevant source contents and private prior passages, not exhaustive all-file body review. No draft, actual future appointments, new canon, game simulation, literary rating or independent reader test.",
       "next_gate": "Draft only on author instruction; retrieve verified v10 or successor and private brief, verify exact candidate originality, continuity and L0 scope, obtain separate author approval and closeout."
+    },
+    "revision": "V2",
+    "title": "Between Twelve and Two",
+    "words_excluding_headings": 2180,
+    "paragraphs": 133,
+    "scenes": 2,
+    "retired_resources": 28,
+    "abstract_usage_records": 16,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 2173,
+    "competitive_scope": "L0 narrative only",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v11.zip",
+    "archive_sha256": "df455bd6ac92108e95c5c47a454474b2bc0fc1a3cb049ac02a0cab35877fad85",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback verified",
+    "checks": {
+      "passed": 42,
+      "failed": 0,
+      "scope": "Exact V2 closeout, manifest, continuity, originality and nested four guard regression; persistent Library byte-for-byte readback and fresh validators verified."
+    },
+    "approval": "Author requested distillation and all processes following V2 review; original and normalized source preserved separately.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader data.",
+    "author_directive_alignment": "AD-0001 setup/preserve; prospective only",
+    "publication": "not published by this work"
+  },
+  "chapter_10": {
+    "status": "not_started",
+    "preflight": "CH0009 V2 closed. Scoped C10 preflight completed; retrieve v11 or successor, refresh dated competitive evidence, verify exact draft and obtain author approval.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "71305fe4d2da4e54d59baea6b60404b1f33e8853",
+      "repository_inventory": {
+        "entries": 524,
+        "blobs": 443,
+        "truncated": false
+      },
+      "latest_changes_reviewed": 7,
+      "private_dossier": "/The Last Draw - Private Archive/CH0010_preflight.zip",
+      "dossier_sha256": "a2fd8ad049d97ddfd63e7e70386b0bd8403fa3976c8efb7f27ae0413277c2a47",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 11,
+      "retired_expressions": 408,
+      "usage_records": 176,
+      "continuity_records": 703,
+      "timeline_events": 79,
+      "checks": {
+        "passed": 43,
+        "failed": 0,
+        "scope": "Archive, continuity, conditional availability, directive alignment and bounded combat arithmetic; four nested guard regression tests."
+      },
+      "planned_scope": "L1 conditional arranged practice; not full legal deck, draw, chain or match replay",
+      "author_directive_alignment": "AD-0001 retrieved and aligned setup/preserve; no new canon",
+      "limitations": "Latest seven modified paths reviewed plus selective relevant sources; not exhaustive repository body review. Rules evidence cutoff 2026-11-25. No actual appointment, draft, match win, new canon, rating or publication.",
+      "next_gate": "Draft only on author instruction; verify exact cards, legal timing, complete depicted state and required draws, continuity and originality before separate author approval and closeout."
     }
   }
 }
