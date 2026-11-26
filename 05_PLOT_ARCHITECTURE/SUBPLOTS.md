@@ -10,3 +10,5 @@ T08 Sponsorship: quiet market signals after A02 → Theo/Samira introduce terms 
 T09 Trust/romance: optional restrained intimacy rooted in Maya/Nico reciprocity; first season only develop credible friendship and boundaries, no mandatory pairing or jealousy triangle. 
 T10 Rules/meta: banlist affects opening deck choice; dated evidence, versioned testing and rule changes shape later conflicts. No prescience or illegal deck use. 
 Every thread has owner, opening, state, next evidence, dependency and planned closure. Ledger updated only after accepted chapter. Setups must be observable; no false mystery solely by withholding known POV information.
+
+Author-directive alignment: AD-0001 intersects T01, T02, T06 and T08 plus the applicable independent character thread. Consult [AUTHOR_DIRECTIVES.md](AUTHOR_DIRECTIVES.md) and its authoritative private record before advancing or resolving relevant threads. Do not resolve or overwrite the prospective milestone without explicit author approval.

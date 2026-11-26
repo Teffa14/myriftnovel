@@ -1,0 +1,14 @@
+# Author directives — mandatory planning index
+
+Status: active from 2026-11-25. The author's explicit future-story mandates are persistent planning constraints, not occurred canon events. Record each directive at intake, assign a stable ID, link affected threads, distinguish locked requirements from candidate details, and maintain the private full record when the directive contains unreleased plot information.
+
+## AD-0001 — Financial progression milestone
+- Status: binding author direction; not yet realized in approved chapters.
+- Scope: future arc planning and all chapter preflights; affected threads T01, T02, T06, T08 and relevant independent character threads.
+- Requirement: preserve the long-term financial milestone and its author-directed subsequent consequences. Build credible setup, earned reward, meaningful choices, persistent changes and later recovery; never advance or resolve it prematurely.
+- Full authoritative direction: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_PLOT_DIRECTIVE_First_Earnings.md
+- Timing, identity, exact financial amount and specific implementation remain open unless separately approved. Verify the private source before choosing them.
+- Existing canon, manuscript versions, competitive legality and rights gates remain unchanged.
+
+## Mandatory checkpoint
+Before every new chapter, revision or supplement, load this index and all active private directive records alongside the latest verified manuscript archive, continuity registry and payoff ledger. Record directive IDs and per-unit relevance (setup, preserve, payoff, aftermath, or not applicable with reason). Do not force references into prose, spoil unrevealed events, or replace independent character arcs. If a required private directive cannot be retrieved, report the planning dependency and do not guess or mark alignment verified. Future author decisions must be registered here or in a linked private record during the same requested planning update; preserve prior directives and log explicit amendments. Public Git holds the safe index and workflow, private Library holds spoiler-bearing full records.

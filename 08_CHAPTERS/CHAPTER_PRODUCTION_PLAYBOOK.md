@@ -84,3 +84,6 @@ For a consequential comeback, failed opener or closing choice consult [OUT](../0
 
 ## MAC — optional restraint and response-cost diagnostic
 Use [MAC](../01_RESEARCH/REFERENCE_LIBRARY/works/MAC/INDEX.md) with OUT for scenes where an appealing optional action competes with a more durable route. Show the chosen action, rival response and actual consequence; avoid retrospective omniscience or a repeated coaching maxim. Historical branches are research only, not ready-to-use match scripts.
+
+## Author-directive alignment — mandatory preflight and editorial gate
+Load 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md and its active private sources before every chapter, revision or supplement. In the private brief record each directive's status and applicability (setup, preserve, payoff, aftermath or justified N/A), dependencies, proposed changes and unresolved details. Recheck after drafting; no claim of alignment when a required record is missing. Do not promote a future directive into occurred canon, force a mention into every chapter, or reveal private plot details in public Git.
