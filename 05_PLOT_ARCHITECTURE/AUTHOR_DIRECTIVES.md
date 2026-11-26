@@ -33,3 +33,9 @@ Before every new chapter, revision or supplement, load this index and all active
 - Active author direction: use chapter-end Author's Thoughts strategically to develop a distinctive author identity, authentic reader affinity, discussion and voluntary commercial support.
 - Mandatory reference: [AUTHOR_THOUGHTS_PROTOCOL.md](../10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md). Provide a separate, optional English note or justified omission with each future chapter/supplement delivery. Preserve the story's emotional ending and avoid repetitive sales requests, spoilers and fabricated autobiographical or reader claims.
 - All note drafts require author approval before posting. Preserve AD-0001 through AD-0004, all approved manuscripts and publication/contract gates.
+
+## AD-0006 — Long-range character and relationship trajectory
+- Status: binding prospective author direction, including the author-confirmed amendment of 2026-11-26. No event is marked as occurred.
+- Full private direction: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_AD0006_Friendship_and_Legacy.md (SHA-256 5045f84d762a8451f19fc65d057bc69820b321afa871cf5a0d388cf5fd912ff1).
+- Binding amendment AD-0006-A01: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_AD0006_Amendment_01.md (SHA-256 2a47fc52d081248eff9ba265dc3ffdee1f9f142105125309491dfff4f3e1676c). Read both; amendment governs the more specific later relationship progression and narrows AD-0004 where applicable.
+- Apply the private setup, progression, payoff and aftermath trackers to relevant chapter and arc briefs; preserve individual agency, reciprocal friendship, independent personal goals and earned competitive progression. Exact implementation, dates and unresolved choices remain private. Keep AD-0001 distinct unless explicitly reconciled by the author. No premature reveal, forced relationship outcome beyond the explicit private direction, or retroactive change to approved manuscripts.
