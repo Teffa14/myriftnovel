@@ -1,13 +1,13 @@
 {
   "version": "2.0",
   "approved_chapters_registered": 15,
-  "retired_resources_registered": 578,
-  "manuscript_audits": 18,
+  "retired_resources_registered": 599,
+  "manuscript_audits": 19,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 18,
+    "own_approved_units": 19,
     "new_variant_candidates": 40
   },
   "tests": {
@@ -15,12 +15,12 @@
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v18 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v19 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v18.zip",
-  "usage_records": 289,
-  "lexical_fingerprints_registered": 36329,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v19.zip",
+  "usage_records": 304,
+  "lexical_fingerprints_registered": 37765,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -43,8 +43,8 @@
     "failed": 0,
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
-  "approved_supplements_registered": 3,
-  "approved_units_registered": 18,
+  "approved_supplements_registered": 4,
+  "approved_units_registered": 19,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -388,5 +388,27 @@
     "passed": 58,
     "failed": 0,
     "scope": "Exact V2.1 source and canonical roundtrip, prior corpus preservation, 17 approved units and 555 retired expressions screened, LPM descriptive audit, continuity, lexical screening, and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
+  },
+  "chapter_15_1": {
+    "display_number": "15.5",
+    "revision": "V2",
+    "words": 1443,
+    "lpm_words": 1442,
+    "paragraphs": 30,
+    "scenes": 1,
+    "distinctive_retired_spans": 21,
+    "usage_records": 15,
+    "abstract_variants": 0,
+    "lexical_fingerprints": 1436,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0 optional narrative supplement",
+    "g6": "Author-approved, distilled, persisted and verified; scoped same-agent review, not exhaustive external certification"
+  },
+  "chapter_15_1_registration_checks": {
+    "passed": 58,
+    "failed": 0,
+    "scope": "Exact reviewed V2, prior archive and source integrity, 18 prior units and 578 retired resources screened, LPM descriptive diagnostics, source-linked continuity, supplement ordering and negative controls. Fresh persistent Library byte readback, CRC, manifest, continuity, LPM and 4/4 guard regression separately verified."
   }
 }
