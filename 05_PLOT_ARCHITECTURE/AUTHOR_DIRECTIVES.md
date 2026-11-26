@@ -22,3 +22,8 @@ Before every new chapter, revision or supplement, load this index and all active
 - Status: binding author direction. Increase the lived, on-page consequences of employment, bosses, rent, money, fatigue, family, education and independent personal ambitions. Existing approved chapters remain intact.
 - Mandatory reference: [LIFE_PRESSURE.md](LIFE_PRESSURE.md). Establish the actual workplace at the earliest viable opportunity; track tangible choices and persistent consequences rather than mentioning constraints as background.
 - Apply to Nico and the ensemble; integrate pressure with competitive, emotional and romantic progression. Prioritize the next unapproved chapters, preserve existing calendar and household boundaries, and review rolling arc coverage. No required specific disaster, employer identity, paycheck, debt or match result is canon.
+
+## AD-0004 — Romantic direction and character appeal
+- Status: active author preference; prospective planning, no canonical pairing or occurred event.
+- Full private direction: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_ROMANCE_DIRECTION_v1.md (SHA-256 e016959bf398a75fedd1e3bdd89bca38602107979c429dd6ad3dee547a7a87b0).
+- Expand T09 to allow multiple credible reciprocal romantic possibilities, with author-preferred emphasis specified privately. Develop distinct adult character appeal and gradual emotional movement; preserve independent ambitions, competitive integrity and established visual continuity. No fixed pairing, forced jealousy, obligatory intimacy or retroactive change to approved chapters. Consult the private direction before planning relevant relationship scenes.

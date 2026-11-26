@@ -7,7 +7,7 @@ T05 Maya's Sideboard: capacity and budget → Ch7/13 scheduling and community is
 T06 Lucia and household: Ch2 shared commitment → Ch9/14 missed agreement or renegotiation → A04 competing deadlines → A06 new explicit boundaries. She retains goals; avoid forced guilt.
 T07 Marcus: Ch4 bounded offer → Ch8 review method → A02 limits → A03 steps back → A06 reciprocal appreciation.
 T08 Sponsorship: quiet market signals after A02 → Theo/Samira introduce terms A04–05 → A05 decision → A06 consequence. No contract signed before text reviewed; never conflate offers and paid income.
-T09 Trust/romance: optional restrained intimacy rooted in Maya/Nico reciprocity; first season only develop credible friendship and boundaries, no mandatory pairing or jealousy triangle. 
+T09 Trust/romance: gradual reciprocal adult attraction may develop along multiple credible paths (AD-0004); individual dynamics, competing commitments and honest choices determine progression. Preserve established boundaries and independent ambitions; no mandatory pairing, manufactured jealousy or fixed first-season romantic milestone. Exact emphasis and candidate routes are in the private author direction.
 T10 Rules/meta: banlist affects opening deck choice; dated evidence, versioned testing and rule changes shape later conflicts. No prescience or illegal deck use. 
 Every thread has owner, opening, state, next evidence, dependency and planned closure. Ledger updated only after accepted chapter. Setups must be observable; no false mystery solely by withholding known POV information.
 
