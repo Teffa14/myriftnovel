@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 441,
-    "events": 54,
-    "approved_records": 441,
-    "open_issue_groups": 10,
+    "records": 527,
+    "events": 62,
+    "approved_records": 527,
+    "open_issue_groups": 11,
     "structural_validation": "Fresh Library readback: PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 44,
+    "passed": 43,
     "failed": 0,
-    "scope": "CH0006 V3 closeout, plus fresh persistent Library exact-byte readback and manifest/continuity/guard verification."
+    "scope": "Exact V2 archival and continuity checks, two lexical screens, source anchors, attendance arithmetic and date checks; four guard regression tests nested. Persistent Library readback additionally verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -411,7 +411,7 @@
     "publication": "not published"
   },
   "chapter_07": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight_result": {
       "status": "scoped_preflight_completed; manuscript_not_started",
       "source_commit": "a57c31ed24e9f51697aa7ac2312e0f1ff707072b",
@@ -437,6 +437,32 @@
       "planned_scope": "L0 narrative only",
       "limitations": "Selective repository and manuscript passages; no candidate text, exact draft originality test, newly approved canon, actual appointment, gameplay simulation or literary score.",
       "next_gate": "Draft only on author instruction; retrieve verified v8 or successor and private brief; execute exact candidate originality, continuity, L0 claim review, editorial review, separate approval and closeout."
-    }
+    },
+    "revision": "V2",
+    "title": "The Spare Table",
+    "words_excluding_headings": 2035,
+    "paragraphs": 131,
+    "scenes": 1,
+    "retired_resources": 34,
+    "abstract_usage_records": 17,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 2028,
+    "competitive_scope": "L0 narrative only; no mechanical interaction or full replay",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "44ae723d6839de81c5aaa25ab39de8d5b47eb6fad1211bee7990e8c783ba5b60",
+    "archive_storage": "Persistent Library exact-byte readback verified; manifest, continuity and four guard regression tests passed",
+    "checks": {
+      "passed": 43,
+      "failed": 0,
+      "scope": "Exact V2 archival and continuity checks, two lexical screens, source anchors, attendance arithmetic and date checks; four guard regression tests nested. Persistent Library readback additionally verified."
+    },
+    "approval": "Author requested complete CH7 distillation and closeout; latest reviewed V2 preserved; original upload and normalized source retained separately.",
+    "literary_review": "Prior editorial assessment recorded privately; no independent reader data",
+    "publication": "not published by this work"
+  },
+  "chapter_08": {
+    "status": "not_started",
+    "preflight": "CH0007 V2 closed. Retrieve verified v9 or successor and refresh conditional C8 preflight; preserve unresolved commitments, verify dated card evidence for L1 scope, run exact candidate checks. No automatic drafting or publication."
   }
 }

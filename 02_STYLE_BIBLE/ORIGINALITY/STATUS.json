@@ -1,26 +1,26 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 6,
-  "retired_resources_registered": 315,
-  "manuscript_audits": 8,
+  "approved_chapters_registered": 7,
+  "retired_resources_registered": 349,
+  "manuscript_audits": 9,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 8,
-    "new_variant_candidates": 22
+    "own_approved_units": 9,
+    "new_variant_candidates": 24
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v8 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v9 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
-  "usage_records": 126,
-  "lexical_fingerprints_registered": 16335,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
+  "usage_records": 143,
+  "lexical_fingerprints_registered": 18363,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 2,
-  "approved_units_registered": 8,
+  "approved_units_registered": 9,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -185,5 +185,25 @@
     "passed": 44,
     "failed": 0,
     "scope": "Named closeout checks, including conditional arithmetic/state assertions and nested guard regression; exact persistent Library readback separately verified."
+  },
+  "chapter_7": {
+    "revision": "V2",
+    "words": 2035,
+    "paragraphs": 131,
+    "scenes": 1,
+    "distinctive_retired_spans": 34,
+    "usage_records": 17,
+    "abstract_variants": 2,
+    "lexical_fingerprints": 2028,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0 narrative only",
+    "g6": "author-directed closeout; approved, distilled, persisted and verified"
+  },
+  "chapter_7_registration_checks": {
+    "passed": 43,
+    "failed": 0,
+    "scope": "Exact V2 archival and continuity checks, two lexical screens, source anchors, attendance arithmetic and date checks; four guard regression tests nested. Persistent Library readback additionally verified."
   }
 }
