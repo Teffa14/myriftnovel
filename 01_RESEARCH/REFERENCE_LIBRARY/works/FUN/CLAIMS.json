@@ -1,0 +1,62 @@
+[
+  {
+    "source_lines": "22–39",
+    "claim": "Odd/even score equivalence and archetype-specific lethal thresholds",
+    "status": "conditional_heuristic",
+    "limit": "Only applies under specified scoring routes. Actual scoring, alternate card effects and timing require verification."
+  },
+  {
+    "source_lines": "36–39,52–57,104–107",
+    "claim": "Aurora-based historical strategies",
+    "status": "historical_ban_conflict",
+    "limit": "Dazzling Aurora appears on repository November 23 Standard ban snapshot. No current legal recommendation."
+  },
+  {
+    "source_lines": "22–25",
+    "claim": "Draven tempo example",
+    "status": "identity_unresolved",
+    "limit": "Draven, Vanquisher banned in Standard snapshot; source does not specify exact printing. Do not equate every Draven with banned printing."
+  },
+  {
+    "source_lines": "36–39",
+    "claim": "Named Viktor, Rek'Sai, MF, Kai'Sa finishers",
+    "status": "unverified_named_interactions",
+    "limit": "Need exact current text, legal costs, score history and priority; source does not prove executable sequences."
+  },
+  {
+    "source_lines": "52–57",
+    "claim": "Reported skirmish concession and recovery",
+    "status": "self_reported",
+    "limit": "No match record verified. 18 to 15 minutes implies three minutes elapsed; 7–1 at time is not independent proof of final result or current time-out policy."
+  },
+  {
+    "source_lines": "58–71",
+    "claim": "Round duration and per-game pacing suggestions",
+    "status": "author_heuristic",
+    "limit": "17/25 minutes are suggestions, not established policy. Check event-specific round length and end-of-match procedure."
+  },
+  {
+    "source_lines": "80–83",
+    "claim": "100 brain points",
+    "status": "metaphor",
+    "limit": "No measured cognitive budget or validated quantitative model."
+  },
+  {
+    "source_lines": "104–107",
+    "claim": "Copy limit and tracking",
+    "status": "pending_current_rules",
+    "limit": "Verify printing identity and deck restrictions, recursion/recycling and permitted note-taking."
+  },
+  {
+    "source_lines": "108–111",
+    "claim": "Yi rune thresholds",
+    "status": "unverified_historical_examples",
+    "limit": "Exact Legend printing, card text, timing and resource definitions required; no inferred current damage formula."
+  },
+  {
+    "source_lines": "112–127",
+    "claim": "Body language, consistent timing and bluffing",
+    "status": "subjective_heuristic",
+    "limit": "No behavioral diagnostic certainty. Avoid artificial delays, illegal misrepresentation and improper card handling."
+  }
+]

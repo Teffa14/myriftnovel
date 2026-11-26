@@ -1,0 +1,233 @@
+{
+  "source": "What are Fundamentals and why are they important? / Points as a Resource / Time is a Resource / Reading Your Opponent",
+  "author": null,
+  "publication_date": null,
+  "ingest_date": "2026-11-25",
+  "sha256": "062763ec196e5f4673c46780c6f7d9913835fbf5183e0f92fe39318e798ae947",
+  "bytes": 21211,
+  "lines": 134,
+  "word_tokens": 3837,
+  "distinct_lowercase_forms": 792,
+  "blocks": 63,
+  "method": "Python UTF-8-sig; Unicode alphabetic words with optional internal apostrophe/hyphen; headings included, standalone digits excluded; blank-line blocks; splitlines source indexing. Section ranges include surrounding separators.",
+  "sections": [
+    {
+      "name": "Introduction",
+      "tokens": 329
+    },
+    {
+      "name": "Points",
+      "tokens": 1077
+    },
+    {
+      "name": "Time",
+      "tokens": 1256
+    },
+    {
+      "name": "Opponent modeling",
+      "tokens": 1175
+    }
+  ],
+  "units": [
+    {
+      "id": "FUN-U01",
+      "start": 1,
+      "end": 13,
+      "tokens": 329,
+      "topic": "Transferable skill foundations",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U02",
+      "start": 14,
+      "end": 21,
+      "tokens": 101,
+      "topic": "Scoring as a resource",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U03",
+      "start": 22,
+      "end": 25,
+      "tokens": 182,
+      "topic": "Archetype-dependent scoring thresholds",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U04",
+      "start": 26,
+      "end": 31,
+      "tokens": 233,
+      "topic": "Conditional parity and turn order",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U05",
+      "start": 32,
+      "end": 35,
+      "tokens": 148,
+      "topic": "Opportunity cost of scoring",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U06",
+      "start": 36,
+      "end": 39,
+      "tokens": 132,
+      "topic": "Threatened victory routes",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U07",
+      "start": 40,
+      "end": 45,
+      "tokens": 172,
+      "topic": "Pressure and forced expenditures",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U08",
+      "start": 46,
+      "end": 51,
+      "tokens": 109,
+      "topic": "Scoring synthesis",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U09",
+      "start": 52,
+      "end": 57,
+      "tokens": 162,
+      "topic": "Reported match concession",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U10",
+      "start": 58,
+      "end": 61,
+      "tokens": 127,
+      "topic": "Round time and recovery",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U11",
+      "start": 62,
+      "end": 65,
+      "tokens": 190,
+      "topic": "Recognizing infeasible routes",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U12",
+      "start": 66,
+      "end": 71,
+      "tokens": 236,
+      "topic": "Pacing and clock awareness",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U13",
+      "start": 72,
+      "end": 75,
+      "tokens": 110,
+      "topic": "Contingent forward planning",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U14",
+      "start": 76,
+      "end": 79,
+      "tokens": 156,
+      "topic": "Solo procedural rehearsal",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U15",
+      "start": 80,
+      "end": 83,
+      "tokens": 199,
+      "topic": "Decision shortcuts",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U16",
+      "start": 84,
+      "end": 89,
+      "tokens": 76,
+      "topic": "Time synthesis",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U17",
+      "start": 90,
+      "end": 97,
+      "tokens": 81,
+      "topic": "Opponent modeling introduction",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U18",
+      "start": 98,
+      "end": 103,
+      "tokens": 230,
+      "topic": "Hand provenance and concealment",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U19",
+      "start": 104,
+      "end": 107,
+      "tokens": 143,
+      "topic": "Public card accounting",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U20",
+      "start": 108,
+      "end": 111,
+      "tokens": 116,
+      "topic": "Resource-compatible responses",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U21",
+      "start": 112,
+      "end": 115,
+      "tokens": 103,
+      "topic": "Ambiguous behavioral cues",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U22",
+      "start": 116,
+      "end": 123,
+      "tokens": 196,
+      "topic": "Consistent legal habits",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U23",
+      "start": 124,
+      "end": 127,
+      "tokens": 145,
+      "topic": "Represented interaction and bluff cost",
+      "coverage": "supplied text"
+    },
+    {
+      "id": "FUN-U24",
+      "start": 128,
+      "end": 134,
+      "tokens": 161,
+      "topic": "Information synthesis",
+      "coverage": "supplied text"
+    }
+  ],
+  "counts": {
+    "mechanisms": 24,
+    "exercises": 8,
+    "claims": 10,
+    "checks": 16,
+    "abstract_route_cases": 16,
+    "abstract_budget_cases": 256
+  }
+}

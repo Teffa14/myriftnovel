@@ -1,0 +1,169 @@
+{
+  "checks": [
+    {
+      "id": "unit_coverage",
+      "pass": true
+    },
+    {
+      "id": "token_sum",
+      "pass": true
+    },
+    {
+      "id": "unit_ids",
+      "pass": true
+    },
+    {
+      "id": "mechanism_ids",
+      "pass": true
+    },
+    {
+      "id": "mechanism_fields",
+      "pass": true
+    },
+    {
+      "id": "exercise_ids",
+      "pass": true
+    },
+    {
+      "id": "exercise_noncanon",
+      "pass": true
+    },
+    {
+      "id": "catalog_id_unused",
+      "pass": true
+    },
+    {
+      "id": "claim_boundaries",
+      "pass": true
+    },
+    {
+      "id": "related_ids_resolve",
+      "pass": true
+    },
+    {
+      "id": "abstract_route_formula",
+      "pass": true
+    },
+    {
+      "id": "parity_counterexample",
+      "pass": true
+    },
+    {
+      "id": "conditional_double_step_parity",
+      "pass": true
+    },
+    {
+      "id": "abstract_budget_enumeration",
+      "pass": true
+    },
+    {
+      "id": "total_budget_false_positive",
+      "pass": true
+    },
+    {
+      "id": "reported_elapsed",
+      "pass": true
+    }
+  ],
+  "abstract_route_cases": [
+    {
+      "score": 0,
+      "step": 1,
+      "turns": 8,
+      "pass": true
+    },
+    {
+      "score": 0,
+      "step": 2,
+      "turns": 4,
+      "pass": true
+    },
+    {
+      "score": 1,
+      "step": 1,
+      "turns": 7,
+      "pass": true
+    },
+    {
+      "score": 1,
+      "step": 2,
+      "turns": 4,
+      "pass": true
+    },
+    {
+      "score": 2,
+      "step": 1,
+      "turns": 6,
+      "pass": true
+    },
+    {
+      "score": 2,
+      "step": 2,
+      "turns": 3,
+      "pass": true
+    },
+    {
+      "score": 3,
+      "step": 1,
+      "turns": 5,
+      "pass": true
+    },
+    {
+      "score": 3,
+      "step": 2,
+      "turns": 3,
+      "pass": true
+    },
+    {
+      "score": 4,
+      "step": 1,
+      "turns": 4,
+      "pass": true
+    },
+    {
+      "score": 4,
+      "step": 2,
+      "turns": 2,
+      "pass": true
+    },
+    {
+      "score": 5,
+      "step": 1,
+      "turns": 3,
+      "pass": true
+    },
+    {
+      "score": 5,
+      "step": 2,
+      "turns": 2,
+      "pass": true
+    },
+    {
+      "score": 6,
+      "step": 1,
+      "turns": 2,
+      "pass": true
+    },
+    {
+      "score": 6,
+      "step": 2,
+      "turns": 1,
+      "pass": true
+    },
+    {
+      "score": 7,
+      "step": 1,
+      "turns": 1,
+      "pass": true
+    },
+    {
+      "score": 7,
+      "step": 2,
+      "turns": 1,
+      "pass": true
+    }
+  ],
+  "budget_cases": 256,
+  "budget_pass": 256,
+  "scope": "Synthetic arithmetic and structure only; no game engine."
+}

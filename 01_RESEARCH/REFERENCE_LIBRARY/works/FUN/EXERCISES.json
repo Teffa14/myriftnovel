@@ -1,0 +1,58 @@
+[
+  {
+    "id": "FUN-E01",
+    "name": "Score-route comparison",
+    "task": "For scores 4, 5, 6 and 7, compare a strictly abstract two-point finishing route with a one-point finishing route. Identify why equality of estimated turns fails when legal prerequisites differ.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E02",
+    "name": "Opportunity-cost review",
+    "task": "Set up two hypothetical actions: take one point and expose a unit, or retain the unit for later. Record rival responses and alternate win routes before selecting; no universal numeric point price.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E03",
+    "name": "Clock and outs",
+    "task": "Use a fictional match with a remaining time budget. Identify live recovery routes and their time requirements; compare continuing with voluntary concession without treating uncertain loss as impossible or arranging outcomes.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E04",
+    "name": "Practice loop",
+    "task": "Record duration and errors over five solo repetitions; change one routine and repeat. Separate execution speed from match strength.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E05",
+    "name": "Public card ledger",
+    "task": "A card enters play, returns to hand, is played again, then another copy is revealed. Maintain distinct identity counts and unknowns instead of counting appearances.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E06",
+    "name": "Response budget",
+    "task": "Use an invented two-dimensional resource model to compare feasible and infeasible responses; no actual card costs assumed.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E07",
+    "name": "Uncertain tells",
+    "task": "Write three compatible explanations for one observable action. Choose a decision robust across them without asserting hidden information.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "FUN-E08",
+    "name": "Bluff cost",
+    "task": "Compare a legal represented response against developing a threat. Record the outcome if the rival respects it and if the rival ignores it.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  }
+]

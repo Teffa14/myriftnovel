@@ -134,3 +134,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## MGC — JohnPanio Magma Chamber (2026-11-25)
 [Research index](works/MGC/INDEX.md): 11,718 raw lexical tokens (10,269 cleaned), 22 supplied sections, 30 linked mechanism refinements, 12 historical/illustrative pairing contexts, eight original exercises, nine rules claim groups and 11 structural checks. 50 linked images uninspected; historical ban conflicts and October scoring revision flagged. Exact list inventories, placements and named-card sequences unverified; no legal replay or canon change. Team-format research tracked separately from the 1v1 specialist corpus.
+
+## FUN — competitive fundamentals (2026-11-25)
+[Research index](works/FUN/INDEX.md): 3,837 tokens, 792 forms, 63 blocks, 24 mapped units, 24 linked mechanism refinements, eight original exercises, ten claim groups, 16 named checks (16 abstract route cases; 256 independent-budget cases). Undated anonymous supplied guide; historical Aurora and unresolved Draven identity flagged using Nov 23 Standard snapshot. No current legal list, replay or canon change.

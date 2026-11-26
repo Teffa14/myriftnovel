@@ -1,0 +1,12 @@
+# FUN — Competitive fundamentals
+The supplied English text contains introductory material and three articles on score, clock and information. Author, source URL and original publication date are unspecified. All 134 lines were read and measured, with 24 source-located units. No image references were present. The analysis is original, not a replacement for the guide.
+
+## Strategic transfer
+Score is an input to a route model, not a universal material exchange rate. Track legal finishing conditions, turn order, independent opposing responses, current board and resource alternatives. The guide's parity principle only holds under restricted assumptions. Synthetic fixed-step arithmetic confirms that 4 and 5 can require the same number of two-step increments, but differ if one-step scoring is available; this is an illustration, not Riftbound scoring certification. Preserve uncertainty about alternative card effects and actual board reachability.
+
+Time is a match-level constraint. Compare feasible recovery, match score, remaining clock, setup and later games; do not equate unlikely and impossible. Concession must be voluntary and lawful. The reported anecdote is not independently verified. Distinguish procedural fluency from match competence and practice conditional shortcuts instead of universal timing prescriptions. The numerical mental-energy metaphor is not a measured capacity.
+
+Information modeling requires zone-aware copy accounting, observable hand changes, resource-constrained response sets and uncertainty about hidden cards. Behavioral cues are ambiguous. Legal routine handling and prompt, proportionate play take precedence over timing camouflage. Bluffing concerns represented legal options, not false statements about public facts. Never assume one observed reaction identifies a specific card.
+
+## Novel application
+Use FUN with NLM/NLD, OUT, MAC, RNG, VIK and AKH. A character can recognize a score threshold yet miss an alternate finishing route; another can allocate practice toward routine handling and still make a consequential strategic mistake. A match-level decision can demonstrate growth without a victory. Show public information, competing explanations and action consequences from the focal POV. No source anecdotes or distinctive expression reused. Use dated official game rules and existing G3-scene checks before specifying a technical interaction. No canon changes.

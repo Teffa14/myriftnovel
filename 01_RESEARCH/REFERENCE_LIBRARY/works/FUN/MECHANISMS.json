@@ -1,0 +1,362 @@
+[
+  {
+    "id": "FUN-M01",
+    "level": "L6",
+    "source_lines": "1–13",
+    "name": "Transferable skill foundation",
+    "structure": "Identify skill that persists across decks, then test it under changed constraints.",
+    "conditions": "A skill transfers only if the new game's legal mechanics support it.",
+    "failure_case": "Treating a previous game's rule as Riftbound law.",
+    "related_ids": [
+      "NLM-M01"
+    ],
+    "original_exercise_seed": "A practice review isolates one repeated decision error across two different decks.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M02",
+    "level": "L3",
+    "source_lines": "22–25",
+    "name": "Endpoint-conditioned point value",
+    "structure": "Evaluate score against available next scoring sequences rather than numeric distance alone.",
+    "conditions": "Verified scoring and actual position, alternate routes considered.",
+    "failure_case": "A player has an alternate finishing effect that bypasses the assumed route.",
+    "related_ids": [
+      "AKH-M34"
+    ],
+    "original_exercise_seed": "Compare two players at six whose feasible finishing sequences differ.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M03",
+    "level": "L3",
+    "source_lines": "26–31",
+    "name": "Conditional score parity",
+    "structure": "Group scores only when the same feasible route and timing apply.",
+    "conditions": "Restricted double-score model, no intervening alternate score or hold.",
+    "failure_case": "An odd point enables a hold or card-effect finish, invalidating equivalence.",
+    "related_ids": [
+      "RNG-M42"
+    ],
+    "original_exercise_seed": "Test a single-point concession against both a hold-oriented and a two-score rival.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M04",
+    "level": "L3",
+    "source_lines": "26–31",
+    "name": "Turn-order race",
+    "structure": "Project earliest feasible finishing turn for each player under independent replies.",
+    "conditions": "Do not assume future scoring is guaranteed.",
+    "failure_case": "Opponent interrupts the expected next-turn score or has an earlier alternate route.",
+    "related_ids": [
+      "OUT-M03"
+    ],
+    "original_exercise_seed": "The learner checks whether an apparent lead survives an opposing disruption.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M05",
+    "level": "L3",
+    "source_lines": "32–35",
+    "name": "Point acquisition opportunity cost",
+    "structure": "Compare immediate score, exposed material, later development and opponent payoff.",
+    "conditions": "Board and resource states must be explicit.",
+    "failure_case": "A sacrificed unit is necessary for an immediate legal win.",
+    "related_ids": [
+      "OUT-M11"
+    ],
+    "original_exercise_seed": "Compare an exposed early threat against developing a protected scoring route.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M06",
+    "level": "L3",
+    "source_lines": "26–35",
+    "name": "Conditional point concession",
+    "structure": "Allow a low-impact opposing score only when preserving resources improves one's route.",
+    "conditions": "Bound the opponent's entire feasible threat range.",
+    "failure_case": "The conceded point changes an alternate finishing threshold.",
+    "related_ids": [
+      "OUT-M15"
+    ],
+    "original_exercise_seed": "A practice partner challenges the assumption that one more point is safe.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M07",
+    "level": "L3",
+    "source_lines": "36–39",
+    "name": "Earliest credible lethal threshold",
+    "structure": "Identify legal scoring sequences and prerequisites; distinguish possible from guaranteed.",
+    "conditions": "Exact cards, resources, targets, timing and current legality.",
+    "failure_case": "Treating a deck label or historical combo as proof of lethal.",
+    "related_ids": [
+      "AKH-M34"
+    ],
+    "original_exercise_seed": "Write two possible finish routes and mark every missing prerequisite.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M08",
+    "level": "L3",
+    "source_lines": "40–45",
+    "name": "Pressure as forced allocation",
+    "structure": "A credible scoring threat changes which resources a rival must spend now.",
+    "conditions": "Threat actually attainable and opponent has independent choices.",
+    "failure_case": "The opponent can safely ignore the threat or win first.",
+    "related_ids": [
+      "VIK-M21"
+    ],
+    "original_exercise_seed": "A control player must choose between developing an engine and contesting a credible score.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M09",
+    "level": "L3",
+    "source_lines": "40–45",
+    "name": "Emergency expenditure",
+    "structure": "Use a valuable reserved piece defensively only when the avoided threat justifies its loss.",
+    "conditions": "Compare all legal cheaper answers and counterplay.",
+    "failure_case": "Spending a finisher when a less costly answer exists.",
+    "related_ids": [
+      "MAC-M12"
+    ],
+    "original_exercise_seed": "The learner records why an emergency defensive use was necessary.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M10",
+    "level": "L3",
+    "source_lines": "52–65",
+    "name": "Match-level concession threshold",
+    "structure": "Compare remaining live routes with remaining time and match-level alternatives.",
+    "conditions": "Concession permitted; consider outs, clock and match score.",
+    "failure_case": "Conceding merely because recovery is unlikely, or colluding over outcomes.",
+    "related_ids": [
+      "OUT-M09"
+    ],
+    "original_exercise_seed": "A player assesses realistic outs before deciding whether to continue a practice game.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M11",
+    "level": "L3",
+    "source_lines": "58–61",
+    "name": "Inter-round recovery budget",
+    "structure": "Record gameplay, setup and break time as competing demands on sustained performance.",
+    "conditions": "Actual event schedule and individual needs; no universal recovery effect.",
+    "failure_case": "Treating arbitrary minutes as tournament policy.",
+    "related_ids": [
+      "MGC-M17"
+    ],
+    "original_exercise_seed": "A player plans food and rest around observed round duration without assuming a guaranteed break.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M12",
+    "level": "L3",
+    "source_lines": "66–71",
+    "name": "Clock-aware fair pacing",
+    "structure": "Allocate time by decision complexity while keeping play reasonably prompt.",
+    "conditions": "Event rules, no deliberate delay or forced fixed response time.",
+    "failure_case": "Using clock management to justify slow play.",
+    "related_ids": [
+      "MAC-M18"
+    ],
+    "original_exercise_seed": "A practice log identifies routine decisions that can become more efficient.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M13",
+    "level": "L3",
+    "source_lines": "72–75",
+    "name": "Contingent forward plan",
+    "structure": "Prepare a likely next sequence and update when draws or opposition change it.",
+    "conditions": "Plan includes alternative states and legal response windows.",
+    "failure_case": "Blindly following a preplanned sequence after a changed board.",
+    "related_ids": [
+      "RNG-M34"
+    ],
+    "original_exercise_seed": "Rehearse two continuations from the same opening, then introduce an unexpected public event.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M14",
+    "level": "L3",
+    "source_lines": "76–79",
+    "name": "Procedural fluency practice",
+    "structure": "Rehearse setup, mulligans and legal routine movements outside a match.",
+    "conditions": "Solo practice does not model adversarial response.",
+    "failure_case": "Treating goldfish success as matchup win evidence.",
+    "related_ids": [
+      "NLM-M02"
+    ],
+    "original_exercise_seed": "Measure routine execution in repeated solo trials and separately test against opposition.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M15",
+    "level": "L3",
+    "source_lines": "80–83",
+    "name": "Conditional decision shortcuts",
+    "structure": "Compress repeated low-stakes decisions into a revisable conditional policy.",
+    "conditions": "Policy validated for deck, date and opponent range.",
+    "failure_case": "Applying a mulligan shortcut despite a changed matchup.",
+    "related_ids": [
+      "NLM-M04"
+    ],
+    "original_exercise_seed": "A practice guide identifies a default opener and an explicit exception.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M16",
+    "level": "L3",
+    "source_lines": "80–83",
+    "name": "Attention allocation",
+    "structure": "Reserve deliberation for high-impact or uncertain choices.",
+    "conditions": "Mental-resource metaphor is qualitative, not measured capacity.",
+    "failure_case": "Assuming a fixed daily numerical cognitive budget.",
+    "related_ids": [
+      "MGC-M20"
+    ],
+    "original_exercise_seed": "Review which routine decisions occupied attention needed for a later difficult choice.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M17",
+    "level": "L3",
+    "source_lines": "98–101",
+    "name": "Draw provenance tracking",
+    "structure": "Update hidden-hand hypotheses based on observable draws, plays and known reveals.",
+    "conditions": "Distinguish certainty about known card identities from speculative inference.",
+    "failure_case": "A player chooses a newly drawn card despite already having a viable opening.",
+    "related_ids": [
+      "RNG-M50"
+    ],
+    "original_exercise_seed": "Track what changed in a previously revealed hand without guessing unrevealed cards.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M18",
+    "level": "L3",
+    "source_lines": "98–103,116–119",
+    "name": "Hand information leakage",
+    "structure": "Maintain legal card-handling habits that reduce accidental identity disclosure.",
+    "conditions": "No marked cards, manipulation, concealment of mandatory public information or unreasonable delay.",
+    "failure_case": "Assuming shuffling makes information from revealed cards disappear.",
+    "related_ids": [
+      "AKH-M32"
+    ],
+    "original_exercise_seed": "Practice neutral card handling while preserving required public information.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M19",
+    "level": "L3",
+    "source_lines": "104–107",
+    "name": "Zone-aware copy tracking",
+    "structure": "Reconcile observed copies across zones, recursion, recycling and known movements.",
+    "conditions": "Exact printing identity and applicable copy rule checked.",
+    "failure_case": "Counting repeated appearances of one recycled copy as separate copies.",
+    "related_ids": [
+      "VIK-M13"
+    ],
+    "original_exercise_seed": "A ledger distinguishes two distinct cards from two plays of one returned card.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M20",
+    "level": "L3",
+    "source_lines": "108–111",
+    "name": "Resource-conditioned response range",
+    "structure": "Filter plausible opposing responses by available resources, timing and card identity.",
+    "conditions": "Track Energy, Power, domain and legal window separately.",
+    "failure_case": "Assuming an available rune count uniquely identifies a response or importing old Yi math.",
+    "related_ids": [
+      "RNG-M52"
+    ],
+    "original_exercise_seed": "Classify three hypothetical response packages by affordability and timing before choosing a line.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M21",
+    "level": "L3",
+    "source_lines": "112–115",
+    "name": "Behavioral cue uncertainty",
+    "structure": "Use visible reactions only as weak evidence alongside public facts.",
+    "conditions": "Alternative motives and intentional signals remain possible.",
+    "failure_case": "Inferring a specific hidden card or emotion with certainty.",
+    "related_ids": [
+      "RNG-M50"
+    ],
+    "original_exercise_seed": "Two observers form different plausible explanations for a player's reaction.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M22",
+    "level": "L3",
+    "source_lines": "116–123",
+    "name": "Consistent timely responses",
+    "structure": "Reduce accidental information through reasonable, legal response habits.",
+    "conditions": "Prompt play and required communication take precedence.",
+    "failure_case": "Artificially delaying every pass or obscuring a mandatory action.",
+    "related_ids": [
+      "NLM-M03"
+    ],
+    "original_exercise_seed": "Practice making routine passes promptly while avoiding unnecessary commentary.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M23",
+    "level": "L3",
+    "source_lines": "124–127",
+    "name": "Represented response opportunity cost",
+    "structure": "Compare the value of keeping credible interaction open with lost development.",
+    "conditions": "Opponent may ignore represented interaction and bluff must be legal.",
+    "failure_case": "Treating bluff as guaranteed or misrepresenting game facts.",
+    "related_ids": [
+      "MAC-M17"
+    ],
+    "original_exercise_seed": "Compare development against leaving resources open when no actual response is held.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  },
+  {
+    "id": "FUN-M24",
+    "level": "L3",
+    "source_lines": "124–127",
+    "name": "Recursive uncertainty about tells",
+    "structure": "Account for opponent awareness of one's inference without infinite speculation.",
+    "conditions": "Anchor decisions in observable game state and feasible response ranges.",
+    "failure_case": "Abandoning evidence for speculative layers of mind reading.",
+    "related_ids": [
+      "RNG-M51"
+    ],
+    "original_exercise_seed": "A player chooses a robust line rather than committing to an unsupported behavioral read.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Linked conceptual refinement; independent novelty unverified."
+  }
+]
