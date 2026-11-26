@@ -123,3 +123,6 @@ Use the fixed 500-main-chapter horizon in ARCS.md. Plan 25 arc windows; at each 
 
 ## AD-0012 — Maximum emotional impact
 Before selecting a major payoff, retrieve the private EM01–24 pass linked in AUTHOR_DIRECTIVES.md. Specify what future the reader can already imagine, actual prior evidence, viable alternatives, turning choices or circumstances, permanent consequences and the space reserved for aftermath. Test the scene without explanatory narration, distinguish related phases from separate catastrophes and preserve the value of joyful ordinary chapters. Audit selected trajectories at the existing arc and movement checkpoints. Specific new proposals require author review. Keep the Chapter 500 closure and prior binding decisions intact.
+
+## AD-0013 — Lived Perspective production pass
+Apply 02_STYLE_BIBLE/TLD_VOICE_METHOD.md and run 02_STYLE_BIBLE/voice_audit.py on exact candidate and relevant archive when available. Record private scene reality, focal attention, selected form, structural reread, comparable diagnostics and protected-state review. Investigate recurring narration in context; no target frequencies, formulaic rewrites or detector optimization. Record actual tool execution and unresolved weaknesses. Author approval is separate.

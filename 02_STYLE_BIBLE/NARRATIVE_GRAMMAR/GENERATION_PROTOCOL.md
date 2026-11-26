@@ -81,3 +81,6 @@ Consult [NLM decision mechanisms](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLM/
 
 ## NLD deck construction selector
 Consult [NLD deckbuilding protocol](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md) and [archetype matrix](../../01_RESEARCH/REFERENCE_LIBRARY/works/NLD/ARCHETYPE_MATRIX.md) for deck choice, testing, slots and roles. Use independent objectives, dated legal card identities, actual resource constraints, alternatives and evidence. NLD supports NLM; G3-scene and originality gates remain. No imported MTG mechanics or source examples.
+
+## AD-0013 — Planning versus prose
+[TLD_VOICE_METHOD.md](../TLD_VOICE_METHOD.md) governs reader-facing composition. Use this mechanism catalog privately for causal architecture and technical evidence, never as a mandatory paragraph or dialogue sequence. The older observation–inference–action pattern is optional in prose. Select form according to the focal character's lived experience, including everyday scenes that do not require a tactical explanation or tidy lesson. Preserve all competitive, continuity and originality gates.
