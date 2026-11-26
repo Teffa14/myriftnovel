@@ -600,7 +600,35 @@
   },
   "chapter_11": {
     "status": "not_started",
-    "preflight": "CH0010.1 V2 closed. Retrieve verified v13 or successor and all four active directives, including latest P02 styling direction. Prioritize substantive on-page workplace/supervisory scene and tangible consequence at earliest plausible opportunity under AD-0003, preserve independent Eli and June objectives, established financial and scheduling unknowns, and AD-0001/0002/0004. Prepare scoped private CH11 brief before drafting. No automatic publication."
+    "preflight": "CH0010.1 closed. Scoped CH11 preflight completed; retrieve verified v13 or successor and all four active author directives. Draft only when instructed.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "5cccf064b22fe5ff2e8a27137230880e6f101f80",
+      "repository_inventory": {
+        "entries": 529,
+        "blobs": 448,
+        "truncated": false
+      },
+      "latest_changes_reviewed": 0,
+      "private_dossier": "/The Last Draw - Private Archive/CH0011_preflight.zip",
+      "dossier_sha256": "c797c9116e353ffd9be670702f0f5aec75d2592a2ad43277fb3e09ddae43471b",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 13,
+      "retired_expressions": 457,
+      "usage_records": 207,
+      "continuity_records": 844,
+      "timeline_events": 96,
+      "checks": {
+        "passed": 49,
+        "failed": 0,
+        "scope": "Exact archive and approved hashes, active private directives, dependencies, conditional scheduling and wage arithmetic, plan fields; four nested guard regression tests."
+      },
+      "planned_scope": "L0 narrative-level practice; upgrade to L1 if mechanically meaningful claims are added",
+      "author_directive_alignment": "AD-0001 preserved prospectively; AD-0002 candidate peak selected; AD-0003 prioritizes direct workplace choice and tangible consequences; AD-0004 preserved prospectively.",
+      "limitations": "Selective repository contents; proposed scene, dates, work hours and outcomes not canon. No manuscript, new income, actual match, score or publication.",
+      "next_gate": "Draft only on author instruction; exact candidate originality and continuity checks; validate any added mechanical details before separate approval and closeout."
+    }
   },
   "chapter_10_1": {
     "status": "author_approved_and_distilled",
