@@ -54,3 +54,6 @@ For a selected dossier, evaluate actual attachment, causal inevitability in hind
 
 ## AD-0010-E02 — Major-payoff acceptance
 Reject a major scene plan built solely on a lost appointment, financial setback, generic breakup or sentimental object without the earlier lived future, causal turning point and consequential aftermath. Audit independent choices, irreversibility when relevant, distinct mechanisms and actual prior evidence. DS05–40 are rejected historical candidates, not active requirements. No new proposed scene is approved by this correction.
+
+## AD-0011 / AD-0010-E03 — Endpoint and payoff audit
+The fixed main-story endpoint is Chapter 500, with supplements excluded. At each arc close audit actual setup, sustained attachment, independent choices, causal turning points and aftermath against the private EM candidate records, not an arbitrary suffering score. At Chapters 120, 240, 360, 440, 460 and 480 review closure capacity and earned progression. Chapter 500 requires resolution of the central dramatic and competitive promises, credible aftermath and a distinct continuation boundary. No delayed primary resolution in Chapter 501 or retroactive cancellation of prior consequences. Additional specific candidate scenes require author acceptance.

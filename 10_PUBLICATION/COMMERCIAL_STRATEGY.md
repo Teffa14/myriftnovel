@@ -13,3 +13,6 @@ See [WNG contract readiness](../01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT
 
 ## Author's Thoughts channel (AD-0005)
 Apply [AUTHOR_THOUGHTS_PROTOCOL.md](AUTHOR_THOUGHTS_PROTOCOL.md) to author-reader interaction, tone, note rotation, optional collection/vote requests, feedback and measurement. This is a distinct, voluntary reader-engagement layer, not evidence of a contract, algorithm advantage or revenue. Preserve genuine author voice, approved manuscript and publication decisions.
+
+## AD-0011 — Artistic endpoint versus continuation
+The complete planned main story spans 500 numbered main chapters, excluding supplements. Chapter 501+ is continuation beyond the planned ending and should be identified as such when the Chapter 500 ending is delivered. Market and publication validation remain separate from this artistic decision. Do not claim completed chapters, dates, revenue, platform acceptance or guaranteed continuation publication; retain the existing contract and publication gates. The final author announcement follows AUTHOR_THOUGHTS_PROTOCOL.md and requires author approval.
