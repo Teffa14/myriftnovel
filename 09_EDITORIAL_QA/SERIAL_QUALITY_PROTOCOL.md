@@ -36,3 +36,6 @@ Before drafting, identify the expected payoff and its evidence. After drafting, 
 ## Acceptance and boundaries
 
 Existing G1–G6 remain mandatory. Commercial strength cannot compensate for unsupported rules, continuity contradictions, material originality reuse, or missing approved archive. Quality review cannot establish publication rights or guarantee income or retention. Keep chapter drafts, precise future beat maps, spoilers, private records and reader data out of public Git. Link private evidence and report only public-safe workflow status.
+
+## Ordinary-life pressure (AD-0003)
+Use 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md. Review whether the chapter or rolling three-chapter window shows a non-game constraint experienced directly, a consequential choice and persistent effect. Distinguish demonstrated pressure from reported scheduling, exposition and melodrama. Record evidence locator, ledger/schedule dependency, independent character goal, consequence, and justified N/A or repair. Across each arc verify a non-game subplot with actual setup and payoff. No fictional hardship automatically increases quality or reader retention.

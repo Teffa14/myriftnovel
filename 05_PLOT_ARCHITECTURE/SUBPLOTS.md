@@ -12,3 +12,5 @@ T10 Rules/meta: banlist affects opening deck choice; dated evidence, versioned t
 Every thread has owner, opening, state, next evidence, dependency and planned closure. Ledger updated only after accepted chapter. Setups must be observable; no false mystery solely by withholding known POV information.
 
 Author-directive alignment: AD-0001 intersects T01, T02, T06 and T08 plus the applicable independent character thread. Consult [AUTHOR_DIRECTIVES.md](AUTHOR_DIRECTIVES.md) and its authoritative private record before advancing or resolving relevant threads. Do not resolve or overwrite the prospective milestone without explicit author approval.
+
+AD-0003 — LIFE_PRESSURE.md applies across T01, T02, T03, T04, T05, T06, T07, T08 and T09 as relevant. Treat Nico's employment and household finances as persistent causal threads, not incidental budget exposition. Give each ensemble member independent work, education, relationship or family stakes; track costs, refusals, outcomes and recoveries privately. Preserve AD-0001 milestone and already approved chronology.

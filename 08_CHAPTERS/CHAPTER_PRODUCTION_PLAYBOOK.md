@@ -90,3 +90,6 @@ Load 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md and its active private sources be
 
 ## Narrative peak selection (AD-0002)
 Read 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md and the linked private bank at preflight. Select mechanism IDs only when an approved setup or new justified setup supports the proposed payoff; record status, narrative function, alternatives and persistent state change. Review rolling three-chapter promises/rewards and character-specific appeal. Preserve AD-0001 and existing relationship canon; avoid obligatory romance, fanservice filler or constant catastrophe. Treat all future concrete scenarios as candidates pending chapter-level evidence and author approval.
+
+## AD-0003 material stakes
+Read 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md. Add pressure IDs, source-linked current financial and work state, independent goals, competing commitments, actual consequence and downstream effect to the private brief; reconcile the ledger after drafting. Review rolling three-chapter lived pressure and each arc's non-game thread; do not use mentions, forced quotas or repeated crises as a substitute for causal scenes. Missing exact pay dates, shifts and obligations must remain unresolved until established.

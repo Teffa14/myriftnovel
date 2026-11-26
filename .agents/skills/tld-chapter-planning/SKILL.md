@@ -13,6 +13,7 @@ Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Rea
 - 04_CHARACTERS/CHARACTER_SYSTEM.md
 - 04_CHARACTERS/RELATIONSHIPS.md
 - 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md
+- 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md
 - 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md
 - 05_PLOT_ARCHITECTURE/ARCS.md
 - 05_PLOT_ARCHITECTURE/SUBPLOTS.md
@@ -34,3 +35,5 @@ Private chapter_brief.md with chapter ID, dates, POVs, objectives, scene transit
 Before finalizing any brief, load active author directives and linked private records, record per-directive alignment and preserve unresolved implementation choices. Missing required private records block a claim of verified alignment.
 
 For AD-0002 load the linked private peak bank, select relevant NP IDs, record setup/payoff/alternate outcome, and retain unresolved romance and outcome choices. Check recent chapter rhythm without fixed quotas.
+
+For AD-0003 use LIFE_PRESSURE.md; record relevant LP IDs or justified N/A, causal trade-off, ledger/schedule state, observed consequence, and rolling-arc coverage. Give supporting characters independent material and personal stakes. Do not treat a mention of work or rent as a dramatic payoff.
