@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v18.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1114,
-    "events": 140,
-    "approved_records": 1114,
-    "open_issue_groups": 19,
-    "structural_validation": "Fresh Library readback PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip"
+    "records": 1178,
+    "events": 147,
+    "approved_records": 1178,
+    "open_issue_groups": 20,
+    "structural_validation": "Fresh Library readback PASS; same-agent scoped semantic review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v18.zip"
   },
   "archive_checks": {
-    "passed": 57,
+    "passed": 58,
     "failed": 0,
-    "scope": "Exact approved source, prior corpus preservation, ten private directive hashes (including historical rejected E01), source-linked continuity, lexical screening, LPM descriptive audit, and negative controls. Fresh Library exact-byte readback, CRC, manifest, continuity, LPM and 4/4 regression separately verified."
+    "scope": "Exact V2.1 source and canonical roundtrip, prior corpus preservation, 17 approved units and 555 retired expressions screened, LPM descriptive audit, continuity, lexical screening, and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -819,6 +819,34 @@
     "approval": "Author explicitly requested distillation and all process after exact V2.1 review; original upload preserved; canonical Markdown heading and separator only",
     "author_directive_alignment": "AD-0001–0013 and AD-0006-A01, AD-0010-E02/E03 reviewed; ten linked private records hash-verified, including historical rejected E01; no rejected candidates or prospective macro-events promoted. Separate author note draft not published.",
     "literary_review": "Prior editorial assessment retained; accepted local LPM voice anchor; descriptive audits only, no independent readers or authorship certification.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_15": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "The Price of a Seat",
+    "words_excluding_headings": 1996,
+    "lpm_words": 1990,
+    "paragraphs": 61,
+    "scenes": 2,
+    "retired_resources": 23,
+    "abstract_usage_records": 16,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 1989,
+    "competitive_scope": "L0 narrative only; no match replay or deck legality claim",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v18.zip",
+    "archive_sha256": "9c4e75f4e7f62216a1483112d6a2bf6dd0ccff219ee0ff7dabce9a11dd259551",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and regression verified",
+    "checks": {
+      "passed": 58,
+      "failed": 0,
+      "scope": "Exact V2.1 source and canonical roundtrip, prior corpus preservation, 17 approved units and 555 retired expressions screened, LPM descriptive audit, continuity, lexical screening, and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
+    },
+    "approval": "Author requested distillation and whole process with exact V2.1 attached; original upload preserved; canonical Markdown heading and separator only.",
+    "author_directive_alignment": "AD-0014-A01 local causal dependency and prior directives preserved; future outcomes remain prospective; separate author note not published.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
   }
