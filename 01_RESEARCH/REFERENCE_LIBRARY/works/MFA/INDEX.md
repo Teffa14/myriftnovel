@@ -1,0 +1,2 @@
+# MFA — Vero Miss Fortune Aurora
+16,373 raw tokens, 1,963 forms, 394 blocks, 30 headings plus front matter, 40 linked mechanism refinements, 40 card-role contexts, 14 matchup contexts, five counted swaps, four historical layers and eight exercises. See ANALYSIS.md, MECHANISMS.json, EVIDENCE.json, SIDEBOARD.json, PROBABILITY_AUDIT.json, EXERCISES.json, METRICS.json and QA.md. No complete list or current legal replay certified.

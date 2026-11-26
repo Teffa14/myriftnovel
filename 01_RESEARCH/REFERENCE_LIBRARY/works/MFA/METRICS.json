@@ -1,0 +1,274 @@
+{
+  "source": "Vero, Miss Fortune Aurora (descriptive title; exact original title not supplied)",
+  "author": "Vero (self-attributed)",
+  "ingest_date": "2026-11-25",
+  "source_date": null,
+  "bytes": 90399,
+  "sha256": "584ccbf8edcdd266860dde60028960771283574beb6f67481cf4f0916e21e120",
+  "lines": 1714,
+  "word_tokens": 16373,
+  "distinct_lowercase_forms": 1963,
+  "blocks": 394,
+  "image_links": 50,
+  "method": "Python UTF-8-sig, splitlines; Unicode alphabetic tokens with optional internal apostrophe/hyphen, headings and URL text included; blank-line blocks. 30 ## headings plus front matter. This raw count includes source URL fragments; no external images inspected.",
+  "sections": [
+    {
+      "id": "MFA-U00",
+      "start": 1,
+      "end": 3,
+      "tokens": 1,
+      "topic": "Front matter",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U01",
+      "start": 4,
+      "end": 11,
+      "tokens": 103,
+      "topic": "Introduction",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U02",
+      "start": 12,
+      "end": 33,
+      "tokens": 213,
+      "topic": "Legend choice",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U03",
+      "start": 34,
+      "end": 177,
+      "tokens": 1031,
+      "topic": "Body roles",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U04",
+      "start": 178,
+      "end": 331,
+      "tokens": 1190,
+      "topic": "Chaos roles",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U05",
+      "start": 332,
+      "end": 375,
+      "tokens": 329,
+      "topic": "Rejected package",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U06",
+      "start": 376,
+      "end": 435,
+      "tokens": 601,
+      "topic": "Fallback architecture",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U07",
+      "start": 436,
+      "end": 473,
+      "tokens": 560,
+      "topic": "Deployment tradeoff",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U08",
+      "start": 474,
+      "end": 519,
+      "tokens": 529,
+      "topic": "Interaction budget",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U09",
+      "start": 520,
+      "end": 629,
+      "tokens": 1103,
+      "topic": "Houston deck discussion",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U10",
+      "start": 630,
+      "end": 769,
+      "tokens": 671,
+      "topic": "Payoff access",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U11",
+      "start": 770,
+      "end": 819,
+      "tokens": 215,
+      "topic": "Sideboard roles",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U12",
+      "start": 820,
+      "end": 841,
+      "tokens": 133,
+      "topic": "Construction synthesis",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U13",
+      "start": 842,
+      "end": 869,
+      "tokens": 168,
+      "topic": "January Set 1 update",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U14",
+      "start": 870,
+      "end": 903,
+      "tokens": 731,
+      "topic": "Decision terminology",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U15",
+      "start": 904,
+      "end": 967,
+      "tokens": 566,
+      "topic": "Field choice",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U16",
+      "start": 968,
+      "end": 1041,
+      "tokens": 459,
+      "topic": "Turn order",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U17",
+      "start": 1042,
+      "end": 1087,
+      "tokens": 722,
+      "topic": "General piloting",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U18",
+      "start": 1088,
+      "end": 1151,
+      "tokens": 945,
+      "topic": "Kai'Sa",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U19",
+      "start": 1152,
+      "end": 1209,
+      "tokens": 672,
+      "topic": "Annie",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U20",
+      "start": 1210,
+      "end": 1267,
+      "tokens": 674,
+      "topic": "Master Yi",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U21",
+      "start": 1268,
+      "end": 1325,
+      "tokens": 582,
+      "topic": "Sett",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U22",
+      "start": 1326,
+      "end": 1387,
+      "tokens": 486,
+      "topic": "Mirror",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U23",
+      "start": 1388,
+      "end": 1415,
+      "tokens": 150,
+      "topic": "Other matchups",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U24",
+      "start": 1416,
+      "end": 1483,
+      "tokens": 775,
+      "topic": "Set 2 Body",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U25",
+      "start": 1484,
+      "end": 1549,
+      "tokens": 868,
+      "topic": "Set 2 Chaos",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U26",
+      "start": 1550,
+      "end": 1623,
+      "tokens": 846,
+      "topic": "Set 2 construction",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U27",
+      "start": 1624,
+      "end": 1641,
+      "tokens": 341,
+      "topic": "Set 2 forecast",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U28",
+      "start": 1642,
+      "end": 1667,
+      "tokens": 211,
+      "topic": "February 26 proposal",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U29",
+      "start": 1668,
+      "end": 1695,
+      "tokens": 240,
+      "topic": "Historical interactions",
+      "coverage": "supplied text; linked images not inspected"
+    },
+    {
+      "id": "MFA-U30",
+      "start": 1696,
+      "end": 1714,
+      "tokens": 258,
+      "topic": "Closing",
+      "coverage": "supplied text; linked images not inspected"
+    }
+  ],
+  "counts": {
+    "mechanisms": 40,
+    "card_role_contexts": 40,
+    "matchup_contexts": 14,
+    "sideboard_policies": 5,
+    "version_layers": 4,
+    "exercises": 8,
+    "claim_groups": 8,
+    "checks": 17
+  }
+}

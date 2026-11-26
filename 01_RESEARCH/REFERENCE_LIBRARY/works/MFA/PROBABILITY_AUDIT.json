@@ -1,0 +1,159 @@
+{
+  "model": "P(no payoff)=C(N-K,n)/C(N,n), uniformly sampled distinct cards; 39 and 40 sensitivity, 9/10 draws, 9/10/11 payoffs; no simulation of mulligan, selection, known ordering, or chosen-card access.",
+  "cases": [
+    {
+      "population": 39,
+      "payoffs": 9,
+      "seen": 9,
+      "miss_pct": 6.7514,
+      "product_match": true
+    },
+    {
+      "population": 39,
+      "payoffs": 9,
+      "seen": 10,
+      "miss_pct": 4.726,
+      "product_match": true
+    },
+    {
+      "population": 39,
+      "payoffs": 10,
+      "seen": 9,
+      "miss_pct": 4.726,
+      "product_match": true
+    },
+    {
+      "population": 39,
+      "payoffs": 10,
+      "seen": 10,
+      "miss_pct": 3.1506,
+      "product_match": true
+    },
+    {
+      "population": 39,
+      "payoffs": 11,
+      "seen": 9,
+      "miss_pct": 3.2593,
+      "product_match": true
+    },
+    {
+      "population": 39,
+      "payoffs": 11,
+      "seen": 10,
+      "miss_pct": 2.0642,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 9,
+      "seen": 9,
+      "miss_pct": 7.3728,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 9,
+      "seen": 10,
+      "miss_pct": 5.2323,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 10,
+      "seen": 9,
+      "miss_pct": 5.2323,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 10,
+      "seen": 10,
+      "miss_pct": 3.5445,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 11,
+      "seen": 9,
+      "miss_pct": 3.6626,
+      "product_match": true
+    },
+    {
+      "population": 40,
+      "payoffs": 11,
+      "seen": 10,
+      "miss_pct": 2.363,
+      "product_match": true
+    }
+  ],
+  "checks": [
+    {
+      "id": "source_ranges",
+      "pass": true
+    },
+    {
+      "id": "token_sum",
+      "pass": true
+    },
+    {
+      "id": "source_heading_count",
+      "pass": true
+    },
+    {
+      "id": "unique_mechanism_ids",
+      "pass": true
+    },
+    {
+      "id": "mechanism_fields",
+      "pass": true
+    },
+    {
+      "id": "unique_card_ids",
+      "pass": true
+    },
+    {
+      "id": "sideboard_counts",
+      "pass": true
+    },
+    {
+      "id": "sideboard_negative_control",
+      "pass": true
+    },
+    {
+      "id": "written_payoff_sum",
+      "pass": true
+    },
+    {
+      "id": "written_unit_sum",
+      "pass": true
+    },
+    {
+      "id": "probability_independent_formula",
+      "pass": true
+    },
+    {
+      "id": "probability_monotonicity",
+      "pass": true
+    },
+    {
+      "id": "reported_rounded_baseline",
+      "pass": true
+    },
+    {
+      "id": "versions_distinct",
+      "pass": true
+    },
+    {
+      "id": "no_canon_exercises",
+      "pass": true
+    },
+    {
+      "id": "unused_catalog_id",
+      "pass": true
+    },
+    {
+      "id": "claim_boundaries",
+      "pass": true
+    }
+  ]
+}

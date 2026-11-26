@@ -137,3 +137,6 @@ Complete coverage of the supplied Spanish condensed guide, not the unabridged bo
 
 ## FUN — competitive fundamentals (2026-11-25)
 [Research index](works/FUN/INDEX.md): 3,837 tokens, 792 forms, 63 blocks, 24 mapped units, 24 linked mechanism refinements, eight original exercises, ten claim groups, 16 named checks (16 abstract route cases; 256 independent-budget cases). Undated anonymous supplied guide; historical Aurora and unresolved Draven identity flagged using Nov 23 Standard snapshot. No current legal list, replay or canon change.
+
+## MFA — Vero Miss Fortune Aurora (2026-11-25)
+[Research index](works/MFA/INDEX.md): 16,373 raw tokens, 30 headings plus front matter, 40 linked mechanism entries, 40 card-role contexts, 14 matchup contexts, five balanced counted swaps, four historical versions, eight exercises and 12 fixed-sample probability cases; 17 named checks. Houston placement self-reported. Fifty linked images and full deck inventory unavailable; historical bans flagged, actual mulligan and named effects unverified. No current legal list, replay or canon change.

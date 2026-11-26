@@ -1,0 +1,568 @@
+{
+  "versions": [
+    {
+      "id": "MFA-V01",
+      "label": "Houston Regionals baseline",
+      "date": null,
+      "source_lines": "4–841",
+      "reported_place": 18,
+      "inventory": "partial written quantities; full deck image unavailable"
+    },
+    {
+      "id": "MFA-V02",
+      "label": "Set 1 Skirmish update",
+      "date_as_written": "1/3/2026",
+      "source_lines": "842–869",
+      "link": "https://piltoverarchive.com/decks/view/229fea52-c3a0-4518-84f3-648e8ddc46ed",
+      "inventory": "link and image uninspected; date order not independently confirmed"
+    },
+    {
+      "id": "MFA-V03",
+      "label": "Initial Set 2 proposal",
+      "date": null,
+      "source_lines": "1416–1641",
+      "inventory": "partial discussion; full deck image unavailable"
+    },
+    {
+      "id": "MFA-V04",
+      "label": "Bologna/Vegas alternative",
+      "date": "2026-02-26",
+      "source_lines": "1642–1667",
+      "inventory": "author says nearly brought it; not an observed tournament list"
+    }
+  ],
+  "card_roles": [
+    {
+      "id": "MFA-C01",
+      "name": "Dazzling Aurora",
+      "role": "recurring engine",
+      "source_lines": "34–177",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C02",
+      "name": "Mobilize",
+      "role": "early ramp",
+      "source_lines": "34–177",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C03",
+      "name": "Catalyst of Aeons",
+      "role": "early ramp",
+      "source_lines": "34–177",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C04",
+      "name": "Deadbloom Predator",
+      "role": "expensive threat, deployment option",
+      "source_lines": "34–177,630–769",
+      "houston_reported_count": 2,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C05",
+      "name": "Sabotage",
+      "role": "selective hand disruption",
+      "source_lines": "34–177,520–629",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C06",
+      "name": "Confront",
+      "role": "selection/readiness support",
+      "source_lines": "34–177,630–769",
+      "houston_reported_count": 2,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C07",
+      "name": "Challenge",
+      "role": "combat and backline interaction",
+      "source_lines": "34–177",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C08",
+      "name": "Primal Strength",
+      "role": "combat reinforcement",
+      "source_lines": "34–177,520–629",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C09",
+      "name": "Stacked Deck",
+      "role": "selection",
+      "source_lines": "178–331",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C10",
+      "name": "Mindsplitter",
+      "role": "threat plus hand disruption",
+      "source_lines": "178–331,630–769",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C11",
+      "name": "Gust",
+      "role": "early displacement",
+      "source_lines": "178–331",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C12",
+      "name": "Fight or Flight",
+      "role": "displacement",
+      "source_lines": "178–331",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C13",
+      "name": "Rebuke",
+      "role": "temporary removal",
+      "source_lines": "178–331",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C14",
+      "name": "Fading Memories",
+      "role": "conditional unit or gear interaction",
+      "source_lines": "178–331",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C15",
+      "name": "Ride the Wind",
+      "role": "mobility support",
+      "source_lines": "178–331",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C16",
+      "name": "Mountain Drake",
+      "role": "zero-power fallback threat",
+      "source_lines": "376–435,630–769",
+      "houston_reported_count": 3,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C17",
+      "name": "Bullet Time",
+      "role": "variable expenditure interaction",
+      "source_lines": "520–629",
+      "houston_reported_count": 2,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C18",
+      "name": "The Harrowing",
+      "role": "recovery spell",
+      "source_lines": "520–629",
+      "houston_reported_count": 1,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C19",
+      "name": "Volibear",
+      "role": "rejected expensive alternative",
+      "source_lines": "630–769",
+      "houston_reported_count": 0,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C20",
+      "name": "Unyielding Spirit",
+      "role": "sideboard protection",
+      "source_lines": "770–819",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C21",
+      "name": "Miss Fortune, Captain",
+      "role": "readiness/curve enabler",
+      "source_lines": "870–903",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C22",
+      "name": "Miss Fortune, Buccaneer",
+      "role": "mirror pressure",
+      "source_lines": "1326–1387",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C23",
+      "name": "Aspirant's Climb",
+      "role": "historical longer scoring horizon",
+      "source_lines": "904–967",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C24",
+      "name": "Obelisk of Power",
+      "role": "historical acceleration",
+      "source_lines": "904–967",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C25",
+      "name": "Sigil of the Storm",
+      "role": "historical opposing resource tax",
+      "source_lines": "904–967",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C26",
+      "name": "Direwing",
+      "role": "Set 2 conditional early threat",
+      "source_lines": "1416–1483",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C27",
+      "name": "Punch First",
+      "role": "Set 2 modifier",
+      "source_lines": "1416–1483",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C28",
+      "name": "Trinity Force",
+      "role": "equipment alternative",
+      "source_lines": "1416–1483",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C29",
+      "name": "Boneshiver",
+      "role": "equipment alternative",
+      "source_lines": "1416–1483",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C30",
+      "name": "Called Shot",
+      "role": "Set 2 search",
+      "source_lines": "1484–1549",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C31",
+      "name": "Temptation",
+      "role": "Set 2 positional disruption",
+      "source_lines": "1484–1549",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C32",
+      "name": "Hard Bargain",
+      "role": "Set 2 flexible spell interaction",
+      "source_lines": "1484–1549",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C33",
+      "name": "Last Rites",
+      "role": "Set 2 recurring inventory",
+      "source_lines": "1484–1549",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C34",
+      "name": "Soul Gorger",
+      "role": "conditional recovery alternative",
+      "source_lines": "520–629,1550–1623",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C35",
+      "name": "Akshan (printing unspecified)",
+      "role": "Set 2 gear interaction",
+      "source_lines": "1550–1623",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C36",
+      "name": "Whirlwind",
+      "role": "possible gear matchup adjustment",
+      "source_lines": "1550–1623",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C37",
+      "name": "Vilemaw's Lair",
+      "role": "alternate field",
+      "source_lines": "842–869,1550–1623",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C38",
+      "name": "Scrapheap",
+      "role": "rejected historical package component",
+      "source_lines": "332–375",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C39",
+      "name": "Treasure Trove",
+      "role": "historical package component",
+      "source_lines": "332–375",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    },
+    {
+      "id": "MFA-C40",
+      "name": "Acceptable Losses (normalized candidate)",
+      "role": "historical package component",
+      "source_lines": "332–375",
+      "houston_reported_count": null,
+      "status": "guide role; exact printing and effects not verified"
+    }
+  ],
+  "matchups": [
+    {
+      "id": "MFA-X01",
+      "matchup": "Kai'Sa",
+      "source_lines": "1088–1151",
+      "plan": "Hold reserve, selective protection, alternate threat against gear removal",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X02",
+      "matchup": "Annie",
+      "source_lines": "1152–1209",
+      "plan": "Displacement/recurrence and preserving mobility",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X03",
+      "matchup": "Master Yi",
+      "source_lines": "1210–1267",
+      "plan": "Uncertain midrange or engine role; flexible interaction",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X04",
+      "matchup": "Sett",
+      "source_lines": "1268–1325",
+      "plan": "Protection and sticky threats; gear hate",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X05",
+      "matchup": "Mirror",
+      "source_lines": "1326–1387",
+      "plan": "Shift to early pressure when slow lines are impractical",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X06",
+      "matchup": "Darius",
+      "source_lines": "1388–1415",
+      "plan": "Gear interaction and early defense",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X07",
+      "matchup": "Ahri",
+      "source_lines": "1388–1415",
+      "plan": "Large-unit and conditional removal hypothesis",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X08",
+      "matchup": "Leona",
+      "source_lines": "1388–1415",
+      "plan": "Conditional removal hypothesis",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X09",
+      "matchup": "Teemo",
+      "source_lines": "1388–1415",
+      "plan": "Displacement of large threats",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X10",
+      "matchup": "Jinx (source spells Jynx)",
+      "source_lines": "1388–1415",
+      "plan": "Displacement of large threats",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X11",
+      "matchup": "Viktor (source spells Victor)",
+      "source_lines": "1388–1415,1484–1623",
+      "plan": "Historically difficult matchup; recurrence proposals",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X12",
+      "matchup": "Irelia",
+      "source_lines": "1550–1667",
+      "plan": "Gear and recall hypotheses",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X13",
+      "matchup": "Ornn",
+      "source_lines": "1642–1667",
+      "plan": "Recall/interaction proposals",
+      "status": "guide opinion; no measured matchup win rate"
+    },
+    {
+      "id": "MFA-X14",
+      "matchup": "Ezreal",
+      "source_lines": "1642–1667",
+      "plan": "Historical sideboard alternatives",
+      "status": "guide opinion; no measured matchup win rate"
+    }
+  ],
+  "ban_flags": [
+    {
+      "name": "Dazzling Aurora",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": 3
+    },
+    {
+      "name": "Stacked Deck",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Fight or Flight",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Scrapheap",
+      "scope": "rejected package reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Called Shot",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Aspirant's Climb",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Obelisk of Power",
+      "scope": "historical engine, option or battlefield reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Zhonya's Hourglass",
+      "scope": "opposing/historical interaction reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Rhasa the Sunderer",
+      "scope": "opposing/historical interaction reference",
+      "status": "on repository Standard ban snapshot 2026-11-23",
+      "quantity": null
+    },
+    {
+      "name": "Draven, Vanquisher",
+      "scope": "guide mentions Draven without consistent exact identity",
+      "status": "exact identity unresolved; named printing banned in snapshot",
+      "quantity": null
+    }
+  ],
+  "claims": [
+    {
+      "source_lines": "4–11",
+      "claim": "Houston 18th place",
+      "status": "self_reported",
+      "limit": "No independent standings checked."
+    },
+    {
+      "source_lines": "630–769",
+      "claim": "9/10/11 payoff slots and miss probabilities",
+      "status": "conditional_arithmetic_checked",
+      "limit": "Fixed sample of distinct cards; actual mulligan/selection, chosen champion, opening turn and images not independently reconstructed."
+    },
+    {
+      "source_lines": "520–629",
+      "claim": "Bullet Time response and payment timing",
+      "status": "pending_effective_rules",
+      "limit": "No exact current card text/errata or judge record checked; claimed four to five wins self-reported."
+    },
+    {
+      "source_lines": "870–903",
+      "claim": "Soft curve via Captain",
+      "status": "conditional_unverified",
+      "limit": "Require exact readiness, resource and trigger sequence."
+    },
+    {
+      "source_lines": "1210–1325",
+      "claim": "Temporary persists after rescue; Hidden Blade response ruling dated 12/10/2025",
+      "status": "historical_unverified",
+      "limit": "Verify current text, timing and errata; Hourglass and Fight or Flight now banned in repository Standard snapshot."
+    },
+    {
+      "source_lines": "1326–1387",
+      "claim": "Mirror overtime result",
+      "status": "historical_unverified",
+      "limit": "Check effective Tournament Rules and format; no intentional delay."
+    },
+    {
+      "source_lines": "1668–1695",
+      "claim": "Last Rites and Direwing recurrence; Ride the Wind after displacement",
+      "status": "unverified_named_interactions",
+      "limit": "Verify exact card text and current focus/chain rules; historical Fight or Flight banned."
+    },
+    {
+      "source_lines": "1624–1641",
+      "claim": "Favorable matchups and Set 2 projections",
+      "status": "editorial_opinion",
+      "limit": "No denominator or independently verified win rate."
+    }
+  ]
+}

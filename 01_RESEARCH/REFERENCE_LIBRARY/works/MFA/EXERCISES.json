@@ -1,0 +1,58 @@
+[
+  {
+    "id": "MFA-E1",
+    "name": "Fallback stress test",
+    "task": "Compare two hypothetical builds under three conditions: engine available, engine absent and engine removed. Track which actions remain viable; do not invent card effects.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E2",
+    "name": "Payoff access audit",
+    "task": "For a random 39-card population compare nine and eleven payoff slots with nine and ten distinct observations. Then identify what would change under a conditional mulligan.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E3",
+    "name": "Threshold allocation",
+    "task": "In an abstract two-turn budget compare an immediate threat that consumes future capacity with a weaker threat preserving future capacity. Add an imminent opposing win as a counterexample.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E4",
+    "name": "Scoring cycle review",
+    "task": "Compare an exposed contest and protected development through both players' next decisions, recording score and remaining threats; no assumed opposing action.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E5",
+    "name": "Threat density and hit composition",
+    "task": "With a random order of eight eligible units and three preferred hits, compute baseline conditional hit fraction; remove known cards and recompute only under explicit order assumptions.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E6",
+    "name": "Sideboard and fallback",
+    "task": "A practice pair reduces a threat slot for an answer; inspect access, role and replacement legality before testing.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E7",
+    "name": "Information timing",
+    "task": "Construct two plausible opposing hands and compare proactive disruption now versus at the decisive turn, without using actual unpublished cards.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  },
+  {
+    "id": "MFA-E8",
+    "name": "Historical translation",
+    "task": "Choose one banned-engine strategic function and design an abstract legal replacement role; identify exact rules evidence needed before any named-card narration.",
+    "canon_status": "noncanon",
+    "status": "original exercise; untested"
+  }
+]

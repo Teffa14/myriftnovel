@@ -1,0 +1,602 @@
+[
+  {
+    "id": "MFA-M01",
+    "level": "L3",
+    "source_lines": "12–33",
+    "name": "Legend selection by complementary domain",
+    "structure": "Select a Legend whose domain access and ability cover the primary engine's weaknesses.",
+    "conditions": "Check legal domains and precise ability; compare alternative Legends.",
+    "failure_case": "An alternative domain covers early defense better in the actual field.",
+    "related_ids": [
+      "AYI-M04"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record check legal domains and precise ability; compare alternative Legends. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M02",
+    "level": "L3",
+    "source_lines": "34–177",
+    "name": "Engine-dependent payoff quality",
+    "structure": "Compare recurring deployment quality with the cost of delaying development.",
+    "conditions": "Evaluate castable fallback and interruption.",
+    "failure_case": "A low-cost hit weakens the payoff or an early rival wins before activation.",
+    "related_ids": [
+      "AYI-M34"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record evaluate castable fallback and interruption. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M03",
+    "level": "L3",
+    "source_lines": "34–177",
+    "name": "Ramp threshold rather than gross growth",
+    "structure": "Value acceleration by whether it changes the first feasible payoff turn.",
+    "conditions": "Track all rune payments, readiness, domains and opponent pressure.",
+    "failure_case": "Extra runes do not accelerate the next feasible play.",
+    "related_ids": [
+      "AYI-M14"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record track all rune payments, readiness, domains and opponent pressure. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M04",
+    "level": "L3",
+    "source_lines": "34–177",
+    "name": "Defensive tax as long-term exchange",
+    "structure": "Evaluate the opposing resources needed to remove a threat alongside the threat's cost.",
+    "conditions": "Verify targeting restrictions and actual resource payment.",
+    "failure_case": "Opponent uses untargeted removal or the tax is affordable.",
+    "related_ids": [
+      "AYI-M52"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify targeting restrictions and actual resource payment. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M05",
+    "level": "L3",
+    "source_lines": "34–177,520–629",
+    "name": "Disruption at consequential turn",
+    "structure": "Reserve hand disruption until a known or plausible response obstructs a material objective.",
+    "conditions": "Exact legal targets and competing costs.",
+    "failure_case": "Waiting lets the opposing answer be used first.",
+    "related_ids": [
+      "AYI-M19"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record exact legal targets and competing costs. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M06",
+    "level": "L3",
+    "source_lines": "178–331",
+    "name": "Early interaction without unit-pool dilution",
+    "structure": "Use nonunit defense to bridge the payoff window while preserving engine hit quality.",
+    "conditions": "Compare against alternative defensive bodies and real pressure.",
+    "failure_case": "Early aggression overwhelms the spell-only bridge.",
+    "related_ids": [
+      "AYI-M24"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record compare against alternative defensive bodies and real pressure. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M07",
+    "level": "L3",
+    "source_lines": "178–331",
+    "name": "Selection before resource commitment",
+    "structure": "Acquire information about the next available option before committing the rest of a turn.",
+    "conditions": "Legal timing and meaningful information gain.",
+    "failure_case": "Selection consumes the resources needed for the only viable defense.",
+    "related_ids": [
+      "ANN-M25"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record legal timing and meaningful information gain. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M08",
+    "level": "L3",
+    "source_lines": "178–331,520–629",
+    "name": "Knowledge plus disruption",
+    "structure": "Combine a threat with reduction of the opponent's available response range.",
+    "conditions": "Reconcile hand knowledge after subsequent draws.",
+    "failure_case": "The opponent has an unaffected answer or draws one.",
+    "related_ids": [
+      "FUN-M17"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record reconcile hand knowledge after subsequent draws. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M09",
+    "level": "L3",
+    "source_lines": "178–331",
+    "name": "Temporary displacement as point delay",
+    "structure": "Compare delayed scoring and recast cost against permanent removal.",
+    "conditions": "Exact movement, targeting and scoring window checked.",
+    "failure_case": "Opponent can replace the lost presence cheaply.",
+    "related_ids": [
+      "OUT-M15"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record exact movement, targeting and scoring window checked. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M10",
+    "level": "L3",
+    "source_lines": "178–331,1152–1209",
+    "name": "Movement recovery after disruption",
+    "structure": "Reserve a legal relocation or readiness option when opposing displacement threatens a scoring route.",
+    "conditions": "Verify focus, legal targets, restrictions and readiness.",
+    "failure_case": "Recovery is unavailable or consumes the final relevant resource.",
+    "related_ids": [
+      "AYI-M23"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify focus, legal targets, restrictions and readiness. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M11",
+    "level": "L3",
+    "source_lines": "332–375",
+    "name": "Reject concentrated engine package",
+    "structure": "Compare increased engine access with the failure state when the engine is absent or removed.",
+    "conditions": "Benchmark multiple builds under adverse draws.",
+    "failure_case": "Alternate package reduces access enough to lose important matchups.",
+    "related_ids": [
+      "MAC-M11"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record benchmark multiple builds under adverse draws. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M12",
+    "level": "L3",
+    "source_lines": "376–435",
+    "name": "Zero-recycle fallback as future capacity",
+    "structure": "Distinguish immediate threat strength from next-turn resource capacity after payment.",
+    "conditions": "Use exact Energy and Power payment semantics.",
+    "failure_case": "A cheaper future curve is irrelevant if the threat cannot survive.",
+    "related_ids": [
+      "AYI-M32"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record use exact Energy and Power payment semantics. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M13",
+    "level": "L3",
+    "source_lines": "376–435",
+    "name": "Threat-size breakpoint",
+    "structure": "Evaluate how much opposing force must be committed before a threat can be defeated.",
+    "conditions": "Use actual damage, modifiers and alternative removal.",
+    "failure_case": "A noncombat answer bypasses the size comparison.",
+    "related_ids": [
+      "AKH-M25"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record use actual damage, modifiers and alternative removal. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M14",
+    "level": "L3",
+    "source_lines": "436–473",
+    "name": "False point-saving diagnosis",
+    "structure": "Evaluate the next full scoring cycle rather than the point temporarily denied by a deployment.",
+    "conditions": "Independent opponent response and legal scoring state.",
+    "failure_case": "Opponent cannot remove the exposed threat, so early contest matters.",
+    "related_ids": [
+      "FUN-M05"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record independent opponent response and legal scoring state. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M15",
+    "level": "L3",
+    "source_lines": "436–473",
+    "name": "Reserve location as survival asset",
+    "structure": "Preserve a threat off the contested field until protection is affordable.",
+    "conditions": "Check imminent opposing finish and location restrictions.",
+    "failure_case": "Waiting permits a legal opposing victory.",
+    "related_ids": [
+      "AYI-M36"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record check imminent opposing finish and location restrictions. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M16",
+    "level": "L3",
+    "source_lines": "474–519",
+    "name": "Joint threat and interaction affordability",
+    "structure": "Compare combinations of development and reserve interaction instead of isolated castability.",
+    "conditions": "Track distinct energy, power, domain and timing requirements.",
+    "failure_case": "Available energy alone does not meet power or timing conditions.",
+    "related_ids": [
+      "FUN-M20"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record track distinct energy, power, domain and timing requirements. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M17",
+    "level": "L3",
+    "source_lines": "474–519,520–629",
+    "name": "Flexible response range as deterrent",
+    "structure": "Use uncommitted resources to make multiple legal responses plausible.",
+    "conditions": "Credible deck composition and legal windows.",
+    "failure_case": "Opponent has a route unaffected by all represented options.",
+    "related_ids": [
+      "FUN-M23"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record credible deck composition and legal windows. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M18",
+    "level": "L3",
+    "source_lines": "520–629",
+    "name": "Actual payment versus printed entry cost",
+    "structure": "Evaluate the full expenditure and future resource loss of a variable-cost effect.",
+    "conditions": "Verify effective card text and when decisions occur.",
+    "failure_case": "Only a small payment is required in the specific state.",
+    "related_ids": [
+      "MAC-M07"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify effective card text and when decisions occur. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M19",
+    "level": "L3",
+    "source_lines": "520–629",
+    "name": "Recursion without engine-hit degradation",
+    "structure": "Compare a recovery spell with a recovery unit when an engine samples units.",
+    "conditions": "Check legal targets and graveyard availability.",
+    "failure_case": "The spell is stranded without targets or inferior to a standalone unit.",
+    "related_ids": [
+      "ANN-M20"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record check legal targets and graveyard availability. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M20",
+    "level": "L3",
+    "source_lines": "520–629",
+    "name": "Zone-denial against recurrence",
+    "structure": "Choose an interaction whose destination prevents the relevant opposing reuse.",
+    "conditions": "Verify exact destination and recurrence rules.",
+    "failure_case": "Opponent recovers from that zone or does not need the card.",
+    "related_ids": [
+      "VIK-M12"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify exact destination and recurrence rules. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M21",
+    "level": "L3",
+    "source_lines": "630–769",
+    "name": "Payoff access versus engine-hit composition",
+    "structure": "Vary payoff slots while measuring early access and conditional hit quality separately.",
+    "conditions": "Specify population, draw model, remaining eligible units and known ordering.",
+    "failure_case": "Increasing access worsens the quality of engine activation.",
+    "related_ids": [
+      "AYI-M55"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record specify population, draw model, remaining eligible units and known ordering. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M22",
+    "level": "L3",
+    "source_lines": "630–769",
+    "name": "Marginal eighth unit",
+    "structure": "Compare one additional castable unit with the displaced slot and changed hit distribution.",
+    "conditions": "All alternatives counted; no claim of win-rate improvement from access math.",
+    "failure_case": "Additional unit is uncastable at the needed threshold.",
+    "related_ids": [
+      "AYI-M34"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record all alternatives counted; no claim of win-rate improvement from access math. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M23",
+    "level": "L3",
+    "source_lines": "630–769",
+    "name": "Reject win-more payoff",
+    "structure": "Remove expensive options that improve already favorable states while failing to repair vulnerable ones.",
+    "conditions": "Use adverse-state tests and realistic opposing answers.",
+    "failure_case": "Expensive option solves a matchup otherwise unwinnable.",
+    "related_ids": [
+      "MAC-M01"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record use adverse-state tests and realistic opposing answers. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M24",
+    "level": "L3",
+    "source_lines": "842–869,1550–1623",
+    "name": "Versioned list adaptation",
+    "structure": "Separate dated baseline from new pool and local-field revisions.",
+    "conditions": "Keep inventories and rules effective dates distinct.",
+    "failure_case": "Treating a later proposal as an earlier actual tournament list.",
+    "related_ids": [
+      "AYI-M56"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record keep inventories and rules effective dates distinct. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M25",
+    "level": "L3",
+    "source_lines": "870–903",
+    "name": "Parity-conditioned rune expenditure",
+    "structure": "Compare recycle costs against the next required resource threshold.",
+    "conditions": "Track actual ready runes, payments and alternative ramp.",
+    "failure_case": "A payment consumes a domain requirement despite unchanged nominal curve.",
+    "related_ids": [
+      "ANN-M18"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record track actual ready runes, payments and alternative ramp. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M26",
+    "level": "L3",
+    "source_lines": "870–903",
+    "name": "Fragile conditional acceleration",
+    "structure": "Identify a route whose extra resource depends on a unit surviving and a future trigger.",
+    "conditions": "Verify timing, trigger, threat range and fallback.",
+    "failure_case": "Opponent disrupts the enabling unit or trigger.",
+    "related_ids": [
+      "OUT-M04"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify timing, trigger, threat range and fallback. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M27",
+    "level": "L3",
+    "source_lines": "870–903",
+    "name": "Conditional engine-hit accounting",
+    "structure": "Update payoff candidates by observed zones and known deck ordering.",
+    "conditions": "Separate known order from random remaining eligible population.",
+    "failure_case": "Treating a recycled or bottomed card as randomly placed without evidence.",
+    "related_ids": [
+      "FUN-M19"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record separate known order from random remaining eligible population. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M28",
+    "level": "L3",
+    "source_lines": "870–903",
+    "name": "Score clock versus board size",
+    "structure": "Estimate threatened finish by scoring routes rather than aggregate board strength.",
+    "conditions": "Check current legal conditions and alternative score effects.",
+    "failure_case": "An unexpected finishing effect shortens the horizon.",
+    "related_ids": [
+      "FUN-M07"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record check current legal conditions and alternative score effects. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M29",
+    "level": "L3",
+    "source_lines": "870–903,1042–1087",
+    "name": "Minimum sufficient hold",
+    "structure": "Commit enough presence to demand a response while preserving reserve for another field.",
+    "conditions": "Bound opposing interaction and imminent finish.",
+    "failure_case": "Undercommitment enables an otherwise avoidable hold or double score.",
+    "related_ids": [
+      "AKH-M30"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record bound opposing interaction and imminent finish. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M30",
+    "level": "L3",
+    "source_lines": "904–1041",
+    "name": "Symmetric field asymmetric payoff",
+    "structure": "Choose a historical battlefield by its effect on each player and opening route.",
+    "conditions": "Verify field text and date; banned examples cannot be current recommendations.",
+    "failure_case": "Opponent uses the field benefit more efficiently.",
+    "related_ids": [
+      "AYI-M07"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify field text and date; banned examples cannot be current recommendations. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M31",
+    "level": "L3",
+    "source_lines": "968–1041",
+    "name": "Turn-order ceiling versus floor",
+    "structure": "Compare high-roll opening acceleration against slower draws and rival scoring initiative.",
+    "conditions": "Hold assumptions constant and include interruption.",
+    "failure_case": "Favorable opening math omits rival interaction or a different draw.",
+    "related_ids": [
+      "AYI-M13"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record hold assumptions constant and include interruption. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M32",
+    "level": "L3",
+    "source_lines": "1042–1087",
+    "name": "Delayed ramp versus urgent defense",
+    "structure": "Spend on the action that changes the next attainable state rather than unused current capacity.",
+    "conditions": "Compare both orders and next-turn thresholds.",
+    "failure_case": "Delaying ramp prevents a decisive payoff from being cast.",
+    "related_ids": [
+      "MAC-M01"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record compare both orders and next-turn thresholds. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M33",
+    "level": "L3",
+    "source_lines": "1088–1151,1268–1325",
+    "name": "Fallback-first against narrow hate",
+    "structure": "Develop a threat outside the expected answer class before exposing the key engine.",
+    "conditions": "Verify opponent hypothesis, current costs and tempo.",
+    "failure_case": "Opponent has a broad answer or early engine is needed to survive.",
+    "related_ids": [
+      "AYI-M38"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify opponent hypothesis, current costs and tempo. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M34",
+    "level": "L3",
+    "source_lines": "1152–1209",
+    "name": "Sideboard changes conditional hit quality",
+    "structure": "Treat a unit cut as both a matchup substitution and a change to the engine's hit population.",
+    "conditions": "Check replacement counts, actual inventory and legal deck.",
+    "failure_case": "Removing threats makes fallback development unreliable.",
+    "related_ids": [
+      "AYI-M57"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record check replacement counts, actual inventory and legal deck. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M35",
+    "level": "L3",
+    "source_lines": "1326–1387",
+    "name": "Mirror role reassignment",
+    "structure": "Change from slow engine competition to a credible pressure plan when opposing answers are misaligned.",
+    "conditions": "Validate actual format, sideboard legality and time rules; no slow play.",
+    "failure_case": "Opposing early removal invalidates the alternate plan.",
+    "related_ids": [
+      "AYI-M58"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record validate actual format, sideboard legality and time rules; no slow play. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M36",
+    "level": "L3",
+    "source_lines": "1416–1483",
+    "name": "Equipment package versus delayed payoff",
+    "structure": "Assess whether added early equipment forces premature combat or drains later resources.",
+    "conditions": "Exact effects and resource profile checked.",
+    "failure_case": "Equipment opens a distinct efficient route not covered by existing cards.",
+    "related_ids": [
+      "MAC-M13"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record exact effects and resource profile checked. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M37",
+    "level": "L3",
+    "source_lines": "1484–1549",
+    "name": "Search cost versus later functionality",
+    "structure": "Measure finding a payoff separately from ability to cast and support it afterward.",
+    "conditions": "Calculate post-search and post-payoff resources.",
+    "failure_case": "Search locates an efficient alternative that does not require the assumed budget.",
+    "related_ids": [
+      "OUT-M10"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record calculate post-search and post-payoff resources. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M38",
+    "level": "L3",
+    "source_lines": "1484–1549,1550–1623",
+    "name": "Flexible answer portfolio under uncertain field",
+    "structure": "Use varied conditional answers when opposition is diverse; concentrate only with evidence.",
+    "conditions": "Quantify coverage and access, not a subjective probability.",
+    "failure_case": "Singletons are too inaccessible in a fast matchup.",
+    "related_ids": [
+      "AYI-M40"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record quantify coverage and access, not a subjective probability. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M39",
+    "level": "L3",
+    "source_lines": "1484–1549,1668–1695",
+    "name": "Recurrence as sustained engine inventory",
+    "structure": "Consider effects that replenish eligible threats when the expected game is long.",
+    "conditions": "Verify legal recycling, triggers, zone transitions and fatigue rules.",
+    "failure_case": "Opponent wins before recurrence pays off or disables it.",
+    "related_ids": [
+      "AYI-M28"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record verify legal recycling, triggers, zone transitions and fatigue rules. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  },
+  {
+    "id": "MFA-M40",
+    "level": "L3",
+    "source_lines": "1550–1641",
+    "name": "Known weak matchup as allocation decision",
+    "structure": "Acknowledge uncovered matchups and compare costs of dedicated slots versus broad coverage.",
+    "conditions": "Use actual dated field and results; no unsupported favorable percentages.",
+    "failure_case": "Neglected archetype becomes common enough to change expected value.",
+    "related_ids": [
+      "VIK-M01"
+    ],
+    "original_exercise_seed": "Compare the baseline and alternative in a new hypothetical practice state; record use actual dated field and results; no unsupported favorable percentages. Then introduce the documented failure case.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Qualitative relation to existing research; not independently novel or mechanically certified."
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "MFA-S1",
+    "matchup": "Kai'Sa",
+    "start": 1088,
+    "end": 1151,
+    "out": {
+      "Challenge": 2
+    },
+    "in": {
+      "Unyielding Spirit": 2
+    },
+    "out_count": 2,
+    "in_count": 2,
+    "status": "historical count-only; full main and side inventory unavailable",
+    "notes": null
+  },
+  {
+    "id": "MFA-S2",
+    "matchup": "Annie",
+    "start": 1152,
+    "end": 1209,
+    "out": {
+      "Mountain Drake": 1,
+      "Primal Strength": 2
+    },
+    "in": {
+      "Challenge": 1,
+      "Rebuke": 2
+    },
+    "out_count": 3,
+    "in_count": 3,
+    "status": "historical count-only; full main and side inventory unavailable",
+    "notes": null
+  },
+  {
+    "id": "MFA-S3",
+    "matchup": "Master Yi blind",
+    "start": 1210,
+    "end": 1267,
+    "out": {
+      "Gust": 1,
+      "Challenge": 1,
+      "Confront": 1,
+      "Deadbloom Predator": 1
+    },
+    "in": {
+      "Rebuke": 2,
+      "Fading Memories": 2
+    },
+    "out_count": 4,
+    "in_count": 4,
+    "status": "historical count-only; full main and side inventory unavailable",
+    "notes": null
+  },
+  {
+    "id": "MFA-S4",
+    "matchup": "Sett",
+    "start": 1268,
+    "end": 1325,
+    "out": {
+      "Sabotage": 3
+    },
+    "in": {
+      "Rebuke": 2,
+      "Fading Memories": 1
+    },
+    "out_count": 3,
+    "in_count": 3,
+    "status": "historical count-only; full main and side inventory unavailable",
+    "notes": null
+  },
+  {
+    "id": "MFA-S5",
+    "matchup": "Mirror",
+    "start": 1326,
+    "end": 1387,
+    "out": {
+      "Gust": 3,
+      "Challenge": 1,
+      "Miss Fortune, Captain": 1
+    },
+    "in": {
+      "Fading Memories": 2,
+      "Rebuke": 2,
+      "Miss Fortune, Buccaneer": 1
+    },
+    "out_count": 5,
+    "in_count": 5,
+    "status": "historical count-only; full main and side inventory unavailable",
+    "notes": "Source additionally mentions Confront as an alternative cut; champion role/zone and replacement legality require dated rules."
+  }
+]
