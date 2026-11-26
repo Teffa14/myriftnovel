@@ -9,6 +9,7 @@ Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Rea
 
 ## Required references
 - 10_PUBLICATION/COMMERCIAL_STRATEGY.md
+- 10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md
 - 10_PUBLICATION/MARKET_VALIDATION.md
 - 10_PUBLICATION/BRAND_IDENTITY.md
 - 01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md
@@ -22,3 +23,5 @@ Retain exact author-selected title and approved branding unless separately autho
 Use consent-based audience validation, actual cohorts and retention data, not invented metrics. Estimate revenue scenarios with explicit conditional assumptions, fees/program terms and zero-income baseline; review sustainable cadence and reserve versus proven production capacity. Separate literary acceptance from commercial G5. 
 ## Approval boundary
 No submitting applications, signing, public release, uploading cover/manuscript, or changing rights/contract settings without explicit authorization and required gate checks. Keep unpublished outline and manuscript private. Provide a readiness report, concrete blockers, next achievable milestones and source dates.
+
+For Author's Thoughts, apply AD-0005 and the linked protocol. Deliver optional separate notes, maintain verified author voice and actual reader data, and never post or change account settings without author authorization.

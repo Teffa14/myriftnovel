@@ -93,3 +93,6 @@ Read 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md and the linked private bank 
 
 ## AD-0003 material stakes
 Read 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md. Add pressure IDs, source-linked current financial and work state, independent goals, competing commitments, actual consequence and downstream effect to the private brief; reconcile the ledger after drafting. Review rolling three-chapter lived pressure and each arc's non-game thread; do not use mentions, forced quotas or repeated crises as a substitute for causal scenes. Missing exact pay dates, shifts and obligations must remain unresolved until established.
+
+## Separate Author's Thoughts delivery (AD-0005)
+Read 10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md before preparing the final chapter/supplement delivery. Offer a fresh, short English author note aligned with the actual accepted chapter, or explicitly recommend omission. Keep separate from manuscript and canon, use a single optional commercial request at most, and never invent autobiographical facts, personal hardship, reader feedback or milestones. Review recent note history, avoid spoilers and preserve emotional impact. Record approval and publication state separately; do not change accepted prose or hash to insert a note.

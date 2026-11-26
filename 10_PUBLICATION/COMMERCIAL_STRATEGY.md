@@ -10,3 +10,6 @@ WebNovel is the current author-selected platform identity as reported by the aut
 
 ## Webnovel contract guidance intake
 See [WNG contract readiness](../01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md). Dated supplied July 2026 operations guide claims 12,000-word eligibility, seven business-day response and limited revision opportunities; October 2025 guide gives two weeks. Verify current account eligibility, remaining attempts, terms, AI disclosure and rights before any application. No automatic application or signature. Distinguish reader blurb from private causal outline and substantiate differentiation. G5 remains open; no rights clearance inferred.
+
+## Author's Thoughts channel (AD-0005)
+Apply [AUTHOR_THOUGHTS_PROTOCOL.md](AUTHOR_THOUGHTS_PROTOCOL.md) to author-reader interaction, tone, note rotation, optional collection/vote requests, feedback and measurement. This is a distinct, voluntary reader-engagement layer, not evidence of a contract, algorithm advantage or revenue. Preserve genuine author voice, approved manuscript and publication decisions.
