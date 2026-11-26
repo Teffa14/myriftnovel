@@ -114,3 +114,6 @@ Retrieve 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md and the verified private ban
 
 ## AD-0010-E01 expanded emotional scene bank
 Retrieve both linked private banks in 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md. Record selected DS IDs, prior approved anchors or unplanted prerequisites, causality, distinct emotional contribution, alternative treatments and downstream consequences. Check mutual-exclusion controls and ensure later payoffs cannot accidentally duplicate the same event. At each arc review, verify varied ensemble development and genuine happiness before escalating loss. Do not count candidate scenes as completed events or revise accepted text.
+
+## AD-0010-E02 — Corrective planning gate
+Do not use rejected DS05–40 as active candidates. Apply LONG_RANGE_PAYOFFS.md section AD-0010-E02. Major payoffs need an identifiable prior sequence and credible reader-facing expectation, concrete actions that alter that future, and sustained consequences, rather than a generic sad situation. New proposals require author review; preserve approved history and binding private outcomes.

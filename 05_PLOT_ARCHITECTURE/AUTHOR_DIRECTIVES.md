@@ -63,3 +63,6 @@ Before every new chapter, revision or supplement, load this index and all active
 - Binding planning extension to AD-0010. Private expansion: ChatGPT Library /The Last Draw - Private Archive/TLD_PRIVATE_DENSE_SCENES_EXPANSION_v1.md (SHA-256 2121f104e45950ac5b1ada85f51a0ccfc8e46b6abcdde37e48721ebeb7a2ecf8).
 - Retrieve alongside the original private LR/DS bank and applicable earlier directives. Select from the expanded DS05–40 dossiers only when causal setup, character agency, continuity, distinct emotional mechanisms and consequences are supported. Do not schedule every candidate or disclose specific private trajectories.
 - Preserve prior binding outcomes, the full ensemble's independent lives, joy, recovery and approved prose. Additional irreversible outcomes are prospective options, not author-approved facts.
+
+### AD-0010-E02 — Author rejection of E01 candidates
+The author rejected DS05–40 as insufficient and provided a concrete reference analysis. E01's scene bank is retired from active selection; retain the historical record but do not treat its proposals as requirements. Follow the replacement criteria in LONG_RANGE_PAYOFFS.md and preserve the original AD-0010 method and all previous binding outcomes. New specific candidate plots require author acceptance. No new occurred canon or manuscript changes.

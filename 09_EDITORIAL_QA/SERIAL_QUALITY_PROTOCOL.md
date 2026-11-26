@@ -51,3 +51,6 @@ Apply 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md. Check actual source-linked set
 
 ## AD-0010-E01 dense-scene review
 For a selected dossier, evaluate actual attachment, causal inevitability in hindsight, individual agency, lasting consequences and independent readability. Record supported/weak/deferred with source evidence rather than predicted reader emotions. Compare recent scenes for repeated causes of distress, objects, gestures and revelations. Preserve rest, humor and earned rewards; no mandatory quota of catastrophes or emotional-response guarantees. Respect all private directive and continuity constraints.
+
+## AD-0010-E02 — Major-payoff acceptance
+Reject a major scene plan built solely on a lost appointment, financial setback, generic breakup or sentimental object without the earlier lived future, causal turning point and consequential aftermath. Audit independent choices, irreversibility when relevant, distinct mechanisms and actual prior evidence. DS05–40 are rejected historical candidates, not active requirements. No new proposed scene is approved by this correction.
