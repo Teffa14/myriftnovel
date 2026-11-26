@@ -489,6 +489,36 @@
   },
   "chapter_09": {
     "status": "not_started",
-    "preflight": "CH0008 V2.1 closed. Retrieve verified v10 or successor; preserve household and study/work commitments, knowledge boundaries and unsettled future plans. Prepare CH9 scoped preflight and exact candidate checks before author approval. No automatic drafting or publication."
+    "preflight": "CH0008 V2.1 closed. Retrieve verified v10 or successor; preserve household and study/work commitments, knowledge boundaries and unsettled future plans. Prepare CH9 scoped preflight and exact candidate checks before author approval. No automatic drafting or publication.",
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "f1682c12a2df1bd2d818fc025e131ccb116a4cc5",
+      "repository_inventory": {
+        "entries": 523,
+        "blobs": 442,
+        "truncated": false
+      },
+      "latest_changes_reviewed": {
+        "since_CH0007_closeout": 3,
+        "since_CH0008_closeout": 0
+      },
+      "private_dossier": "/The Last Draw - Private Archive/CH0009_preflight.zip",
+      "dossier_sha256": "6fd366ae986e6adbb5f5a3475b74572ee2429590d6374b6c2d220cff0beea28a",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 10,
+      "retired_expressions": 380,
+      "usage_records": 160,
+      "continuity_records": 615,
+      "timeline_events": 70,
+      "checks": {
+        "passed": 46,
+        "failed": 0,
+        "scope": "Manifest and exact approved hashes, continuity, existing canon, conditional schedule fixtures and nested four guard regression tests; private dossier separately read back byte-for-byte."
+      },
+      "planned_scope": "L0 narrative only",
+      "limitations": "Recursive inventory and latest three changed paths reviewed; selective relevant source contents and private prior passages, not exhaustive all-file body review. No draft, actual future appointments, new canon, game simulation, literary rating or independent reader test.",
+      "next_gate": "Draft only on author instruction; retrieve verified v10 or successor and private brief, verify exact candidate originality, continuity and L0 scope, obtain separate author approval and closeout."
+    }
   }
 }
