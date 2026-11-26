@@ -30,3 +30,5 @@ AD-0007: apply the character-specific CD requirements and cross-character gates 
 AD-0009: review temporal narration under 02_STYLE_BIBLE/STYLE.md and 09_EDITORIAL_QA/EDITORIAL_SYSTEM.md. Audit precise time references, spelled-out times, exact durations, clock-check repetition and time-led paragraph openings. Justify necessary anchors, revise redundant ones, and revalidate private chronology without changing approved prose. Counts are diagnostic only.
 
 AD-0013: review against 02_STYLE_BIBLE/TLD_VOICE_METHOD.md, using 02_STYLE_BIBLE/voice_audit.py on exact text where available. Record meaningful stylistic decisions and comparable evidence before/after; preserve intentional dialogue, recurring motifs and technical details. Detector findings are not proof of authorship. Do not certify literary improvement from counts alone.
+
+AD-0014-A01: for CH15–19 review the concrete incoming and outgoing causal links, local reward, continuity and order/deletion test in PILOT_20.md; require material contribution to CH20 without forced outcomes or cliffhangers. Distinguish provisional candidate developments from approved history.

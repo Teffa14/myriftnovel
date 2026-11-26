@@ -30,3 +30,5 @@ AD-0012 strengthens the emotional standard across the 25 planned main-story arcs
 
 ## AD-0014 — A01 special finale
 CH20 is the special numbered main-chapter finale of The First Table (A01, CH1–20), with cumulative payoff rather than an ordinary installment. The existing A01 goal of an earned, sustainable practice opportunity remains. Follow the finale protocol in ../08_CHAPTERS/PILOT_20.md; preserve CH21 as the start of A02 and CH500 as the main-story conclusion. No additional championship, relationship milestone or other specific outcome is predetermined.
+
+AD-0014-A01: CH15–19 form a continuous causal approach to the CH20 Grand Finale d'Arc. Review the bridge between each adjacent chapter and the cumulative payoff before writing or accepting any of these chapters. Follow PILOT_20.md. The five-chapter connection is binding; exact events and scope remain subject to evidence and approval.
