@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 378,
-    "events": 45,
-    "approved_records": 378,
-    "open_issue_groups": 9,
-    "structural_validation": "fresh Library readback passed; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v7.zip",
+    "records": 441,
+    "events": 54,
+    "approved_records": 441,
+    "open_issue_groups": 10,
+    "structural_validation": "Fresh Library readback: PASS; same-agent semantic review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 42,
+    "passed": 44,
     "failed": 0,
-    "scope": "CH0005.1 closeout, plus fresh persistent archive/continuity/guard readback"
+    "scope": "CH0006 V3 closeout, plus fresh persistent Library exact-byte readback and manifest/continuity/guard verification."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -302,7 +302,7 @@
     "publication": "not published"
   },
   "chapter_06": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "preflight": "CH0005.1 (display 5.5) closed. Retrieve verified v7 or successor, full approved history, source-linked continuity and private pilot/payoff ledger; preserve unresolved practice chronology, verify next chapter scope, run fresh originality and competitive checks as applicable. No automatic draft or publication.",
     "preflight_result": {
       "status": "scoped_preflight_completed",
@@ -329,7 +329,29 @@
       "planned_scope": "L1 conditional",
       "limitations": "Selective repository and prior manuscript review; no draft, newly approved canon, full legal deck certification, complete game outcome or literary score. Effective rules recheck required for future story date.",
       "next_gate": "Draft on author instruction; preserve prior approved v7, verify depicted technical state and exact candidate originality, obtain separate author approval and closeout."
-    }
+    },
+    "revision": "V3",
+    "title": "What He Didn't Know",
+    "words_excluding_headings": 1939,
+    "paragraphs": 83,
+    "scenes": 1,
+    "retired_resources": 37,
+    "abstract_usage_records": 16,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 1932,
+    "competitive_scope": "L1 conditional; bounded state/resource/score assertions; no full match replay or complete deck legality certification",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v8.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "f667efca96ae212333d73ee9eb5f8d34a185b3b5bb53789230177cccd77df264",
+    "archive_storage": "Persistent Library exact-byte readback verified; manifest, continuity and four guard regression tests passed",
+    "checks": {
+      "passed": 44,
+      "failed": 0,
+      "scope": "Named closeout checks, including conditional arithmetic/state assertions and nested guard regression; exact persistent Library readback separately verified."
+    },
+    "approval": "Author requested distillation and all closeout processes following V3 editorial review; exact original retained, archive Markdown heading prefix only.",
+    "literary_review": "Prior editorial assessment: 8.98 literary and 8.75 serial; no independent reader data",
+    "publication": "not published by this work"
   },
   "chapter_05_1": {
     "id": "CH0005.1",
