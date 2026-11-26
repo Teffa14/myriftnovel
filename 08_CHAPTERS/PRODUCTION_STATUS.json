@@ -600,6 +600,41 @@
   },
   "chapter_11": {
     "status": "not_started",
-    "preflight": "CH0010 V2 closed. Retrieve verified v12 or successor and both active private author directives. Refresh date-specific competitive evidence, preserve independent goals, confidentiality and unresolved commitments. Prepare scoped CH11 preflight before drafting. No automatic publication."
+    "preflight": "Resolve requested CH0010.1 (display Chapter 10.5) or explicit deferral before drafting CH0011; retrieve current verified archive and active directives; preserve existing C11 pilot goal and independent character agency."
+  },
+  "chapter_10_1": {
+    "status": "not_started",
+    "display_number": "10.5",
+    "internal_id": "CH0010.1",
+    "unit_type": "supplement",
+    "parent_number": 10,
+    "supplement_index": 1,
+    "preflight_result": {
+      "status": "scoped_preflight_completed; manuscript_not_started",
+      "source_commit": "3a1be5ccf0872dde4c6820cb618d19ccb5fa8767",
+      "repository_inventory": {
+        "entries": 527,
+        "blobs": 446,
+        "truncated": false
+      },
+      "private_dossier": "/The Last Draw - Private Archive/CH0010_5_preflight.zip",
+      "dossier_sha256": "4c5bfcae62e7666fc27002675ab0a8fc9c8171d13929901fd50dde59e7442019",
+      "private_dossier_readback": true,
+      "archive_verified": true,
+      "approved_units": 12,
+      "retired_expressions": 436,
+      "usage_records": 193,
+      "continuity_records": 794,
+      "timeline_events": 90,
+      "checks": {
+        "passed": 32,
+        "failed": 0,
+        "scope": "Archive, continuity, active private directives, source anchors, proposed chronology and supplement-order negative controls; 4 nested guard regression tests."
+      },
+      "planned_scope": "L0 optional character supplement",
+      "author_directive_alignment": "AD-0001 preserved; AD-0002 private bank verified and selected functions reviewed. No future scenario, relationship or new event approved.",
+      "limitations": "Selected relevant repository contents inspected, not exhaustive all-file body audit. Title, date, POV and scene proposed only. No manuscript, reader score or new canon.",
+      "next_gate": "Draft on author instruction; validate exact candidate, obtain separate approval and closeout or explicit deferral before CH0011."
+    }
   }
 }
