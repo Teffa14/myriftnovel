@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v15.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 989,
-    "events": 120,
-    "approved_records": 989,
-    "open_issue_groups": 17,
+    "records": 1045,
+    "events": 130,
+    "approved_records": 1045,
+    "open_issue_groups": 18,
     "structural_validation": "Fresh Library readback PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v15.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip"
   },
   "archive_checks": {
-    "passed": 47,
+    "passed": 51,
     "failed": 0,
-    "scope": "Exact approved source, prior archive preservation, originality, continuity, five active directives, bounded competitive arithmetic and negative controls. Persistent Library exact-byte readback, CRC, manifest, continuity and 4/4 guard regression separately verified."
+    "scope": "Exact approved source, prior corpus, seven private directive hashes, continuity, operational allocation, negative tests and AD-0010-E02 supersession. Fresh Library readback, CRC, manifest, continuity and 4/4 regression separately verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -764,6 +764,33 @@
     "approval": "Author explicitly requested distillation and full process following V2.1 review; raw upload preserved; canonical heading and newline normalization only.",
     "author_directive_alignment": "AD-0001 through AD-0005 reviewed; separate optional author note draft retained privately and not published.",
     "literary_review": "Prior editorial assessment retained privately; no independent reader study.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_13": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "The Empty Chair",
+    "words_excluding_headings": 2027,
+    "paragraphs": 93,
+    "scenes": 2,
+    "retired_resources": 21,
+    "abstract_usage_records": 16,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 2020,
+    "competitive_scope": "L0 narrative only; operational allocation checks, no game replay or match result",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip",
+    "archive_sha256": "de502073809e5e6d1980a30a75e1bbbf3b33a3ae320d80509bb11af204f8a3b6",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback and fresh validators passed",
+    "checks": {
+      "passed": 51,
+      "failed": 0,
+      "scope": "Exact approved source, prior corpus, seven private directive hashes, continuity, operational allocation, negative tests and AD-0010-E02 supersession. Fresh Library readback, CRC, manifest, continuity and 4/4 regression separately verified."
+    },
+    "approval": "Author explicitly requested distillation and process after exact V2.1 review; original upload preserved; canonical Markdown heading and separator only",
+    "author_directive_alignment": "AD-0001–0010, AD-0006-A01 and AD-0010-E02 reviewed; seven linked private records verified; E01 historical only, rejected DS05–40 not selected. Separate optional note draft not published.",
+    "literary_review": "Prior editorial assessment retained; no independent reader study.",
     "publication": "not published by this work",
     "next_gate": "closed"
   }
