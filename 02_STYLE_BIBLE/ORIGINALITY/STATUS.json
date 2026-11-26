@@ -1,26 +1,26 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 13,
-  "retired_resources_registered": 532,
-  "manuscript_audits": 16,
+  "approved_chapters_registered": 14,
+  "retired_resources_registered": 555,
+  "manuscript_audits": 17,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 16,
-    "new_variant_candidates": 38
+    "own_approved_units": 17,
+    "new_variant_candidates": 40
   },
   "tests": {
     "synthetic_cases": 5,
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v16.1 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v17 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip",
-  "usage_records": 257,
-  "lexical_fingerprints_registered": 32362,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip",
+  "usage_records": 273,
+  "lexical_fingerprints_registered": 34340,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 3,
-  "approved_units_registered": 16,
+  "approved_units_registered": 17,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -346,5 +346,26 @@
     "passed": 51,
     "failed": 0,
     "scope": "Exact approved source, prior corpus, seven private directive hashes, continuity, operational allocation, negative tests and AD-0010-E02 supersession. Fresh Library readback, CRC, manifest, continuity and 4/4 regression separately verified."
+  },
+  "chapter_14": {
+    "revision": "V2.1",
+    "words": 1985,
+    "lpm_words": 1983,
+    "paragraphs": 54,
+    "scenes": 2,
+    "distinctive_retired_spans": 23,
+    "usage_records": 16,
+    "abstract_variants": 2,
+    "lexical_fingerprints": 1978,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0; no depicted match",
+    "g6": "Author-approved, distilled, persisted and verified; same-agent semantic review, not exhaustive external certification"
+  },
+  "chapter_14_registration_checks": {
+    "passed": 57,
+    "failed": 0,
+    "scope": "Exact approved source, prior corpus preservation, ten private directive hashes (including historical rejected E01), source-linked continuity, lexical screening, LPM descriptive audit, and negative controls. Fresh Library exact-byte readback, CRC, manifest, continuity, LPM and 4/4 regression separately verified."
   }
 }

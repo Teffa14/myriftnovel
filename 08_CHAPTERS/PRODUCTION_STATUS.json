@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1045,
-    "events": 130,
-    "approved_records": 1045,
-    "open_issue_groups": 18,
+    "records": 1114,
+    "events": 140,
+    "approved_records": 1114,
+    "open_issue_groups": 19,
     "structural_validation": "Fresh Library readback PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v16.1.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip"
   },
   "archive_checks": {
-    "passed": 51,
+    "passed": 57,
     "failed": 0,
-    "scope": "Exact approved source, prior corpus, seven private directive hashes, continuity, operational allocation, negative tests and AD-0010-E02 supersession. Fresh Library readback, CRC, manifest, continuity and 4/4 regression separately verified."
+    "scope": "Exact approved source, prior corpus preservation, ten private directive hashes (including historical rejected E01), source-linked continuity, lexical screening, LPM descriptive audit, and negative controls. Fresh Library exact-byte readback, CRC, manifest, continuity, LPM and 4/4 regression separately verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -791,6 +791,34 @@
     "approval": "Author explicitly requested distillation and process after exact V2.1 review; original upload preserved; canonical Markdown heading and separator only",
     "author_directive_alignment": "AD-0001–0010, AD-0006-A01 and AD-0010-E02 reviewed; seven linked private records verified; E01 historical only, rejected DS05–40 not selected. Separate optional note draft not published.",
     "literary_review": "Prior editorial assessment retained; no independent reader study.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_14": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "A Night at Home",
+    "words_excluding_headings": 1985,
+    "lpm_words": 1983,
+    "paragraphs": 54,
+    "scenes": 2,
+    "retired_resources": 23,
+    "abstract_usage_records": 16,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 1978,
+    "competitive_scope": "L0 narrative only; no depicted match or game mechanics",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v17.zip",
+    "archive_sha256": "b369d7b3ab41a81325f17d440cf7a5adf5e06d0cad633d28fcdb40fc65a9502e",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback and fresh validators passed",
+    "checks": {
+      "passed": 57,
+      "failed": 0,
+      "scope": "Exact approved source, prior corpus preservation, ten private directive hashes (including historical rejected E01), source-linked continuity, lexical screening, LPM descriptive audit, and negative controls. Fresh Library exact-byte readback, CRC, manifest, continuity, LPM and 4/4 regression separately verified."
+    },
+    "approval": "Author explicitly requested distillation and all process after exact V2.1 review; original upload preserved; canonical Markdown heading and separator only",
+    "author_directive_alignment": "AD-0001–0013 and AD-0006-A01, AD-0010-E02/E03 reviewed; ten linked private records hash-verified, including historical rejected E01; no rejected candidates or prospective macro-events promoted. Separate author note draft not published.",
+    "literary_review": "Prior editorial assessment retained; accepted local LPM voice anchor; descriptive audits only, no independent readers or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
   }
