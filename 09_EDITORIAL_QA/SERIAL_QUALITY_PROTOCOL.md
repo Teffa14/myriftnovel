@@ -45,3 +45,6 @@ Apply 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md. Require evidence of actual char
 
 ## Slice of life (AD-0008)
 Apply 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md. Check whether everyday pleasure, TCG lifestyle beyond training, independent social life and comfort are actually experienced on page. Record SL IDs, textual locators and narrative contributions. Review four-main-chapter windows and every arc; explain gaps and identify suitable next opportunities. A quiet scene may earn its place through humor, familiarity, rest or connection without escalating stakes. Preserve technical, continuity, originality and approval gates.
+
+## Long-range emotional architecture (AD-0010)
+Apply 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md. Check actual source-linked setup, varied reinforcement, independent causal threads, meaningful recontextualization and aftermath. Judge whether the payoff works without the callback; remove explanatory repetition or unearned claims. Review dormant/open seeds and shorter rewards across arcs. No mandatory catastrophe, fixed emotional-response score or fabricated audience evidence.
