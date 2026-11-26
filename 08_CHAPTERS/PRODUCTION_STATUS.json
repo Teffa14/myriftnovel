@@ -65,21 +65,21 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v10.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 527,
-    "events": 62,
-    "approved_records": 527,
-    "open_issue_groups": 11,
+    "records": 615,
+    "events": 70,
+    "approved_records": 615,
+    "open_issue_groups": 12,
     "structural_validation": "Fresh Library readback: PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v9.zip",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v10.zip",
     "correction": "One prior registry attribution clarified from approved source with history retained; manuscript unchanged"
   },
   "archive_checks": {
-    "passed": 43,
+    "passed": 55,
     "failed": 0,
-    "scope": "Exact V2 archival and continuity checks, two lexical screens, source anchors, attendance arithmetic and date checks; four guard regression tests nested. Persistent Library readback additionally verified."
+    "scope": "Executed exact V2.1 archive, continuity and two lexical checks; 15 isolated conditional movement-model checks, source locators and nested guard regression. Persistent Library exact-byte readback and fresh manifest, continuity and guard tests additionally verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -462,7 +462,33 @@
     "publication": "not published by this work"
   },
   "chapter_08": {
+    "status": "author_approved_and_distilled",
+    "preflight": "CH0007 V2 closed. Retrieve verified v9 or successor and refresh conditional C8 preflight; preserve unresolved commitments, verify dated card evidence for L1 scope, run exact candidate checks. No automatic drafting or publication.",
+    "revision": "V2.1",
+    "title": "Before the Answer",
+    "words_excluding_headings": 1948,
+    "paragraphs": 106,
+    "scenes": 1,
+    "retired_resources": 31,
+    "abstract_usage_records": 17,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 1941,
+    "competitive_scope": "L1 conditional isolated effect exercise; no complete legal deck, rune trace, or match replay; rules cutoff 2026-11-25",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v10.zip",
+    "private_archive_integrity_verified": true,
+    "archive_sha256": "4ab5f860dfb67a17e0f50832a36a6eb5aa239e97ed75d8e1b738429eb0dcd70a",
+    "archive_storage": "Persistent Library exact-byte readback verified; manifest, continuity and four guard regression tests passed",
+    "checks": {
+      "passed": 55,
+      "failed": 0,
+      "scope": "Executed exact V2.1 archive, continuity and two lexical checks; 15 isolated conditional movement-model checks, source locators and nested guard regression. Persistent Library exact-byte readback and fresh manifest, continuity and guard tests additionally verified."
+    },
+    "approval": "Author requested distillation and whole process after V2.1 review; original upload and normalized source preserved separately.",
+    "literary_review": "Prior editorial assessment retained privately; no independent reader data",
+    "publication": "not published by this work"
+  },
+  "chapter_09": {
     "status": "not_started",
-    "preflight": "CH0007 V2 closed. Retrieve verified v9 or successor and refresh conditional C8 preflight; preserve unresolved commitments, verify dated card evidence for L1 scope, run exact candidate checks. No automatic drafting or publication."
+    "preflight": "CH0008 V2.1 closed. Retrieve verified v10 or successor; preserve household and study/work commitments, knowledge boundaries and unsettled future plans. Prepare CH9 scoped preflight and exact candidate checks before author approval. No automatic drafting or publication."
   }
 }
