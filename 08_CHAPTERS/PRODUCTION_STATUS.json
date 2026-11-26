@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v12.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v13.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 794,
-    "events": 90,
-    "approved_records": 794,
-    "open_issue_groups": 14,
+    "records": 844,
+    "events": 96,
+    "approved_records": 844,
+    "open_issue_groups": 15,
     "structural_validation": "Fresh Library readback PASS; same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v12.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v13.zip"
   },
   "archive_checks": {
-    "passed": 56,
+    "passed": 52,
     "failed": 0,
-    "scope": "Exact V2 closeout, archive and source validation, recovered draw fixture, bounded combat branches and guard regression; both private directives recovered; formal priority trace and informal shorthand caveat recorded. Fresh persistent byte-for-byte readback, manifest, continuity, 4/4 regression and prior manuscript preservation verified."
+    "scope": "Exact V2, archive and source integrity, originality, continuity, four active directives, and supplement-order negative controls; fresh persistent exact-byte readback, manifest, continuity and 4/4 regression verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -600,10 +600,10 @@
   },
   "chapter_11": {
     "status": "not_started",
-    "preflight": "Resolve requested CH0010.1 (display Chapter 10.5) or explicit deferral before drafting CH0011; retrieve current verified archive and active directives; preserve existing C11 pilot goal and independent character agency."
+    "preflight": "CH0010.1 V2 closed. Retrieve verified v13 or successor and all four active directives, including latest P02 styling direction. Prioritize substantive on-page workplace/supervisory scene and tangible consequence at earliest plausible opportunity under AD-0003, preserve independent Eli and June objectives, established financial and scheduling unknowns, and AD-0001/0002/0004. Prepare scoped private CH11 brief before drafting. No automatic publication."
   },
   "chapter_10_1": {
-    "status": "not_started",
+    "status": "author_approved_and_distilled",
     "display_number": "10.5",
     "internal_id": "CH0010.1",
     "unit_type": "supplement",
@@ -635,6 +635,29 @@
       "author_directive_alignment": "AD-0001 preserved; AD-0002 private bank verified and selected functions reviewed. No future scenario, relationship or new event approved.",
       "limitations": "Selected relevant repository contents inspected, not exhaustive all-file body audit. Title, date, POV and scene proposed only. No manuscript, reader score or new canon.",
       "next_gate": "Draft on author instruction; validate exact candidate, obtain separate approval and closeout or explicit deferral before CH0011."
-    }
+    },
+    "revision": "V2",
+    "title": "Off the Clock",
+    "words_excluding_headings": 1576,
+    "paragraphs": 105,
+    "scenes": 1,
+    "retired_resources": 21,
+    "abstract_usage_records": 14,
+    "variant_candidates": 2,
+    "lexical_fingerprints": 1569,
+    "competitive_scope": "L0 optional character supplement",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v13.zip",
+    "archive_sha256": "6647b9de39cf7443ec20cd26fd8817cf867ef9992c60d6c01f31ea6dee392817",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback and fresh validators passed",
+    "checks": {
+      "passed": 52,
+      "failed": 0,
+      "scope": "Exact V2, archive and source integrity, originality, continuity, four active directives, and supplement-order negative controls; fresh persistent exact-byte readback, manifest, continuity and 4/4 regression verified."
+    },
+    "approval": "Author requested distile and all following V2 review; exact reviewed recovered file retained, Markdown heading marker only.",
+    "author_directive_alignment": "AD-0001 preserved; AD-0002 thematic local payoff, specific future peaks remain pending; AD-0003 justified relief supplement, direct workplace pressure prioritized at earliest feasible main chapter; AD-0004 preserved prospectively, no fixed romantic pairing. Concurrent aesthetic confirmation at 50fd0db33b3378ff5ab094a54fbc0e8a5818c65c reviewed and preserved, no retroactive prose changes.",
+    "literary_review": "Prior subjective editorial assessment retained privately, not independent reader validation.",
+    "publication": "not published by this work"
   }
 }
