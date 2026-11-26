@@ -105,3 +105,6 @@ Use 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md in private chapter briefs and edit
 
 ## AD-0008 slice of life
 Consult 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md before drafting. Record relevant SL IDs or reasoned omission. Plan authentic ordinary experiences, hobby enjoyment, social activity and comfort alongside the competitive and material-pressure threads. Permit a whole main chapter without a match or major conflict when it delivers a coherent experience and attachment. In rolling four-chapter and arc reviews, check actual delivery and varied cast participation; avoid mechanical quotas, recycled scenes and forced hardship.
+
+## AD-0009 — Temporal information separation
+In preflight and the private brief, maintain a source-linked detailed chronology with dependencies, time ranges and uncertainty. Separately identify the few temporal anchors the reader actually needs and their narrative functions. Do not copy the schedule or state log into the story. During drafting use action and causality for transitions. At editorial review inventory precise time references and repeated temporal openings, flag redundant markers, justify retained anchors and recheck the resulting prose against the private chronology. Apply the correction to the current unapproved revision and subsequent chapters. No timestamp quota, arbitrary compression of events, or approved-text change.

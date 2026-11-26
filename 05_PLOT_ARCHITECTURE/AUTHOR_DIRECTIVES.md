@@ -48,3 +48,8 @@ Before every new chapter, revision or supplement, load this index and all active
 ## AD-0008 — Slice of life and TCG lifestyle
 - Binding author direction: make ordinary life, hobby enjoyment, social experiences and comfort chapters recurring parts of the serial. Apply [SLICE_OF_LIFE.md](SLICE_OF_LIFE.md) in main chapters and supplements.
 - Use the four SL categories, allowing whole main chapters without competitive matches. Track actual ordinary experiences and reader-facing attachment in rolling and arc reviews. Preserve other directives, approved canon and competitive integrity; no obligatory conflict, forced quotas or public spoilers.
+
+## AD-0009 — Selective narrative time and organic transitions
+- Binding author direction: keep the production chronology and the reader-facing narration separate. Detailed dates, local times, elapsed intervals and schedule constraints belong in private continuity records; prose conveys time through scene causality, actions, dialogue, natural transitions and selective anchors.
+- Mandatory reference: [STYLE.md](../02_STYLE_BIBLE/STYLE.md), section AD-0009. Explicit times remain appropriate when a deadline, appointment, competitive clock, decision, meaningful wait or necessary orientation depends on them. Avoid repeated clock readings and minute-by-minute narration merely to prove continuity.
+- Apply immediately to the next revision of the current unapproved candidate and all subsequent chapters and supplements. Review actual temporal references and justify those retained. Preserve earlier approved text, chronology, technical accuracy and all previous directives. No fixed maximum or automatic deletion of time references.

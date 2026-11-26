@@ -27,3 +27,5 @@ Write actual private draft, not a prompt to another author. Use accessible writi
 
 ## Output
 Private draft.md with clear scene boundaries, no editorial apparatus inside the story. Pass to tld-editorial-review and tld-originality.
+
+AD-0009: apply the selective narrative-time rule in 02_STYLE_BIBLE/STYLE.md. Keep the detailed schedule private; use explicit times or durations only for a justified reader-facing purpose. Prefer natural action and causal transitions over repeated clock readings or minute-by-minute reportage. Preserve timing-dependent rules, stakes and necessary orientation.

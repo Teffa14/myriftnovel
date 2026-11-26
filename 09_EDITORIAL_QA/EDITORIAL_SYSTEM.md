@@ -20,3 +20,6 @@ Use [editorial controls](../01_RESEARCH/REFERENCE_LIBRARY/works/WNG/EDITORIAL_ME
 
 ## Mandatory serial-quality review
 Apply [SERIAL_QUALITY_PROTOCOL.md](SERIAL_QUALITY_PROTOCOL.md) to each candidate and rolling arc before editorial acceptance. This extends the existing rubric; G1–G6 and explicit approval remain unchanged. Maintain the detailed pilot/payoff map privately and distinguish editorial hypotheses from observed reader response.
+
+## AD-0009 — Temporal narration review
+Apply the selective-time rule in ../02_STYLE_BIBLE/STYLE.md to every candidate and revision. Inspect exact clock references (digits and words), precise durations, clock-check actions and repeated time-led paragraph openings. Record their location and reader-facing function privately; retain references necessary for causality, stakes, technical accuracy or orientation. Repair clusters that turn prose into a chronological report by integrating action or removing redundant temporal markers. Confirm timeline and knowledge continuity after edits. A count is a diagnostic, not a quality score or a mandatory maximum. Do not alter approved prose.

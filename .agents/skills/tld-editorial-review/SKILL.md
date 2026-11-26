@@ -26,3 +26,5 @@ Run tld-originality on final candidate, rerun affected checks after edits, and r
 Private editorial_review.md, clean chapter_final.md candidate, exact-byte metrics, revision diff, qa_report.md, explicit unresolved issues, and review verdict. Deliver complete chapter separately; do not automatically publish, approve or continue.
 
 AD-0007: apply the character-specific CD requirements and cross-character gates in 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md; record evidence and status for actual developments, justified omissions and deferred requirements. Preserve historical baseline scores, approved history and active private author directions.
+
+AD-0009: review temporal narration under 02_STYLE_BIBLE/STYLE.md and 09_EDITORIAL_QA/EDITORIAL_SYSTEM.md. Audit precise time references, spelled-out times, exact durations, clock-check repetition and time-led paragraph openings. Justify necessary anchors, revise redundant ones, and revalidate private chronology without changing approved prose. Counts are diagnostic only.
