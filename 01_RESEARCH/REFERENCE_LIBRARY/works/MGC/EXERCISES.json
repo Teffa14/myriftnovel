@@ -1,0 +1,58 @@
+[
+  {
+    "id": "MGC-E01",
+    "name": "Seat reversal",
+    "task": "Two players assign pressure/support roles, then reverse seats while holding deck contents fixed. Compare opening options and lost field exposure; no assumed first-turn rule.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E02",
+    "name": "Handoff test",
+    "task": "Use a hypothetical three-field state. Compare remaining in place versus withdrawal, considering the intervening opponent's choices and dated scoring constraints.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E03",
+    "name": "Distributed budget",
+    "task": "Give each partner abstract spending capacity of three units. A proposed development costs two each; a later defensive response needs two from one partner. Compare reserving resources versus symmetric spending; units are abstract, not Riftbound costs.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E04",
+    "name": "Archetype misread",
+    "task": "Opponents infer a narrow gear payoff from a revealed Legend. Track how the team changes sideboard coverage when they observe a conflicting public cue. No banned payoff used as current legal threat.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E05",
+    "name": "Shared accountability",
+    "task": "Two partners make different predictions about a threatening position. Write down their reasons before the result; review whether the outcome disproves either premise.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E06",
+    "name": "Clock checkpoint",
+    "task": "Compare a slow and fast plan at a hypothetical score deficit with limited time. Verify applicable tournament end procedure before using real scores.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E07",
+    "name": "Wording trap",
+    "task": "Build two abstract effects, one controller-limited and one ally-inclusive; test that each selects only the permitted objects. Do not treat invented effects as actual cards.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  },
+  {
+    "id": "MGC-E08",
+    "name": "Combo failure",
+    "task": "List a fragile team payoff's necessary conditions and remove one at a time; retain an independent fallback and record why a proposed route fails.",
+    "canon_status": "noncanon",
+    "status": "original_exercise_untested"
+  }
+]

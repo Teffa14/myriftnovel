@@ -1,0 +1,126 @@
+[
+  {
+    "id": "MGC-T01",
+    "pair": "Yi / Vex",
+    "historical_context": "Hartford first place (reported)",
+    "ban_flags": [
+      "Master Yi identity needs confirmation"
+    ],
+    "limitations": "Exact lists explicitly unavailable.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T02",
+    "pair": "Irelia / Sivir",
+    "historical_context": "Hartford fourth place (reported)",
+    "ban_flags": [],
+    "limitations": "Exact lists explicitly unavailable; independent-list approach reported via Discord.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T03",
+    "pair": "Yi / Yasuo",
+    "historical_context": "Vancouver winning pairing; 500+ tickets reported",
+    "ban_flags": [
+      "Master Yi, Wuju Bladesman (if intended PG Legend)",
+      "Star Spring",
+      "Emperor’s Dais (alternative)"
+    ],
+    "limitations": "Exact list unavailable; suggested shared core is not a complete inventory.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T04",
+    "pair": "Lucian / Miss Fortune",
+    "historical_context": "illustrative",
+    "ban_flags": [],
+    "limitations": "Text gives role concepts; image lists not inspected.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T05",
+    "pair": "Yi / Miss Fortune",
+    "historical_context": "historical Dazzling variant",
+    "ban_flags": [
+      "Master Yi, Wuju Bladesman (if intended PG Legend)",
+      "Dazzling Aurora",
+      "Emperor’s Dais"
+    ],
+    "limitations": "Alternative champions and conditional roles; no certified inventory.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T06",
+    "pair": "LeBlanc / Yasuo",
+    "historical_context": "illustrative aggressive/Hook variants",
+    "ban_flags": [
+      "Baited Hook (Hook variant)"
+    ],
+    "limitations": "Historical role split; all referenced interactions pending.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T07",
+    "pair": "Rengar / Kha'Zix",
+    "historical_context": "Vancouver specialist placements reported",
+    "ban_flags": [],
+    "limitations": "No exact tournament inventories in text.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T08",
+    "pair": "Ivern / Lux",
+    "historical_context": "illustrative infinite combo",
+    "ban_flags": [],
+    "limitations": "Combo prerequisites and loop execution absent.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T09",
+    "pair": "Rengar / Miss Fortune",
+    "historical_context": "illustrative bait-and-switch",
+    "ban_flags": [
+      "Dazzling Aurora (opponent's historical expectation, explicitly absent from proposed deck)"
+    ],
+    "limitations": "Rengar specialist list attribution reported; no full list.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T10",
+    "pair": "Sett / Lee Sin",
+    "historical_context": "illustrative",
+    "ban_flags": [],
+    "limitations": "Role notes only.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T11",
+    "pair": "Yi / Fiora",
+    "historical_context": "illustrative",
+    "ban_flags": [
+      "Master Yi, Wuju Bladesman (if intended PG Legend)"
+    ],
+    "limitations": "No exact Legend printing/list certification.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  },
+  {
+    "id": "MGC-T12",
+    "pair": "Ornn / Azir",
+    "historical_context": "illustrative",
+    "ban_flags": [],
+    "limitations": "Gear-sharing claim requires effective text.",
+    "status": "historical_unverified",
+    "current_legal_list": false
+  }
+]

@@ -1,0 +1,246 @@
+{
+  "source": "User-supplied Markdown; JohnPanio, Magma Chamber guide (self-attributed); exact title/date not supplied",
+  "ingest_date": "2026-11-25",
+  "bytes": 65526,
+  "sha256": "f1b69752f5c623bbe99f60ff5d059e0f961185ff54484cdb325f26c8abfca275",
+  "lines": 1138,
+  "raw_word_tokens": 11718,
+  "raw_distinct_forms": 1773,
+  "raw_blocks": 398,
+  "clean_word_tokens": 10269,
+  "clean_distinct_forms": 1633,
+  "clean_blocks": 348,
+  "image_links": 50,
+  "method": "Python UTF-8; raw Unicode alphabetic tokens with internal apostrophe/hyphen, links included (AKH-compatible); cleaned ASCII alphanumeric tokens with internal apostrophe/hyphen after removing full-screen image-link lines and HTTP URLs; lowercase; blank-line blocks; ## heading section boundaries. Different tokenizers, not directly interchangeable. All supplied prose considered; no linked images read.",
+  "units": [
+    {
+      "id": "MGC-U01",
+      "section": "Introduction",
+      "start": 1,
+      "end": 30,
+      "clean_word_tokens": 341,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U02",
+      "section": "Ban list",
+      "start": 31,
+      "end": 46,
+      "clean_word_tokens": 20,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U03",
+      "section": "Format comparison",
+      "start": 47,
+      "end": 102,
+      "clean_word_tokens": 546,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U04",
+      "section": "Construction",
+      "start": 103,
+      "end": 152,
+      "clean_word_tokens": 552,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U05",
+      "section": "Metagame",
+      "start": 153,
+      "end": 186,
+      "clean_word_tokens": 531,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U06",
+      "section": "Setup",
+      "start": 187,
+      "end": 241,
+      "clean_word_tokens": 448,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U07",
+      "section": "Advanced concepts",
+      "start": 242,
+      "end": 313,
+      "clean_word_tokens": 1099,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U08",
+      "section": "Card recommendations",
+      "start": 314,
+      "end": 479,
+      "clean_word_tokens": 180,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U09",
+      "section": "FAQ",
+      "start": 480,
+      "end": 555,
+      "clean_word_tokens": 1041,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U10",
+      "section": "Closing",
+      "start": 556,
+      "end": 607,
+      "clean_word_tokens": 497,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U11",
+      "section": "Hartford Yi/Vex",
+      "start": 608,
+      "end": 633,
+      "clean_word_tokens": 24,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U12",
+      "section": "Hartford Irelia/Sivir",
+      "start": 634,
+      "end": 663,
+      "clean_word_tokens": 78,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U13",
+      "section": "Yi/Yasuo",
+      "start": 664,
+      "end": 753,
+      "clean_word_tokens": 1526,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U14",
+      "section": "Lucian/MF",
+      "start": 754,
+      "end": 785,
+      "clean_word_tokens": 47,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U15",
+      "section": "Yi/MF",
+      "start": 786,
+      "end": 837,
+      "clean_word_tokens": 758,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U16",
+      "section": "LeBlanc/Yasuo",
+      "start": 838,
+      "end": 905,
+      "clean_word_tokens": 1021,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U17",
+      "section": "Rengar/Kha'Zix",
+      "start": 906,
+      "end": 939,
+      "clean_word_tokens": 171,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U18",
+      "section": "Ivern/Lux",
+      "start": 940,
+      "end": 971,
+      "clean_word_tokens": 114,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U19",
+      "section": "Rengar/MF",
+      "start": 972,
+      "end": 1047,
+      "clean_word_tokens": 1008,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U20",
+      "section": "Sett/Lee Sin",
+      "start": 1048,
+      "end": 1077,
+      "clean_word_tokens": 79,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U21",
+      "section": "Yi/Fiora",
+      "start": 1078,
+      "end": 1113,
+      "clean_word_tokens": 123,
+      "coverage": "supplied_text_only"
+    },
+    {
+      "id": "MGC-U22",
+      "section": "Ornn/Azir",
+      "start": 1114,
+      "end": 1138,
+      "clean_word_tokens": 65,
+      "coverage": "supplied_text_only"
+    }
+  ],
+  "counts": {
+    "mechanism_entries": 30,
+    "team_contexts": 12,
+    "exercises": 8,
+    "rule_claim_groups": 9,
+    "structural_checks": 11
+  },
+  "checks": [
+    {
+      "id": "unit_count",
+      "pass": true
+    },
+    {
+      "id": "unit_ranges",
+      "pass": true
+    },
+    {
+      "id": "clean_token_sum",
+      "pass": true
+    },
+    {
+      "id": "mechanism_ids",
+      "pass": true
+    },
+    {
+      "id": "mechanism_fields",
+      "pass": true
+    },
+    {
+      "id": "team_count",
+      "pass": true
+    },
+    {
+      "id": "team_ids",
+      "pass": true
+    },
+    {
+      "id": "no_legal_deck_claim",
+      "pass": true
+    },
+    {
+      "id": "exercise_ids",
+      "pass": true
+    },
+    {
+      "id": "noncanon_exercises",
+      "pass": true
+    },
+    {
+      "id": "catalog_new_id",
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "MGC-M01",
+    "level": "L3",
+    "name": "Team objective versus local gain",
+    "source_lines": "47–102,242–313",
+    "structure": "Compare a personal scoring or development action against partner's next attainable route.",
+    "conditions": "A local hold could block a more valuable allied conquest.",
+    "failure_case": "Partner may be unable to take the open field; opponent can exploit vacancy.",
+    "related_ids": [
+      "OUT-M11"
+    ],
+    "original_exercise_seed": "In practice, ask whether protecting a lead on one field makes the other player's next turn worse.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M02",
+    "level": "L3",
+    "name": "Complementary deck architecture",
+    "source_lines": "103–152,664–753",
+    "structure": "Allocate proactive threats and flexible support across two inventories; measure shared coverage.",
+    "conditions": "Partners have distinct roles and adequate independent fallbacks.",
+    "failure_case": "Both decks rely on the other's missing opening piece.",
+    "related_ids": [
+      "AKH-M03"
+    ],
+    "original_exercise_seed": "A tester replaces one redundant defensive slot with a threat that works when the partner misses development.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M03",
+    "level": "L3",
+    "name": "Asymmetric development horizon",
+    "source_lines": "103–152,786–837,1114–1138",
+    "structure": "Early player maintains scoring access until partner's later payoff becomes viable.",
+    "conditions": "Bridge duration fits actual remaining clock and score.",
+    "failure_case": "Delayed payoff arrives after the match is effectively lost.",
+    "related_ids": [
+      "OUT-M06"
+    ],
+    "original_exercise_seed": "The pair compares a three-turn setup with a faster route while already behind.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M04",
+    "level": "L3",
+    "name": "Joint resource reservation",
+    "source_lines": "103–152,480–555,664–753",
+    "structure": "Maintain separate budgets and map partner-turn reaction windows before spending.",
+    "conditions": "Relevant effects and timing verified; players agree which threats justify expenditure.",
+    "failure_case": "Reserving everything sacrifices development; spending everything leaves no response.",
+    "related_ids": [
+      "RNG-M44"
+    ],
+    "original_exercise_seed": "One player asks how much interaction remains if both spend on development.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M05",
+    "level": "L3",
+    "name": "Multi-opponent answer efficiency",
+    "source_lines": "103–152,314–479",
+    "structure": "Assess an answer by distribution of valid targets across both opposing boards.",
+    "conditions": "Target scope and conditions checked against effective card text.",
+    "failure_case": "An effect counts only the caster's opponent or excludes a target.",
+    "related_ids": [
+      "MAC-M16"
+    ],
+    "original_exercise_seed": "Compare two independent single-target answers with one conditional wider answer; check who pays and what is actually affected.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M06",
+    "level": "L3",
+    "name": "Seat assignment as construction input",
+    "source_lines": "187–241,242–313,838–905",
+    "structure": "Choose role order after modeling opening resource asymmetry and early curve.",
+    "conditions": "Correct first-turn rules for event and version.",
+    "failure_case": "A favorable opening comes at the cost of losing a key battlefield.",
+    "related_ids": [
+      "AKH-M20"
+    ],
+    "original_exercise_seed": "Two partners test the same decks from reversed seats.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M07",
+    "level": "L3",
+    "name": "Battlefield sacrifice allocation",
+    "source_lines": "47–102,187–241,664–753",
+    "structure": "Distribute essential fields toward seats less likely to lose their selection.",
+    "conditions": "Unique field constraints and actual setup rules verified.",
+    "failure_case": "Opponent determines a different order or the random field is unfavorable.",
+    "related_ids": [
+      "RNG-M30"
+    ],
+    "original_exercise_seed": "The duo compares packages under every possible removed-field seat.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M08",
+    "level": "L3",
+    "name": "Pre-game sideboard coordination",
+    "source_lines": "187–241,972–1047",
+    "structure": "Interpret revealed opposing Legends; allocate scarce answer slots jointly before hidden deck contents are known.",
+    "conditions": "BO1 sideboard procedure applicable.",
+    "failure_case": "Public signals are ambiguous or the relevant counter is redundant.",
+    "related_ids": [
+      "RNG-M33"
+    ],
+    "original_exercise_seed": "One teammate covers equipment while the other retains pressure instead of both overboarding.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M09",
+    "level": "L3",
+    "name": "False archetype prior",
+    "source_lines": "242–313,972–1047",
+    "structure": "Choose a legitimate deck whose public identity suggests another threat; exploit incorrect opponent preparation.",
+    "conditions": "No illegal deception; opponent prior is an estimate.",
+    "failure_case": "Opponents keep broad answers or correctly identify the list.",
+    "related_ids": [
+      "RNG-M51"
+    ],
+    "original_exercise_seed": "A practice opponent brings narrow interaction for a payoff absent from the registered list.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M10",
+    "level": "L3",
+    "name": "Evidence-driven belief revision",
+    "source_lines": "972–1047",
+    "structure": "Update archetype hypotheses as observed actions diverge from initial assumptions.",
+    "conditions": "Observe public plays; maintain several explanations.",
+    "failure_case": "A single unusual card is overinterpreted.",
+    "related_ids": [
+      "RNG-M50"
+    ],
+    "original_exercise_seed": "An opponent sees an unexpected early unit and revises, rather than discards, the original read.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M11",
+    "level": "L3",
+    "name": "Ally information partition",
+    "source_lines": "47–102,480–555",
+    "structure": "Separate team-private hand knowledge from opponent-visible state; combine only permitted information.",
+    "conditions": "Sharing permitted at event; knowledge acquired explicitly.",
+    "failure_case": "A viewpoint character knows a card never shown to them.",
+    "related_ids": [
+      "AKH-M32"
+    ],
+    "original_exercise_seed": "A player asks whether their partner actually has protection before taking a risk.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M12",
+    "level": "L3",
+    "name": "Ownership wording boundary",
+    "source_lines": "242–313,480–555",
+    "structure": "Distinguish team-relative effects from effects limited to an object's controller.",
+    "conditions": "Exact current wording and errata checked.",
+    "failure_case": "The planned synergy depends on the wrong controller.",
+    "related_ids": [
+      "RNG-M53"
+    ],
+    "original_exercise_seed": "Two testers discover their proposed interaction does not extend to an allied object.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M13",
+    "level": "L3",
+    "name": "Support authorization and timing",
+    "source_lines": "47–102,480–555",
+    "structure": "Coordinate legal response opportunities before a teammate commits to action.",
+    "conditions": "Priority, focus, timing and costs checked.",
+    "failure_case": "Assistance is assumed without a legal window or available resources.",
+    "related_ids": [
+      "RNG-M52"
+    ],
+    "original_exercise_seed": "A player asks for a response window before committing the next action.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M14",
+    "level": "L3",
+    "name": "Occupation versus scoring access",
+    "source_lines": "242–313,480–555",
+    "structure": "Separate current board occupancy, control history and next legal scoring opportunity.",
+    "conditions": "Apply dated scoring rules and intervening opposing actions.",
+    "failure_case": "Withdrawal fails to create a legal score or hands initiative to opponents.",
+    "related_ids": [
+      "AKH-M27"
+    ],
+    "original_exercise_seed": "Construct two conditional routes through the same field and verify legal scoring separately.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M15",
+    "level": "L3",
+    "name": "Handoff risk",
+    "source_lines": "242–313",
+    "structure": "Release control only after evaluating opponent intervention and allied arrival.",
+    "conditions": "Partner can reach the field, and opponent has independent choices.",
+    "failure_case": "Opponent takes or reinforces it before ally's turn.",
+    "related_ids": [
+      "OUT-M10"
+    ],
+    "original_exercise_seed": "The team rehearses the rival's strongest response to a proposed handoff.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M16",
+    "level": "L3",
+    "name": "Alternative finish routes",
+    "source_lines": "480–555,664–753",
+    "structure": "Keep multiple conditional scoring endpoints credible instead of relying on one finisher.",
+    "conditions": "Final-point conditions, timing and exact effects verified.",
+    "failure_case": "All alternatives share the same vulnerable prerequisite.",
+    "related_ids": [
+      "OUT-M03"
+    ],
+    "original_exercise_seed": "Compare a defensive hold route with a multi-field route at the same near-win score.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M17",
+    "level": "L3",
+    "name": "Clock-conditioned archetype fit",
+    "source_lines": "153–186,242–313",
+    "structure": "Evaluate setup length and pace against event timing and scoring margin.",
+    "conditions": "Dated time-out policy and actual remaining time.",
+    "failure_case": "Fast pressure sacrifices too much resilience; clock policy differs.",
+    "related_ids": [
+      "OUT-M07"
+    ],
+    "original_exercise_seed": "At a practice checkpoint the duo must choose development or immediate scoring.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M18",
+    "level": "L3",
+    "name": "Time-efficient communication",
+    "source_lines": "242–313,480–555",
+    "structure": "Agree on short decision requests, independent responsibilities and stop conditions.",
+    "conditions": "Event communication and slow-play rules respected.",
+    "failure_case": "Discussion consumes time without improving the decision.",
+    "related_ids": [
+      "MAC-M18"
+    ],
+    "original_exercise_seed": "Test a single question for shared decisions instead of debating every routine action.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M19",
+    "level": "L3",
+    "name": "Disagreement under joint liability",
+    "source_lines": "242–313",
+    "structure": "Expose different assumptions, choose an action, share outcome and review evidence.",
+    "conditions": "Both partners retain independent judgment.",
+    "failure_case": "One person controls every decision or blames the other solely because of result.",
+    "related_ids": [
+      "OUT-M20"
+    ],
+    "original_exercise_seed": "Partners disagree about holding a reserve and compare pre-action assumptions afterward.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M20",
+    "level": "L3",
+    "name": "Attention allocation",
+    "source_lines": "242–313",
+    "structure": "Divide awareness of own board, partner's requests and rival threat windows.",
+    "conditions": "Each player maintains their own state and responsibilities.",
+    "failure_case": "Over-monitoring partner causes missed actions or overlooked resources.",
+    "related_ids": [
+      "MAC-M05"
+    ],
+    "original_exercise_seed": "A teammate who is asked for help checks their own remaining plan before responding.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M21",
+    "level": "L3",
+    "name": "Cross-player mobility support",
+    "source_lines": "664–753,754–785,838–905",
+    "structure": "Use a support role to alter the ally's available positional routes.",
+    "conditions": "Exact ability scope, targets and movement restrictions confirmed.",
+    "failure_case": "Support cannot legally move the object or cannot pay the cost.",
+    "related_ids": [
+      "AKH-M13"
+    ],
+    "original_exercise_seed": "In an abstract rehearsal, compare direct development with supported repositioning.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M22",
+    "level": "L3",
+    "name": "Pressure-protection role split",
+    "source_lines": "664–753,906–939",
+    "structure": "Proactive pilot creates threats; partner uses independently viable protection or recovery.",
+    "conditions": "Threats are real and protection remains legal and affordable.",
+    "failure_case": "The threat player overextends because protection is presumed.",
+    "related_ids": [
+      "OUT-M16"
+    ],
+    "original_exercise_seed": "One partner presents a threat and the other names the specific response class they can cover.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M23",
+    "level": "L3",
+    "name": "Early engine versus wipe exposure",
+    "source_lines": "838–905,940–971",
+    "structure": "Compare value of sustained engine with vulnerability to common broad disruption.",
+    "conditions": "Actual cards and opposition confirmed.",
+    "failure_case": "Overinvestment makes a single reset decisive.",
+    "related_ids": [
+      "AKH-M12"
+    ],
+    "original_exercise_seed": "A duo compares holding one strong position against spreading into two.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M24",
+    "level": "L3",
+    "name": "Independent list quality fallback",
+    "source_lines": "634–663",
+    "structure": "Prefer robust independent plans when elaborate cooperation is unreliable.",
+    "conditions": "Pair remains legal and collectively covers plausible threats.",
+    "failure_case": "Independent strong decks conflict over objectives or fields.",
+    "related_ids": [
+      "RNG-M02"
+    ],
+    "original_exercise_seed": "Two players compare a simple good-stuff pairing against a synergy-dependent build.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M25",
+    "level": "L3",
+    "name": "Shared payoff multiplication",
+    "source_lines": "1078–1138",
+    "structure": "Evaluate team-wide bonuses and shared payoff conditions before construction.",
+    "conditions": "Effective card text actually reaches allied objects.",
+    "failure_case": "Assumed cross-player bonus only applies to own units.",
+    "related_ids": [
+      "AKH-M03"
+    ],
+    "original_exercise_seed": "Test an otherwise marginal piece with and without a verified allied payoff.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M26",
+    "level": "L3",
+    "name": "Dependency concentration",
+    "source_lines": "940–971,786–837",
+    "structure": "One pilot protects a fragile combo while the other supplies required pieces.",
+    "conditions": "Disruption and clock costs considered; exact loop verified.",
+    "failure_case": "One targeted interruption invalidates both players' plans.",
+    "related_ids": [
+      "OUT-M04"
+    ],
+    "original_exercise_seed": "A team lists which single missing prerequisite makes the entire strategy fail.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M27",
+    "level": "L3",
+    "name": "Conditional resource recovery",
+    "source_lines": "972–1047",
+    "structure": "Compare recurring resource recovery with immediate expenditure across future joint actions.",
+    "conditions": "Exact recovery limits verified.",
+    "failure_case": "Engine is removed or recursion cannot reach the required card.",
+    "related_ids": [
+      "RNG-M40"
+    ],
+    "original_exercise_seed": "A support pilot chooses whether to save a recovery option for a later contested turn.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M28",
+    "level": "L3",
+    "name": "Prize-driven format selection",
+    "source_lines": "1–30,556–607",
+    "structure": "Separate event reward incentives from learning, entry cost and enjoyment.",
+    "conditions": "Prize structure and attendance verified independently.",
+    "failure_case": "Anecdotal ticket payouts treated as expected profit.",
+    "related_ids": [
+      "AKH-M22"
+    ],
+    "original_exercise_seed": "A pair decides whether a side event is worth entering after checking posted rewards.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M29",
+    "level": "L3",
+    "name": "Judge consultation as team skill",
+    "source_lines": "242–313,480–555",
+    "structure": "Resolve scope uncertainty through official sources and judge procedure before relying on the interaction.",
+    "conditions": "No invented ruling or penalties.",
+    "failure_case": "Players treat an informal opinion as authority.",
+    "related_ids": [
+      "RNG-M53"
+    ],
+    "original_exercise_seed": "A practice pair marks a disputed interaction unresolved until a judge or official text settles it.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  },
+  {
+    "id": "MGC-M30",
+    "level": "L3",
+    "name": "Post-match counterfactual review",
+    "source_lines": "242–313",
+    "structure": "Identify earliest decision that changed the available team route; compare alternatives with known information.",
+    "conditions": "Record both viewpoints and avoid outcome bias.",
+    "failure_case": "Loss is blamed on the most visible final action without checking prerequisites.",
+    "related_ids": [
+      "OUT-M21"
+    ],
+    "original_exercise_seed": "Partners replay the decision where their resource plans first diverged.",
+    "status": "candidate_refinement_untested",
+    "novelty": "Related mechanism; team-format extension, not independently certified."
+  }
+]

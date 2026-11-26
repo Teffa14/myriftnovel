@@ -1,0 +1,2 @@
+# MGC — Magma Chamber (JohnPanio)
+Undated historical 2v2 strategy guide; supplied Markdown only. 10,269 cleaned tokens; 11,718 raw lexical tokens; 22 sections, 30 linked candidate refinements, 12 pairing contexts, eight exercises, nine rule-claim groups. All 50 linked images uninspected. See ANALYSIS.md, MECHANISMS.json, TEAM_CONTEXTS.json, RULE_AUDIT.json, EXERCISES.json, METRICS.json and QA.md. No full list, replay, verified tournament placement or current deck legality certified.

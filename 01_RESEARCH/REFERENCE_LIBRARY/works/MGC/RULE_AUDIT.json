@@ -1,0 +1,58 @@
+[
+  {
+    "claim": "Shared 11-point target",
+    "status": "guide_claim; official quickstart corroborates general target",
+    "source_lines": "47–102",
+    "limit": "Exact scoring still requires current Core Rules."
+  },
+  {
+    "claim": "Final-point and scoring eligibility",
+    "status": "version_conflict_risk",
+    "source_lines": "47–102,242–313,480–555",
+    "official": "https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/",
+    "limit": "October 16 clarification applies special rules during own or ally turn, not opponent turn. No full trace certified."
+  },
+  {
+    "claim": "Opening turn order and rune compensation",
+    "status": "pending_exact_core_rules",
+    "source_lines": "187–241",
+    "limit": "Prose calls last player the second player; 50 image links uninspected, including opening resource chart."
+  },
+  {
+    "claim": "Shared hand knowledge; priority; own/friendly distinction",
+    "status": "partially_corroborated_wording_principle",
+    "source_lines": "47–102,480–555",
+    "official": "https://playriftbound.com/en-us/news/announcements/core-rules-radiance-patch-notes-effective-october-16-2026/",
+    "limit": "Patch's friendly versus your Legend example supports controller distinction; exact priority/action cases pending."
+  },
+  {
+    "claim": "BO1 sideboarding, setup and six distinct fields",
+    "status": "pending_current_tournament_and_core_rules",
+    "source_lines": "47–102,187–241",
+    "limit": "Historical description, not a current complete setup certification."
+  },
+  {
+    "claim": "Time-out point margin and additional turns",
+    "status": "pending_current_tournament_rules",
+    "source_lines": "480–555",
+    "limit": "Do not use in narration until event-specific current policy checked."
+  },
+  {
+    "claim": "Prize splitting and concession",
+    "status": "pending_current_policy",
+    "source_lines": "480–555",
+    "limit": "No advice to arrange match outcomes; distinguish event policy from anecdote."
+  },
+  {
+    "claim": "Current 2v2 bans",
+    "status": "official_hub_checked",
+    "official": "https://playriftbound.com/en-us/rules-hub/",
+    "limit": "Wuju Bladesman (not both Yi Legends), Aurora, Baited Hook, Star Spring, Emperor’s Dais are prohibited as of November 23."
+  },
+  {
+    "claim": "Yasuo strength",
+    "status": "official_general_observation",
+    "official": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
+    "limit": "Riot reports concern and monitoring; no measured win rate supplied."
+  }
+]
