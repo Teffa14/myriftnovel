@@ -67,3 +67,6 @@ Consult [Majuri analysis](../REFERENCE_LIBRARY/works/MAJ/ANALYSIS.md) and [candi
 
 ## Slice-of-life integration — AD-0008
 Use 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md for ordinary game-community experiences, collecting, trades, casual play, shared meals, conversations and social outings. Give regulars independent motives and room for ordinary pleasure. No requirement that a casual exchange become a lesson, a conflict or a clue. Verify consequential factual claims, preserve original fictional voices and avoid forced background insertions.
+
+## November 27 discourse update
+Consult [DISCOURSE_INDEX.md](DISCOURSE_INDEX.md) and [DISCOURSE_2026-11-27.json](DISCOURSE_2026-11-27.json) before relevant social scenes. Distinguish dated official announcements, player hopes, subjective experiences, forecast disagreement and creator metadata. Select independent motives from the CULT records and invent fresh fictional situations and language rather than pasting examples. Give characters differing attitudes about future sets, prizing, rotation, judges, store access, collectors and casual play. Preserve AD-0008 and LPM 1.0: chatter need not create a plot event or teach a lesson. Verify date/region/format whenever factual claims affect events. Earlier snapshot remains available; neither sample is representative.

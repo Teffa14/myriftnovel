@@ -1,0 +1,1082 @@
+{
+  "snapshot": "2026-11-27",
+  "scope": "Purposive public web research for fiction. Some indexed pages and feed snapshots predate retrieval. No population prevalence, no authenticated social APIs, no private Discord or Facebook access, no direct X comment access, no YouTube comment corpus. No verbatim comments, account handles, real-person profiles or images stored. Crossposts and reactions to the same announcement are not independent events. No raw-content hash because original page bytes not acquired.",
+  "reddit": [
+    {
+      "id": "COM-025",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1s6fz7a/1h_timer_feels_rough_with_slow_play/",
+      "topic": "pace",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A casual player feels awkward asking opponents to speed up; replies argue that long games can disadvantage slower strategies under time pressure.",
+      "tags": [
+        "local pace",
+        "social discomfort",
+        "control decks"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-026",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wrak6y/rant_rq_la_slow_play_enforcement/",
+      "topic": "judging",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A reported regional experience raises questions about extensions and inconsistent pace enforcement; this is a perception, not a finding of misconduct.",
+      "tags": [
+        "judge consistency",
+        "time extensions"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-027",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1rta9va/can_we_talk_about_game_lengthtime_rules_being_a/",
+      "topic": "pace",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "Players complain that lengthy rounds and extensions can make events exhausting even when neither player intentionally delays.",
+      "tags": [
+        "round length",
+        "fatigue"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-028",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1u116hj/help_for_rq_from_what_point_is_it_fair_to_call_a/",
+      "topic": "judging",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A newer player asks how to request pace enforcement without being rude; replies distinguish simple positions from complicated turns.",
+      "tags": [
+        "judge calls",
+        "etiquette",
+        "complexity"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-029",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1po8fiw/can_we_limit_posts_about_box_pricescard_prices/",
+      "topic": "online discourse",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "Some community members are tired of repeated pricing complaints and want more gameplay conversation; affordability remains important to others.",
+      "tags": [
+        "forum fatigue",
+        "accessibility"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-030",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1r57tse/is_something_weird_happening_with_prices/",
+      "topic": "market",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player asks why single prices fall rapidly around release; replies discuss purchases and prerelease pricing rather than establishing a reliable forecast.",
+      "tags": [
+        "price discovery",
+        "preorder risk"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-031",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xvbsdi/bans_are_here/",
+      "topic": "bans",
+      "published_date": "2026-11-13",
+      "accessed_date": "2026-11-27",
+      "observation": "Some welcome the ban package while others discuss unexpected losses and purple Riven alternatives. It reflects initial reactions, not post-effective performance.",
+      "tags": [
+        "collateral bans",
+        "brewing",
+        "relief"
+      ],
+      "coverage": "post and indexed comment excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-032",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1vwtlzm/heres_the_you_barcelona_regional_qualifier/",
+      "topic": "venue",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A dissatisfied attendee describes heat, congestion and event organization problems. Allegations and attendance estimates are unverified.",
+      "tags": [
+        "venue comfort",
+        "logistics",
+        "expectations"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-033",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xsvfwu/radiance_kinda_killed_nexusnights_at_my_area/",
+      "topic": "attendance",
+      "published_date": "2026-11-10",
+      "accessed_date": "2026-11-27",
+      "observation": "Reported local attendance decline prompts competing explanations: format dissatisfaction, lack of accessible major events, unappealing promos and competing hobbies. Other stores may differ.",
+      "tags": [
+        "participation",
+        "burnout",
+        "competing leisure"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-034",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xflz2z/radiance_meta_tldr/",
+      "topic": "metagame",
+      "published_date": "2026-10-26",
+      "accessed_date": "2026-11-27",
+      "observation": "Irelia versus Riven discussion mixes incentive changes, power claims and a warning that early tournament samples are too small for sweeping conclusions.",
+      "tags": [
+        "sample size",
+        "deck switching"
+      ],
+      "coverage": "indexed comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-035",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xvh7kc/ban_cards_by_set/",
+      "topic": "balance",
+      "published_date": "2026-11-13",
+      "accessed_date": "2026-11-27",
+      "observation": "Commenters debate early-set power and design learning, comparing Riftbound with older TCGs; manufacturing and design timing claims require independent evidence.",
+      "tags": [
+        "Origins power",
+        "design maturity"
+      ],
+      "coverage": "indexed comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-036",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1x9he5t/end_of_year_discussion_and_thoughts_wishes_for/",
+      "topic": "expansions",
+      "published_date": "2026-10-18",
+      "accessed_date": "2026-11-27",
+      "observation": "Fans propose cross-set mechanic support, new chosen champion options for existing legends, clearer domain identities, stronger distinct strategies and possible transformation mechanics. These are wishes, not announced cards.",
+      "tags": [
+        "Legacy hopes",
+        "XP",
+        "Empower",
+        "Ambush",
+        "Flow",
+        "gear",
+        "domain identity"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-037",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xgkin3/why_did_irelia_and_yi_become_offmeta_in_radiance/",
+      "topic": "prizing",
+      "published_date": "2026-10-27",
+      "accessed_date": "2026-11-27",
+      "observation": "Players argue over whether deck popularity reflects competitive strength or best-of rewards; some sympathize with players who need money.",
+      "tags": [
+        "metal rewards",
+        "incentives",
+        "metagame interpretation"
+      ],
+      "coverage": "indexed post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-038",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1u2lunb/my_area_is_getting_less_players_as_weeks_come_by/",
+      "topic": "attendance",
+      "published_date": "2026-06-11",
+      "accessed_date": "2026-11-27",
+      "observation": "A local group reportedly shrank while complexity and time commitment increased. The author enjoys greater variety but finds lengthy matches tiring.",
+      "tags": [
+        "time investment",
+        "alternative TCGs",
+        "diversity"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-039",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wl6ia5/now_might_be_a_good_time_to_take_a_break_at_least/",
+      "topic": "metagame",
+      "published_date": "2026-09-20",
+      "accessed_date": "2026-11-27",
+      "observation": "A player considers a break despite a good event finish because repeated Aurora games feel uninteractive; replies distinguish winning incentives from enjoyment.",
+      "tags": [
+        "historical Vendetta frustration",
+        "repetition"
+      ],
+      "coverage": "indexed post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-040",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1vltlm2/new_player_worried_about_expiring_decks/",
+      "topic": "rotation",
+      "published_date": "2026-08-11",
+      "accessed_date": "2026-11-27",
+      "observation": "A newcomer who prefers committing to one deck worries that planned rotation will invalidate purchases. Questions reveal confusion between formats and collection longevity.",
+      "tags": [
+        "attachment",
+        "rotation anxiety",
+        "budget"
+      ],
+      "coverage": "opened post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-041",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wgmhtd/game_director_dave_guskin_talks_about_todays_ban/",
+      "topic": "ban timing",
+      "published_date": "2026-09-15",
+      "accessed_date": "2026-11-27",
+      "observation": "A discussion relaying developer statements calls for predictable ban windows and notes that even cheap bans can affect expensive supporting cards.",
+      "tags": [
+        "announcement timing",
+        "indirect price effects"
+      ],
+      "coverage": "indexed excerpts; developer remarks relayed, not direct X verification",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-042",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xyv309/who_checks_products_and_websites_at_riftbound/",
+      "topic": "quality control",
+      "published_date": "2026-11-17",
+      "accessed_date": "2026-11-27",
+      "observation": "A reported accessory printing issue prompts criticism of fulfillment and card gallery accuracy. The report is not independent verification of the specific issue.",
+      "tags": [
+        "QC",
+        "translation",
+        "community tools"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-043",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xijkcq/patience_always_pays_off_radiance_finally_at/",
+      "topic": "collecting",
+      "published_date": "2026-10-29",
+      "accessed_date": "2026-11-27",
+      "observation": "Collectors debate waiting for lower sealed prices and the appeal of Radiance premium artwork; opinions differ by favored champion and music theme.",
+      "tags": [
+        "art taste",
+        "sealed price",
+        "patience"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-044",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wh6mpi/post_ban_prices/",
+      "topic": "market",
+      "published_date": "2026-09-15",
+      "accessed_date": "2026-11-27",
+      "observation": "A player asks whether abrupt price collapses after a ban are normal for valuable cards. Reported prices are anecdotes, not current market data.",
+      "tags": [
+        "devaluation",
+        "risk"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-045",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xl4gse/playing_digital_matches_has_become_very_unfun/",
+      "topic": "digital",
+      "published_date": "2026-11-01",
+      "accessed_date": "2026-11-27",
+      "observation": "A player still likes paper locals but stops online practice because repetitive opponents and explosive draws make matches feel predetermined. This is a pre-ban snapshot.",
+      "tags": [
+        "online versus paper",
+        "variance",
+        "practice"
+      ],
+      "coverage": "opened post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-046",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wdic44/current_meta/",
+      "topic": "metagame",
+      "published_date": "2026-09-11",
+      "accessed_date": "2026-11-27",
+      "observation": "A local player reports prolonged matches against repeated Kennen decks and little perceived interaction; comments use competitive slang.",
+      "tags": [
+        "solitaire perception",
+        "local concentration"
+      ],
+      "coverage": "indexed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-047",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xlx7n6/an_update_on_the_future_of_riftbound_faq/",
+      "topic": "community tools",
+      "published_date": "2026-11-02",
+      "accessed_date": "2026-11-27",
+      "observation": "A fan FAQ maintainer describes collecting repeated rules questions and anticipating substantial work for Legacy's rules revision.",
+      "tags": [
+        "volunteer labor",
+        "documentation"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-048",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xl86e6/riftbound_could_use_more_casual_play/",
+      "topic": "casual formats",
+      "published_date": "2026-11-01",
+      "accessed_date": "2026-11-27",
+      "observation": "Participants want room for off-meta decks, draft or team play; others defend strong competitive decks and their contribution to stores. Opinions differ across communities.",
+      "tags": [
+        "casual-competitive divide",
+        "netdecking",
+        "formats"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-049",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xyysm4/went_to_my_first_skirmish_last_night_and_was/",
+      "topic": "event behavior",
+      "published_date": "2026-11-17",
+      "accessed_date": "2026-11-27",
+      "observation": "An attendee reports no-shows, delays, drops, a pairing problem and few actual matches despite a prize finish. Comments disagree on when dropping makes sense.",
+      "tags": [
+        "no-shows",
+        "prize farming",
+        "byes",
+        "belonging"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-050",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xg6pfq/are_the_legacy_rules_changes_going_to_change/",
+      "topic": "future rules",
+      "published_date": "2026-10-26",
+      "accessed_date": "2026-11-27",
+      "observation": "Players dispute whether the Legacy rules rewrite changes card behavior; replies distinguish rules clarity from balance errata but specific interactions remain unverified here.",
+      "tags": [
+        "rules literacy",
+        "speculation",
+        "card interactions"
+      ],
+      "coverage": "opened post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-051",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y0pljj/lgs_enforces_bans_earlier_in_skirmishes/",
+      "topic": "ban timing",
+      "published_date": "2026-11-20",
+      "accessed_date": "2026-11-27",
+      "observation": "A beginner reports skipping an event after stores applied forthcoming bans early, citing replacement access and lack of practice; other local players allegedly favored early adoption.",
+      "tags": [
+        "store policy",
+        "affordability",
+        "pre-effective testing"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-052",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y6eev0/how_have_people_found_akali_postban/",
+      "topic": "post-ban brewing",
+      "published_date": "2026-11-26",
+      "accessed_date": "2026-11-27",
+      "observation": "Akali players seek replacement lists after shared card losses. Some contemplate switching champions while others keep playing a favorite despite poor personal results.",
+      "tags": [
+        "Akali attachment",
+        "collateral damage",
+        "experimental lists"
+      ],
+      "coverage": "indexed post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-053",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y2yh9m/406_players_bologna_postban_tournament_top16/",
+      "topic": "post-ban forecasts",
+      "published_date": "2026-11-22",
+      "accessed_date": "2026-11-27",
+      "observation": "Commenters reassess predictions about Rengar after a reported tournament played with the new restrictions. The thread predates official effectiveness, so event scope and results need separate verification.",
+      "tags": [
+        "forecast error",
+        "Rengar",
+        "battlefield changes"
+      ],
+      "coverage": "indexed comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-054",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xvej1d/small_breakdown_now_that_the_new_wave_of_bans_are/",
+      "topic": "community analytics",
+      "published_date": "2026-11-13",
+      "accessed_date": "2026-11-27",
+      "observation": "A fan classifies announced bans by set, domain, type and rarity; this is an example of hobby analysis, not an independently validated count.",
+      "tags": [
+        "spreadsheets",
+        "ban patterns"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-055",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xs2aw2/davetron_confirms_riot_will_an_update_on_bans_on/",
+      "topic": "ban debate",
+      "published_date": "2026-11-09",
+      "accessed_date": "2026-11-27",
+      "observation": "Players debate whether previous restrictions addressed root causes or hurt other purple decks; anticipated announcements create disagreement before official news.",
+      "tags": [
+        "anticipation",
+        "collateral effects"
+      ],
+      "coverage": "indexed comments; reported developer remarks",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-056",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y0kgw7/postban_riven_suggestions/",
+      "topic": "learning",
+      "published_date": "2026-11-19",
+      "accessed_date": "2026-11-27",
+      "observation": "A newer player practicing anticipated post-ban Riven lists asks for help after losses; replies recommend studying sequencing and changing few slots at once.",
+      "tags": [
+        "pilot skill",
+        "community coaching",
+        "early testing"
+      ],
+      "coverage": "indexed post and comments",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-057",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1ql0kwd/you_are_doing_more_harm_than_anyhing_else/",
+      "topic": "online discourse",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A frustrated poster argues that constant supply and price complaints discourage newcomers and that practical budget advice gets drowned out. This is one side of a community argument.",
+      "tags": [
+        "negativity",
+        "onboarding",
+        "moderation"
+      ],
+      "coverage": "indexed post",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": false
+    },
+    {
+      "id": "COM-058",
+      "platform": "reddit",
+      "subreddit": "r/Riftbound",
+      "url": "https://www.reddit.com/r/Riftbound/comments/1xny5pf/kda_couture_facebook_groups_have_a_few_10s_to/",
+      "topic": "collector access",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A crossposted discussion criticizes resale offers following K/DA raffles and proposes alternative distribution. Facebook reports, bot claims and quantities were not independently verified.",
+      "tags": [
+        "raffles",
+        "FOMO",
+        "resale",
+        "fairness"
+      ],
+      "coverage": "opened thread and feed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": true
+    },
+    {
+      "id": "COM-059",
+      "platform": "reddit",
+      "subreddit": "r/Riftbound",
+      "url": "https://www.reddit.com/r/Riftbound/comments/1xnumff/what_are_your_top_5_cards_of_each_domain_you/",
+      "topic": "deckbuilding",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player asks which broadly useful cards beginners should prioritize and acknowledges limited experience and budget; the discussion illustrates disagreement about staples rather than a verified buying list.",
+      "tags": [
+        "domain staples",
+        "novice advice"
+      ],
+      "coverage": "opened thread and feed excerpts",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": true
+    },
+    {
+      "id": "COM-060",
+      "platform": "reddit",
+      "subreddit": "r/Riftbound",
+      "url": "https://www.reddit.com/r/Riftbound/comments/1xnv48q/getting_started/",
+      "topic": "couples and casual play",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A couple wants affordable physical decks that express their favorite champions rather than optimized competitive lists.",
+      "tags": [
+        "couples",
+        "theme decks",
+        "entry cost"
+      ],
+      "coverage": "subreddit feed post text only; thread open failed",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": true
+    },
+    {
+      "id": "COM-061",
+      "platform": "reddit",
+      "subreddit": "r/Riftbound",
+      "url": "https://www.reddit.com/r/Riftbound/comments/1xn9a70/bringing_the_pauper_format_to_riftbound/",
+      "topic": "budget formats",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A fan describes experimenting with bulk cards and offering low-cost introductory builds while still following serious competition. This is a community proposal, not official format policy.",
+      "tags": [
+        "bulk brewing",
+        "casual formats",
+        "volunteer effort"
+      ],
+      "coverage": "subreddit feed crosspost text only; thread open failed",
+      "evidence_type": "community discussion; qualitative, anecdotal or opinion; not representative or official",
+      "primary": true
+    }
+  ],
+  "context": [
+    {
+      "id": "CTX-001",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/products-and-sets-into-2027/",
+      "published_date": "2026-08-03",
+      "accessed_date": "2026-11-27",
+      "topic": "products",
+      "observation": "Published 2027 set previews and product plans; prior collectible promotions show multiple audiences. Treat projected products and dates as announcements, not guarantees.",
+      "coverage": "opened article",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-002",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/august-2026-roadmap/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "roadmap",
+      "observation": "August roadmap lists Legacy launch January 29 2027, Proving Grounds second edition February 19, and subsequent Reckoning plans. Some schedule entries appear inconsistent; recheck current official event pages before writing specific future events.",
+      "coverage": "opened article; dated schedule",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-003",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/august-2026-state-of-the-game/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "design and future",
+      "observation": "Riot discusses reusing selected mechanics when appropriate, developing new ways to play, exploring digital possibilities without an announcement, and future format support. Separate aspirations from launches.",
+      "coverage": "indexed substantial excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-004",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/organizedplay/riftbound-2027-local-play/",
+      "published_date": "2026-10-26",
+      "accessed_date": "2026-11-27",
+      "topic": "local play",
+      "observation": "Announced separate social and competitive reward tracks, Nexus Cups, Challenge Series and retirement of Summoner Skirmishes; exact effective dates and eligibility require separate checks.",
+      "coverage": "opened article",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-005",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/organizedplay/riftbound-2027-premier-play/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "premier play",
+      "observation": "Announces expanded competitive events and acknowledges frustration about timing of prize changes. Best-of reward design remains an area of discussion.",
+      "coverage": "indexed substantial excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-006",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/radiance-ban-list-updates-effective-november-23-2026/",
+      "published_date": "2026-11-13",
+      "accessed_date": "2026-11-27",
+      "topic": "ban policy",
+      "observation": "Officially announced restrictions with November 23 effective date for the applicable regions, acknowledged player investment and announced scheduled 2027 ban windows. Regional rollout differs.",
+      "coverage": "indexed official excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-007",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/riftbound-origins-launch-learnings/",
+      "published_date": "2025-11-10",
+      "accessed_date": "2026-11-27",
+      "topic": "quality and fulfillment",
+      "observation": "Riot acknowledged rare omissions in a small share of packs, rough cutting edges and preorder shipping delays during launch. Historical evidence, not a diagnosis of Radiance products.",
+      "coverage": "indexed official excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-008",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/introducing-the-new-playriftboundcom/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "technology",
+      "observation": "Riot announced platform improvements for events and decklist tools. An official organized-play platform is distinct from a playable digital client.",
+      "coverage": "indexed excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-009",
+      "platform": "official",
+      "url": "https://playriftbound.com/en-us/news/announcements/state-of-the-game-feb-2026/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "feedback",
+      "observation": "Social-media Q&A included supply, accessibility, original artwork, collectible products and multiplayer design. Historical developer response, not a survey.",
+      "coverage": "indexed excerpts",
+      "evidence_type": "dated official announcement or historical response; check effective policy"
+    },
+    {
+      "id": "CTX-010",
+      "platform": "media",
+      "url": "https://esportsinsider.com/2026/08/riftbound-nation-clash-interview",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "grassroots community",
+      "observation": "Interview describes fan-run team events, efforts to widen participation and a community learning session promoted through social media. Embedded X posts observed through article, not independent X or Discord access.",
+      "coverage": "opened interview and embedded posts",
+      "evidence_type": "reported interview and embedded social posts"
+    },
+    {
+      "id": "CTX-011",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=Ynk3i0wFY24",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "creator Q&A",
+      "observation": "Visible video description indexes community growth, tournament scaling and deckbuilding discussion. No transcript or audience comments inspected.",
+      "coverage": "indexed description only; page open failed",
+      "evidence_type": "creator metadata only"
+    },
+    {
+      "id": "CTX-012",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=HfuPMBGYT-g",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "creator Q&A",
+      "observation": "Visible timestamps identify questions about original art and multiplayer play. No audience comments or transcript inspected.",
+      "coverage": "indexed description only",
+      "evidence_type": "creator metadata only"
+    },
+    {
+      "id": "CTX-013",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=lpPp4-cwsMs",
+      "published_date": "2026-10-21",
+      "accessed_date": "2026-11-27",
+      "topic": "competitive integrity",
+      "observation": "Video metadata frames a non-card restriction and points to official competitive-integrity and prizing news. No inference about creator conclusion or audience sentiment.",
+      "coverage": "indexed title and description only",
+      "evidence_type": "creator metadata only"
+    },
+    {
+      "id": "CTX-014",
+      "platform": "youtube",
+      "url": "https://www.youtube.com/watch?v=oOXVGvAwJN4",
+      "published_date": "2026-10-15",
+      "accessed_date": "2026-11-27",
+      "topic": "rules education",
+      "observation": "Creator metadata advertises explanation of Radiance rules updates; illustrates how players obtain rules explanations rather than establishing legal mechanics.",
+      "coverage": "indexed title and description only",
+      "evidence_type": "creator metadata only"
+    },
+    {
+      "id": "CTX-015",
+      "platform": "reddit_feed",
+      "url": "https://www.reddit.com/r/Riftbound/new/",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "topic": "ordinary discourse",
+      "observation": "Cached feed includes a player anxious about asking strangers to trade, a raffle recipient considering selling unwanted legends for playable singles, regional checkout difficulties, fan accessory design and a casual Discord invitation. Comments and linked Discord/Facebook pages not inspected; feed is cached, not a complete Nov 27 feed.",
+      "coverage": "visible feed text, locators lines 229–244, 272–278, 348–354, 379–399",
+      "evidence_type": "cached feed; anecdotal"
+    }
+  ],
+  "themes": [
+    {
+      "id": "CULT-01",
+      "theme": "The ban destroyed my deck, not only the top deck",
+      "source_ids": [
+        "COM-031",
+        "COM-051",
+        "COM-052",
+        "COM-056",
+        "CTX-006"
+      ],
+      "synthesis": "Loyalists mourn a familiar list; competitive players welcome change; budget players worry about replacement costs.",
+      "original_scene_seed": "A player who already ordered singles asks for alternatives while a friend whose deck survived keeps celebrating.",
+      "guardrail": "Never infer actual card legality or blame a real player.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-02",
+      "theme": "Future set hopes",
+      "source_ids": [
+        "COM-036",
+        "COM-040",
+        "COM-050",
+        "CTX-001",
+        "CTX-002",
+        "CTX-003"
+      ],
+      "synthesis": "Some want older mechanics to return, others want novelty, sharper color identities or more support for favorite champions.",
+      "original_scene_seed": "Two customers debate whether Legacy should fix an old deck or bring an entirely new strategy; neither knows the final card list.",
+      "guardrail": "No invented confirmed cards or release dates.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-03",
+      "theme": "Prize incentives versus playing for fun",
+      "source_ids": [
+        "COM-037",
+        "COM-049",
+        "CTX-004",
+        "CTX-005"
+      ],
+      "synthesis": "Collectors chase rewards; competitive players prioritize qualification; casual attendees want matches even after losses.",
+      "original_scene_seed": "A regular leaves after losing because work starts early; another stays for the games and resents the empty table.",
+      "guardrail": "Do not assume drops are malicious or assert event policy.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-04",
+      "theme": "Slow play and courtesy",
+      "source_ids": [
+        "COM-025",
+        "COM-026",
+        "COM-027",
+        "COM-028"
+      ],
+      "synthesis": "Players want fair pacing without humiliating novices; officials have competing demands.",
+      "original_scene_seed": "A person hesitates to ask for a judge because the opponent is a familiar local regular.",
+      "guardrail": "Distinguish slow decisions from intent; verify rules.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-05",
+      "theme": "Burnout, attendance and competing hobbies",
+      "source_ids": [
+        "COM-033",
+        "COM-038",
+        "COM-039",
+        "COM-045"
+      ],
+      "synthesis": "A diverse meta can be intellectually rewarding yet time-intensive; the social benefit may survive competitive frustration.",
+      "original_scene_seed": "Three friends make other plans after an event is canceled; one misses playing and another is relieved.",
+      "guardrail": "Local anecdotes are not population statistics.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-06",
+      "theme": "Collectors versus playable inventory",
+      "source_ids": [
+        "COM-030",
+        "COM-043",
+        "COM-058",
+        "CTX-015"
+      ],
+      "synthesis": "Collectors value complete sets or artwork; players may sell premium cards to afford staples; resale criticism can coexist with legitimate trading.",
+      "original_scene_seed": "A player splits a premium bundle with a friend who wants the art while they need singles.",
+      "guardrail": "No current prices or actual fraud allegations.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-07",
+      "theme": "Quality control and volunteer tools",
+      "source_ids": [
+        "COM-042",
+        "COM-047",
+        "CTX-007",
+        "CTX-008"
+      ],
+      "synthesis": "Collectors compare defects and frustration with official data; volunteers maintain FAQs and galleries.",
+      "original_scene_seed": "A shop regular checks an erratum while another complains about a misprinted accessory.",
+      "guardrail": "Historical verified issues do not prove newer allegations.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-08",
+      "theme": "Meta predictions and early evidence",
+      "source_ids": [
+        "COM-034",
+        "COM-035",
+        "COM-053",
+        "COM-054"
+      ],
+      "synthesis": "Players make strong forecasts, revise them after early events or disagree about sample size.",
+      "original_scene_seed": "One regular posts a tier list before sufficient events; another asks which results actually support it.",
+      "guardrail": "No unverified statistics or tournament validation.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-09",
+      "theme": "Rotation and deck identity",
+      "source_ids": [
+        "COM-040",
+        "CTX-003"
+      ],
+      "synthesis": "Long-term favorite-deck attachment conflicts with changing legality; format confusion magnifies anxiety.",
+      "original_scene_seed": "A new player asks whether buying the deck is worth it; a friend separates playing locally for fun from official formats.",
+      "guardrail": "Check exact effective rules and format.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-10",
+      "theme": "Digital practice and physical friendships",
+      "source_ids": [
+        "COM-045",
+        "COM-048",
+        "CTX-003",
+        "CTX-008",
+        "CTX-015"
+      ],
+      "synthesis": "Online queues can feel repetitive while the same player enjoys in-person games; fan communities offer alternate practice.",
+      "original_scene_seed": "Someone quits nightly online matches but still visits the store to see friends.",
+      "guardrail": "Do not imply an official simulator exists.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-11",
+      "theme": "Casual formats and netdecking",
+      "source_ids": [
+        "COM-048",
+        "COM-061",
+        "CTX-004"
+      ],
+      "synthesis": "Some want creative constraints and low-cost experiments; others prefer mastery and optimized lists.",
+      "original_scene_seed": "Friends dig through bulk to make a playful deck while a tournament player prepares for a qualifier.",
+      "guardrail": "Unofficial format is not sanctioned policy.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-12",
+      "theme": "New players and couples",
+      "source_ids": [
+        "COM-059",
+        "COM-060",
+        "COM-056",
+        "CTX-015"
+      ],
+      "synthesis": "Beginners may value recognizable champions, inexpensive access and company more than winning; experienced players can still enjoy helping.",
+      "original_scene_seed": "Two people choose starter decks together; one becomes competitive sooner than the other.",
+      "guardrail": "Avoid automatic romance, mastery or verified buying claims.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-13",
+      "theme": "Tournament practicalities",
+      "source_ids": [
+        "COM-032",
+        "COM-049",
+        "CTX-005"
+      ],
+      "synthesis": "Travel, long rounds, registration problems and basic comfort can affect enjoyment independently of results.",
+      "original_scene_seed": "A group negotiates food, rides and when to leave after elimination.",
+      "guardrail": "No copied event allegations or precise attendance claims.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-14",
+      "theme": "Community conflict and counter-speech",
+      "source_ids": [
+        "COM-029",
+        "COM-057",
+        "COM-048"
+      ],
+      "synthesis": "Complaints about affordability compete with irritation at constant complaints; both motives can be sincere.",
+      "original_scene_seed": "A group chat thread about a deck turns into an argument about whether people complain too much.",
+      "guardrail": "Avoid depicting a whole community as hostile.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-15",
+      "theme": "Grassroots identity and inclusivity",
+      "source_ids": [
+        "CTX-010",
+        "CTX-015"
+      ],
+      "synthesis": "Fan-run communities create alternative social spaces, team formats and learning events.",
+      "original_scene_seed": "A local organizer welcomes a player who feels awkward at competitive events; both have independent goals.",
+      "guardrail": "Do not copy real organizers or personal experiences; no identity stereotype.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-16",
+      "theme": "Rules rumors and information hygiene",
+      "source_ids": [
+        "COM-047",
+        "COM-050",
+        "CTX-003",
+        "CTX-014"
+      ],
+      "synthesis": "Players repeat different interpretations of upcoming rules, sometimes confusing wording revisions and gameplay changes.",
+      "original_scene_seed": "Two players disagree over a future card interaction; the shop's experienced player refuses to settle it from a screenshot.",
+      "guardrail": "Verify actual rule application separately.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-17",
+      "theme": "The accessory hobby",
+      "source_ids": [
+        "CTX-015",
+        "COM-042",
+        "CTX-001"
+      ],
+      "synthesis": "Deck boxes, foil aesthetics, matching sleeves and custom storage may matter more than today's match results.",
+      "original_scene_seed": "Someone shows a repaired divider and a friend argues that the box is too big for a backpack.",
+      "guardrail": "No copied design or product claim without verification.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    },
+    {
+      "id": "CULT-18",
+      "theme": "The 2027 competitive transition",
+      "source_ids": [
+        "CTX-002",
+        "CTX-004",
+        "CTX-005",
+        "CTX-006",
+        "COM-041"
+      ],
+      "synthesis": "Anticipation of new event tracks, scheduled ban windows and reward changes creates both excitement and uncertainty.",
+      "original_scene_seed": "A store employee tries to explain coming programs to customers who have incompatible plans for old byes.",
+      "guardrail": "Use announcements only as of story date and verify updated policy.",
+      "status": "original noncanon research synthesis; not a dialogue template"
+    }
+  ]
+}

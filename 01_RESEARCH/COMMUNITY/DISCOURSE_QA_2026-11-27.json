@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-27",
+  "base_commit": "b7a8830e11b0b6ae24c4123347f2652fb87baf3b",
+  "counts": {
+    "previous_reddit_threads": 24,
+    "new_reddit_threads": 37,
+    "new_primary": 4,
+    "new_secondary": 33,
+    "total_reddit_threads": 61,
+    "context_sources": 15,
+    "official_context": 9,
+    "creator_metadata": 4,
+    "theme_records": 18,
+    "scene_seeds": 18
+  },
+  "checks": {
+    "uniqueRedditPostIDs": true,
+    "uniqueAllIDs": true,
+    "uniqueThemeIDs": true,
+    "allThemeReferences": true,
+    "allCoverage": true,
+    "dateBound": true,
+    "allDistinctContextURLs": true,
+    "primaryCounts": true,
+    "sourcePreservation": true
+  },
+  "method": "JavaScript structural checks executed before commit. New Reddit records deduplicated against existing 24 using post ID. Synthesis is qualitative; coverage differs by source. No corpus word statistics, no sentiment percentage or independently certified event rules.",
+  "limitations": [
+    "Search favored r/riftboundtcg; r/Riftbound newest feed was cached and top feed failed. Two primary thread opens failed; visible feed text only.",
+    "Most sources predate the November 23 effective bans; only date-supported discussions are labeled post-effective.",
+    "YouTube metadata only; social-media posts in media article are indirect. No actual Facebook or Discord corpus.",
+    "No exhaustive reading of nested replies or complete source page byte hashing."
+  ]
+}
