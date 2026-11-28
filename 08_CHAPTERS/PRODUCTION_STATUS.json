@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v20.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v21.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1272,
-    "events": 162,
-    "approved_records": 1272,
-    "open_issue_groups": 22,
-    "structural_validation": "Fresh Library readback PASS; scoped same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v20.zip"
+    "records": 1327,
+    "events": 171,
+    "approved_records": 1327,
+    "open_issue_groups": 23,
+    "structural_validation": "Fresh Library readback PASS; scoped same-agent review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v21.zip"
   },
   "archive_checks": {
-    "passed": 70,
+    "passed": 72,
     "failed": 0,
-    "scope": "Exact V2 source, 19 approved prior units, 599 retired resources, LPM descriptive diagnostics, nine conditional arithmetic cases with allocation checks, source-linked continuity, manifest/order negative controls and regressions. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four guard regressions separately verified."
+    "scope": "Exact approved V2.1 source and microcorrection, previous archive, 20 prior units and 623 retired resources, lexical screening, source-linked continuity, retirement and order checks. Prior preflight 44 checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. No complete replay or independent reader validation."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -907,6 +907,34 @@
     },
     "approval": "Author requested distile and tho whole process after exact V2 review. Original upload preserved; registered manuscript changes Markdown heading and separator only.",
     "author_directive_alignment": "AD-0014-A01 incoming/outgoing dependency integrated; ten private directive hashes verified against prior archive; no future tournament result or pairing promoted. Concurrent community research commit preserved.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_17": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "Proof",
+    "words_excluding_headings": 2043,
+    "lpm_words": 2034,
+    "paragraphs": 54,
+    "scenes": 2,
+    "retired_resources": 26,
+    "abstract_usage_records": 15,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 2036,
+    "competitive_scope": "L1 conditional terminal segment; L0 prior games and match result; no complete deck legality or full match reconstruction",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v21.zip",
+    "archive_sha256": "c823a8538f08cebc40cfad5a00d48075868ed94cac8985a50e0f73aa64e6cfae",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and regression verified",
+    "checks": {
+      "passed": 72,
+      "failed": 0,
+      "scope": "Exact approved V2.1 source and microcorrection, previous archive, 20 prior units and 623 retired resources, lexical screening, source-linked continuity, retirement and order checks. Prior preflight 44 checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. No complete replay or independent reader validation."
+    },
+    "approval": "Author requested distile and do whole process after exact V2.1 review. Original upload preserved; registered manuscript changes Markdown heading and separator only.",
+    "author_directive_alignment": "AD-0014-A01 dependency integrated; ten private directive files preserved; AD-0015 respected; no future chapter outcome or character knowledge promoted.",
     "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
