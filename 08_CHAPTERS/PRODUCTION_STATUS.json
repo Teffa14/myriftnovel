@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1441,
-    "events": 190,
-    "approved_records": 1441,
-    "open_issue_groups": 25,
-    "structural_validation": "Fresh Library readback PASS; scoped same-agent review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip"
+    "records": 1514,
+    "events": 201,
+    "approved_records": 1514,
+    "open_issue_groups": 26,
+    "structural_validation": "Fresh persistent Library readback PASS; scoped same-agent review",
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip"
   },
   "archive_checks": {
-    "passed": 119,
+    "passed": 97,
     "failed": 0,
-    "scope": "Exact V2.1 and two microcorrections, 22 prior units, source-linked continuity, NDM/LPM/LCI, recovered private LIH and LCI files, lexical screening, manifest/order and regression tests. Persistent Library exact-byte readback, CRC, safe unique paths, manifest, four guard regressions and continuity separately verified. Targeted coverage of governing excerpts; no exhaustive body audit, complete competitive certification or independent reader validation."
+    "scope": "97 local closeout checks reported in the private QA dossier; exact persistent Library readback independently verified this turn by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest, continuity and four Future Guard regressions. G3 L1 conditional checks only; full replay, exhaustive protocol body audit, external detector and independent reader/judge certification not completed."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -1004,5 +1004,33 @@
     "literary_review": "Previous subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed for approved chapter registration; complete arc readiness and protocol coverage still require dedicated review before new drafting"
+  },
+  "chapter_20": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "The First Table",
+    "words_excluding_headings": 4479,
+    "lpm_words": 4470,
+    "paragraphs": 132,
+    "scenes": 5,
+    "retired_resources": 41,
+    "abstract_usage_records": 27,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 4472,
+    "competitive_scope": "L1 conditional bounded tactical segments; no full replay or legal deck certification",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip",
+    "archive_sha256": "951dba35cc0cc49083d2e12762527d5ba9911a6181f23d1d11bcc563ba4e2d36",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and four guard regressions verified",
+    "checks": {
+      "passed": 97,
+      "failed": 0,
+      "scope": "97 local closeout checks reported in the private QA dossier; exact persistent Library readback independently verified this turn by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest, continuity and four Future Guard regressions. G3 L1 conditional checks only; full replay, exhaustive protocol body audit, external detector and independent reader/judge certification not completed."
+    },
+    "approval": "Author explicitly requested distillation and closeout of the attached V2.1; raw upload preserved privately.",
+    "author_directive_alignment": "Scoped private evidence; full cumulative protocol certification pending.",
+    "literary_review": "Prior subjective assessment; no independent reader or authorship certification.",
+    "publication": "not published by this work",
+    "next_gate": "Closed for approved chapter registration; dedicated arc readiness and protocol review before new drafting."
   }
 }
