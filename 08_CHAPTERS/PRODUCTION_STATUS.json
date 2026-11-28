@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1377,
-    "events": 180,
-    "approved_records": 1377,
-    "open_issue_groups": 24,
+    "records": 1441,
+    "events": 190,
+    "approved_records": 1441,
+    "open_issue_groups": 25,
     "structural_validation": "Fresh Library readback PASS; scoped same-agent review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip"
   },
   "archive_checks": {
-    "passed": 54,
+    "passed": 119,
     "failed": 0,
-    "scope": "Exact V2, 21 prior units and 649 retired expressions, lexical screening, source-linked continuity, LPM and LCI passage evidence, manifest and order checks. 28 preflight checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. Selective repository inspection; no exhaustive protocol or private workshop certification."
+    "scope": "Exact V2.1 and two microcorrections, 22 prior units, source-linked continuity, NDM/LPM/LCI, recovered private LIH and LCI files, lexical screening, manifest/order and regression tests. Persistent Library exact-byte readback, CRC, safe unique paths, manifest, four guard regressions and continuity separately verified. Targeted coverage of governing excerpts; no exhaustive body audit, complete competitive certification or independent reader validation."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -966,5 +966,43 @@
     "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
+  },
+  "chapter_19": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2.1",
+    "title": "Commitment",
+    "words_excluding_headings": 1975,
+    "lpm_words": 1969,
+    "paragraphs": 127,
+    "scenes": 3,
+    "retired_resources": 32,
+    "abstract_usage_records": 20,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 1968,
+    "competitive_scope": "L0 new narrative, no new game or specific mechanical resolution",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip",
+    "archive_sha256": "0076270e2ac414f7d68db78780cacb572809774c7c930a987429c531f3680c86",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and regression verified",
+    "checks": {
+      "passed": 119,
+      "failed": 0,
+      "scope": "Exact V2.1 and two microcorrections, 22 prior units, source-linked continuity, NDM/LPM/LCI, recovered private LIH and LCI files, lexical screening, manifest/order and regression tests. Persistent Library exact-byte readback, CRC, safe unique paths, manifest, four guard regressions and continuity separately verified. Targeted coverage of governing excerpts; no exhaustive body audit, complete competitive certification or independent reader validation."
+    },
+    "approval": "Author explicitly requested DISTILE AND DO TH WHOLE PROCESSES after exact V2.1 review. Raw upload preserved; canonical heading and separators only.",
+    "author_directive_alignment": "AD-0014-A01 causal dependency, AD-0016 and AD-0017 private sources recovered and hash verified; passage-linked craft and independent-life evidence stored privately. Individual cumulative protocol coverage is scoped, with limitations.",
+    "protocol_coverage": {
+      "registered_paths": 95,
+      "applied_scoped": 55,
+      "not_triggered": 39,
+      "blocked": 1,
+      "registered_directives": 22,
+      "applied_directives_scoped": 18,
+      "not_triggered_directives": 4,
+      "scope": "Individual private ledger; excerpts retrieved at pinned HEAD, not complete body-by-body certification."
+    },
+    "literary_review": "Previous subjective editorial assessment retained privately; no independent reader or authorship certification.",
+    "publication": "not published by this work",
+    "next_gate": "closed for approved chapter registration; complete arc readiness and protocol coverage still require dedicated review before new drafting"
   }
 }

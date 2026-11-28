@@ -1,13 +1,13 @@
 {
   "version": "2.0",
-  "approved_chapters_registered": 18,
-  "retired_resources_registered": 678,
-  "manuscript_audits": 22,
+  "approved_chapters_registered": 19,
+  "retired_resources_registered": 710,
+  "manuscript_audits": 23,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 22,
+    "own_approved_units": 23,
     "new_variant_candidates": 40
   },
   "tests": {
@@ -15,12 +15,12 @@
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v22 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v23 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip",
-  "usage_records": 352,
-  "lexical_fingerprints_registered": 43606,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v23.zip",
+  "usage_records": 372,
+  "lexical_fingerprints_registered": 45574,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -44,7 +44,7 @@
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
   "approved_supplements_registered": 4,
-  "approved_units_registered": 22,
+  "approved_units_registered": 23,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -474,5 +474,36 @@
     "passed": 54,
     "failed": 0,
     "scope": "Exact V2, 21 prior units and 649 retired expressions, lexical screening, source-linked continuity, LPM and LCI passage evidence, manifest and order checks. 28 preflight checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. Selective repository inspection; no exhaustive protocol or private workshop certification."
+  },
+  "chapter_19": {
+    "revision": "V2.1",
+    "words": 1975,
+    "lpm_words": 1969,
+    "paragraphs": 127,
+    "scenes": 3,
+    "distinctive_retired_spans": 32,
+    "usage_records": 20,
+    "abstract_variants": 0,
+    "lexical_fingerprints": 1968,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0 new narrative",
+    "g6": "Approved, distilled, persisted and verified; scoped checks, not exhaustive protocol certification",
+    "protocol_coverage": {
+      "registered_paths": 95,
+      "applied_scoped": 55,
+      "not_triggered": 39,
+      "blocked": 1,
+      "registered_directives": 22,
+      "applied_directives_scoped": 18,
+      "not_triggered_directives": 4,
+      "scope": "Individual private ledger; excerpts retrieved at pinned HEAD, not complete body-by-body certification."
+    }
+  },
+  "chapter_19_registration_checks": {
+    "passed": 119,
+    "failed": 0,
+    "scope": "Exact V2.1 and two microcorrections, 22 prior units, source-linked continuity, NDM/LPM/LCI, recovered private LIH and LCI files, lexical screening, manifest/order and regression tests. Persistent Library exact-byte readback, CRC, safe unique paths, manifest, four guard regressions and continuity separately verified. Targeted coverage of governing excerpts; no exhaustive body audit, complete competitive certification or independent reader validation."
   }
 }
