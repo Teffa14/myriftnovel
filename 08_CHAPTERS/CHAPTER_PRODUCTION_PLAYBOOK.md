@@ -134,3 +134,6 @@ AD-0014-A01 production gate: use the CH15–19 linkage protocol in PILOT_20.md i
 
 ## AD-0015 — Antagonist planning
 Consult 04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md and 01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md. When a recurring rivalry is relevant, record JC/ANT identifiers or justified N/A, prior approved evidence, opponent motive and actual competence, specific behavioral friction, lasting effects, possible future rematch, independent validation and aftermath. Distinguish ordinary judge calls and legitimate competitive precision from actual conduct problems. Review rival state at arc close. No automatic canon or scripted match result; respect approved text.
+
+## AD-0016 — LIFE IS HAPPENING production gate
+Consult 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md and its arc overlay. Record selected independent life thread or justified deferral, source-linked prior fact, present entry, actual calendar and resources, independent participants, reader reward and next visible development. Permit complete non-TCG main chapters; preserve intrinsic slice of life. Audit rolling four-main-chapter windows and arc closure for delivered experience versus repeated preparation. Keep detailed prospective outcomes private and check current archive before chapter-specific application. Preserve CH18–20 causal finale, all competitive gates and Chapter 500.

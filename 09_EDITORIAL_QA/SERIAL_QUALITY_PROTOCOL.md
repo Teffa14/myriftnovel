@@ -71,3 +71,6 @@ AD-0014-A01 editorial gate: review CH15–19 as one causal progression toward CH
 
 ## AD-0015 — Rivalry and catharsis
 Use 04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md. Review selected rivalries for demonstrated independent competence, specific lived grievance, progression across encounters, credible consequences, genuine earned payoff and aftermath. Distinguish interpersonal annoyance, honest errors, proper adjudication, suspected misconduct and verified findings. Reject unsupported punitive rulings, generic caricatures, copied real accounts and guaranteed audience reactions. Verify competitive results under existing gates; preserve all prior approvals.
+
+## AD-0016 — Independent life editorial review
+Use 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md. Check whether independent desires are visible through lived experience, whether introduced occasions are naturally motivated and fulfilled where appropriate, whether secondary characters change credibly off page and on page, and whether psychological and geographic specificity belong to the POV. At rolling and arc reviews identify preparation-only repetition and document supported/provisional/deferred/conflict findings from actual text. No arbitrary activity ratio, forced disaster, guaranteed reader response or approval. Preserve author directives and exact competitive evidence.
