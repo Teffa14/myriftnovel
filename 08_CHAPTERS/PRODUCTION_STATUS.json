@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v21.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1327,
-    "events": 171,
-    "approved_records": 1327,
-    "open_issue_groups": 23,
+    "records": 1377,
+    "events": 180,
+    "approved_records": 1377,
+    "open_issue_groups": 24,
     "structural_validation": "Fresh Library readback PASS; scoped same-agent review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v21.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip"
   },
   "archive_checks": {
-    "passed": 72,
+    "passed": 54,
     "failed": 0,
-    "scope": "Exact approved V2.1 source and microcorrection, previous archive, 20 prior units and 623 retired resources, lexical screening, source-linked continuity, retirement and order checks. Prior preflight 44 checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. No complete replay or independent reader validation."
+    "scope": "Exact V2, 21 prior units and 649 retired expressions, lexical screening, source-linked continuity, LPM and LCI passage evidence, manifest and order checks. 28 preflight checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. Selective repository inspection; no exhaustive protocol or private workshop certification."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -935,6 +935,34 @@
     },
     "approval": "Author requested distile and do whole process after exact V2.1 review. Original upload preserved; registered manuscript changes Markdown heading and separator only.",
     "author_directive_alignment": "AD-0014-A01 dependency integrated; ten private directive files preserved; AD-0015 respected; no future chapter outcome or character knowledge promoted.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_18": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2",
+    "title": "Recognition",
+    "words_excluding_headings": 1867,
+    "lpm_words": 1865,
+    "paragraphs": 63,
+    "scenes": 2,
+    "retired_resources": 29,
+    "abstract_usage_records": 17,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 1860,
+    "competitive_scope": "L0 new narrative; reference to previously approved L1 conditional evidence; no new match",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v22.zip",
+    "archive_sha256": "8e5c8de389f7439adddf9e090eca57212b7021b7a3aa071f2219c45153fcdaea",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and regression verified",
+    "checks": {
+      "passed": 54,
+      "failed": 0,
+      "scope": "Exact V2, 21 prior units and 649 retired expressions, lexical screening, source-linked continuity, LPM and LCI passage evidence, manifest and order checks. 28 preflight checks re-executed. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four Future Guard regressions separately verified. Selective repository inspection; no exhaustive protocol or private workshop certification."
+    },
+    "approval": "Author requested distile and do the whole processes after exact V2 review. Original upload preserved; registered manuscript changes Markdown heading and separator only.",
+    "author_directive_alignment": "AD-0014-A01 causal dependency, AD-0016 public standards and AD-0017 eight observed LCI applications with exact passage anchors recorded privately. Ten prior private directive files preserved. Full repository body audit and retrieval of private detailed LIH/LCI source artifacts remain incomplete; no full cumulative certification.",
     "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
