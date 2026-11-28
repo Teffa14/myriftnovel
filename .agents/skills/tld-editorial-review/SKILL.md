@@ -32,3 +32,5 @@ AD-0009: review temporal narration under 02_STYLE_BIBLE/STYLE.md and 09_EDITORIA
 AD-0013: review against 02_STYLE_BIBLE/TLD_VOICE_METHOD.md, using 02_STYLE_BIBLE/voice_audit.py on exact text where available. Record meaningful stylistic decisions and comparable evidence before/after; preserve intentional dialogue, recurring motifs and technical details. Detector findings are not proof of authorship. Do not certify literary improvement from counts alone.
 
 AD-0014-A01: for CH15–19 review the concrete incoming and outgoing causal links, local reward, continuity and order/deletion test in PILOT_20.md; require material contribution to CH20 without forced outcomes or cliffhangers. Distinguish provisional candidate developments from approved history.
+
+AD-0017: apply 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md; record exact private passage evidence for experiential depth and meaningful revisions, evaluate alternatives when appropriate, preserve protected facts and all prior checks. No technique-count score or fabricated reader response.

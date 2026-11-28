@@ -27,3 +27,5 @@ Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Rea
 
 ## Required evidence and stop conditions
 Return actual deliverables, source revision, private version/hash when appropriate, checks executed, evidence level and limitations. No Codex handoff, fake background activity, fabricated results, or asking the author to adjudicate rules. G3-global incompleteness is not a blanket blocker; narrow unsupported technical detail per G3-scene. Missing prior approved archive, unresolved material continuity/originality defects, and absent explicit approval are real gates. A skill invocation never changes approval status by itself.
+
+AD-0017: load 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md and current author directives, canonical prompts and all governing protocols at intake. Record actual applicability or blockers; do not drop any earlier mandate. Route craft work through tld-prose, tld-editorial-review, tld-source-distillation when ingesting new evidence, and tld-originality/closeout. Preserve all existing gates.

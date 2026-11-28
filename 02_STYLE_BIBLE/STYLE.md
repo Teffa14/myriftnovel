@@ -22,3 +22,6 @@ Editorial diagnostic: inspect numeric and spelled-out clock times, exact elapsed
 
 ## AD-0013 — Lived Perspective Method
 Apply [TLD_VOICE_METHOD.md](TLD_VOICE_METHOD.md) as the project-specific prose workflow for subsequent drafts and revisions. Keep technical planning separate from lived prose, give focal characters distinct attention and flexible rhythm, allow genuinely ordinary scenes, and review structural habits before surface wording. Execute the descriptive voice audit when available and contextualize findings; no detector optimization or authorship claim. Earlier approved prose remains unchanged.
+
+## AD-0017 — Literary craft
+Apply [LITERARY_CRAFT_PROTOCOL.md](LITERARY_CRAFT_PROTOCOL.md) as a mandatory companion to LPM and existing Style Bible. Use character-specific narrative attention, subtext, symbolic accumulation, associative thought, ellipsis and variable experiential time where earned; preserve plain direct prose where stronger. No imitated source voice, mandatory decoration, or exception to earlier directives and gates.

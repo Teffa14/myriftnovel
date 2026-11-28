@@ -22,3 +22,6 @@ La biblioteca debe crecer con cada capítulo. La repetición expresiva debe perm
 
 ## Referencia operativa obligatoria
 Aplicar ../../02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md, incluyendo archivo privado, comprobación de hashes, detector léxico, revisión semántica y gate G6. Los mecanismos abstractos pueden reutilizarse con ejecuciones distintas; no hay cuota de nuevas técnicas. Las excepciones de motivos deliberados requieren documentación específica. La aprobación debe ser explícita, no inferida de puntuaciones internas.
+
+## AD-0017 — Destilación literaria acumulativa
+Con cada versión expresamente aprobada, aplica 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md: registra decisiones expresivas abstractas, evidencia privada de efecto, coincidencias con mecanismos anteriores, fallos de transferencia y variaciones. Retira la expresión concreta según NDM 2.0; no conviertas ejercicios o referencias parciales en técnicas certificadas, nuevas cuotas ni canon. Mantén todos los controles y directivas previos.

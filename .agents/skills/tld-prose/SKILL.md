@@ -31,3 +31,5 @@ Private draft.md with clear scene boundaries, no editorial apparatus inside the 
 AD-0009: apply the selective narrative-time rule in 02_STYLE_BIBLE/STYLE.md. Keep the detailed schedule private; use explicit times or durations only for a justified reader-facing purpose. Prefer natural action and causal transitions over repeated clock readings or minute-by-minute reportage. Preserve timing-dependent rules, stakes and necessary orientation.
 
 AD-0013: 02_STYLE_BIBLE/TLD_VOICE_METHOD.md governs prose composition, not the mechanical sequence of the private planning grammar. Apply the Lived Perspective method, choose forms organically, and preserve independent character attention and author-approved facts. Run descriptive voice audit in the editorial pass; never optimize for detector evasion or claim unperformed tests.
+
+AD-0017: apply 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md inside LPM to expand literary experience. Choose LRF operations organically; compare materially different private treatments of weak or pivotal passages with identical protected facts. No forced ornament, quotas, workshop wording reuse or replacement of prior protocols.

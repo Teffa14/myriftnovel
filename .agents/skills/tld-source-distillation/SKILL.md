@@ -25,3 +25,5 @@ Save public-safe INDEX, analysis, candidate mechanisms, metrics/method, QA, and 
 
 ## Acceptance
 Source hash/coverage where available; evidence locators; reconciled unit totals, unique IDs and links; actual executed checks; distinct qualitative and computational scope; no unauthorized source redistribution, no claimed exhaustive reading or game validation unless actually performed.
+
+AD-0017: use 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md as a partial source intake register and 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md for candidate craft operations; reconcile with existing catalog and NDM mechanisms, verify actual coverage, keep exercises private, and never treat a provisional excerpt as a completed work. All earlier source and originality controls remain active.
