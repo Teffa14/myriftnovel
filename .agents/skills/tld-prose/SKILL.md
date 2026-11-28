@@ -33,3 +33,17 @@ AD-0009: apply the selective narrative-time rule in 02_STYLE_BIBLE/STYLE.md. Kee
 AD-0013: 02_STYLE_BIBLE/TLD_VOICE_METHOD.md governs prose composition, not the mechanical sequence of the private planning grammar. Apply the Lived Perspective method, choose forms organically, and preserve independent character attention and author-approved facts. Run descriptive voice audit in the editorial pass; never optimize for detector evasion or claim unperformed tests.
 
 AD-0017: apply 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md inside LPM to expand literary experience. Choose LRF operations organically; compare materially different private treatments of weak or pivotal passages with identical protected facts. No forced ornament, quotas, workshop wording reuse or replacement of prior protocols.
+
+## Cumulative protocol dependencies
+- 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md
+- 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md
+- 01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md
+- 01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md
+- 04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md
+- 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

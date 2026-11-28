@@ -29,3 +29,20 @@ Project scope: The Last Draw: A competitive TCG Novel (Teffa14/myriftnovel). Rea
 Return actual deliverables, source revision, private version/hash when appropriate, checks executed, evidence level and limitations. No Codex handoff, fake background activity, fabricated results, or asking the author to adjudicate rules. G3-global incompleteness is not a blanket blocker; narrow unsupported technical detail per G3-scene. Missing prior approved archive, unresolved material continuity/originality defects, and absent explicit approval are real gates. A skill invocation never changes approval status by itself.
 
 AD-0017: load 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md and current author directives, canonical prompts and all governing protocols at intake. Record actual applicability or blockers; do not drop any earlier mandate. Route craft work through tld-prose, tld-editorial-review, tld-source-distillation when ingesting new evidence, and tld-originality/closeout. Preserve all existing gates.
+
+## Cumulative protocol dependencies
+- 05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md
+- 05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md
+- 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md
+- 10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md
+- 04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md
+- 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md
+- 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md
+- 02_STYLE_BIBLE/TLD_VOICE_METHOD.md
+- 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

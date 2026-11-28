@@ -1,0 +1,346 @@
+{
+  "schema_version": 1,
+  "authority": "Navigation index; all original sources remain authoritative. No override or new canon.",
+  "families": [
+    {
+      "id": "governance",
+      "paths": [
+        "AGENTS.md",
+        "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md",
+        "08_CHAPTERS/CHATGPT_PRODUCTION.md",
+        "08_CHAPTERS/WORKFLOW.md",
+        "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+        "08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md",
+        "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+        "08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md",
+        ".agents/skills/registry.json",
+        ".agents/skills/README.md",
+        "08_CHAPTERS/PROTOCOL_REGISTRY.json",
+        "08_CHAPTERS/PROTOCOL_APPLICATION.md",
+        "08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json"
+      ]
+    },
+    {
+      "id": "research",
+      "paths": [
+        "01_RESEARCH/CORPUS.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/CHAPTER_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/METHOD.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/MASTER_PROMPT.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/OUTPUT_TEMPLATES.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/TECHNIQUES.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/STATUS.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/CATALOG.tsv",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/OUT/ROUTE_PROTOCOL.json",
+        "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md",
+        "01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md"
+      ]
+    },
+    {
+      "id": "community",
+      "paths": [
+        "01_RESEARCH/COMMUNITY/COMMUNITY_PROTOCOL.md",
+        "01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md",
+        "01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md",
+        "04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md"
+      ]
+    },
+    {
+      "id": "canon",
+      "paths": [
+        "03_STORY_BIBLE/IDENTITY_AND_SETTING.md",
+        "03_STORY_BIBLE/PREMISE.md",
+        "03_STORY_BIBLE/WORLD.md",
+        "04_CHARACTERS/CHARACTER_SYSTEM.md",
+        "04_CHARACTERS/RELATIONSHIPS.md",
+        "04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md",
+        "07_CONTINUITY/CANON.md",
+        "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+        "08_CHAPTERS/PRODUCTION_STATUS.json",
+        "02_STYLE_BIBLE/ORIGINALITY/STATUS.json"
+      ]
+    },
+    {
+      "id": "architecture",
+      "paths": [
+        "05_PLOT_ARCHITECTURE/ARCS.md",
+        "05_PLOT_ARCHITECTURE/SUBPLOTS.md",
+        "05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md",
+        "05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md",
+        "05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md",
+        "05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md",
+        "05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md",
+        "08_CHAPTERS/PILOT_20.md",
+        "08_CHAPTERS/CHARACTER_INTERLUDES.md"
+      ]
+    },
+    {
+      "id": "literary",
+      "paths": [
+        "02_STYLE_BIBLE/STYLE.md",
+        "02_STYLE_BIBLE/TLD_VOICE_METHOD.md",
+        "02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/SENTENCE_PATTERNS.md",
+        "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/BLOCK_PATTERNS.md",
+        "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md"
+      ]
+    },
+    {
+      "id": "competitive",
+      "paths": [
+        "06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md",
+        "06_COMPETITIVE_ENGINE/AUTONOMOUS_PRODUCTION.md",
+        "06_COMPETITIVE_ENGINE/SIMULATION.md",
+        "06_COMPETITIVE_ENGINE/EVIDENCE/STRATEGY_AND_NARRATION.md",
+        "06_COMPETITIVE_ENGINE/RIFTBOUND/QA.md",
+        "06_COMPETITIVE_ENGINE/EVIDENCE/GRAVITY_FIELD_SOURCE_RECONCILIATION.md"
+      ]
+    },
+    {
+      "id": "editorial",
+      "paths": [
+        "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md",
+        "09_EDITORIAL_QA/SERIAL_QUALITY_PROTOCOL.md"
+      ]
+    },
+    {
+      "id": "publication",
+      "paths": [
+        "10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md",
+        "10_PUBLICATION/BRAND_IDENTITY.md",
+        "10_PUBLICATION/COMMERCIAL_STRATEGY.md",
+        "10_PUBLICATION/MARKET_VALIDATION.md"
+      ]
+    }
+  ],
+  "skill_paths": [
+    ".agents/skills/tld-production/SKILL.md",
+    ".agents/skills/tld-repository/SKILL.md",
+    ".agents/skills/tld-source-distillation/SKILL.md",
+    ".agents/skills/tld-continuity/SKILL.md",
+    ".agents/skills/tld-chapter-planning/SKILL.md",
+    ".agents/skills/tld-competitive-evidence/SKILL.md",
+    ".agents/skills/tld-prose/SKILL.md",
+    ".agents/skills/tld-editorial-review/SKILL.md",
+    ".agents/skills/tld-originality/SKILL.md",
+    ".agents/skills/tld-closeout/SKILL.md",
+    ".agents/skills/tld-publication/SKILL.md"
+  ],
+  "all_paths": [
+    ".agents/skills/README.md",
+    ".agents/skills/registry.json",
+    ".agents/skills/tld-chapter-planning/SKILL.md",
+    ".agents/skills/tld-closeout/SKILL.md",
+    ".agents/skills/tld-competitive-evidence/SKILL.md",
+    ".agents/skills/tld-continuity/SKILL.md",
+    ".agents/skills/tld-editorial-review/SKILL.md",
+    ".agents/skills/tld-originality/SKILL.md",
+    ".agents/skills/tld-production/SKILL.md",
+    ".agents/skills/tld-prose/SKILL.md",
+    ".agents/skills/tld-publication/SKILL.md",
+    ".agents/skills/tld-repository/SKILL.md",
+    ".agents/skills/tld-source-distillation/SKILL.md",
+    "01_RESEARCH/COMMUNITY/COMMUNITY_PROTOCOL.md",
+    "01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md",
+    "01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md",
+    "01_RESEARCH/COMMUNITY/README.md",
+    "01_RESEARCH/CORPUS.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/CATALOG.tsv",
+    "01_RESEARCH/REFERENCE_LIBRARY/CHAPTER_PROTOCOL.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/MASTER_PROMPT.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/METHOD.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/OUTPUT_TEMPLATES.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/STATUS.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/TECHNIQUES.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/CARD_CONTEXTS.json",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/LEGEND_PROFILES.json",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/SOURCE_PRIORITY.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/OUT/ROUTE_PROTOCOL.json",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/EDITORIAL_MECHANISMS.md",
+    "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md",
+    "02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md",
+    "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/BLOCK_PATTERNS.md",
+    "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md",
+    "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/SENTENCE_PATTERNS.md",
+    "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md",
+    "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+    "02_STYLE_BIBLE/ORIGINALITY/repetition_check.py",
+    "02_STYLE_BIBLE/ORIGINALITY/test_repetition_check.py",
+    "02_STYLE_BIBLE/STYLE.md",
+    "02_STYLE_BIBLE/TLD_VOICE_METHOD.md",
+    "02_STYLE_BIBLE/voice_audit.py",
+    "03_STORY_BIBLE/IDENTITY_AND_SETTING.md",
+    "03_STORY_BIBLE/PREMISE.md",
+    "03_STORY_BIBLE/WORLD.md",
+    "04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md",
+    "04_CHARACTERS/CHARACTER_SYSTEM.md",
+    "04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md",
+    "04_CHARACTERS/RELATIONSHIPS.md",
+    "05_PLOT_ARCHITECTURE/ARCS.md",
+    "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md",
+    "05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md",
+    "05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md",
+    "05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md",
+    "05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md",
+    "05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md",
+    "05_PLOT_ARCHITECTURE/SUBPLOTS.md",
+    "06_COMPETITIVE_ENGINE/AUTONOMOUS_PRODUCTION.md",
+    "06_COMPETITIVE_ENGINE/EVIDENCE/GRAVITY_FIELD_SOURCE_RECONCILIATION.md",
+    "06_COMPETITIVE_ENGINE/EVIDENCE/JUDGE_CASES/README.md",
+    "06_COMPETITIVE_ENGINE/EVIDENCE/README.md",
+    "06_COMPETITIVE_ENGINE/EVIDENCE/STRATEGY_AND_NARRATION.md",
+    "06_COMPETITIVE_ENGINE/RIFTBOUND/QA.md",
+    "06_COMPETITIVE_ENGINE/RIFTBOUND/README.md",
+    "06_COMPETITIVE_ENGINE/RIFTBOUND/sources.json",
+    "06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md",
+    "06_COMPETITIVE_ENGINE/SIMULATION.md",
+    "06_COMPETITIVE_ENGINE/autonomous_evidence.js",
+    "07_CONTINUITY/CANON.md",
+    "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+    "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+    "08_CHAPTERS/CHARACTER_INTERLUDES.md",
+    "08_CHAPTERS/CHATGPT_PRODUCTION.md",
+    "08_CHAPTERS/PILOT_20.md",
+    "08_CHAPTERS/PRODUCTION_STATUS.json",
+    "08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md",
+    "08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md",
+    "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+    "08_CHAPTERS/PROTOCOL_APPLICATION.md",
+    "08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json",
+    "08_CHAPTERS/PROTOCOL_REGISTRY.json",
+    "08_CHAPTERS/WORKFLOW.md",
+    "09_EDITORIAL_QA/CH0001_REVISION_BENCHMARKS.json",
+    "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md",
+    "09_EDITORIAL_QA/SERIAL_QUALITY_PROTOCOL.md",
+    "10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md",
+    "10_PUBLICATION/BRAND_IDENTITY.md",
+    "10_PUBLICATION/COMMERCIAL_STRATEGY.md",
+    "10_PUBLICATION/MARKET_VALIDATION.md",
+    "AGENTS.md"
+  ],
+  "directives": [
+    {
+      "id": "AD-0001",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0002",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0003",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0004",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0005",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0006",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0006-A01",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0007",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0008",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0009",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0010",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0010-E01",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0010-E02",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0010-E03",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0011",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0012",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0013",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0014",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0014-A01",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0015",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0016",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    },
+    {
+      "id": "AD-0017",
+      "source": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md"
+    }
+  ],
+  "status_authorities": [
+    "08_CHAPTERS/PRODUCTION_STATUS.json",
+    "02_STYLE_BIBLE/ORIGINALITY/STATUS.json"
+  ],
+  "coverage_states": [
+    "applied",
+    "not_triggered",
+    "blocked"
+  ],
+  "precedence": [
+    "Specific author-approved amendments and rejections govern applicable earlier instructions.",
+    "Approved exact manuscripts and verified private continuity govern existing canon. Candidates are not approved outcomes.",
+    "AD-0011 chapter 500 endpoint and AD-0014-A01 finale remain binding.",
+    "G3-scene verified at declared scope; G3-global separately tracked. G6 exact-version approval and closeout before next draft. G5 rights separate.",
+    "LCI complements LPM and NDM without displacing any prior obligation."
+  ],
+  "private_sources": [
+    {
+      "id": "AD-0016",
+      "locator": "/The Last Draw - Private Archive/TLD_PRIVATE_LIFE_IS_HAPPENING_v1.md",
+      "sha256": "320187b3218694676fcf6e9bf21e1ee152825a419b5cd99220b098108bc98076"
+    },
+    {
+      "id": "AD-0017",
+      "locator": "/The Last Draw - Private Archive/TLD_PRIVATE_LITERARY_WORKSHOP_v1.md",
+      "sha256": "3cfe6a3ae320bdd683662d68180b3c5b0262dbd71f1d1efdefa98fe45c8cb7a7"
+    }
+  ]
+}

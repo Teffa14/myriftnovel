@@ -1,0 +1,808 @@
+{
+  "schema_version": 1,
+  "usage": "Copy privately per exact version; never commit populated passage evidence.",
+  "repository_head": null,
+  "candidate_sha256": null,
+  "archive_sha256": null,
+  "stage": null,
+  "protocols": [
+    {
+      "path": ".agents/skills/README.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/registry.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-chapter-planning/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-closeout/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-competitive-evidence/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-continuity/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-editorial-review/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-originality/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-production/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-prose/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-publication/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-repository/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": ".agents/skills/tld-source-distillation/SKILL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/COMMUNITY/COMMUNITY_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/COMMUNITY/README.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/CORPUS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/CATALOG.tsv",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/CHAPTER_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/MASTER_PROMPT.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/METHOD.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/DISTILLATION_METHOD/OUTPUT_TEMPLATES.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/STATUS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/TECHNIQUES.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/CARD_CONTEXTS.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/LEGEND_PROFILES.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/FTG/SOURCE_PRIORITY.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/NLD/DECKBUILDING_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/NLM/TRANSFER_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/OUT/ROUTE_PROTOCOL.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/CONTRACT_READINESS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/EDITORIAL_MECHANISMS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/works/WNG/SERIAL_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/BLOCK_PATTERNS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/GENERATION_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/NARRATIVE_GRAMMAR/SENTENCE_PATTERNS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/ORIGINALITY/PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/ORIGINALITY/repetition_check.py",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/ORIGINALITY/test_repetition_check.py",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/STYLE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/TLD_VOICE_METHOD.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "02_STYLE_BIBLE/voice_audit.py",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "03_STORY_BIBLE/IDENTITY_AND_SETTING.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "03_STORY_BIBLE/PREMISE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "03_STORY_BIBLE/WORLD.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "04_CHARACTERS/CHARACTER_SYSTEM.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "04_CHARACTERS/DEVELOPMENT_REQUIREMENTS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "04_CHARACTERS/RELATIONSHIPS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/ARCS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/AUTHOR_DIRECTIVES.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/NARRATIVE_PEAK_LIBRARY.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "05_PLOT_ARCHITECTURE/SUBPLOTS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/AUTONOMOUS_PRODUCTION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/EVIDENCE/GRAVITY_FIELD_SOURCE_RECONCILIATION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/EVIDENCE/JUDGE_CASES/README.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/EVIDENCE/README.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/EVIDENCE/STRATEGY_AND_NARRATION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/RIFTBOUND/QA.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/RIFTBOUND/README.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/RIFTBOUND/sources.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/SCENE_INTEGRITY.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/SIMULATION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "06_COMPETITIVE_ENGINE/autonomous_evidence.js",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "07_CONTINUITY/CANON.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "07_CONTINUITY/NARRATIVE_MEMORY_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/CHAPTER_PRODUCTION_PLAYBOOK.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/CHARACTER_INTERLUDES.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/CHATGPT_PRODUCTION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PILOT_20.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PRODUCTION_STATUS.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROMPTS/FINAL_EXECUTION_PROMPT.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROMPTS/MASTER_AUTHOR_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROMPTS/RECURSIVE_DISTILLATION_PROMPT.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROTOCOL_APPLICATION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/PROTOCOL_REGISTRY.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "08_CHAPTERS/WORKFLOW.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "09_EDITORIAL_QA/CH0001_REVISION_BENCHMARKS.json",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "09_EDITORIAL_QA/EDITORIAL_SYSTEM.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "09_EDITORIAL_QA/SERIAL_QUALITY_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "10_PUBLICATION/AUTHOR_THOUGHTS_PROTOCOL.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "10_PUBLICATION/BRAND_IDENTITY.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "10_PUBLICATION/COMMERCIAL_STRATEGY.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "10_PUBLICATION/MARKET_VALIDATION.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
+      "path": "AGENTS.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    }
+  ],
+  "directives": [
+    {
+      "id": "AD-0001",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0002",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0003",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0004",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0005",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0006",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0006-A01",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0007",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0008",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0009",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0010",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0010-E01",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0010-E02",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0010-E03",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0011",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0012",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0013",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0014",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0014-A01",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0015",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0016",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    },
+    {
+      "id": "AD-0017",
+      "state": null,
+      "reason": null,
+      "evidence_locator": null
+    }
+  ],
+  "checks": [],
+  "blockers": [],
+  "approval": {
+    "explicit": false,
+    "exact_sha256": null
+  }
+}

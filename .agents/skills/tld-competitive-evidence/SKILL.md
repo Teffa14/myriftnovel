@@ -33,3 +33,10 @@ Use FTG's matchup prompts as untested hypotheses. Apply NLM role/tempo/resource 
 
 ## Output
 Private competitive_replay.json (even for L1 conditional evidence), sources_used, scene_claims, premises, state/events, execution_report, unverified_claims and verdict. No public detailed private plot or full copied card texts. If evidence cannot substantiate a line, revise it or omit the technical assertion; preserve stakes and disclose scope.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

@@ -44,3 +44,19 @@ AD-0007: apply the character-specific CD requirements and cross-character gates 
 AD-0014: CH20 is the special A01 main-chapter finale. Follow 08_CHAPTERS/PILOT_20.md; track payoff readiness in CH15–19 briefs and use the entire approved pilot's source-linked promises, earned consequences and remaining obligations in the CH20 brief. Permit justified expanded length and scene form, preserve independent agency and honest competitive results, reserve aftermath, and transition to CH21. Do not predetermine new outcomes or approve prose.
 
 AD-0014-A01: plan CH15–19 as a continuous causal approach to CH20 Grand Finale d'Arc. Include the incoming and outgoing dependency, local reward, order/deletion test, continuity constraints, and fallback in each private brief. Use actual accepted prior evidence; no automatic advancement.
+
+## Cumulative protocol dependencies
+- 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md
+- 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md
+- 02_STYLE_BIBLE/TLD_VOICE_METHOD.md
+- 01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md
+- 01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md
+- 04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md
+- 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

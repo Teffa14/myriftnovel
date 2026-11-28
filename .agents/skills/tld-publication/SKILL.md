@@ -25,3 +25,10 @@ Use consent-based audience validation, actual cohorts and retention data, not in
 No submitting applications, signing, public release, uploading cover/manuscript, or changing rights/contract settings without explicit authorization and required gate checks. Keep unpublished outline and manuscript private. Provide a readiness report, concrete blockers, next achievable milestones and source dates.
 
 For Author's Thoughts, apply AD-0005 and the linked protocol. Deliver optional separate notes, maintain verified author voice and actual reader data, and never post or change account settings without author authorization.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

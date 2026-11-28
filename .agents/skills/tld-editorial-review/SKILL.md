@@ -34,3 +34,18 @@ AD-0013: review against 02_STYLE_BIBLE/TLD_VOICE_METHOD.md, using 02_STYLE_BIBLE
 AD-0014-A01: for CH15–19 review the concrete incoming and outgoing causal links, local reward, continuity and order/deletion test in PILOT_20.md; require material contribution to CH20 without forced outcomes or cliffhangers. Distinguish provisional candidate developments from approved history.
 
 AD-0017: apply 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md; record exact private passage evidence for experiential depth and meaningful revisions, evaluate alternatives when appropriate, preserve protected facts and all prior checks. No technique-count score or fabricated reader response.
+
+## Cumulative protocol dependencies
+- 05_PLOT_ARCHITECTURE/LIFE_PRESSURE.md
+- 05_PLOT_ARCHITECTURE/SLICE_OF_LIFE.md
+- 05_PLOT_ARCHITECTURE/LONG_RANGE_PAYOFFS.md
+- 01_RESEARCH/COMMUNITY/DISCOURSE_INDEX.md
+- 01_RESEARCH/COMMUNITY/CONFLICT_INDEX.md
+- 04_CHARACTERS/ANTAGONIST_ARCHITECTURE.md
+- 05_PLOT_ARCHITECTURE/INDEPENDENT_LIFE_ARCHITECTURE.md
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

@@ -30,3 +30,10 @@ Do not promote provisional records until explicit author approval of exact bytes
 
 ## Output
 Private preflight record, verified archive identity, relevant state constraints and candidate continuity_delta.json. Report real blockers if inaccessible; no public detailed state or spoilers. Structural pass is not semantic certification.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

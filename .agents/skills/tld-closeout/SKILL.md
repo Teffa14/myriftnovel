@@ -26,3 +26,12 @@ Build next private archive version, manifest, approved exact text, retirement/us
 Only after private verification, update public-safe production/originality status, aggregate mechanisms and applicable protocol references through tld-repository. No private prose, distinctive language, spoilers or detailed continuity records in public Git. Recheck public ref and paths; G6 closes only with verified private archive and explicit approval.
 ## Output
 Exact revision/hash, private archive locator, actual checks and scoped limitations, public commit SHA, current production state. No automatic next chapter or publication; author remains the literary approver.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

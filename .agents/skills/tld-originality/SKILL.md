@@ -22,3 +22,12 @@ Run repetition_check.py and the archive's future guard in their documented conte
 Repair material reuse by fresh realization, not synonym swaps or punctuation changes. Do not impose awkward word bans. Retest candidate after changes. Do not claim exhaustive external-source originality or semantic certification from lexical checks. Keep retired spans, fingerprints and detailed evidence private; do not expose earlier prose in public commit.
 ## Gate
 Produce repetition_report.json, semantic_review.md and local exception ledger with exact candidate hash, coverage, flags, resolutions and limitations. No unresolved material reuse; author approval still required. G6 also requires actual post-approval close-out by tld-closeout; a draft audit alone cannot pass the full gate.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+- 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md
+- 01_RESEARCH/REFERENCE_LIBRARY/LITERARY_CRAFT_REFERENCES.md
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.

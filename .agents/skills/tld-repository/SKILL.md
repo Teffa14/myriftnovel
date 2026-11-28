@@ -24,3 +24,10 @@ Read back current branch and every changed path. Execute checks in this session 
 
 ## Output
 Record base/final SHA, paths, intended changes, coverage, actual checks, and remaining limitations. Public status must reflect exact verified private acceptance, not an inferred milestone. If access/write fails, deliver safe local work and describe what remains uncommitted.
+
+## Cumulative protocol dependencies
+- 08_CHAPTERS/PROTOCOL_REGISTRY.json
+- 08_CHAPTERS/PROTOCOL_APPLICATION.md
+- 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json
+
+Resolve the live master register and apply every governing protocol cumulatively. Record private exact-version evidence, conditional applicability and real blockers; preserve approval, canon, scope and rights gates.
