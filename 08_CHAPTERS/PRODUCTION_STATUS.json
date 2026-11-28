@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-26",
+  "as_of": "2026-11-27",
   "chapter_01": {
     "status": "author_approved_and_distilled",
     "revision": "V4.1",
@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v19.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v20.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1213,
-    "events": 154,
-    "approved_records": 1213,
-    "open_issue_groups": 21,
+    "records": 1272,
+    "events": 162,
+    "approved_records": 1272,
+    "open_issue_groups": 22,
     "structural_validation": "Fresh Library readback PASS; scoped same-agent semantic review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v19.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v20.zip"
   },
   "archive_checks": {
-    "passed": 58,
+    "passed": 70,
     "failed": 0,
-    "scope": "Exact reviewed V2, prior archive and source integrity, 18 prior units and 578 retired resources screened, LPM descriptive diagnostics, source-linked continuity, supplement ordering and negative controls. Fresh persistent Library byte readback, CRC, manifest, continuity, LPM and 4/4 guard regression separately verified."
+    "scope": "Exact V2 source, 19 approved prior units, 599 retired resources, LPM descriptive diagnostics, nine conditional arithmetic cases with allocation checks, source-linked continuity, manifest/order negative controls and regressions. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four guard regressions separately verified."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -880,6 +880,34 @@
     "approval": "Author requested distile all and do process after exact V2 editorial review; exact normalized reviewed bytes preserved without changes.",
     "author_directive_alignment": "Ten private directive hashes preserved and checked against prior archive; scoped alignment; AD-0014-A01 main-chain dependencies unchanged. No prospective dates or outcomes promoted.",
     "literary_review": "Prior subjective editorial assessment retained privately; no independent reader evidence.",
+    "publication": "not published by this work",
+    "next_gate": "closed"
+  },
+  "chapter_16": {
+    "status": "author_approved_and_distilled",
+    "revision": "V2",
+    "title": "Breakpoint",
+    "words_excluding_headings": 1952,
+    "lpm_words": 1944,
+    "paragraphs": 73,
+    "scenes": 2,
+    "retired_resources": 24,
+    "abstract_usage_records": 16,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 1945,
+    "competitive_scope": "L1 conditional staged combat; L0 registration; no full match or deck legality certification",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v20.zip",
+    "archive_sha256": "c56e8c830bf865fae339fe63830e226ead24c30aabf887f2de01295df5467bb2",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and regression verified",
+    "checks": {
+      "passed": 70,
+      "failed": 0,
+      "scope": "Exact V2 source, 19 approved prior units, 599 retired resources, LPM descriptive diagnostics, nine conditional arithmetic cases with allocation checks, source-linked continuity, manifest/order negative controls and regressions. Persistent Library exact-byte readback, CRC, safe paths, manifest, continuity and four guard regressions separately verified."
+    },
+    "approval": "Author requested distile and tho whole process after exact V2 review. Original upload preserved; registered manuscript changes Markdown heading and separator only.",
+    "author_directive_alignment": "AD-0014-A01 incoming/outgoing dependency integrated; ten private directive hashes verified against prior archive; no future tournament result or pairing promoted. Concurrent community research commit preserved.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "closed"
   }
