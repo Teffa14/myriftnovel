@@ -65,20 +65,20 @@
     "archive_requirement": "supplement-aware migration and regression checks executed; archived alongside unchanged CH0001 V4.1",
     "publication": "not published"
   },
-  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip",
+  "authoritative_private_archive": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v25.zip",
   "private_archive_integrity_verified": true,
   "continuity": {
-    "records": 1514,
-    "events": 201,
-    "approved_records": 1514,
-    "open_issue_groups": 26,
+    "records": 1576,
+    "events": 208,
+    "approved_records": 1576,
+    "open_issue_groups": 27,
     "structural_validation": "Fresh persistent Library readback PASS; scoped same-agent review",
-    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip"
+    "private_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v25.zip"
   },
   "archive_checks": {
-    "passed": 97,
+    "passed": 39,
     "failed": 0,
-    "scope": "97 local closeout checks reported in the private QA dossier; exact persistent Library readback independently verified this turn by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest, continuity and four Future Guard regressions. G3 L1 conditional checks only; full replay, exhaustive protocol body audit, external detector and independent reader/judge certification not completed."
+    "scope": "39 local closeout checks passed; exact persistent Library readback separately verified by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest (25 units), continuity and four Future Guard regressions. L0; scoped protocol review, no exhaustive body audit, external JS detector or independent reader certification."
   },
   "chapter_03": {
     "status": "author_approved_and_distilled",
@@ -1032,5 +1032,38 @@
     "literary_review": "Prior subjective assessment; no independent reader or authorship certification.",
     "publication": "not published by this work",
     "next_gate": "Closed for approved chapter registration; dedicated arc readiness and protocol review before new drafting."
+  },
+  "chapter_20_1": {
+    "status": "author_approved_and_distilled",
+    "display_number": "20.5",
+    "internal_id": "CH0020.1",
+    "unit_type": "supplement",
+    "parent_number": 20,
+    "supplement_index": 1,
+    "revision": "V2",
+    "title": "Out of Frame",
+    "words_excluding_headings": 1866,
+    "lpm_words": 1870,
+    "paragraphs": 67,
+    "scenes": 4,
+    "retired_resources": 25,
+    "abstract_usage_records": 19,
+    "variant_candidates": 0,
+    "lexical_fingerprints": 1859,
+    "competitive_scope": "L0 optional narrative supplement",
+    "private_archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v25.zip",
+    "archive_sha256": "f88f644e2983aa4cf166598a4e394e316fb0da2e38e712eab26df20062bfb951",
+    "private_archive_integrity_verified": true,
+    "archive_storage": "Persistent Library exact-byte readback, CRC, manifest, continuity and four guard regressions verified.",
+    "checks": {
+      "passed": 39,
+      "failed": 0,
+      "scope": "39 local closeout checks passed; exact persistent Library readback separately verified by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest (25 units), continuity and four Future Guard regressions. L0; scoped protocol review, no exhaustive body audit, external JS detector or independent reader certification."
+    },
+    "approval": "Author explicitly requested distillation and closeout after exact V2 review; raw source preserved privately, reversible archive markup only.",
+    "author_directive_alignment": "Scoped private evidence and preserved directives; full cumulative protocol body certification pending.",
+    "literary_review": "Prior subjective editorial assessment retained privately; no independent reader evidence.",
+    "publication": "not published by this work",
+    "next_gate": "Closed for approved supplement registration; dedicated arc readiness and protocol review before new drafting."
   }
 }

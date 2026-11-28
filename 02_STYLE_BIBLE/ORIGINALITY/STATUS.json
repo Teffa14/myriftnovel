@@ -1,13 +1,13 @@
 {
   "version": "2.0",
   "approved_chapters_registered": 20,
-  "retired_resources_registered": 751,
-  "manuscript_audits": 24,
+  "retired_resources_registered": 776,
+  "manuscript_audits": 25,
   "reference_library": {
     "works": 4,
     "candidate_entries": 190,
     "original_blocks": 75,
-    "own_approved_units": 24,
+    "own_approved_units": 25,
     "new_variant_candidates": 40
   },
   "tests": {
@@ -15,12 +15,12 @@
     "passed": 5,
     "scope": "local lexical checker smoke tests; no production chapters"
   },
-  "private_archive": "Authoritative v24 persisted in private Library; exact bytes and SHA-256 readback verified",
+  "private_archive": "Authoritative v25 persisted in private Library; exact bytes and SHA-256 readback verified",
   "semantic_detector": "editorial review required; no automated semantic validation claimed",
   "thresholds": "provisional",
-  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v24.zip",
-  "usage_records": 399,
-  "lexical_fingerprints_registered": 50046,
+  "archive_locator": "/The Last Draw - Private Archive/THE_LAST_DRAW_PRIVATE_ARCHIVE_v25.zip",
+  "usage_records": 418,
+  "lexical_fingerprints_registered": 51905,
   "chapter_1": {
     "revision": "V4.1",
     "literary_approval": "explicit author approval 2026-11-25",
@@ -43,8 +43,8 @@
     "failed": 0,
     "scope": "14 archive/distillation checks and 4 future guard smoke tests in Python; not competitive replay or reader study"
   },
-  "approved_supplements_registered": 4,
-  "approved_units_registered": 24,
+  "approved_supplements_registered": 5,
+  "approved_units_registered": 25,
   "chapter_1_1": {
     "revision": "V4",
     "words": 2186,
@@ -526,5 +526,27 @@
     "passed": 97,
     "failed": 0,
     "scope": "97 local closeout checks reported in the private QA dossier; exact persistent Library readback independently verified this turn by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest, continuity and four Future Guard regressions. G3 L1 conditional checks only; full replay, exhaustive protocol body audit, external detector and independent reader/judge certification not completed."
+  },
+  "chapter_20_1": {
+    "display_number": "20.5",
+    "revision": "V2",
+    "words": 1866,
+    "lpm_words": 1870,
+    "paragraphs": 67,
+    "scenes": 4,
+    "distinctive_retired_spans": 25,
+    "usage_records": 19,
+    "abstract_variants": 0,
+    "lexical_fingerprints": 1859,
+    "prior_exact_8gram_matches": 0,
+    "retired_span_matches": 0,
+    "internal_5gram_flags": 0,
+    "g3": "L0 optional narrative supplement",
+    "g6": "Author-approved, distilled, persisted and verified; scoped review, not exhaustive protocol certification"
+  },
+  "chapter_20_1_registration_checks": {
+    "passed": 39,
+    "failed": 0,
+    "scope": "39 local closeout checks passed; exact persistent Library readback separately verified by byte comparison, SHA-256, ZIP CRC, safe unique paths, manifest (25 units), continuity and four Future Guard regressions. L0; scoped protocol review, no exhaustive body audit, external JS detector or independent reader certification."
   }
 }
