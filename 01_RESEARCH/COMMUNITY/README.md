@@ -4,3 +4,6 @@ Files: sources.json (24), voice_profiles.json (14), dialogue_exercises.json (36 
 
 ## November 27, 2026 — Discourse extension
 [DISCOURSE_INDEX.md](DISCOURSE_INDEX.md) indexes [DISCOURSE_2026-11-27.json](DISCOURSE_2026-11-27.json): 37 additional Reddit threads, 15 context sources and 18 original source-linked scene mechanisms. The original 24-thread snapshot and its QA remain unchanged; total historical Reddit thread inventory is 61. See the extension QA for limits. Do not treat sample as population sentiment.
+
+## November 27 — judge disputes and antagonism
+[CONFLICT_INDEX.md](CONFLICT_INDEX.md) adds 14 new Reddit threads (75 unique historical threads), three official context sources, 12 conflict mechanisms and eight fictional recurring-antagonist candidates. Earlier snapshots remain unchanged. See the dated QA; no confirmed disciplinary findings or comprehensive social crawl.

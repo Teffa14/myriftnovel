@@ -1,0 +1,572 @@
+{
+  "snapshot": "2026-11-27",
+  "scope": "Targeted qualitative sampling. Do not equate anecdote, rumor, actual rule violation and official finding; no raw comments, real identities, copied match sequences, direct disciplinary verification or representative prevalence. Unknown exact publication dates remain null.",
+  "reddit": [
+    {
+      "id": "COM-062",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xxgdth/what_constitutes_angleshooting/",
+      "topic": "Angle shooting debate",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "Participants dispute where legitimate enforcement ends and abusive procedural pressure begins; commenters distinguish cheating from other conduct. The thread asks for definitions rather than adjudicating a specific opponent.",
+      "coverage": "opened post and visible comments",
+      "tags": [
+        "procedural pressure",
+        "competing definitions",
+        "intimidation"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-063",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xtur01/dont_hesitate_to_call_a_judge/",
+      "topic": "Claimed authority",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A poster describes an opponent invoking outside judge experience and online play to insist on an interpretation. Replies discuss why confidence or claimed credentials cannot settle a table dispute.",
+      "coverage": "opened post and visible comments",
+      "tags": [
+        "status pressure",
+        "embarrassment",
+        "independent adjudication"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-064",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1vvo1od/my_biggest_lessons_so_far_from_rq_barcelona_rant/",
+      "topic": "First regional regret",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player recounts two uncomfortable disputes, one involving a game-state correction and another involving concerns about deck handling. They regret not seeking timely adjudication and distinguish the possibility of an honest error from suspected misconduct. No disciplinary conclusion established.",
+      "coverage": "opened post excerpt",
+      "tags": [
+        "inexperience",
+        "reluctance to speak",
+        "communication"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-065",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1rcf6zz/day_2_judge_call_allowed_my_opponent_to_get_away/",
+      "topic": "Disputed remedy and lost opportunity",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player reports repeated errors and a contested remedy in a consequential match and believes qualification and prize opportunities were lost. The headline alleges cheating; neither intent nor adjudication correctness is established by this report.",
+      "coverage": "opened post excerpt",
+      "tags": [
+        "high stakes",
+        "perceived injustice",
+        "conflicting accounts"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-066",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1rcq87p/another_unfortunate_rq_bologna_story/",
+      "topic": "Conflicting judge interpretations",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player describes a critical rules question, disagreement between officials, escalation to the head judge, a delayed match and a tie. Comments dispute whether the game could have been repaired. The same post reports concerns about group behavior at side events; no verification of collusion.",
+      "coverage": "opened post and selected comments",
+      "tags": [
+        "official disagreement",
+        "delay",
+        "trust"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-067",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1vnt9kw/is_this_reaction_common/",
+      "topic": "Online rage quit",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "An online practice player reports an opponent departing after an unfavorable disagreement over a ruling. Replies contrast online and paper experiences and provide differing accounts of behavior.",
+      "coverage": "opened post and visible comments",
+      "tags": [
+        "rage quit",
+        "hostility",
+        "online versus physical play"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-068",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1y34ugh/what_would_you_all_do/",
+      "topic": "Social pressure after a result",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player reports conceding after being told they had won, because discussion involving another participant's friend became uncomfortable. Replies disagree about the official's responsibility and stress the player's agency. Verify dated event policy separately; do not reuse the reported result sequence.",
+      "coverage": "opened post and selected comments",
+      "tags": [
+        "social pressure",
+        "boundaries",
+        "regret"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-069",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1pwhiit/judge_etiquette/",
+      "topic": "Judge accessibility",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A discussion among prospective and experienced officials identifies reluctance to report rudeness or slow pace during a match, and the value of making officials accessible or permitting private conversations.",
+      "coverage": "opened visible comments",
+      "tags": [
+        "judge trust",
+        "private reporting",
+        "inclusion"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-070",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1onlah8/am_i_the_asshole_riftbound_edition/",
+      "topic": "Dismissive local culture",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A participant describes having rules objections repeatedly rejected despite consulting the rulebook and being mocked when reporting the experience. They contrast this with a friendly earlier match. The report suggests gatekeeping and inconsistent treatment; no finding about motive, store or real people is established.",
+      "coverage": "opened post excerpt",
+      "tags": [
+        "humiliation",
+        "gatekeeping",
+        "local favoritism"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-071",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1pzi1fo/people_that_dont_know_the_rules_and_get_mad_are/",
+      "topic": "Arguments over knowledge",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "Replies describe occasional angry or all-caps online disputes but also patient opponents, ordinary misunderstandings and different expectations at casual versus competitive events.",
+      "coverage": "opened visible comments",
+      "tags": [
+        "overconfidence",
+        "rage",
+        "counterexamples"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-072",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1u1r6l2/table_etiquette/",
+      "topic": "Unfamiliar does not mean improper",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A newcomer wonders whether an opponent shuffling their deck is rude. Replies explain that the practice can be normal at higher competitive levels. Verify the applicable official rule before narrating any actual dispute.",
+      "coverage": "opened post and selected comments",
+      "tags": [
+        "false suspicion",
+        "consent expectations",
+        "norms"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-073",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1x3k1s9/how_do_you_deal_with_slow_playing/",
+      "topic": "Round length and comeback frustration",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A player reports incomplete matches and frustration after losing game one without time to recover. Replies discuss round duration, complex decisions and requesting official oversight. Intentional delay is not established.",
+      "coverage": "opened post and selected comments",
+      "tags": [
+        "time frustration",
+        "logistics",
+        "pace"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-074",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1xqfkbs/resources_to_help_defend_against_cheating/",
+      "topic": "Reluctance to report",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "A community post seeks resources about defending fair play and discusses how reluctance to appear rude can discourage players from raising concerns. The linked older Magic article was not analyzed here.",
+      "coverage": "indexed post excerpt only",
+      "tags": [
+        "assertiveness",
+        "fear of confrontation"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    },
+    {
+      "id": "COM-075",
+      "platform": "reddit",
+      "subreddit": "r/riftboundtcg",
+      "url": "https://www.reddit.com/r/riftboundtcg/comments/1wpr659/cheating_penalties_and_coverage/",
+      "topic": "Rudeness versus cheating in coverage",
+      "published_date": null,
+      "accessed_date": "2026-11-27",
+      "observation": "An indexed discussion distinguishes perceived rude conduct from allegations of cheating and discusses penalties and coverage. No specific real-person allegation, identity or outcome is retained.",
+      "coverage": "indexed excerpt only",
+      "tags": [
+        "public reputation",
+        "evidence",
+        "proportionality"
+      ],
+      "evidence_type": "public discussion, self-report or commentary; not an adjudicated finding",
+      "primary": false
+    }
+  ],
+  "official_context": [
+    {
+      "id": "JCTX-01",
+      "url": "https://playriftbound.com/en-us/rules-hub/",
+      "type": "official rules index",
+      "observation": "Core and Tournament Rules listed as last updated 2026-10-09. Check the exact effective version, card text, format, region and event policy for each scene.",
+      "coverage": "opened index"
+    },
+    {
+      "id": "JCTX-02",
+      "url": "https://playriftbound.com/en-us/news/announcements/october-2026-tournament-rules-changelog/",
+      "type": "official change explanation",
+      "observation": "Explains gameplay-decision flexibility and distinct casual/high-OPL expectations. Legitimate strict play and honest disagreement are not automatically misconduct. Verify the actual rule rather than applying an illustrative example universally.",
+      "coverage": "opened article excerpt"
+    },
+    {
+      "id": "JCTX-03",
+      "url": "https://playriftbound.com/en-us/news/organizedplay/regional-championship-na-rules-update/",
+      "type": "official event-specific policy",
+      "observation": "November 23 announcement identifies North American Regional Championship-specific policy and clarification; not a universal concession or reporting rule. Confirm event and effective scope.",
+      "coverage": "opened article excerpt"
+    }
+  ],
+  "existing_references": [
+    "COM-002",
+    "COM-007",
+    "COM-015",
+    "COM-021",
+    "COM-025",
+    "COM-026",
+    "COM-028",
+    "COM-049"
+  ],
+  "cases": [
+    {
+      "id": "JC01",
+      "theme": "Credential pressure",
+      "source_ids": [
+        "COM-063",
+        "COM-064"
+      ],
+      "observed_mechanism": "An opponent treats familiarity with staff or claimed rules experience as a substitute for a neutral answer.",
+      "fictional_seed": "A nervous competitor hesitates to raise an objection because others recognize the opponent.",
+      "guardrail": "Calm request for neutral official assistance; genuine uncertainty stays open.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC02",
+      "theme": "Procedural hostility",
+      "source_ids": [
+        "COM-062",
+        "COM-075",
+        "JCTX-02"
+      ],
+      "observed_mechanism": "A dispute over whether a correction is acceptable becomes personal.",
+      "fictional_seed": "A spectator interprets precision as hostility even when a correction may be legitimate.",
+      "guardrail": "Separate conduct, facts, intent and actual ruling; never teach procedural abuse.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC03",
+      "theme": "Time-pressure resentment",
+      "source_ids": [
+        "COM-021",
+        "COM-025",
+        "COM-026",
+        "COM-028",
+        "COM-073"
+      ],
+      "observed_mechanism": "A frustrated player feels robbed of a chance to finish; a complex match or inadequate event scheduling can contribute.",
+      "fictional_seed": "A rivalry grows from repeated incomplete games and an unresolved perception of unfairness.",
+      "guardrail": "Judge evaluates pace, not the player's popularity; no automatic penalty or invented time threshold.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC04",
+      "theme": "Conflicting adjudication",
+      "source_ids": [
+        "COM-065",
+        "COM-066",
+        "JCTX-01"
+      ],
+      "observed_mechanism": "Officials disagree and uncertainty has consequences for the round.",
+      "fictional_seed": "An otherwise fair opponent relies on advice already received; neither wants responsibility for repairing the state.",
+      "guardrail": "Head-judge process and remedy must be verified; no arbitrary rewind or moral assumption.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC05",
+      "theme": "Public humiliation and favoritism",
+      "source_ids": [
+        "COM-002",
+        "COM-070"
+      ],
+      "observed_mechanism": "A local regular's social status outweighs a newcomer speaking up, according to a report.",
+      "fictional_seed": "A new player is correct about a narrow point but is dismissed as inexperienced.",
+      "guardrail": "A separate fair official and peers can restore confidence; no copied incident or protected-identity stereotype.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC06",
+      "theme": "Social coercion",
+      "source_ids": [
+        "COM-068",
+        "JCTX-03"
+      ],
+      "observed_mechanism": "A competitor fears appearing selfish when defending an earned result.",
+      "fictional_seed": "A rival's companions make an ordinary result feel socially costly.",
+      "guardrail": "Maintain boundaries; official result determined under verified event rules; no negotiated improper result.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC07",
+      "theme": "Rage and disengagement",
+      "source_ids": [
+        "COM-067",
+        "COM-071"
+      ],
+      "observed_mechanism": "Disagreement ends a practice session and makes future cooperation difficult.",
+      "fictional_seed": "An opponent sends a hostile message, leaves practice and later encounters the group in paper.",
+      "guardrail": "Distinguish online venting from threats and enforce appropriate conduct boundaries.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC08",
+      "theme": "Misread norms",
+      "source_ids": [
+        "COM-072",
+        "COM-071",
+        "JCTX-02"
+      ],
+      "observed_mechanism": "A novice reads an ordinary competitive practice as antagonism.",
+      "fictional_seed": "A feared opponent is actually acting within the rules and explains it without condescension.",
+      "guardrail": "Provide fair counterexamples; a correct ruling is not a punishment.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC09",
+      "theme": "Reporting climate",
+      "source_ids": [
+        "COM-069",
+        "COM-074",
+        "COM-064"
+      ],
+      "observed_mechanism": "Players delay reporting because they fear embarrassment or social costs.",
+      "fictional_seed": "A recurring organizer makes officials accessible to a group that usually avoids asking.",
+      "guardrail": "Private factual reporting; no public witch hunt.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC10",
+      "theme": "Reward-oriented attendance",
+      "source_ids": [
+        "COM-007",
+        "COM-049"
+      ],
+      "observed_mechanism": "Participants value prizing more than actually playing.",
+      "fictional_seed": "A regular routinely arrives for incentives and leaves friends short of games.",
+      "guardrail": "Differentiate allowed choices from actual violations; no invented entitlement.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC11",
+      "theme": "Rules literacy mismatch",
+      "source_ids": [
+        "COM-015",
+        "COM-070",
+        "COM-071"
+      ],
+      "observed_mechanism": "Confidence and correctness diverge.",
+      "fictional_seed": "A person loudly remembers an obsolete rule and gradually loses trust.",
+      "guardrail": "Verify dated text; honest correction is ordinary.",
+      "status": "original candidate, not occurred canon"
+    },
+    {
+      "id": "JC12",
+      "theme": "Reputation outside the table",
+      "source_ids": [
+        "COM-075",
+        "COM-062",
+        "COM-068"
+      ],
+      "observed_mechanism": "Disputed conduct becomes exaggerated in community discussion.",
+      "fictional_seed": "A clip or retelling omits context, producing divided opinions.",
+      "guardrail": "Keep evidence, allegations and opinion separate; no real-world targets.",
+      "status": "original candidate, not occurred canon"
+    }
+  ],
+  "antagonist_candidates": [
+    {
+      "id": "ANT01",
+      "role": "The local king",
+      "competence_and_motive": "An established player with real skill, a large social circle and an expectation of deference.",
+      "first_encounter": "Makes a newer player feel foolish in front of familiar spectators after a legitimate win; the regulars laugh or let it pass.",
+      "escalation": "Wins again at a different venue; dismisses opponents' improvement as luck; one friend is denied a fair chance to be heard.",
+      "reversal": "A respected peer declines to endorse the behavior, making the status advantage weaker before any rematch.",
+      "candidate_payoff": "A later independently validated win against this player, with the earlier target choosing how to respond. No obligatory public humiliation.",
+      "complexity": "Can remain excellent at the game and kind to selected friends.",
+      "case_ids": [
+        "JC01",
+        "JC05",
+        "JC11"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT02",
+      "role": "The procedural bully",
+      "competence_and_motive": "A precise, experienced player who treats uncertainty as a weakness in other people.",
+      "first_encounter": "A new competitor is made uncomfortable by the player's contempt during a legitimate rules discussion.",
+      "escalation": "Multiple encounters create reluctance to ask questions and change what the group expects from serious events; not every call is improper.",
+      "reversal": "An official clarifies boundaries and the protagonist learns to communicate clearly without arguing or surrendering legitimate concerns.",
+      "candidate_payoff": "A credible rematch resolved by actual decisions, with any real procedural question impartially handled. The antagonist must face a rival who no longer fears them.",
+      "complexity": "May be correct on rules and still unpleasant; calling a judge is never itself villainy.",
+      "case_ids": [
+        "JC01",
+        "JC02",
+        "JC09"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT03",
+      "role": "The smiling superior",
+      "competence_and_motive": "An accomplished competitive player who is pleasant in public but dismisses others' time and work.",
+      "first_encounter": "Compliments an underfunded opponent in a patronizing way after a loss, then ignores a serious question.",
+      "escalation": "Uses reputation to exclude developing players from practice or minimizes their progress; the protagonist has to build alternatives independently.",
+      "reversal": "A capable teammate declines the superior player's assumptions about who deserves attention.",
+      "candidate_payoff": "The excluded player earns a result against the antagonist through demonstrated practice and independently validated decisions.",
+      "complexity": "May offer genuine helpful advice elsewhere; avoid making wealth or expertise the evil.",
+      "case_ids": [
+        "JC05",
+        "JC12"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT04",
+      "role": "The sore winner",
+      "competence_and_motive": "A strong local whose sense of worth depends on winning and receiving admiration.",
+      "first_encounter": "Wins legitimately but turns ordinary match discussion into repeated belittling of the opponent.",
+      "escalation": "After later losses, makes excuses, disparages unfamiliar decks, and tries to reframe friends' successes as bad luck.",
+      "reversal": "Someone the rival respects stops rewarding their postgame behavior; other players continue with their own lives.",
+      "candidate_payoff": "A long-awaited defeat that leaves the rival no persuasive competitive excuse, followed by the main character choosing whether to engage at all.",
+      "complexity": "No forced tantrum, handshake refusal or punishment; use believable individual behavior.",
+      "case_ids": [
+        "JC07",
+        "JC11",
+        "JC12"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT05",
+      "role": "The prize-only regular",
+      "competence_and_motive": "A competent player who regards locals principally as an income or collectible opportunity.",
+      "first_encounter": "Leaves a casual-minded player feeling that a paid event offered little actual play.",
+      "escalation": "Disagreement spreads over store incentives; their choices repeatedly conflict with others' desire to build a community.",
+      "reversal": "Organizer makes independent, fair attendance and event decisions rather than targeting one person.",
+      "candidate_payoff": "Competitive rival earns an honest result while the community also gains an event environment in which games matter.",
+      "complexity": "Prize motivation and legal withdrawal are valid; misconduct must be established separately.",
+      "case_ids": [
+        "JC10",
+        "JC06"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT06",
+      "role": "The untouchable favorite",
+      "competence_and_motive": "A popular competitor whose friends defend their interpretation of every disagreement.",
+      "first_encounter": "A less established participant feels pressured to defer in an awkward post-match conversation.",
+      "escalation": "The wider circle repeats the story with missing context; opportunities and social invitations shift.",
+      "reversal": "A member of the circle disagrees with the group's treatment after witnessing a separate incident; do not manufacture consensus.",
+      "candidate_payoff": "An independently earned result with fair reporting and a previously intimidated player asserting an ordinary boundary.",
+      "complexity": "The rival need not have initiated every act by friends; track actual responsibility.",
+      "case_ids": [
+        "JC06",
+        "JC05",
+        "JC12"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT07",
+      "role": "The volatile practice partner",
+      "competence_and_motive": "A genuinely talented online and paper player whose frustration makes collaboration unreliable.",
+      "first_encounter": "Abandons a practice session after disagreement and leaves the team without promised testing.",
+      "escalation": "Returns with useful ideas and later repeats dismissive conduct, making the cost of cooperation real.",
+      "reversal": "Other players stop relying on the promise and establish explicit boundaries; genuine expertise remains recognized.",
+      "candidate_payoff": "An eventual contest in which preparation succeeds despite loss of access to this person's expertise; a win is optional until verified.",
+      "complexity": "No clinical label; apology and repair are possible without erasing prior consequences.",
+      "case_ids": [
+        "JC07",
+        "JC11"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    },
+    {
+      "id": "ANT08",
+      "role": "The feared clock specialist",
+      "competence_and_motive": "A methodical player with good results and a reputation that makes others anxious about timed rounds.",
+      "first_encounter": "A first encounter ends without the newcomer feeling they had a fair chance to recover; actual intent remains uncertain.",
+      "escalation": "Further timed encounters create frustration, while another opponent points out that legitimate complex play can be slow.",
+      "reversal": "A neutral official handles an independently observed pace concern according to event policy; the protagonist also improves their own preparation.",
+      "candidate_payoff": "A later fair, completed, validated match gives a real chance to compete; if a win occurs it is earned, not awarded for resentment.",
+      "complexity": "Never equate deliberate cheating with slow but legitimate play; no how-to for exploiting time.",
+      "case_ids": [
+        "JC03",
+        "JC08",
+        "JC09"
+      ],
+      "status": "fictional antagonist candidate; no name, existing cast assignment, chapter location or match outcome approved"
+    }
+  ]
+}

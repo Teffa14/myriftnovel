@@ -1,0 +1,28 @@
+{
+  "snapshot": "2026-11-27",
+  "base_commit": "6348f9bdf77757370741f9b6b858747acf89c7ae",
+  "counts": {
+    "previous_threads": 61,
+    "new_threads": 14,
+    "total_unique_threads": 75,
+    "official_context": 3,
+    "existing_references": 8,
+    "cases": 12,
+    "antagonist_candidates": 8,
+    "opened_threads": 12,
+    "indexed_only": 2
+  },
+  "checks": {
+    "unique_posts": true,
+    "unique_source_ids": true,
+    "case_refs": true,
+    "existing_refs": true,
+    "unique_cases": true,
+    "unique_antagonists": true,
+    "antagonist_refs": true,
+    "full_stage_fields": true,
+    "unapproved_status": true,
+    "coverage_counts": true
+  },
+  "method": "Executed JavaScript structural deduplication and cross-reference checks; qualitative synthesis from opened web excerpts and indexed results. Exact page bytes not retrieved; no full thread transcript, raw comment corpus, lexical statistics or official adjudication of individual anecdotes."
+}
