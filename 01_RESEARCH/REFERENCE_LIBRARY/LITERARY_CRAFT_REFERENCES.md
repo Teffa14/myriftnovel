@@ -1,5 +1,5 @@
 # Literary craft research — Workshop 01
-2026-11-27. Companion reference register to ../../02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md (repository path: 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md). Status: partial/provisional workshop evidence; not six ANALYZED/complete works. Recovered private workshop reports the following access; this integration reads the workshop, not a fresh full reading of the sources. No source text or fictional manuscript stored here. IDs R01–R06 are workshop-local aliases, not competing catalog work IDs; reconcile against CATALOG.tsv before adding full work entries.
+2026-11-27. Companion reference register to ../../02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md (repository path: 02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md). Status: partial/provisional workshop evidence; not six ANALYZED/complete works. Recovered private workshop reports the following access; this integration reads the workshop, not a fresh full reading of the sources. No source text or fictional manuscript stored here. IDs R01–R06 are workshop-local aliases mapped to provisional catalog IDs LC-MB, LC-EV, LC-LLD, LC-MF, LC-PE, LC-TD respectively; none claims a completed chapter analysis.
 
 | ID | Work | Reported source locator / coverage | Transfer and limits |
 | --- | --- | --- | --- |
@@ -11,3 +11,5 @@
 | R06 | James Joyce, The Dead | https://www.gutenberg.org/files/2814/2814-h/2814-h.htm ; indexed final passages, full-page request failed | Recontextualization and change of perceptual scale; ellipsis application is an editorial extrapolation; provisional. |
 
 The recovered workshop records Gutenberg errors/timeouts, selected excerpts from alternate sources, no complete source acquisition, source hashes or quantitative analysis. Full source edition/translator, exact paragraph locator and rights/access verification remain pending where absent. Before marking any work analyzed, follow CHAPTER_PROTOCOL.md and DISTILLATION_METHOD. Do not inflate novelty or source totals; cross-map LRF01–12 against existing TECHNIQUES.md and abstract usage under NDM. Source study must include literary craft beyond competitive fiction, with original exercises privately preserved and evaluated in actual prose.
+
+Private workshop: /The Last Draw - Private Archive/TLD_PRIVATE_LITERARY_WORKSHOP_v1.md, SHA-256 3cfe6a3ae320bdd683662d68180b3c5b0262dbd71f1d1efdefa98fe45c8cb7a7; persistent readback verified. See MECHANISM_INDEX.md for selection routes.

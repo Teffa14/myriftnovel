@@ -12,3 +12,6 @@ Ver CATALOG.tsv, CHAPTER_PROTOCOL.md, TECHNIQUES.md y fichas en works/. Registra
 
 ## Literary craft extension — AD-0017
 [LITERARY_CRAFT_REFERENCES.md](LITERARY_CRAFT_REFERENCES.md) records six workshop source locators and partial/provisional coverage; twelve candidate operations are in ../../02_STYLE_BIBLE/LITERARY_CRAFT_PROTOCOL.md. This expands literary research beyond competitive fiction without claiming complete reading, adding certified technique counts, or replacing NDM and CHAPTER_PROTOCOL. The original comparative exercises remain private.
+
+## Consolidated navigation
+CATALOG.tsv includes six provisional literary references (0 fully analyzed chapters each); LITERARY_CRAFT_REFERENCES.md retains workshop limits. MECHANISM_INDEX.md routes source-local mechanisms without claiming comprehensive semantic deduplication.

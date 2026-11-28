@@ -31,3 +31,6 @@ Closeout: only after explicit author approval distill exact final prose into abs
 
 ## Scope of integration
 This protocol operationalizes the recovered workshop; six reference records are partial/provisional, not full source distillations or a completed NDM analysis. No chapter, character state, plot, archive or publication changed by installing LCI. Its efficacy must be demonstrated in actual unapproved prose and reviewed under all existing gates. Continue authorized source research using CHAPTER_PROTOCOL.md and NDM, with edition, locator, access, coverage, evidence, abstraction, counterexample, original transfer and overlap review. Never reuse workshop lines verbatim or copy source-specific conceits.
+
+## Operational coverage
+Private workshop exact-byte copy restored at /The Last Draw - Private Archive/TLD_PRIVATE_LITERARY_WORKSHOP_v1.md; SHA-256 3cfe6a3ae320bdd683662d68180b3c5b0262dbd71f1d1efdefa98fe45c8cb7a7. Consult 08_CHAPTERS/PROTOCOL_REGISTRY.json, 08_CHAPTERS/PROTOCOL_COVERAGE_TEMPLATE.json and 01_RESEARCH/REFERENCE_LIBRARY/MECHANISM_INDEX.md. Workshop evidence remains provisional.

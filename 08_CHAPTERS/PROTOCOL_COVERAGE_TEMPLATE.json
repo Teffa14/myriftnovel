@@ -175,6 +175,13 @@
       "evidence_locator": null
     },
     {
+      "path": "01_RESEARCH/REFERENCE_LIBRARY/MECHANISM_INDEX.md",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
       "path": "01_RESEARCH/REFERENCE_LIBRARY/STATUS.md",
       "state": null,
       "reason": null,
@@ -287,14 +294,14 @@
       "evidence_locator": null
     },
     {
-      "path": "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
+      "path": "02_STYLE_BIBLE/ORIGINALITY/repetition_check.py",
       "state": null,
       "reason": null,
       "source_sha": null,
       "evidence_locator": null
     },
     {
-      "path": "02_STYLE_BIBLE/ORIGINALITY/repetition_check.py",
+      "path": "02_STYLE_BIBLE/ORIGINALITY/STATUS.json",
       "state": null,
       "reason": null,
       "source_sha": null,
@@ -434,6 +441,13 @@
       "evidence_locator": null
     },
     {
+      "path": "06_COMPETITIVE_ENGINE/autonomous_evidence.js",
+      "state": null,
+      "reason": null,
+      "source_sha": null,
+      "evidence_locator": null
+    },
+    {
       "path": "06_COMPETITIVE_ENGINE/AUTONOMOUS_PRODUCTION.md",
       "state": null,
       "reason": null,
@@ -498,13 +512,6 @@
     },
     {
       "path": "06_COMPETITIVE_ENGINE/SIMULATION.md",
-      "state": null,
-      "reason": null,
-      "source_sha": null,
-      "evidence_locator": null
-    },
-    {
-      "path": "06_COMPETITIVE_ENGINE/autonomous_evidence.js",
       "state": null,
       "reason": null,
       "source_sha": null,

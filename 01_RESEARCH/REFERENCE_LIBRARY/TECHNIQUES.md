@@ -4,3 +4,6 @@ T-001 — Demostrar habilidad antes de introducir una restricción externa. Fuen
 T-002 — Materializar el coste emocional mediante un objeto o gesto. Fuente TKA/CH001. Función: dar concreción a pérdida y contradicción interior. Prueba: sustituir explicación emocional redundante por elección observable. Contraejemplo: convertir cada carta en un símbolo melodramático.
 T-003 — Exponer reglas institucionales a través de intereses incompatibles. Fuente TKA/CH001. Función: explicar economía competitiva cuando afecta una decisión. Prueba: diálogo altera opciones reales del personaje. Contraejemplo: discursos enciclopédicos sin conflicto.
 Las demás técnicas del CORPUS.md son hipótesis de investigación, no hallazgos confirmados. Validar en otros capítulos y obras. Prohibido convertir las técnicas en plantillas de escenas idénticas.
+
+## Consolidated selection index
+MECHANISM_INDEX.md provides cross-library navigation; preserve T-001–003 and all original source-local IDs. LRF01–12 are provisional workshop operations, not independently certified unique techniques. Check source evidence, prior approved usage, overlap, constraints and counterexamples.
